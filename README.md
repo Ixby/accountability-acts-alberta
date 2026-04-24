@@ -149,7 +149,7 @@ Critique from legal drafters, constitutional scholars, Indigenous governance lea
 - **[costing.md](costing.md)** — $5M annual estimate defended with FTE breakdown, phase-in schedule, detailed scenario analysis of the three example cases, and comparison to peer Canadian oversight budgets.
 - **[moral-defence.md](moral-defence.md)** — Philosophical case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.
 - **[policy-recommendations.md](policy-recommendations.md)** — Recommended starting values for the thresholds and regulatory parameters the Act defers to regulation. Input to the first round of regulation-making.
-- **[facebook-teaser.md](facebook-teaser.md)** — Plain-text version for social media circulation.
+- **[social-media-post.md](social-media-post.md)** — Plain-text version for social media circulation.
 - **[CHANGELOG.md](CHANGELOG.md)** — Substantive changes across the drafting iterations.
 - **[LICENSE.md](LICENSE.md)** — Creative Commons Attribution-ShareAlike 4.0 International.
 

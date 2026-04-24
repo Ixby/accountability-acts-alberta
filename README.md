@@ -8,7 +8,7 @@
 - **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2, covering systemic privilege. Named-party legislation disclosure, proponent disclosure for regulatory approvals, concessional arrangement disclosure, ministerial exemption disclosure, Auditor General enforcement equity reporting.
 - **[costing.md](costing.md)** — $5M annual cost estimate defended with FTE breakdown, technology costs, phase-in schedule, scenario analysis of three recent Alberta cases, and comparison to peer Canadian oversight budgets.
 - **[moral-defence.md](moral-defence.md)** — Philosophical and formal case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.
-- **[facebook-teaser.txt](facebook-teaser.txt)** — Plain-text teaser for social media, drives traffic back here.
+- **[social-media-post.md](social-media-post.md)** — Plain-text teaser for social media, drives traffic back here.
 - **[CHANGELOG.md](CHANGELOG.md)** — Version history across the drafting iterations.
 - **[LICENSE](LICENSE)** — Creative Commons Attribution-ShareAlike 4.0 International.
 

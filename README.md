@@ -2,16 +2,6 @@
 
 *A drafted policy package for Alberta — two bills, costed, red-teamed, and built to bind whoever holds power.*
 
-## What's in this repository
-
-- **[bill-1-honest-government-act.md](bill-1-honest-government-act.md)** — Full drafted text of Bill 1, covering conduct of Ministers, senior officials, and MLAs. Graduated accountability ladder, ISC cross-reference, lobbying reform, whistleblower protection, proportional penalties, random audit, duty to document.
-- **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2, covering systemic privilege. Named-party legislation disclosure, proponent disclosure for regulatory approvals, concessional arrangement disclosure, ministerial exemption disclosure, Auditor General enforcement equity reporting.
-- **[costing.md](costing.md)** — $5M annual cost estimate defended with FTE breakdown, technology costs, phase-in schedule, scenario analysis of three recent Alberta cases, and comparison to peer Canadian oversight budgets.
-- **[moral-defence.md](moral-defence.md)** — Philosophical and formal case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.
-- **[social-media-post.md](social-media-post.md)** — Plain-text teaser for social media, drives traffic back here.
-- **[CHANGELOG.md](CHANGELOG.md)** — Version history across the drafting iterations.
-- **[LICENSE](LICENSE)** — Creative Commons Attribution-ShareAlike 4.0 International.
-
 ---
 
 Three recent Alberta decisions cost taxpayers roughly $140 million combined. None of them were "scandals" in the media sense.
@@ -88,8 +78,6 @@ Voters understand "waste" faster than they understand "oversight." That's the po
 
 Opponents will call it red tape. They'll call the Commissioner a Czar. They'll say ISC returns kill small business. Some of those arguments have surface appeal. None of them survive the ROI table.
 
-Full breakdown of the cost estimate, scenario analysis of what the regime would have caught in each of the three example cases, and comparison to peer Canadian oversight budgets is in [costing.md](costing.md).
-
 ---
 
 ## What makes this different
@@ -103,8 +91,6 @@ Most accountability legislation is written to win an election. This one is built
 **It defers to institutions.** Courts, criminal justice, the Assembly, and the Commissioner each handle what they already handle. This Act fills the gaps between them.
 
 **It goes after patterns of abuse, not every individual technical violation.** The real money in public corruption moves through entrenched systems of privilege where one well-placed decision can shift millions. That's where this points.
-
-The formal case for the regime, engaging objections from conservative, progressive, libertarian, and Indigenous perspectives, is in [moral-defence.md](moral-defence.md).
 
 ---
 
@@ -140,8 +126,35 @@ Ask your MLA — any party — whether they'd support it, and get an answer on t
 
 This is a policy draft ready for public debate. The section numbers against specific Alberta statutes need a legislative drafter's review before tabling.
 
+---
+
+## Feedback and engagement
+
+Serious critique, drafting corrections, missing provisions, and counter-arguments all welcome. This is a draft. It gets better when people engage with it.
+
+**Issues** — use the [Issues tab](../../issues) for specific provisions, section numbering errors, drafting problems, or concrete proposed changes. Name the section and state the issue.
+
+**Discussions** — use the [Discussions tab](../../discussions) for broader conversation about design choices, missing provisions, unresolved questions, or cross-cutting concerns that don't map to a single section.
+
+**Pull requests** — text improvements, typo fixes, and amendment drafts welcome. Fork, edit, submit.
+
+Critique from legal drafters, constitutional scholars, Indigenous governance leaders, public administration professionals, journalists, and affected public servants is particularly useful. Critique from anyone else is also welcome; expertise isn't a gatekeeping requirement.
+
+---
+
+## Deeper reading
+
+- **[bill-1-honest-government-act.md](bill-1-honest-government-act.md)** — Full drafted text of Bill 1. Lobbyists Act, Conflicts of Interest Act, Access to Information Act, Financial Administration Act, Recall Act, and Public Interest Disclosure Act amendments, plus common procedural provisions.
+- **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2. Named-party legislation, regulatory approvals, concessional arrangements, ministerial exemptions, and enforcement equity reporting.
+- **[costing.md](costing.md)** — $5M annual estimate defended with FTE breakdown, phase-in schedule, detailed scenario analysis of the three example cases, and comparison to peer Canadian oversight budgets.
+- **[moral-defence.md](moral-defence.md)** — Philosophical case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.
+- **[policy-recommendations.md](policy-recommendations.md)** — Recommended starting values for the thresholds and regulatory parameters the Act defers to regulation. Input to the first round of regulation-making.
+- **[facebook-teaser.md](facebook-teaser.md)** — Plain-text version for social media circulation.
+- **[CHANGELOG.md](CHANGELOG.md)** — Substantive changes across the drafting iterations.
+- **[LICENSE.md](LICENSE.md)** — Creative Commons Attribution-ShareAlike 4.0 International.
+
+---
+
 ## Licensing and reuse
 
-The package is released under [Creative Commons Attribution-ShareAlike 4.0](LICENSE). Any party, any advocacy group, any legislative drafter, any elected official — from any political party — is free to adapt, improve, table, or build on the material. The only conditions are attribution and that derivative work be released under the same license. The bills were drafted to be usable, not proprietary.
-
-Issues, pull requests, and serious critique welcome.
+The package is released under [Creative Commons Attribution-ShareAlike 4.0](LICENSE.md). Any party, any advocacy group, any legislative drafter, any elected official — from any political party — is free to adapt, improve, table, or build on the material. The only conditions are attribution and that derivative work be released under the same license. The bills were drafted to be usable, not proprietary.

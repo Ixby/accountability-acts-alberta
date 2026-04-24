@@ -1,20 +1,22 @@
 # Honest Government and Open Books: Two Bills Alberta Deserves
 
-*A drafted policy package for Alberta — two bills, costed, red-teamed, and built to bind whoever holds power.*
+*A drafted policy package — two bills with cost analysis, philosophical defence, and adversarial analysis of failure modes. Released to open a conversation, not to close one.*
 
 ---
 
-Three recent Alberta decisions cost taxpayers roughly $140 million combined. None of them were "scandals" in the media sense.
+Three recent Alberta decisions cost taxpayers somewhere in the range of $200 to $300 million combined, depending on what is counted. None of them were "scandals" in the media sense.
 
-**DynaLIFE lab services.** Alberta Health Services paid $31.5 million to buy back equipment and take over leases when privatized lab services failed in 2023.
+**DynaLIFE lab services.** Alberta Health Services paid $31.5 million in cash and assumed approximately $66 million in liabilities to take over operations when privatized lab services failed in 2023. The provincial Auditor General's November 2025 report estimated the total taxpayer cost at approximately $109 million.
 
-**Turkish children's Tylenol.** Alberta spent roughly $80 million to secure acetaminophen from Turkey during the 2022 shortage. Much of it sat restricted to hospital use. A significant portion was wasted or sold at loss.
+**Turkish children's Tylenol.** Alberta paid roughly $80 million to import acetaminophen from Turkey during the 2022 shortage, including $70 million for product and $10 million for shipping and administration. Health Canada ultimately approved only $21 million worth for use. Most of the supply remains unused in storage; the province has discussed sending it to Ukraine.
 
-**Canadian Energy Centre.** Roughly $30 million a year at peak, deliberately incorporated as a private corporation to sit outside Freedom of Information reach for years.
+**Canadian Energy Centre.** Initial annual budget of $30 million when launched in late 2019, reduced to roughly $12 million from 2020 onward. Deliberately incorporated as a private corporation specifically to sit outside Freedom of Information reach, as Premier Kenney's press secretary publicly acknowledged at the time. The agency was wound down in June 2024 with operations folded into the Intergovernmental Relations ministry. Lifetime taxpayer cost is estimated at $50 to $100 million depending on what is counted.
 
 These are the routine operational cost of a government whose accountability machinery doesn't reach the places where decisions actually get made. Procurement contracts, sole-source emergency purchases, corporate shells designed to avoid disclosure — none of it is captured by Alberta's current ethics, lobbying, and conflict-of-interest rules.
 
-A few weeks ago I saw a meme promising new accountability legislation. Six bullet points in a campaign graphic. Nobody was asking what the actual bill would look like, so I drafted it — then red-teamed it, costed it, and built it to bind whoever holds power regardless of which party wins the next election.
+A few weeks ago I saw a meme promising new accountability legislation. Six bullet points in a campaign graphic. Nobody was asking what the actual bill would look like, so I drafted it — then costed it, defended it philosophically, ran an adversarial analysis on the failure modes, and built it to bind whoever holds power regardless of which party wins the next election.
+
+This is the opening of a conversation. The drafting reflects one drafter's best work. It will benefit from external review, critique, and contribution, and several specific items (constitutional review, Indigenous co-development, fiscal validation) require that work before any tabling.
 
 Two bills. One addresses executive conduct. One addresses systemic privilege.
 
@@ -62,35 +64,39 @@ Systemic privilege — the state's power to hand out advantage through legislati
 
 ## The cost case
 
-The regime costs roughly $5 million a year at steady state. One one-hundredth of one percent of the provincial budget.
+A regime of this scope would cost something to run. The question is whether that cost is large or small relative to what it might prevent.
 
-Applied to the three cases above:
+The drafter's estimate is that the regime would cost roughly $5 million per year at steady state — about one one-hundredth of one percent of the provincial budget. The estimate is set out in detail in [costing.md](costing.md), with FTE breakdowns and comparison to peer Canadian oversight offices. The figure is a drafter's estimate, not external fiscal validation.
 
-| Case | Cost to taxpayers | Annual regime cost | Net if prevented |
-|---|---|---|---|
-| DynaLIFE buyout | $31.5M | $5M | $26.5M |
-| Turkish Tylenol | $80M | $5M | $75M |
-| War Room (one year) | $30M | $5M | $25M |
+Set against the three cases above:
 
-Any single one of these ran 5 to 16 times the annual cost of the entire accountability regime.
+| Case | Estimated cost to taxpayers | Annual cost of proposed regime |
+|---|---|---|
+| DynaLIFE buyout | up to $109M (AG estimate) | ~$5M |
+| Turkish Tylenol | $80M | ~$5M |
+| Canadian Energy Centre (lifetime) | estimated $50–100M | ~$5M |
 
-Voters understand "waste" faster than they understand "oversight." That's the political reality. The conversion move is to treat oversight as deductible logic: pay a predictable $5 million a year to avoid unpredictable $80 million hits.
+Each of these single events ran 10 to 20 times the annual cost of the proposed regime. Whether the regime would have prevented any of them is a counterfactual question, and counterfactuals are uncertain. The honest claim is more modest: a regime of this kind creates conditions under which decisions of this size face scrutiny at the point they're made, rather than years later through buybacks or leaked documents.
 
-Opponents will call it red tape. They'll call the Commissioner a Czar. They'll say ISC returns kill small business. Some of those arguments have surface appeal. None of them survive the ROI table.
+Voters tend to recognize "waste" faster than "oversight." One framing some have suggested is to treat oversight as deductible logic — a predictable annual premium against unpredictable scandal exposure. Whether that framing is persuasive is for readers to judge.
+
+Opponents will call the regime red tape, will object to the Commissioner's authority, will say ISC returns kill small business. Some of those arguments have substance. The responses are in [costing.md](costing.md), [moral-defence.md](moral-defence.md), and [red-team.md](red-team.md). Readers should test those responses against their own scrutiny.
 
 ---
 
-## What makes this different
+## What this regime tries to do differently
 
-Most accountability legislation is written to win an election. This one is built to keep working after the headline fades.
+Most accountability legislation is written to produce a moment — an announcement, a press conference, a campaign promise kept. This package was drafted with the harder problem in mind: what would have to be true for a regime to keep working after the headline fades. Whether the design actually achieves that is a question for operation, not drafting. The drafter's intent is set out below.
 
-**It binds whoever holds power.** No loaded gun for the next cycle. Whichever party governs after 2027 is bound by it.
+**It tries to bind whoever holds power.** Provisions are designed to apply uniformly regardless of which party governs. Whether they survive motivated subversion under any particular government is empirical. The structural protections — random audit with verifiable randomness, court confirmation for large penalties, Assembly disallowance of regulations — raise the cost of subversion without making it impossible.
 
-**It protects good-faith public servants.** Junior staff doing their jobs, volunteer community board members, records officers without decision authority — none of them is the target of this regime, and the protections are written in.
+**It tries to protect good-faith public servants.** Junior staff, volunteer community board members, and records officers without decision authority are explicitly carved out or scaled down in §25 and §26. Whether the protections operate as intended in practice depends on Commissioner discretion and case-by-case judgment.
 
-**It defers to institutions.** Courts, criminal justice, the Assembly, and the Commissioner each handle what they already handle. This Act fills the gaps between them.
+**It tries to defer to existing institutions.** Courts handle civil and criminal matters. The Assembly handles electoral consequences. The Commissioner investigates and reports. The design fills gaps between these rather than displacing them. The McIver parliamentary privilege precedent (discussed in [red-team.md](red-team.md)) raises real questions about whether court confirmation against MLAs operates as intended.
 
-**It goes after patterns of abuse, not every individual technical violation.** The real money in public corruption moves through entrenched systems of privilege where one well-placed decision can shift millions. That's where this points.
+**It tries to point at patterns of abuse rather than every individual technical violation.** The largest transfers of value happen through entrenched systems of privilege where one well-placed decision can shift millions. That's the design target. Whether the regime hits it depends on Commissioner and Auditor General priority-setting, both of which involve discretion the regime can't fully constrain.
+
+**What this isn't, yet.** The package is a serious draft with internal cost estimation, philosophical defence, structural design intended to bind whoever holds power, and adversarial analysis of failure modes. It hasn't been through external constitutional review, independent fiscal validation, Indigenous co-development, or operational stress testing. The structural safeguards are designed for the hostile-government case but haven't been tested against motivated subversion in real operating conditions. [red-team.md](red-team.md) walks through the failure modes the design has to survive, with mitigations identified and residual risks named honestly. This is the opening of a conversation, not the conclusion of one.
 
 ---
 
@@ -148,6 +154,7 @@ Critique from legal drafters, constitutional scholars, Indigenous governance lea
 - **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2. Named-party legislation, regulatory approvals, concessional arrangements, ministerial exemptions, and enforcement equity reporting.
 - **[costing.md](costing.md)** — $5M annual estimate defended with FTE breakdown, phase-in schedule, detailed scenario analysis of the three example cases, and comparison to peer Canadian oversight budgets.
 - **[moral-defence.md](moral-defence.md)** — Philosophical case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.
+- **[red-team.md](red-team.md)** — Adversarial analysis of failure modes. Walks through how Canadian and international accountability regimes have actually failed, what the proposed regime does to address each pattern, and what residual risk remains. Names where the design needs external scrutiny.
 - **[policy-recommendations.md](policy-recommendations.md)** — Recommended starting values for the thresholds and regulatory parameters the Act defers to regulation. Input to the first round of regulation-making.
 - **[social-media-post.md](social-media-post.md)** — Plain-text version for social media circulation.
 - **[CHANGELOG.md](CHANGELOG.md)** — Substantive changes across the drafting iterations.

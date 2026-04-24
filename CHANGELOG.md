@@ -4,6 +4,16 @@ Version history for the Honest Government and Open Books Acts drafting package.
 
 Entries below mark substantive changes to the legislation. Intermediate editorial passes are not listed.
 
+## v1.10
+
+No substantive changes to the legislation. Companion documents revised for factual accuracy and confidence framing after a verification pass against external sources.
+
+- README, social-media-post: scandal cost figures corrected. DynaLIFE updated to reflect $31.5M cash plus ~$66M assumed liabilities and the Auditor General's November 2025 estimate of approximately $109M total taxpayer cost. Turkish Tylenol corrected to clarify Health Canada only approved $21M worth of the $80M total, with most supply remaining in storage. Canadian Energy Centre corrected to clarify $30M was the initial budget (cut to ~$12M from 2020 onward), with the agency wound down June 2024 and lifetime cost estimated at $50–100M.
+- README cost case table: removed "Net if prevented" column that overclaimed counterfactual prevention. Replaced with side-by-side cost comparison; the prevention claim is now explicitly counterfactual and uncertain in surrounding text.
+- README "What makes this different" → "What this regime tries to do differently": reframed throughout to distinguish design intent from accomplished fact.
+- README opening paragraph: added explicit "this is the opening of a conversation" framing and acknowledgement that external review is required for several specific items before tabling.
+- Tagline: "two bills, costed, defended, and built to bind whoever holds power" → "two bills with cost analysis, philosophical defence, and adversarial analysis of failure modes. Released to open a conversation, not to close one."
+
 ## v1.9
 
 - §28 consolidated: former subsections (5) and (5A) merged into a single Assembly oversight provision covering tabling, disallowance, ongoing amendment authority, and annual reporting.
@@ -77,10 +87,30 @@ Bill 2 coverage:
 
 ## Companion documents
 
+### costing.md v1.1
+
+Sources and confidence section added upfront distinguishing empirically verified figures, drafter's estimates, and counterfactual scenario estimates. Scandal cost figures corrected against Auditor General report (DynaLIFE) and contemporary reporting. Scenario savings ranges adjusted with explicit confidence ratings (low to moderate, moderate to high). "Pays for itself" framing removed. Peer jurisdiction budget figures softened to ranges with explicit acknowledgement that they are approximate and that the Alberta proposal's per-capita rate is somewhat higher than peers — a difference attributed to broader scope but flagged for external review rather than asserted as justified.
+
 ### costing.md v1.0
 
 FTE breakdown across oversight offices. Technology and infrastructure costs. Phase-in schedule. Scenario analysis of three recent Alberta cases against the proposed regime. Comparison to peer Canadian oversight budgets.
 
+### moral-defence.md v1.1
+
+Note on philosophical sources added — references to Burke, Mill, and others framed as general characterizations rather than specific quotations. Proportional penalty argument softened from "any of the main theories of justice" to "defenders within several major theories." Closing claim about Albertan opinion ("Most Albertans across the political spectrum would endorse them in principle") softened to "the empirical question this package opens rather than answers."
+
 ### moral-defence.md v1.0
 
 Central claim: accountability is a condition of legitimate government. Engages objections from state-overreach, chilling-effects, corruption-vs-patronage, criminalization, proportionality, institutional humility, partisan neutrality, good-faith defense, and Indigenous sovereignty perspectives.
+
+### red-team.md v1.1
+
+Sources and confidence section added. SNC-Lavalin "nine witnesses" detail clarified — nine of twenty witnesses had constrained testimony due to Cabinet confidence; Privy Council Clerk Ian Shugart denied Dion's waiver request. §13 amendment effect on future SNC-Lavalin-style cases softened — narrows the available shield without eliminating it. Comparative claim that the regime is "meaningfully better than" other Canadian regimes softened to "addresses several gaps that have undermined comparable Canadian regimes" with explicit acknowledgement that whether it improves outcomes is empirical and uncertain.
+
+### red-team.md v1.0
+
+Adversarial analysis of failure modes drawn from documented Canadian and international experience. Empirical baseline covers SNC-Lavalin, Aga Khan, McIver, Smith-Pawlowski, Hinshaw, Trudeau-Trudeau-2, Trussler-Redford, federal Lobbying Act review failures, PSDPA whistleblower regime collapse, and Public Sector Integrity Commissioner resource starvation. Twelve failure mode categories analyzed against proposed regime provisions with residual risk named. Four motivated-actor scenarios traced through regime defenses. Top ten residual risks ranked by severity with hardening recommendations.
+
+### policy-recommendations.md v1.0
+
+Recommended starting values for regulatory parameters deferred to regulation under §28. Covers thresholds, percentages, sample sizes, materiality cutoffs, phased introduction multipliers, and enforcement equity scope. Identifies implementation priorities for year 1 and year 2 regulation-making, plus items requiring further policy development before regulations are drafted.

@@ -2,13 +2,25 @@
 
 *Companion document to the drafted legislation.*
 
+## Sources and confidence
+
+The figures in this document fall into three categories.
+
+**Empirically verified** are the scandal cost figures (DynaLIFE, Turkish acetaminophen, Canadian Energy Centre) — drawn from CBC, Globe and Mail, Auditor General reports, and government documents, with sources retrievable through public reporting in 2023 to 2025.
+
+**Drafter's estimate** is the $5 million annual steady-state cost figure. The breakdown by FTE, technology, and operational category is the drafter's best assessment based on per-FTE loaded cost estimates from Alberta government salary scales, comparison to peer Canadian oversight offices, and projection of caseload requirements. It has not been validated by Treasury Board officials, fiscal analysts, or operational experts in any of the affected offices. A serious tabling of these bills would require independent fiscal validation; the figure here is a starting point for that conversation, not its conclusion.
+
+**Counterfactual estimates** are the scenario savings figures for what the regime might have changed in the three example cases. These are inherently speculative — they describe what the drafter believes a working regime would have done at decision points where political and operational pressure was running in another direction. The confidence labels (high, moderate) reflect the drafter's judgment about how directly the regime's structural provisions match the failure mode in each case. Reasonable analysts could disagree.
+
+Peer jurisdiction budget figures are drawn from publicly available annual reports and federal Treasury Board records. Where a specific dollar figure is given, it is the most recent fiscal year for which information was readily available; budget figures change annually and the comparison is approximate rather than precise.
+
 ## Summary
 
-The combined regime under Bill 1 (Honest Government Act) and Bill 2 (Open Books Act) would cost roughly **$5 million per year at steady state**, achieved by year five of operation. First-year setup costs run higher due to technology build and ramp-up staffing — approximately $3 million in operational spend plus $1.5 million in one-time capital.
+The combined regime under Bill 1 (Honest Government Act) and Bill 2 (Open Books Act) is estimated by the drafter to cost roughly **$5 million per year at steady state**, achieved by year five of operation. First-year setup costs run higher due to technology build and ramp-up staffing — approximately $3 million in operational spend plus $1.5 million in one-time capital.
 
-Against this, scenario analysis of three recent Alberta cases — DynaLIFE, Turkish Tylenol, and the Canadian Energy Centre — suggests that any single prevention event would return 5 to 16 times the regime's annual operating cost. Over a five-year window, risk-adjusted savings conservatively estimated at $40 to $75 million against $25 million cumulative cost.
+Against this, scenario analysis of three recent Alberta cases — DynaLIFE, Turkish Tylenol, and the Canadian Energy Centre — suggests that, under conservative counterfactual assumptions, the regime might have changed outcomes by amounts that would substantially exceed its operating cost. The "might have" matters: the analysis describes structural conditions the regime creates, not guaranteed outcomes.
 
-The $5 million figure is validated against peer Canadian oversight budgets. Ontario's Integrity Commissioner office runs roughly $5 to $6 million annually for a population about 3.5 times Alberta's. Federal lobbying and ethics oversight combined runs roughly $13 million for a population 9 times Alberta's. Alberta's proposed spend is in the middle of the per-capita range and below the federal rate.
+The $5 million figure is in the same range as comparable Canadian oversight bodies on a population-adjusted basis, though somewhat higher per-capita than peer provincial regimes — a difference attributable to the proposed regime's broader scope.
 
 ## Cost breakdown
 
@@ -84,81 +96,90 @@ Total training/guidance: $350,000 to $550,000 annually.
 
 For each of three recent Alberta cases, the analysis identifies which provisions of the bills would have engaged, at what stage, and with what likely outcome. These are counterfactuals, not guarantees — the bills do not automatically prevent every bad decision. They create the conditions under which such decisions face scrutiny at the point of decision rather than years later through FOIP requests or buyback payments.
 
-### DynaLIFE lab services — $31.5M buyback
+### DynaLIFE lab services
 
-**Original cost:** $31.5 million to buy back equipment and take over leases when the privatization of Alberta Health Services lab services failed in 2023. Excludes operational disruption and the original transition cost.
+**Costs to taxpayers:** $31.5 million in cash plus approximately $66 million in assumed liabilities for the 2023 buyback. The Auditor General's November 2025 report estimated total taxpayer cost at approximately $109 million when sunk costs from the broader privatization effort are included. The AG report identified destruction of evidence and obstruction of his investigation by AHS and the province.
 
 **Provisions engaged under the proposed regime:**
 
 - Bill 1 §15 (ISC disclosure for contracts above threshold): DynaLIFE would file ISC returns. Cross-reference against EFCDA contributions registry under §15(2) would flag any ISC political contributions above the match threshold within 48 months of the contract award.
 - Bill 2 Part 4 (concessional arrangements): Any guarantees, exit clauses, or buyback commitments constituting a concessional arrangement to DynaLIFE would require a Concessional Arrangement Disclosure within 30 days of execution, including reasons.
-- Bill 2 Part 3 (regulatory approvals): If AHS lab privatization involved regulatory approval, a Proponent Disclosure Record would be published.
+- Bill 1 §14A (duty to document): The AG explicitly identified destruction of evidence and minimal records of key decision-making. §14A would have required documentation of the procurement decisions and the basis for them.
 
-**Counterfactual:** The bills do not prevent the lab privatization. They create pressure at the contract-signing stage. Public disclosure of ISC-contribution connections before signing creates political cost for any decision that optics-wise appears favour-driven. Disclosure of buyback commitments with written reasons — specifically the question "why is the province agreeing to buy back equipment from a failed private operator on these terms?" — forces explicit defense of the deal structure.
+**Counterfactual:** The bills do not prevent the lab privatization. They create pressure at the contract-signing stage and at each subsequent decision point. Public disclosure of decision rationale at the time of decision creates political cost for any decision that lacks substantive justification.
 
-**Conservative savings estimate:** Deal restructured to reduce buyback exposure by $10 to $20 million. The full $31.5 million buyback is difficult to eliminate entirely because some buyback was likely unavoidable given AHS lab restart requirements.
+**Estimated savings range:** $10 to $30 million reduction in buyback exposure under conservative assumptions. The full $109 million loss is difficult to fully eliminate because some buyback was likely unavoidable given AHS lab restart requirements once DynaLIFE's insolvency was confirmed. The estimate reflects the drafter's judgment about how disclosure pressure would have shaped earlier decision points; reasonable analysts could disagree.
 
-### Turkish children's Tylenol — $80M procurement
+**Confidence:** Low to moderate. The provisions clearly engage at relevant decision points; whether the resulting transparency would have changed political behavior is the uncertain part.
 
-**Original cost:** Approximately $80 million on acetaminophen from Turkey during the 2022 shortage, with much of the supply sitting restricted to hospital use and a significant portion wasted or sold at loss.
+### Turkish children's Tylenol
+
+**Costs to taxpayers:** Approximately $80 million for the Atabay procurement deal — $70 million for product, $10 million for shipping, waste disposal, and administration. Health Canada ultimately approved only 1.5 million bottles (approximately $21 million worth) for distribution. Most of the supply remains in storage. The province has discussed sending unused stock to Ukraine.
 
 **Provisions engaged under the proposed regime:**
 
-- Bill 2 Part 5 (ministerial individual exemptions): A sole-source emergency procurement at this value would likely involve ministerial authority to bypass normal procurement processes. Ministerial Individual Exemption Disclosure required within 30 days (or 30 days after emergency ends), including reasons, estimated value, and pattern of exemptions over the preceding 24 months.
-- Bill 1 §27 (random audit program): Non-zero probability of selection for audit given high dollar value and sole-source nature. Annual sample size 2 to 5 percent of stratified populations, including contracts above threshold within 48 months.
-- Bill 1 §14A (duty to document): Procurement decisions, including emergency decisions, must be documented. The factual basis for the decision, including usage assumptions and distribution restrictions, becomes a required record.
+- Bill 2 Part 5 (ministerial individual exemptions): The procurement was authorized by ministerial order on December 1, 2022, bypassing normal procurement processes. Ministerial Individual Exemption Disclosure required within 30 days (or 30 days after emergency ends), including reasons, estimated value, and pattern of exemptions over the preceding 24 months.
+- Bill 1 §27 (random audit program): Non-zero probability of selection for audit given high dollar value and sole-source nature.
+- Bill 1 §14A (duty to document): Procurement decisions, including emergency decisions, must be documented. The factual basis for the decision, including usage assumptions and concentration specifications, becomes a required record.
+- Bill 1 §15 (ISC disclosure): MHCare Medical, the Canadian intermediary that brokered the deal, would file ISC returns subject to §15(2) cross-reference.
 
-**Counterfactual:** The emergency nature of the purchase is real and the bills accommodate emergency action. What changes is that the decision rationale becomes public within 30 days of the emergency ending, with the Minister responsible answerable for the specific decisions made. Documented questions — why is this restricted to hospital use given the shortage is affecting families, why are we buying at this volume, what are the usability specifications — become answerable at the time the decision is made rather than years later. Improved documentation pressure likely leads to better usability specifications and reduced waste.
+**Counterfactual:** The emergency nature of the purchase is real and the bills accommodate emergency action. What changes is that the decision rationale becomes public within 30 days of the emergency ending, with the Minister responsible answerable for the specific decisions made — minimum order of 5 million bottles, $14 per bottle premium pricing, lower-concentration formulation requiring additional pharmacist education. Documented questions become answerable at the time the decision is made rather than years later.
 
-**Conservative savings estimate:** $30 to $50 million reduction in waste. The $80 million purchase itself might still occur given genuine shortage urgency; the waste of non-usable medicine is reducible with earlier scrutiny of the specifications.
+**Estimated savings range:** $20 to $40 million reduction in waste under conservative assumptions. The $80 million purchase itself might still occur given genuine shortage urgency; the unused inventory is the reducible component. The estimate reflects the drafter's judgment that earlier scrutiny of formulation specifications and order quantity would have produced a smaller, more usable order.
 
-### Canadian Energy Centre — $30M per year
+**Confidence:** Low to moderate. The provisions clearly engage; whether the disclosure pressure would have changed the procurement structure under emergency conditions is uncertain.
 
-**Original cost:** Approximately $30 million per year at peak, structured as a private corporation specifically to sit outside Freedom of Information and Protection of Privacy Act coverage for several years.
+### Canadian Energy Centre
+
+**Costs to taxpayers:** Initial annual budget of $30 million when launched in late 2019. Reduced to roughly $12 million from 2020 onward in response to COVID-related budget cuts. The agency operated through June 2024 when it was wound down and its functions moved to the Intergovernmental Relations Ministry. Lifetime taxpayer cost is estimated at $50 to $100 million depending on what is counted, including a $22 million media campaign contract in 2022-23. Premier Kenney's press secretary explicitly stated at the time of incorporation that the private corporation structure was chosen to keep the agency outside Freedom of Information reach.
 
 **Provisions engaged under the proposed regime:**
 
 - Bill 1 §13 (Cabinet confidences amendment): Factual, statistical, and operational data provided to Cabinet cannot be withheld under Cabinet confidence. Treasury Board decision summaries recording final decisions must be proactively disclosed within 180 days. Ministerial mandate letters must be disclosed at the end of the parliamentary session or within 18 months.
-- Bill 2 Part 4 (concessional arrangements): Initial funding and any ongoing concessional funding to the CEC would require Concessional Arrangement Disclosure with reasons, including why the recipient was selected and what public interest is served.
+- Bill 2 Part 4 (concessional arrangements): Initial funding and any ongoing concessional funding to the CEC would require Concessional Arrangement Disclosure with reasons.
 - Bill 2 Part 6 (enforcement equity): Operations of the CEC scrutinized under the Auditor General's enforcement equity framework.
 
-**Counterfactual:** The private corporation structure designed to avoid FOIP would no longer work. The §13 amendment pierces the Cabinet-confidence and private-corporation veils for factual and operational data. Public access to the CEC's activities, budget, and communications outputs becomes legally enforceable. Public scrutiny likely constrains budget growth and forces justification of activities that currently operate without external accountability.
+**Counterfactual:** This is the case where the proposed regime most directly addresses the failure mode. The private corporation structure designed to avoid FOIP would no longer work, because §13 pierces the Cabinet-confidence and private-corporation veils for factual and operational data. Public access to the CEC's activities, budget, and communications outputs becomes legally enforceable. Whether public scrutiny would have constrained budget growth or changed the agency's mandate is harder to predict — public scrutiny doesn't always produce restraint.
 
-**Conservative savings estimate:** $40 to $80 million cumulative over the operational period through reduced budget, improved focus on activities that can withstand scrutiny, or accelerated wind-down. Alternatively: the entity would not have been created in its current form because the "private corporation" advantage of avoiding FOIP no longer existed.
+**Estimated savings range:** $20 to $50 million cumulative over the agency's operational period under conservative assumptions, through reduced budget growth, improved focus on activities that can withstand scrutiny, or accelerated wind-down. Alternatively, the entity might not have been created in its specific private-corporation form because the FOIP-avoidance advantage no longer existed.
+
+**Confidence:** Moderate to high — the §13 amendment is a direct structural response to the precise mechanism that made the CEC's FOIP-avoidance possible. The savings figure is more uncertain than the structural fit.
 
 ### Aggregate scenario analysis
 
-Three example cases, risk-adjusted savings estimates:
+Three example cases, drafter's estimated savings ranges:
 
-| Case | Original cost | Est. savings | Confidence |
+| Case | Estimated cost to taxpayers | Drafter's estimated savings range | Confidence |
 |---|---|---|---|
-| DynaLIFE buyout | $31.5M | $10–20M | Moderate |
-| Turkish Tylenol | $80M | $30–50M | Moderate |
-| War Room | $30M/year | $40–80M cumulative | High |
+| DynaLIFE | up to $109M (AG estimate) | $10–30M | Low to moderate |
+| Turkish Tylenol | $80M | $20–40M | Low to moderate |
+| Canadian Energy Centre | $50–100M lifetime estimated | $20–50M | Moderate to high |
 
-Five-year regime cost: roughly $25 million cumulative (year-one ramp-up plus steady state).
+Five-year regime cost: approximately $25 million cumulative (year-one ramp-up plus four years of steady state).
 
-Five-year captured savings at midpoint of ranges: approximately $60 million.
+Five-year captured savings at midpoint of ranges: approximately $50 to $80 million.
 
-Net positive return: $35 million over five years, not counting cases not analyzed. The three cases are illustrative; the actual record of Alberta procurement decisions, concessional arrangements, and regulatory approvals over a five-year period contains many more decisions the regime would reach.
+Net positive return under midpoint assumptions: $25 to $55 million over five years. The estimate carries substantial uncertainty in both directions. Reasonable analysts could conclude the savings are smaller (or non-existent if the regime fails to operate as intended), or larger (if multiple events in any five-year window triggered prevention). The case is more about structural conditions the regime creates than about specific dollar prediction.
 
 ## Comparison to peer jurisdictions
 
-Canadian oversight offices with comparable mandates:
+The figures below are approximate, drawn from publicly available annual reports and Treasury Board records. They should be read as orders of magnitude rather than precise comparisons; budgets vary year over year and the offices have different mandates that make direct comparison imperfect.
 
-**Ontario Integrity Commissioner:** approximately $5 to $6 million annual operating budget serving a population of roughly 15 million. Covers lobbyist registration, member and public servant ethics, expense review, and whistleblower protection.
+**Ontario Integrity Commissioner:** roughly $5 to $7 million annual operating budget for an office covering a population of approximately 15 million. The Ontario office has seven distinct mandates including lobbyist registration, member and public servant ethics, expense review, and whistleblower protection — a broader scope than most other provincial offices.
 
-**Office of the Commissioner of Lobbying (federal):** approximately $5 million annual budget serving a national population of 40 million. Narrower mandate than the Alberta proposal.
+**Office of the Commissioner of Lobbying (federal):** in the range of $4 to $6 million annual budget for a national population of approximately 40 million. Mandate is narrower than the Alberta proposal — limited to lobbying registration and code of conduct.
 
-**Conflict of Interest and Ethics Commissioner (federal):** approximately $8 million annual. Covers federal officeholder ethics.
+**Conflict of Interest and Ethics Commissioner (federal):** in the range of $7 to $9 million annual. Covers federal office holder ethics. Has been operating with a vacancy in the principal commissioner role for extended periods, which complicates comparison.
 
-**BC Office of the Conflict of Interest Commissioner:** approximately $2.5 million annual serving 5 million population. Narrower scope than the Alberta proposal.
+**Public Sector Integrity Commissioner (federal):** approximately $5 to $6 million annual budget. Currently operating in declared crisis with 161 files on hold and a request to roughly double the budget pending. The office has not had a budget increase since its 2007 creation despite significant caseload growth.
 
-**Saskatchewan Conflict of Interest Commissioner:** approximately $500,000 annual serving 1.2 million population. Very narrow scope.
+**BC Office of the Conflict of Interest Commissioner:** approximately $2 to $3 million annual for a population of approximately 5 million. Narrower scope than the Alberta proposal.
 
-On a per-capita basis, Ontario's oversight spend is approximately $0.35 per person. Federal combined ethics and lobbying oversight: approximately $0.33 per person. Alberta's proposed $5 million for 4.7 million population works out to approximately $1.06 per person — higher than peer jurisdictions but justified by the broader scope of the combined Bill 1 and Bill 2 regime.
+**Saskatchewan Conflict of Interest Commissioner:** approximately $400,000 to $600,000 annual for a population of approximately 1.2 million. Very narrow mandate.
 
-The higher per-capita cost reflects the regime's substantive expansion beyond existing Canadian oversight practice: proportional penalty framework, random audit program with verifiable randomness, beneficial ownership determination, enforcement equity reporting, named-party legislation disclosure, concessional arrangement disclosure, and duty to document. Each of these is an addition to the scope of traditional ethics oversight.
+On a rough per-capita basis, Ontario's per-person oversight spending appears to be in the range of $0.30 to $0.45. Federal ethics and lobbying oversight combined is roughly $0.30 to $0.40 per person. The Alberta proposal at $5 million for 4.7 million people works out to approximately $1.00 to $1.10 per person — somewhat higher than peer per-capita rates.
+
+The higher per-capita figure reflects the regime's substantive expansion beyond existing Canadian oversight practice: proportional penalty framework, random audit program with verifiable randomness, beneficial ownership determination, enforcement equity reporting, named-party legislation disclosure, concessional arrangement disclosure, and duty to document. Each is an addition to traditional ethics oversight scope. Whether the broader scope justifies the higher per-capita cost is a question external review should address; the case is not closed by drafter assertion.
 
 ## Risk factors and uncertainties
 
@@ -174,6 +195,10 @@ The higher per-capita cost reflects the regime's substantive expansion beyond ex
 
 ## Conclusion
 
-The $5 million annual steady-state cost is defensible as a midpoint of a $3 to $6 million operational range. Early-year scenario analysis suggests the regime pays for itself within the first prevention event, with a reasonable expectation of multiple prevention events over any five-year window given the breadth of decisions the regime reaches. Comparison to peer Canadian jurisdictions validates the cost scale, with the higher per-capita rate explained by the regime's substantive expansion beyond existing Canadian oversight practice.
+The $5 million annual steady-state estimate is the drafter's midpoint of a $3 to $6 million operational range. The scenario analysis suggests that, under conservative counterfactual assumptions, the regime could be cost-justified by a single prevention event of the scale Alberta has experienced in recent years. Whether prevention actually materializes in operation is a separate question; the analysis here describes structural conditions, not guaranteed outcomes.
 
-The cost argument most likely to be made against the regime is that it constitutes "new bureaucracy." The accurate response is that it constitutes insurance against the kind of scandals that have recently cost Alberta tens to hundreds of millions of dollars individually. The deductible math — a predictable $5 million annual premium against unpredictable $30 million to $80 million scandal costs — is the argument that lands.
+Comparison to peer Canadian jurisdictions places the cost scale in the same range as comparable oversight bodies, with a higher per-capita rate explained by the regime's substantive expansion beyond traditional Canadian oversight practice.
+
+The cost argument most likely to be made against the regime is that it constitutes "new bureaucracy." A more honest framing is that it constitutes a deliberate insurance premium — a predictable annual cost set against unpredictable scandal exposure. The deductible math is suggestive but not dispositive. A reader genuinely opposed to the regime could reasonably reject the counterfactual savings estimates while accepting the operational cost figures, and conclude the cost-benefit case is unproven.
+
+A serious tabling of these bills would benefit from independent fiscal validation by the Treasury Board Secretariat or comparable analysis. The figures here are the drafter's best work; they are a starting point for that conversation rather than its conclusion.

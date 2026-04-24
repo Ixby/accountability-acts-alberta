@@ -8,6 +8,12 @@ Every objection to accountability legislation has a version that deserves a seri
 
 It is not a political defence of any particular government or opposition. The regime is designed to bind whoever holds power, and its moral case doesn't depend on who's currently in office. It is also not a comprehensive philosophical treatise. It's a working document for anyone who has to defend the design against skepticism — in committee testimony, media interviews, caucus meetings, or private conversations with thoughtful critics.
 
+## A note on philosophical sources
+
+The arguments here draw on philosophical traditions including Burke's account of political office as trust, Mill's defence of publicity as a condition of legitimate authority, Rawlsian fairness reasoning, and elements of utilitarian and retributive theories of just punishment. References to these traditions are general characterizations rather than specific quotations; readers wanting to engage the source material should go to it directly rather than treating this document's framing as authoritative.
+
+The moral case here is one drafter's attempt to articulate why a regime of this kind is defensible across multiple ways of thinking about justice and political legitimacy. It does not claim philosophical consensus on every point; it claims that the design has serious defenders within several traditions and that the most-likely objections have answers worth taking seriously.
+
 ## The central claim
 
 Accountability is not opposed to effective government. It is a condition of legitimate government.
@@ -76,7 +82,7 @@ The objection rests on a conception of equality under law that requires identica
 
 The regime scales penalties to capacity — from compensation, revenue, or assets — so that the deterrent effect is roughly constant across people of different wealth. A minister with multi-million-dollar assets who commits a serious violation faces a penalty calibrated to their actual capacity. A junior staffer who commits the same violation faces a penalty calibrated to theirs. Neither faces ruin. Neither escapes consequence.
 
-This design is philosophically defensible under any of the main theories of justice. Utilitarian calculation favours proportionality because it achieves equal marginal deterrence. Rawlsian fairness favours it because the worst-off are not arbitrarily punished. Retributive accounts favour it because the harm done by wrongful conduct is measured relative to the actor's capacity to understand and control the conduct. The only conception of justice that insists on identical-dollar treatment is one that treats money as morally neutral regardless of who has it — a position that doesn't survive serious examination.
+This design has defenders within several major theories of justice. Utilitarian calculation tends to favour proportionality because it achieves more even marginal deterrence across people of different means. Rawlsian fairness-oriented accounts tend to favour it because the worst-off are not arbitrarily ruined by penalties calibrated for those of substantial means. Some retributive accounts also favour it, on the grounds that the harm done by wrongful conduct is meaningfully measured relative to the actor's capacity to understand and control the conduct, not in fixed dollars. None of this amounts to philosophical consensus — there are sophisticated defenders of strict identical-dollar equality, and the proportional design has critics from multiple traditions. The claim is more modest: proportionality is a defensible position within several traditions of justice, not an obvious truth that closes debate.
 
 The practical protection against abuse is the court confirmation requirement for large penalties under §22(5). The Commissioner cannot impose catastrophic penalties by administrative fiat. The Court of King's Bench reviews for reasonableness and procedural fairness, with the respondent able to raise the good-faith defense and to consolidate review into a single merits hearing.
 
@@ -128,10 +134,10 @@ These principles do not resolve every question the framework raises — question
 
 An accountability regime is, among other things, a statement of what a political community expects from its government.
 
-The Honest Government and Open Books Acts state that Alberta expects government conduct to be explainable in public; that public money and public authority flow through decisions that are accountable to the public; that power earns legitimacy by showing its working; that the poor are not targets of accountability and the wealthy are not exempt from it; that good faith is presumed and demonstrable; that Indigenous governments are sovereign; that oversight binds whoever holds power.
+The Honest Government and Open Books Acts state that Alberta's government conduct should be explainable in public; that public money and public authority should flow through decisions accountable to the public; that power should earn legitimacy by showing its working; that the poor should not be targets of accountability and the wealthy should not be exempt from it; that good faith should be presumed and demonstrable; that Indigenous governments are sovereign; that oversight should bind whoever holds power.
 
-These are not controversial propositions once stated this way. Most Albertans across the political spectrum would endorse them in principle. The question the regime asks — and the question anyone defending or opposing it has to answer — is whether they endorse them in practice, when the provisions apply to their side of the political spectrum as well as the other.
+Whether Albertans agree with these propositions in practice — when the provisions apply to their own preferred party as well as to the other — is the empirical question this package opens rather than answers. Polling on accountability regimes generally suggests broad support for the principles in the abstract and more variable support for specific applications. The regime as drafted is one starting point for that conversation. It is also subject to improvement, debate, and revision through the deliberation process that follows.
 
-Accountability legislation is a mirror. What it reflects is how seriously a political community takes its own stated commitments. The regime as drafted is an honest reflection. It is also subject to improvement, debate, and revision.
+Accountability legislation is a mirror. What it reflects depends substantially on who looks into it.
 
 That is the invitation.

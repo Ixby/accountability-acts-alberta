@@ -8,7 +8,7 @@ Canadian Energy Centre: roughly $30 million a year at peak, deliberately incorpo
 
 These are the routine operational cost of a government whose accountability machinery doesn't reach the places where decisions actually get made. Procurement contracts, sole-source emergency purchases, corporate shells designed to avoid disclosure — none of it is captured by Alberta's current ethics, lobbying, and conflict-of-interest rules.
 
-A few weeks ago I saw a meme promising new accountability legislation. Six bullet points in a campaign graphic. Nobody was asking what the actual bill would look like, so I drafted it — then red-teamed it, costed it, and built it to bind whoever holds power regardless of which party wins the next election.
+A few days ago I saw a meme promising new accountability legislation. Six bullet points in a campaign graphic. Nobody was asking what the actual bill would look like, so I drafted it — then red-teamed it, costed it, and built it to bind whoever holds power regardless of which party wins the next election.
 
 Two bills. One addresses executive conduct. One addresses systemic privilege.
 

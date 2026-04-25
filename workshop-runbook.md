@@ -132,7 +132,7 @@ For the Alberta accountability brief, the canonical files are at `C:\Users\email
 - `policy-brief.md` — the assembled manuscript (narrative + 7 appendices).
 - `policy-brief.html` — rendered single-page HTML (built from policy-brief.md).
 - `build-policy-brief-html.py` — converter, run via `python build-policy-brief-html.py`.
-- `narrative-v2.md`, `narrative-v3.md`, etc. — iteration drafts of the narrative portion only (rebuilt into policy-brief.md by concatenating with appendices).
+- `narrative-v5.md` — the canonical narrative (Parts I–VII, the case for the bills); reassembled into `policy-brief.md` by concatenating with the appendices. Earlier iteration drafts are preserved in `drafts/` (e.g., `drafts/narrative-v2.md`, `drafts/narrative-v3.md`, `drafts/narrative-v4.md`); the working file at root is whichever vN reflects the latest iteration.
 - `bill-1-honest-government-act.md`, `bill-2-open-books-act.md` — primary statutory text (Appendices A and B).
 - `costing.md`, `moral-defence.md`, `red-team.md`, `legislative-cross-reference.md`, `policy-recommendations.md` — companion documents (Appendices C through G).
 - `workshop-final-round.md`, `workshop-iteration-N.md` — workshop records per iteration.

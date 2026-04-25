@@ -1,0 +1,19 @@
+# Node — build dependencies installed via `npm install` (puppeteer, pdf-lib)
+node_modules/
+npm-debug.log*
+
+# Python — local virtualenvs and caches
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Stray temp PDFs from build experiments (the canonical PDF lives at policy-brief.pdf)
+/tmp_*.pdf
+*.pdf.bak

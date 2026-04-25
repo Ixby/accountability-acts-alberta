@@ -152,6 +152,7 @@ Critique from legal drafters, constitutional scholars, Indigenous governance lea
 
 ## Deeper reading
 
+- **[policy-brief.md](policy-brief.md)** — Unified policy brief (~27,000 words). All nine parts of the design rationale, legislative tour, adversarial analysis, cost case, and open questions — with both bills as full-text appendices. Start here if you want to read the package as a single document.
 - **[bill-1-honest-government-act.md](bill-1-honest-government-act.md)** — Full drafted text of Bill 1. Lobbyists Act, Conflicts of Interest Act, Access to Information Act, Financial Administration Act, Recall Act, and Public Interest Disclosure Act amendments, plus common procedural provisions.
 - **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2. Named-party legislation, regulatory approvals, concessional arrangements, ministerial exemptions, and enforcement equity reporting.
 - **[costing.md](costing.md)** — $5M annual estimate defended with FTE breakdown, phase-in schedule, detailed scenario analysis of the three example cases, and comparison to peer Canadian oversight budgets.

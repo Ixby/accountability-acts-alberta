@@ -1,3 +1,659 @@
+# What Accountable Government Looks Like: A Drafted Policy Package for Alberta
+
+*Two bills, the reasoning behind them, and an honest assessment of what they can't do*
+
+---
+
+**Who drafted this.** One person, working from publicly available materials on Alberta's existing accountability legislation. No institutional affiliation. The design, costs, and arguments are the drafter's own and do not represent the position of any party, government, or organization.
+
+**What this is.** A unified policy brief compiling the Honest Government Act and the Open Books Act — two drafted bills with estimated costs, philosophical defence, adversarial failure-mode analysis, and the full legislative text — into a single document a reader can finish and then argue for or against specific provisions.
+
+**What this isn't yet.** The bills are a serious draft. They have not been through external constitutional review, independent fiscal validation, Indigenous co-development, or operational stress testing by people with stakes in the outcome. Several specific items require that work before any tabling. This document names them in Part VIII.
+
+**How to use it.** Parts I through III set out the problem and the design approach. Parts IV and V walk through each bill provision by provision. Part VI names the failure modes honestly. Part VII presents the cost. Parts VIII and IX deal with what's incomplete and what to do with this. The full legislative text is in Appendices A and B.
+
+---
+
+## Part I — Executive Summary
+
+Two bills. One covers how officials behave. One covers how advantage flows through the system.
+
+**The Honest Government Act** covers Ministers, senior officials, and MLAs. It closes the 50-hour lobbying loophole, extends post-employment cooling-off, requires ISC (individual with significant control) disclosure for public contracts with a blind hash cross-reference against the contributions registry, strengthens whistleblower protection with a reverse burden on reprisal, creates a graduated accountability ladder from Public Report to Compliance Order to Certificate of Malfeasance, applies proportional penalties that scale to actual capacity rather than fixed dollar amounts, and runs a random audit program using a publicly verifiable randomness beacon so the Commissioner can't pick political targets.
+
+**The Open Books Act** covers systemic privilege — the state's power to hand out advantage through legislation, regulation, and administrative discretion. It requires Beneficiary Disclosure Statements for named-party legislation, Proponent Disclosure Records for major regulatory approvals, public disclosure of royalty reductions, tax abatements, and concessional arrangements, and an annual Enforcement Equity Report from the Auditor General examining whether similarly-situated parties receive similar enforcement treatment.
+
+The combined regime costs an estimated **$5 million per year at steady state** — approximately one one-hundredth of one percent of the provincial budget. That's the drafter's estimate. It hasn't been validated by Treasury Board.
+
+Three recent Alberta decisions cost taxpayers somewhere between $200 and $300 million combined. DynaLIFE lab services: the Auditor General estimated $109 million total taxpayer cost when AHS bought back failed privatized lab services in 2023. Turkish Tylenol: Alberta paid $80 million for acetaminophen from Turkey; Health Canada approved $21 million worth for use. Canadian Energy Centre: deliberately incorporated as a private corporation to stay outside Freedom of Information reach; wound down after four years at a lifetime cost estimated at $50 to $100 million. Each single event ran 10 to 20 times the proposed regime's annual operating cost.
+
+Whether this regime would have prevented any of those outcomes is a counterfactual that honest accounting declines to put a number on. What is provable is structural: the regime creates conditions under which decisions of this size face scrutiny at the moment they're made, rather than years later through buybacks, auditor investigations, and FOIP requests.
+
+**What's confirmed about this package:** legislative provisions are drafted, costs are estimated, philosophical case is made, failure modes are analyzed, existing Alberta statutes are cross-referenced.
+
+**What's not done yet:** constitutional review of three provisions with material exposure, formal consultation with First Nations and Métis governments, independent fiscal validation, and a legislative drafter's check on statute citations before tabling.
+
+This is a serious draft, not a finished product. The distinction matters.
+
+---
+
+## Part II — The Problem This Tries to Solve
+
+### What accountability actually means
+
+Political power in a democracy is legitimate when the people affected by it can know what it's doing, why, and in whose interests.
+
+This isn't a radical proposition. It runs through every tradition of democratic theory worth taking seriously — through the common-law idea that public officials hold power in trust, through the Millian argument that publicity is the precondition of legitimate authority, through every governance framework that tries to articulate why rule by consent is different from rule by force. The mechanism of consent requires legibility. You cannot consent to what you cannot see.
+
+The accountability failure in modern government isn't usually that legislators have forgotten this principle. Most of them would state some version of it if asked. The failure is structural: the administrative state exercises power through mechanisms that existing accountability tools weren't designed to reach.
+
+A minister signing a concessional arrangement for a specific energy producer. A legislature passing a bill with generic language whose practical benefit flows to two identifiable companies. A regulator approving a major project for a politically-connected proponent while applying stricter standards to competitors. An enforcement body that pursues one company vigorously while leaving its competitor in comfortable obscurity. Each of these is a legal transaction. Each is within the normal scope of executive and regulatory authority. None is reliably caught by Alberta's current ethics, lobbying, and conflict-of-interest rules.
+
+The accountability problem isn't that officials are corrupt. Most of them are trying to do their jobs under real constraints in a complex system. The problem is that the system's accountability machinery was designed for a narrower problem — individual misconduct, direct bribery, obvious conflicts — and leaves the structural patterns where the largest value actually moves largely untouched.
+
+### The shape of the failure
+
+Three Alberta cases illustrate the pattern. They are not accusations. They are illustrations of where existing accountability tools stop working.
+
+**DynaLIFE lab services.** The privatization went through procurement, involved legal contracts, generated a paper trail. What it didn't require was documentation of the basis for key decisions at the time those decisions were made. When the Auditor General investigated the 2023 buyback, he found destroyed evidence and minimal records of the decision points that led to a $31.5 million cash payment and approximately $66 million in assumed liabilities — $109 million total by the AG's estimate. The accountability failure wasn't a secret transaction. It was the absence of any mechanism requiring that decisions be explained contemporaneously rather than reconstructed years later.
+
+**Turkish Tylenol.** An $80 million emergency procurement for acetaminophen from Turkey, authorized by ministerial order on December 1, 2022, bypassing normal procurement processes. That was entirely within the Minister's legal authority. Health Canada approved $21 million worth of the product. Most of the supply remains in storage. What the existing framework couldn't reach was the decision rationale at the moment of decision — the minimum order of 5 million bottles, the $14 per bottle premium, the concentration specification that created additional distribution requirements. By the time public attention reached the file, the trail was cold and the decision-makers had moved on.
+
+**Canadian Energy Centre.** The clearest illustration of the structural problem. The CEC was deliberately incorporated as a private corporation for the explicit purpose of keeping it outside Freedom of Information reach. Premier Kenney's press secretary said so publicly at the time of incorporation. The private corporation structure wasn't illegal. It was a use of existing legal tools to route public functions and public money through a structure designed to avoid the accountability mechanisms that applied to government bodies. The structure worked exactly as intended for the CEC's entire operational life.
+
+These are not exceptional cases from an unusually troubled government. They represent a recurring pattern across Canadian jurisdictions: the accountability machinery reaches individual conduct but not institutional design; it catches documents but not oral decisions; it applies to government bodies but not the private corporations governments create to do government work. The pattern isn't scandal. It's the operating cost of a system whose accountability framework hasn't kept pace with how power actually moves.
+
+### Why existing tools don't reach it
+
+Alberta's current Conflicts of Interest Act, Lobbyists Act, and Public Interest Disclosure Act were written for a narrower problem. They assume a relatively direct chain from individual official to individual decision, operating within a relatively legible institutional structure.
+
+Eight provisions of the proposed bills are genuinely novel with no equivalent in current Alberta law: beneficial ownership disclosure for public-money recipients, concessional arrangement disclosure, the contribution-benefit linkage with blind hash cross-reference, the enforcement equity report, named-party legislation disclosure, the duty to document, the identity consistency provisions, and the right of correction for published disclosures. These aren't duplicating what exists. They're filling the space between existing law and the accountability framework that would need to exist for the machinery to reach the places where value actually moves.
+
+The rest of the bills strengthen what exists: closing the lobbying loophole, extending post-employment cooling-off, reversing the burden in whistleblower proceedings, and replacing a flat penalty structure with a proportional one that actually functions as deterrence across people of different means.
+
+The test for any claim that existing law already covers the ground is the cross-reference: *Legislative Cross-Reference* in the repository maps each provision against current Alberta statutes. Most of this bill fills gaps.
+
+---
+
+## Part III — How This Was Built
+
+### Sunshine over criminalization
+
+The regime is, deliberately, not a criminalization regime.
+
+Criminal law already handles clearly criminal conduct. Fraud, breach of trust, bribery, and obstruction are on the books. The accountability regime fills the gap between "nothing happens" and "criminal prosecution." Most of what it addresses isn't criminal conduct — it's questionable, irregular, or structurally problematic. Criminalizing it would either fail to secure convictions under the criminal standard of proof or produce convictions for conduct that doesn't warrant criminal stigma. Neither outcome serves the purpose.
+
+The sunshine philosophy runs through the design: where enforcement is constitutionally unavailable, substitute mandatory public record-keeping. Build the record; let voters and journalists decide. This is a deliberate choice, not a limitation. It reflects an honest assessment of what accountability legislation can reliably achieve. Courts, prosecutors, and electoral consequences are better-positioned to handle some problems than a Commissioner is. The regime fills gaps rather than displacing institutions that already exist.
+
+### The hardest design problem: binding whoever holds power
+
+The clearest test of whether an accountability regime is serious is whether its designers have thought about what it does to their own side.
+
+An NDP government in 2027 would be bound by these bills. A UCP government would be bound. Whatever new party forms government next is bound. The provisions apply uniformly regardless of who holds power. Whether they survive motivated subversion by whoever holds power is a different question — and it's the question the design keeps returning to.
+
+The structural protections are:
+
+- **Random audit with verifiable randomness.** The Commissioner cannot pick targets. A public randomness beacon does. The methodology, seed, and selection list are published. No one can claim targeting without disproving the published math.
+- **Two-thirds appointment requirements.** Commissioner and Auditor General appointments require two-thirds of both the Standing Committee and the full Assembly, with eligibility bars on recent partisans. Not impossible to manipulate — Alberta has had two-thirds majorities — but substantially harder than a simple majority appointment.
+- **Court confirmation for large penalties.** The Commissioner cannot impose catastrophic penalties by administrative fiat. Court of King's Bench review is required before collection.
+- **Assembly disallowance of regulations.** Regulations made under the Act by the Commissioner come before the Assembly for disallowance within 30 sitting days.
+- **Budget floor with recorded vote.** Estimates below the CPI-adjusted floor require a recorded vote and named operational consequences tabled by the President of Treasury Board.
+
+These protections don't make subversion impossible. They raise the cost. They require subversion to generate a public record. They distribute power across enough institutions that capture requires simultaneous control of several of them.
+
+### What we looked at
+
+The Canadian federal experience provides the clearest evidence of how comparable regimes fail:
+
+The SNC-Lavalin case produced a clear finding from Commissioner Dion — "the authority of the Prime Minister and his office was used to circumvent, undermine and ultimately attempt to discredit the decision of the Director of Public Prosecutions" — and no consequences. The Act specified none. Trudeau won the next election. The finding without consequences is the defining failure mode of ethics regimes that produce reports but not enforcement.
+
+The federal PSDPA spent seventeen years producing one completed whistleblower case. The mechanism of failure was burden allocation: the whistleblower had to prove the adverse employment action was caused by the disclosure. In a workplace with a hundred plausible pretexts, that burden is nearly impossible to meet. The reverse burden provision in §18 is a direct response.
+
+Federal Lobbying Act reviews have been delayed for over a decade. Political will for reform runs against the parties that benefit from the status quo. The random audit and independent Commissioner appointment provisions are the structural responses.
+
+The federal Public Sector Integrity Commissioner declared a formal resource crisis in recent years, with 161 files on hold and a budget that hasn't grown since 2007 despite significant caseload expansion. The budget floor, cooperation register, and monthly resource adequacy notice are the structural responses.
+
+### What we chose to be modest about
+
+The Commissioner investigates and reports. The Commissioner doesn't govern.
+
+Consequences flow through other institutions. Courts handle civil and criminal matters. The Assembly handles electoral consequences. Regulatory bodies operate within their existing mandates. The Commissioner fills gaps — information gaps, accountability gaps, proportionality gaps — without displacing the institutions that already handle what they handle.
+
+This reflects genuine design intent, not a limitation imposed by political constraints. Institutions that try to do everything tend to do nothing well. A Commissioner with a sharp and limited mandate — investigate, report, impose calibrated administrative consequences, refer out what the regime isn't designed for — is more reliable than a Commissioner with ambiguous authority to substitute judgment across the administrative state.
+
+---
+
+## Part IV — Bill 1 Tour: The Honest Government Act
+
+*The full text of Bill 1 is in Appendix A. This section explains each Part's purpose, the problems it addresses, and what was decided against.*
+
+---
+
+### The Preamble
+
+---
+
+> **WHEREAS** the people of Alberta are entitled to government that is transparent in its decisions, accountable for its conduct, and free from undue influence;
+>
+> **WHEREAS** accountability is not opposed to effective government but is a condition of legitimate government — the mechanism through which delegated public power earns and retains democratic consent;
+>
+> **WHEREAS** the Legislature affirms that accountability obligations are applied to enhance the integrity of government for the benefit of all Albertans, not as instruments of partisan advantage;
+
+---
+
+Preambles do real legal work. They instruct future courts, future commissioners, and future legislators on how to read ambiguous provisions. The three principles established here are the interpretive spine of the Act: accountability as a legitimacy condition, not a constraint on efficient government; liberal interpretation toward transparency; and moderate application in coercive contexts. Where a provision's meaning is in genuine doubt, the tie goes to transparency.
+
+The phrase "not as instruments of partisan advantage" is pointed. It states on the face of the Act what a Commissioner is not authorized to do. This is both a structural instruction and a public commitment: this regime is designed to bind whoever holds power, not to discipline one side while ignoring the other.
+
+---
+
+### Part 1 — Interpretation
+
+---
+
+> **2.** In this Act:
+>
+> **(c) "beneficial ownership"** means ultimate ownership or control of an entity, asset, or transaction, whether held directly or indirectly through one or more entities, trusts, nominees, or arrangements.
+>
+> **(f) "Commissioner"** means the Ethics Commissioner appointed under the *Conflicts of Interest Act*...
+>
+> **(t) "reprisal"** means any measure taken against an employee that adversely affects the employee's employment or working conditions because the employee made a protected disclosure... It includes dismissal, demotion, discipline, transfer, reassignment, reduction of hours, withholding of benefits or opportunities, and the creation of a hostile work environment.
+>
+> **(v) "significant part of duties"** means... lobbying activities amounting to 20 percent or more of the employee's working time in any calendar quarter... or a position description, performance expectation, or regular reporting obligation that contemplates lobbying as a recurring function.
+>
+> **(w) "family member"** means a spouse, common-law partner, or dependent child of the individual, and does not include adult children, parents, or siblings unless they are also an individual with significant control of the same entity.
+
+---
+
+**"Beneficial ownership"** closes the nominee structure loophole. Without it, a bidder can put a nominee at the top of the ISC chain, satisfy the disclosure requirement on its face, and keep the actual owner invisible. This definition reaches through nominees, trusts, and layered entities to the person who actually exercises control.
+
+**"Significant part of duties"** replaces the 50-hour threshold with a functional test. The threshold let paid lobbyists avoid registration by tracking time carefully — a structural evasion that had nothing to do with whether they were actually influencing government. The functional test is based on actual duties rather than hours logged.
+
+**"Reprisal"** is defined broadly enough to capture the hostile work environment, not just the termination letter. This matters critically for the reverse burden provision in §18: if the only qualifying reprisal is a firing, whistleblowers who receive sustained pressure, reassignment, or professional isolation fall outside the protection.
+
+**"Family member"** was added at v1.15 to close a definitional gap. Section 15(2) already excluded family member contributions from ISC cross-reference, but hadn't defined who qualified. The definition is deliberately narrow: immediate household relationships only. Adult children, parents, and siblings are independent adults capable of making their own political choices. They're excluded unless they're also an ISC of the same entity, which would bring their contributions into scope on different grounds.
+
+---
+
+### Part 2 — Lobbying Reform
+
+**The problem:** The Lobbyists Act's 50-hour threshold allowed paid lobbyists to avoid registration by keeping billable time below the threshold. This was a reasonable attempt to distinguish paid professionals from casual civic advocates. It became a straightforward avoidance mechanism.
+
+---
+
+> **3.** Section 1(1)(h) is amended:
+>
+> (a) by striking out subclause (i) and substituting: "(i) any person, whether paid or unpaid, retained by a client to communicate with a public office holder on behalf of the client, regardless of time spent (a 'consultant lobbyist');"
+>
+> (c) by adding: "(iii) For greater certainty, communications by individual citizens, volunteer advocates, and members of community organizations not retained or employed to lobby... are not captured by this Act."
+
+---
+
+**What we chose:** "Regardless of time spent" for consultant lobbyists. The carve-out for citizen advocates in subsection (iii) is explicit: emailing your MLA about policy, attending a town hall, organizing a community meeting — none of that is lobbying. The regime watches paid advocacy for private clients, not civic participation.
+
+**The contingency fee ban (§5)** closes a different loophole: fees paid to lobbyists that are contingent on the outcome of the lobbying. A contingency fee turns lobbying into an instrument of outcome rather than communication, and creates exactly the quid pro quo relationship the regime is designed against.
+
+**What it leaves open.** The functional test for in-house lobbyists (20% of working time in any quarter) requires judgment. The percentage is set by regulation and may need calibration as real cases arrive.
+
+---
+
+### Part 3 — The Escalation Framework and Oversight Independence
+
+**The problem:** Most Canadian ethics regimes produce findings without consequences. The federal Act specifies no sanctions for the violations the Commissioner finds. Alberta's current scheme has limited enforcement teeth. Findings become press releases, press releases become news cycles, news cycles end.
+
+---
+
+> **7.** The Commissioner may issue a **Public Report of Findings** where the Commissioner determines that a person has contravened this Act...
+>
+> **8.** Where a Public Report of Findings has been issued and the conduct has not been remedied... the Commissioner may issue a **Compliance Order** requiring the person to take specified remedial action, including disgorgement of any quantified benefit...
+>
+> **9.** Where a Compliance Order has not been complied with, or where conduct is persistent, incurable, or of such severity that lesser measures would be inadequate... the Commissioner may issue a **Certificate of Malfeasance**.
+
+---
+
+Three tiers. A Public Report triggers visibility and begins a public record. A Compliance Order adds remedial obligation and disgorgement — the benefit can't just be kept. A Certificate of Malfeasance goes to the Legislative Assembly for action under the Recall Act amendments in Part 6.
+
+The design logic: most conduct should resolve at Tier 1 or Tier 2. The Commissioner is instructed at §6 to prefer correction to punishment where correction is possible, to apply the least restrictive measure consistent with the conduct, and to reserve the Certificate for conduct that is persistent, incurable, or severe. The ladder exists so that a finding has somewhere to go — it doesn't have to be a press release and nothing more.
+
+**§11A — Commissioner appointment.** This was the most glaring structural gap identified in the v1.11 review. A compliant appointment defeats every other protection before the first investigation opens.
+
+---
+
+> **11A.** Section 15 of the *Conflicts of Interest Act* is amended:
+>
+> (a) the appointment of the Commissioner requires a resolution of two-thirds of the members of the Standing Committee on Legislative Offices and a resolution of two-thirds of the members of the Legislative Assembly;
+>
+> (b) the Commissioner holds office for a term of 7 years, not renewable;
+>
+> (c) no person who has held elected office or executive office in a registered political party within 7 years preceding the appointment is eligible...
+>
+> (d) removal requires a report from the Committee and a resolution of two-thirds of the members of the Assembly.
+
+---
+
+Two-thirds of the Committee plus two-thirds of the Assembly. Seven-year non-renewable term. Eligibility bar on recent partisans. Chief Justice vacancy fallback at 120 days if the Assembly can't reach supermajority. These are the strongest appointment protections in current Canadian provincial practice.
+
+A government with two-thirds of the Assembly — which has happened in Alberta — can still influence an appointment. The eligibility bar excludes recent partisans, not ideological sympathizers. The protections raise the cost of capture without eliminating it. The seven-year non-renewable term removes the re-appointment incentive that has historically been the lever for influencing commissioner behaviour.
+
+**§11B** gives the Auditor General parallel appointment protections, because the Enforcement Equity Report is the AG's primary function under Bill 2. Leaving the AG appointment unprotected made the entire Part 6 structure contingent on the appointing government's good faith.
+
+---
+
+### Part 4 — Access to Information Amendments
+
+**§13 — Cabinet confidences.** The SNC-Lavalin investigation had nine witnesses who couldn't testify fully because of Cabinet confidence claims. §13 doesn't eliminate Cabinet confidence — it narrows it.
+
+---
+
+> **13(1)** No Minister or official shall withhold from the Commissioner information that is factual, statistical, or operational in nature on the basis of Cabinet confidence. Deliberative information — analysis, recommendations, options considered, advice given or received — retains Cabinet confidence protection.
+>
+> **(3)** Treasury Board Decision Summaries recording final decisions shall be proactively disclosed... within 180 days of the end of the parliamentary session in which the decision was made.
+>
+> **(4)** Ministerial mandate letters shall be proactively disclosed at the end of the parliamentary session...
+
+---
+
+Factual and operational data — what was decided, when, what the cost was, what the contract value was — can no longer be shielded. The deliberative content — what options were considered, what advice was given — retains protection. This is the line the regime draws: the process of decision-making is legitimately private, but the facts of what was decided are not.
+
+**§14A — Duty to document.** The "oral briefing only" workaround — where decisions are made in rooms with no paper trail — becomes the violation rather than the technique.
+
+---
+
+> **14A(1)** Every decision that is subject to disclosure under this Act or under the Open Books Act shall be documented in writing at the time the decision is made or as soon as reasonably practicable thereafter...
+>
+> **(3)** Willful or repeated failure to document decisions subject to this section shall be recorded in the decline register under §25(6) and may, on accumulation, give rise to a Compliance Order...
+
+---
+
+The gap this closes is real but partial. A broader duty to create records across all government activity — a reform to records management legislation — would be the complete companion. Without it, sophisticated actors can still route discussions through channels that don't trigger §14A. That's a named residual risk, not a reason to omit the duty to document provision.
+
+---
+
+### Part 5 — Procurement Transparency
+
+This is the Part that does the most technically complex work. Read the provisions in order — each builds on the previous.
+
+---
+
+> **15.** The following is added after section 82:
+>
+> **82.1(1)** No public body shall award a contract above the threshold prescribed by regulation unless the bidder has provided a return identifying every individual with significant control (ISC) of the bidding entity...
+>
+> **(2)** For contracts above the cross-reference threshold... the awarding public body shall cross-reference the ISC return against the contributions registry under the *Election Finances and Contributions Disclosure Act*... Family member contributions where the family member is not themselves an ISC are not captured by this cross-reference.
+>
+> **(2A)** The cross-reference under subsection (2) shall be conducted by the Registrar as a hash comparison against the contributions registry. The Registrar shall return only a match/no-match indicator to the awarding public body. Where no match above the contribution threshold is indicated, no contribution history is disclosed at any level. Where a match is indicated, the Registrar shall confirm the specific match to the Commissioner...
+>
+> **(6)** Nothing in this section prevents any person or entity from bidding on provincial contracts; this section establishes procedural transparency, not exclusion from eligibility.
+
+---
+
+**The blind hash architecture (§15(2A))** is the solution to the Charter §2(b) concern. Systematic disclosure of political contribution history to procurement officials would, in effect, penalize political participation — every donation above the threshold becoming a mark against a bidder. The blind hash design makes the contribution history invisible except when a specific match is confirmed. The light turns on only when the circuit is closed.
+
+What the system does: when a bidder submits an ISC return, the Registrar runs a hash comparison against the contributions registry. If no match above the threshold: the award proceeds, no one sees any contribution history. If a match: the Commissioner gets confirmation and accesses the history solely for the review of whether the specific match constitutes a substantive conflict. The contribution data isn't in the procurement system's view until a match is confirmed.
+
+---
+
+> **15A.** The following is added after section 82.1:
+>
+> **82.2(1) Identity consistency — natural persons.** For the purpose of returning and maintaining ISC information... every natural person who is an individual with significant control of a bidding entity shall verify their identity through the identity verification platform designated by the Minister by regulation, which as of commencement is the MyAlberta Digital Identity platform...
+>
+> **(2) Fallback identification — natural persons.**
+>
+> (a) an Alberta driver's licence or Alberta Identification Card — the number shall be hashed on receipt and the plaintext discarded;
+>
+> (b) a Social Insurance Number, for Canadian residents without provincial photo identification;
+>
+> (c) a foreign persistent national identification number... together with the country of jurisdiction, under sworn declaration...
+>
+> A passport number shall not be used as a persistent identity basis for the purposes of this section.
+
+---
+
+**The identity problem.** A sophisticated actor can use name variations, transliterations, or different legal name combinations across ISC returns to make the same person look like different people to the cross-matching system. This isn't a theoretical risk — it's a documented tactic in beneficial ownership evasion cases internationally.
+
+**The MADI solution.** The MyAlberta Digital Identity platform issues a persistent unique identifier. That identifier, not the underlying credential, is retained by the Registrar. The underlying credential — driver's licence number, SIN, date of birth — is hashed and discarded. The Registrar maintains a hash stream, not a personal information database.
+
+**Why no passport numbers.** Passports change on renewal — typically every five years. A person who renews their passport has a different passport number, which would break the cross-matching system through entirely legitimate credential expiry rather than deliberate evasion. Persistent national identifiers (driver's licence, SIN, foreign equivalents) don't have this problem.
+
+**Escalating consequences for fragmentation (§15A(5)).** Inadvertent variation (a name spelled differently in two returns) triggers a name consistency notice with 30 days to clarify. Deliberate fragmentation — using different identities to evade cross-matching — triggers escalating consequences: first finding draws a correction order plus fee plus 12-month enhanced scrutiny; second finding within 5 years adds a §25 penalty and 24-month procurement suspension across all ISC entities; third finding or systematic fragmentation triggers maximum penalty, permanent ban, and criminal referral.
+
+The good-faith defense applies. Cultural naming practices, recent legal name changes, and transliteration variations from official documents are not fragmentation.
+
+---
+
+### Part 6 — Recall Act Amendments
+
+What happens when the Commissioner issues a Certificate of Malfeasance against a sitting MLA?
+
+---
+
+> **16.** Section 5 is amended by adding:
+>
+> **(4)** Where the Ethics Commissioner tables a Certificate of Malfeasance regarding a sitting Member, the Legislative Assembly shall, within 30 sitting days, deal with the Certificate by resolution in one or more of the following ways: referral to the appropriate law enforcement authority (simple majority); expulsion (two-thirds majority); referral to the Chief Electoral Officer for recall (simple majority); or censure (simple majority).
+>
+> **(4A)** Where a Certificate tabled under subsection (4) incorporates a financial penalty determination above the threshold...
+>
+> (a) A resolution consisting solely of censure under subsection (4)(iv) does not satisfy the Assembly's obligation under this section.
+
+---
+
+**The censure-as-disposal gap (§16(4A)).** Without this provision, a government with a majority could respond to a Certificate against one of its own members with a censure motion — a symbolic expression of disappointment — and declare the obligation satisfied. §16(4A) closes this: a Certificate with a financial penalty determination stays open until the Assembly either takes substantive action, passes a two-thirds closing resolution with written reasons published in Votes and Proceedings, or exhausts the 60-day clock triggering deemed law enforcement referral.
+
+**The McIver constraint.** *McIver v Alberta (Ethics Commissioner)*, 2017 ABQB 695 established that courts have no jurisdiction over Ethics Commissioner decisions involving sitting MLAs due to parliamentary privilege. Court confirmation of large penalties — available against non-Members under §22(5)(a) — cannot be used against sitting Members. §22(5)(b) routes the penalty enforcement exclusively through the Assembly process.
+
+This is the constitutional hard floor of the regime. The Assembly's response to a Certificate against one of its members is ultimately a political decision, and a majority can do what a majority wants to do. The regime raises the political cost — requiring two-thirds to close with written reasons, with those reasons published in the Votes and Proceedings — but it cannot eliminate the political character of the Assembly's judgment.
+
+---
+
+### Part 7 — Whistleblower Protection
+
+The federal PSDPA spent seventeen years producing one completed case. The mechanism of failure was burden allocation.
+
+---
+
+> **18.** Section 24 is amended by adding:
+>
+> **(4)** In proceedings under this section, once an employee establishes that a protected disclosure was made and an adverse employment action followed within 24 months, the burden shifts to the employer to demonstrate, on a balance of probabilities, that the adverse action was taken for reasons unrelated to the disclosure.
+>
+> **(6)** An individual who directs, authorizes, or personally carries out a reprisal is personally liable, jointly and severally with the employer, where the tribunal finds the individual acted in bad faith or with knowledge that the action was a reprisal.
+
+---
+
+**The reverse burden.** In any workplace with a hundred plausible pretexts, requiring a whistleblower to prove their firing was caused by their disclosure is a near-impossible standard. The shift to employer-must-prove-it-wasn't is the single most significant structural change from the existing framework.
+
+**§18A — Preservation orders.** Added in v1.13 after identifying the gap between disclosure protection and evidence preservation. A whistleblower's employment might be protected — but nothing prevented the destruction of records relevant to what they disclosed during the investigation. §18A gives the Commissioner authority to freeze both evidence and the employment status of complainants and witnesses at investigation commencement. This is a status quo order, not reinstatement. It prevents new adverse action; it doesn't automatically reverse what happened before the order was issued.
+
+**§19 — Direct disclosure to MLAs and journalists.** Four triggers: imminent risk to public health, safety, or integrity of public funds where delay would defeat disclosure; reasonable grounds to believe internal channels will result in evidence destruction; prior reprisal from a protected disclosure; or Commissioner failure to commence investigation within 60 days. These are conservative triggers. The debate about whether they're calibrated correctly is worth having.
+
+---
+
+### Part 8 — Common Procedural Provisions
+
+**Proportional penalties (§25).** A $10,000 fine means something entirely different to a Minister with $3 million in assets and a junior staffer earning $48,000 a year. Applying the same number is only "equal" in the most superficial sense. In actual effect it's wildly unequal — inconsequential for the wealthy, potentially catastrophic for the less wealthy.
+
+---
+
+> **25(3) Natural person penalties** shall consist of a base amount equal to a percentage of annual compensation, tiered by violation count; an asset-based enhancement equal to a percentage of net assets above the asset threshold, tiered by violation count; and a minimum floor scaled to Alberta minimum wage...
+>
+> **(9A) Self-declaration cascade.** The Commissioner shall determine penalty capacity in the following order:
+>
+> (a) public disclosure filings under the *Conflicts of Interest Act*;
+>
+> (b) self-declaration by the respondent under oath, to be provided within 14 days of written notice that capacity is in issue;
+>
+> (c) audited financial statements or tax filings, where self-declaration is challenged on reasonable grounds; and
+>
+> (d) net asset verification through investigation only where (a) through (c) are insufficient and the magnitude of the anticipated penalty justifies the investigative intrusion.
+>
+> **(9B) Destruction of financial information.** Financial information collected under subsection (9) or (9A) shall be destroyed no later than... 90 days after the penalty has been collected or the proceeding has otherwise concluded...
+
+---
+
+The self-declaration cascade means the Commissioner doesn't have to mount a full financial investigation for every modest penalty — the respondent declares their capacity first, under oath, and investigation is a last resort. The 90-day destruction obligation means the regime doesn't build a permanent financial dossier on people who pass through proceedings. The information serves its purpose and is destroyed.
+
+**Good-faith defense (§26).** The moral architecture of the regime. Public servants acting in good faith on reasonable legal advice are not penalized for conduct they reasonably believed was permissible.
+
+---
+
+> **26(4)** The defense does not apply to conduct involving intentional deception of the Commissioner or a public body; conduct where the person or entity ignored specific prior advice from the Commissioner regarding the same or substantially similar conduct; conduct constituting willful blindness to a clear requirement of this Act...
+>
+> **(5) Disclosure of advice relied upon.** Where the defense under this section is raised on the basis of professional advice, the person or entity shall disclose to the Commissioner: (a) the written advice relied upon, including the scope of the mandate given to counsel, the facts provided to counsel, and any conflicting advice received... (b) all other written legal opinions obtained at any time that addressed whether the same conduct... would be permissible...
+
+---
+
+The opinion-shopping loophole is closed: to use the good-faith defense, you must disclose all opinions obtained on the same question, not just the permissive minority opinion you chose to rely on. The defense is available; selective reliance on convenient advice is not.
+
+**Random audit (§27) — tiered structure.** The random audit program now runs in three tiers, added at v1.15 to address proportionate privacy intrusion.
+
+---
+
+> **(2) Annual program — tiered structure...**
+>
+> (a) *Tier 0 — Automated compliance check.* An automated system cross-references available disclosures against relevant registries. Where no discrepancy above the screening threshold is identified, the matter closes at Tier 0 with a closure note. No personal or financial records are accessed and no human review occurs at Tier 0.
+>
+> (b) *Tier 1 — Documentary review.* Where Tier 0 identifies a discrepancy above the screening threshold, a Commissioner officer conducts a structured documentary review...
+>
+> (c) *Tier 2 — Active investigation.* Commences only where Tier 1 identifies specific indicators of non-compliance...
+>
+> **(6A) Clean-file destruction.** Where a random audit closes at Tier 0 or Tier 1 without escalation to Tier 2, the Commissioner shall, within 90 days of closure: (a) destroy all personal and financial records accessed or collected during the audit...
+
+---
+
+Most audits will never leave Tier 0. The privacy exposure is proportionate to the public interest at stake. A Tier 0 audit that finds nothing produces a closure note and destroys all records within 90 days; no personal information about the audited person appears in any public report.
+
+**Writ period (§21B).** Symmetry. No new investigations during an election writ — the regime can't be weaponized to launch against candidates. Ongoing investigations continue uninterrupted — the regime can't be frozen by calling an election early.
+
+---
+
+## Part V — Bill 2 Tour: The Open Books Act
+
+*The full text of Bill 2 is in Appendix B.*
+
+---
+
+### Why Individual Accountability Isn't Enough
+
+Bill 1 addresses how people behave. Bill 2 addresses how advantage flows through the system.
+
+The Canadian Energy Centre wasn't a corrupt official. It was an institutional design choice. The decision to incorporate as a private corporation was made by people acting within their legal authority, for the explicit purpose of avoiding accountability obligations. No provision of Bill 1 touches that choice. It's not a conflict of interest. It's not a lobbying violation. It's not a procurement impropriety. It's an exercise of legitimate government authority to structure an institution in a way that avoids scrutiny.
+
+Bill 2 reaches it.
+
+---
+
+> **WHEREAS** the largest transfers of value from the Crown to private parties occur not through competitive procurement or open public contracting, but through legislative exceptions, regulatory approvals, concessional fiscal arrangements, and ministerial individual exemptions — decisions made in settings where competitive pressure and public scrutiny are weakest...
+
+---
+
+These are the four points where private benefit flows most readily from public authority: the legislature, the regulator, the minister's office, and the enforcement body. Bill 2 requires disclosure at each of those four points, and adds an annual audit of whether enforcement is being applied equitably.
+
+---
+
+### Part 2 — Named-Party Legislation
+
+Some bills have generic language but narrow practical effect. A bill technically available to "any company meeting criteria X, Y, and Z" where those criteria describe one or two identifiable companies is a named-party bill in practical effect.
+
+The definition took three iterations. "Small number" in v1.0 left the Speaker without a concrete anchor and opponents with a broad attack surface. The five-or-fewer threshold with four explicit safe harbors — general-criteria legislation, public infrastructure, treaty and court-order implementation, and transitional legislation — emerged from working through every edge case that made the first version too broad.
+
+---
+
+> **3(1)** Any named-party legislation introduced in the Legislative Assembly shall be accompanied, at the time of introduction, by a **Beneficiary Disclosure Statement** filed by the sponsoring Minister or Member...
+>
+> **(2)** The Beneficiary Disclosure Statement shall identify every person or entity that is expected to benefit directly from the legislation; for each beneficiary entity, every individual with significant control; for each ISC, contributions to any Alberta political party, constituency association, or candidate made within the preceding 48 months...
+
+---
+
+The Disclosure Statement doesn't stop the bill. It doesn't establish that the bill is wrong. It puts the beneficiaries, their contribution history, and their existing receipt of state advantage into the public record at the moment of introduction — when that information is most useful.
+
+**§3(7A) — Right of correction.** A person whose personal information appears in a published Statement can apply within 60 days to correct a material inaccuracy. The original Statement isn't removed — correction notices are linked, not substituted. The public record is cumulative.
+
+---
+
+### Part 3 — Regulatory Approvals
+
+The financial value of a major pipeline or utility rate decision can dwarf any procurement contract. Procurement disclosure requirements follow the procurement vehicle. Regulatory approval disclosure requirements should follow the public value, wherever it flows.
+
+---
+
+> **4(1)** Where a regulatory body grants a regulatory approval in respect of a project... whose estimated value exceeds the threshold prescribed by regulation, the regulatory body shall publish, within 10 business days of the approval, a **Proponent Disclosure Record**...
+>
+> **(6)** This section does not affect the substantive criteria governing regulatory approvals and does not empower the Commissioner to review the merits of an approval. The Commissioner's jurisdiction under this section is limited to the completeness, accuracy, and timeliness of the Proponent Disclosure Record.
+
+---
+
+The Commissioner doesn't second-guess regulators. The regime makes regulatory decisions more legible — who is being approved, what their beneficial ownership structure looks like, what connections they have to the political system — without substituting administrative judgment for the regulator's expert decision on the merits.
+
+---
+
+### Part 4 — Concessional Arrangements
+
+Royalty reductions, tax abatements, debt forgiveness, loan guarantees — individually negotiated deals that move money from the Crown to a specific party. These arrangements are often invisible to the public, rarely debated in the Legislature, and are the mechanism through which some of the largest transfers of Crown value to private parties actually occur.
+
+---
+
+> **5(1)** Where the Crown... enters into a concessional arrangement with a specific party whose estimated value... exceeds the threshold prescribed by regulation, the authorizing Minister shall publish, within 30 days of execution, a **Concessional Arrangement Disclosure**...
+>
+> **(2)** The Concessional Arrangement Disclosure shall identify... the reasons for the concession, including why the recipient was selected, why the concession was granted on the terms specified, and what public interest the concession serves...
+>
+> **(4)** Concessional arrangements... available to all parties meeting objective statutory criteria of general application are not subject to this section.
+
+---
+
+The general-criteria exemption draws the line in the right place. Programs available to everyone who qualifies — a tax credit available to any qualifying company — aren't in scope. Individual deals are what require the light.
+
+---
+
+### Part 5 — Ministerial Exemptions
+
+Every exemption from a rule of general application granted to a specific party requires disclosure: who got it, what was varied, why, and what the same Minister has granted under the same authority in the preceding 24 months.
+
+---
+
+> **6(2)** The Individual Exemption Disclosure shall identify... the reasons for granting the exemption, including the public interest served; the estimated value of the exemption to the recipient; and aggregate data on prior ministerial individual exemptions granted by the same Minister within the preceding 24 months under the same statutory authority, including the total number, total estimated value, and any patterns in recipient characteristics.
+
+---
+
+The pattern data is the provision's most important element. A single exemption is hard to evaluate in isolation. A pattern of exemptions to the same category of recipient, over two years, is a different kind of information — it tells you whether the exemption is genuinely exceptional or whether it has become the informal operating mode for a particular ministerial portfolio.
+
+---
+
+### Part 6 — Enforcement Equity Reporting
+
+The hardest provision in the package to explain, and the most important.
+
+Most accountability regimes watch procurement and appointments. What they don't watch is enforcement. A regulatory body that vigorously pursues one company for permit violations while leaving a competitor's violations unaddressed isn't necessarily breaking any rule. Both decisions are within its discretion. Both can be individually justified on the merits. The pattern is invisible unless someone is required to look for it.
+
+---
+
+> **7(1)** The Auditor General, in collaboration with the Ethics Commissioner, shall prepare and publish annually an **Enforcement Equity Report** examining the enforcement activity of provincial regulatory bodies, administrative tribunals, and enforcement agencies.
+>
+> **(2)** The Enforcement Equity Report shall... identify patterns in enforcement action across comparably-situated parties, including whether similarly-situated parties have been subject to similar enforcement outcomes; whether enforcement intensity correlates with any observable characteristic of parties including industry sector, size, political affiliation of ISCs or senior officers, recent contributions to Alberta political parties, or recent receipt of discretionary state benefit...
+>
+> **(8) Communications log.** Each Enforcement Equity Report shall include a complete log of all communications received by the Auditor General from any Minister, Deputy Minister, senior official, or entity of the Crown regarding the scope, methodology, selection of bodies examined, or findings of the Report...
+
+---
+
+The communications log is the provision that closes the "friendly conversation" loophole. The formal record can show no interference even when the informal record shows sustained pressure. The requirement to characterize each communication as informational, advisory, or directive — with reasons, in the public report — means the AG is on record about what was and wasn't an attempt to direct the content.
+
+This is a novel provision in Canadian provincial practice. There's no direct precedent to compare it against. That makes it both more important and more in need of the pre-tabling constitutional review that applies to all three of the novel enforcement provisions in the package.
+
+---
+
+## Part VI — What Could Go Wrong
+
+A regime designed to bind whoever holds power has to survive motivated subversion by whoever holds power. What follows is the drafter's best attempt at adversarial analysis. It is not exhaustive. Adversarial testing by people with different priors, different stakes, and more relevant experience is the work product this section hopes to provoke.
+
+**Risk 1: The constitutional tripwires.**
+
+Three provisions face material exposure and need a pre-tabling opinion before advocacy of the legislation can be fully honest.
+
+*§28(3) and §28(4) — Commissioner regulation-making authority.* Giving a provincial officer of the Legislature direct regulation-making power, with Assembly disallowance as the check, is defensible — federal independent agencies provide precedent — but novel in Alberta. Whether it survives a separation-of-powers or delegation challenge is an open question.
+
+*§22(5)(b) — MLA penalty enforcement through the Assembly.* Designed around *McIver v Alberta (Ethics Commissioner)*, 2017 ABQB 695, which established that courts can't confirm penalties against sitting MLAs under parliamentary privilege. The provision routes enforcement through the Assembly instead. Whether this achieves its intended effect — whether the Assembly process is an adequate substitute for court enforcement, and whether it's constitutionally required rather than merely constitutional — deserves the opinion.
+
+*§15(2A) — Blind hash cross-reference.* The architecture substantially mitigates the Charter §2(b) concern (chilling of political expression) that would apply to systematic disclosure of contribution history. But "substantially mitigates" is not "eliminates." A determined applicant might argue that the hash matching itself — the fact that political contributions are being systematically queried, even under the blind architecture — constitutes an unjustified limit.
+
+**Risk 2: Appointment capture.**
+
+Two-thirds appointment requirements substantially raise the bar. But Alberta has had two-thirds majorities, and will again. The eligibility bar excludes recent partisans, not ideological sympathizers. A Commissioner who is personally aligned with the appointing party but technically meets the eligibility criteria can still tilt the office's investigative priorities.
+
+The protections here are reputational and structural rather than absolute. A partisan appointment under a supermajority requirement generates a public record of that dominance. The seven-year non-renewable term removes the re-appointment incentive. These mitigations are real but not dispositive against a government willing to accept the political cost of an obviously political appointment.
+
+**Risk 3: Resource starvation.**
+
+The budget floor, cooperation register, monthly adequacy notice, and recorded vote requirement create significant procedural obstacles and public records for a starvation campaign. They do not prevent it. A government that accepts the political cost of a recorded vote — the President of Treasury Board required to table written operational consequences and the Commissioner's response — can still fund the office at a level that prevents it from functioning.
+
+**Risk 4: Assembly response to Certificates.**
+
+§16(4A) closes the censure-as-disposal gap for Certificates with financial penalty determinations. A government with a majority can still use its majority. The two-thirds closing resolution with written reasons published in the Votes and Proceedings raises the political cost of an inadequate response without eliminating it.
+
+The honest assessment: the regime works reasonably well against a government without an extraordinary majority. Against a government with 70%+ of seats, the structural protections are under real pressure from a determined actor willing to accept the political cost.
+
+**Risk 5: Out-of-province beneficial ownership.**
+
+The identity consistency provisions address name fragmentation. The beneficial ownership determination (§25(10)) addresses nominee structures. Neither fully addresses sophisticated corporate structures that route ISC identity to out-of-province entities whose principals donate to federal parties or other provincial parties not captured in Alberta's EFCDA registry. A federal beneficial ownership registry, or an Alberta extension of EFCDA coverage to federal party contributions, would close this gap. Neither is in this package.
+
+**The design ceiling.**
+
+A legislative design cannot prevent a determined majority. It can raise the cost of subversion, require that subversion generate a public record, and distribute power across enough institutions that capture requires simultaneous control of several of them. Whether that ceiling is high enough is an empirical question that only operation will answer.
+
+---
+
+## Part VII — The Cost
+
+---
+
+The combined regime costs roughly **$5 million per year at steady state**, reached in year five of operation.
+
+| Cost category | Annual steady state |
+| --- | --- |
+| Personnel — 15 to 18 FTE across four offices | $1.8–2.9M |
+| Technology and infrastructure operations | $0.4–0.7M |
+| Legal and court confirmation support | $0.3–0.6M |
+| Training, guidance, regulatory drafting | $0.35–0.55M |
+| **Total before fee recovery** | **$2.85–4.75M** |
+| Fee recovery under §29 | ($0.3–0.6M) |
+| **Net public cost** | **~$4.5M** |
+
+Year 1 runs higher — approximately $3 million in operational spend plus $1.5 million one-time capital for the ISC registry, randomness beacon integration, and regulatory approval disclosure platform. Cumulative five-year cost: approximately $25 million.
+
+Per capita at Alberta's population: approximately $1.10 per person annually. Higher than peer provincial regimes, which have narrower mandates. The regime's substantive expansions beyond traditional Canadian oversight practice — proportional penalties, random audit with verifiable randomness, enforcement equity reporting, named-party legislation disclosure, concessional arrangement disclosure — are the reason for the difference.
+
+**The comparison that makes the cost argument:**
+
+| Case | Estimated taxpayer cost | Annual regime cost |
+| --- | --- | --- |
+| DynaLIFE buyout | up to $109M (AG estimate) | ~$5M |
+| Turkish Tylenol | $80M | ~$5M |
+| Canadian Energy Centre (lifetime) | estimated $50–100M | ~$5M |
+
+Each of those three events ran 10 to 20 times the annual cost of the proposed regime. Whether the regime would have prevented any of them is a counterfactual that honest accounting declines to number. The scenario analysis in [costing.md](costing.md) describes which provisions would have engaged at which decision points; it doesn't claim to know what those provisions would have changed.
+
+The honest cost framing: this is a predictable annual premium against unpredictable scandal exposure. A reader genuinely opposed to this regime could reject the prevention argument while accepting the cost figures and conclude the case is unproven. That's a legitimate position. This document's claim is that $5 million per year for the structural conditions this regime creates is worth arguing about.
+
+---
+
+## Part VIII — What's Not Done Yet
+
+Four things need to happen before any version of this package is ready for tabling.
+
+**Constitutional review.** §28(3)-(4) regulation-making, §22(5)(b) MLA penalty enforcement, and the §15(2A) Charter §2(b) argument all face material exposure. A pre-tabling opinion from administrative law counsel — on each provision specifically — is the minimum. Not defensive due diligence; a prerequisite for honest advocacy.
+
+**Indigenous co-development.** §21A provides internal-governance carve-out, consultation requirement, and s.35 preservation. It's adequate as a starting point. It is not adequate as a finished product. This legislation was drafted without formal consultation with First Nations, Métis settlements, or the Métis Nation of Alberta. The carve-out creates structural space for that work; it doesn't substitute for it.
+
+**Independent fiscal validation.** The $5 million figure is a drafter's estimate. The comparison to peer jurisdictions places it in a plausible range. Independent validation by someone with operational experience in the affected offices — or by Treasury Board fiscal analysis — is a prerequisite for confident public advocacy of the cost argument.
+
+**Legislative drafting review.** Statute citations throughout both bills — RSA 2000 references, the FOIP Act citations in §13 and §14, section numbers referencing specific provisions of existing Acts — require a legislative drafter's verification. Statutes are amended and renumbered; the citations need to be current before tabling.
+
+---
+
+## Part IX — The Invitation
+
+An accountability regime is a statement about what a political community expects from its government.
+
+These bills state that Alberta's government should be explainable in public; that public money and public authority should flow through visible, documented decisions; that power should earn legitimacy by showing its working; that the poor should not bear accountability burdens the wealthy escape; that good faith should be presumed and demonstrable; that Indigenous governments are sovereign and should be genuine partners in legislation that affects them; and that oversight should bind whoever holds power.
+
+Whether Albertans agree with these propositions in practice — when the provisions apply to their own preferred party as well as to the other — is the question this package opens rather than answers.
+
+Read it. If any of it is worth supporting, say so publicly and specifically. If none of it is, say that too, with a specific objection. Ask your MLA — any party — whether they would support it. A no should come with a specific objection. A "yes in principle, not this version" should come with what they'd change.
+
+The legislation is released under Creative Commons Attribution-ShareAlike 4.0. Any party, advocacy group, drafter, or elected official from any political tradition is free to adapt, improve, table, or build on it. The only conditions are attribution and that derivative work carries the same license.
+
+The bills were drafted to be usable. Not proprietary.
+
+---
+
+*Feedback, critique, drafting corrections, and counter-arguments: [Issues tab](../../issues) for specific provisions, [Discussions tab](../../discussions) for design-level questions, pull requests for text improvements.*
+
+---
+
+---
+
+# Appendix A — Bill 1: The Honest Government Act
+
+*Full drafted text as at v1.15. For reference, amendment, and legislative use. Released under CC-BY-SA 4.0.*
+
+---
+
 # Bill 1 — The Honest Government Act
 
 ## Preamble
@@ -694,3 +1350,214 @@ Where the proposed estimates include an appropriation below the floor establishe
 **(3)** Section 27 (Random Audit Program) comes into force 365 days after Royal Assent, with the first audit conducted in the first full fiscal year following commencement.
 
 **(4)** Except as otherwise provided in this section, this Act comes into force on Royal Assent.
+
+---
+
+# Appendix B — Bill 2: The Open Books Act
+
+*Full drafted text as at v1.15. For reference, amendment, and legislative use. Released under CC-BY-SA 4.0.*
+
+---
+
+# Bill 2 — The Open Books Act
+
+*Companion to Bill 1, the Honest Government Act*
+
+## Preamble
+
+**WHEREAS** the largest transfers of value from the Crown to private parties occur not through competitive procurement or open public contracting, but through legislative exceptions, regulatory approvals, concessional fiscal arrangements, and ministerial individual exemptions — decisions made in settings where competitive pressure and public scrutiny are weakest;
+
+**WHEREAS** public confidence in democratic institutions depends on transparency in the conferral of state advantage, and on visible equity in the application of state enforcement power;
+
+**WHEREAS** the accountability regime established by the *Honest Government Act* addresses the conduct of Ministers and officials but does not directly address the systemic conferral of privilege through legislation, regulation, and administrative discretion;
+
+**WHEREAS** a legislature that grants special advantage to a named party, a regulator that approves a major project, a Minister who reduces royalties or forgives debt, and an enforcement body that applies the law differentially across comparable parties are each points at which private benefit flows from public authority, and each should be accompanied by disclosure sufficient to support public accountability;
+
+**AND WHEREAS** this Act is intended to complement the *Honest Government Act* by extending transparency obligations to decision-making contexts where the executive, the regulatory state, or the legislature itself confers advantage on specific parties;
+
+**HIS MAJESTY**, by and with the advice and consent of the Legislative Assembly of Alberta, enacts as follows:
+
+---
+
+## Short Title
+
+**1.** This Act may be cited as the *Open Books Act*.
+
+---
+
+## Part 1 — Interpretation
+
+**2.** In this Act:
+
+**(a) "Commissioner"** has the meaning given in the Honest Government Act.
+
+**(b) "concessional arrangement"** means any arrangement by which the Crown, a public body, or a Crown corporation confers financial advantage on a specific party by reducing, forgiving, deferring, guaranteeing, or otherwise altering an obligation that party would otherwise owe, and includes royalty reductions, tax abatements, tax credits granted on an individual basis, loan guarantees, debt forgiveness, deferred payment arrangements, and other fiscal concessions, but does not include arrangements available to all parties meeting objective criteria established by statute or regulation of general application.
+
+**(c) "contribution threshold"** means the threshold for contribution disclosure prescribed by regulation under §28 of the Honest Government Act.
+
+**(d) "ISC" (individual with significant control)** has the meaning given in section 15 of the *Financial Administration Act* as amended by the Honest Government Act.
+
+**(e) "ministerial individual exemption"** means any decision by a Minister, or by an official acting on the delegated authority of a Minister, to grant a specific person or entity an exemption from, variation of, or relief from a requirement that would otherwise apply under a statute, regulation, or administrative policy of general application.
+
+**(f) "named-party legislation"** means any Bill introduced in the Legislative Assembly — whether a private Bill, a public Bill, or an amendment to a Bill — that confers benefit:
+
+(i) on one or more specifically named parties;
+
+(ii) on a class of parties so narrowly defined that the class effectively identifies five or fewer specific parties; or
+
+(iii) on a class of parties where, based on publicly available information at the time of introduction, a substantial majority of the benefit is reasonably expected to flow to five or fewer identifiable parties and the estimated financial value of that benefit to those parties exceeds the threshold prescribed by regulation under §28 of the *Honest Government Act*;
+
+but does not include:
+
+(iv) legislation available to all parties meeting objective criteria established by statute or regulation of general application, where the criteria are not designed to identify specific parties;
+
+(v) legislation whose primary stated purpose is the construction, improvement, or operation of public infrastructure, the delivery of a public service, or the implementation of a public benefit program, where any benefit to specific identifiable parties is incidental to and not the primary object of the legislation;
+
+(vi) legislation implementing the terms of a treaty, court order, arbitration award, settlement agreement, or constitutional obligation to which the Crown or the Government of Alberta is a party; or
+
+(vii) transitional or administrative legislation that identifies specific parties solely to modify, repeal, or give effect to an obligation or entitlement those parties already hold under existing law.
+
+**(g) "regulatory approval"** means a decision by a regulatory body, tribunal, board, commission, agency, or delegated authority under the law of Alberta to approve, license, permit, authorize, or exempt a specific project, transaction, facility, or activity of a specific person or entity.
+
+**(h) "regulatory body"** means any body, board, commission, tribunal, agency, or other authority established under the law of Alberta with power to grant regulatory approvals, and includes the Alberta Energy Regulator, the Alberta Utilities Commission, the Land and Property Rights Tribunal, and any successor or analogous body.
+
+**(i) Other definitions** from the Honest Government Act apply to this Act with necessary modifications.
+
+---
+
+## Part 2 — Disclosure Accompanying Named-Party Legislation
+
+**3(1)** Any named-party legislation introduced in the Legislative Assembly shall be accompanied, at the time of introduction, by a **Beneficiary Disclosure Statement** filed by the sponsoring Minister or Member, in the form prescribed by regulation.
+
+**(2)** The Beneficiary Disclosure Statement shall identify every person or entity that is expected to benefit directly from the legislation; for each beneficiary entity, every individual with significant control; for each beneficiary (whether natural person or ISC), contributions to any Alberta political party, constituency association, or candidate made within the preceding 48 months where such contributions exceed the contribution threshold; for each beneficiary that is an entity, any discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; a quantified estimate of the financial value of the benefit conferred by the legislation on each beneficiary, to the extent reasonably ascertainable; and, for public Bills with narrow application, an explanation of why the benefit is conferred through legislation of narrow application rather than through legislation of general application.
+
+**(3)** The Beneficiary Disclosure Statement shall be tabled at First Reading and published on the Legislative Assembly's website within 5 business days of filing.
+
+**(4)** No Bill subject to this section shall proceed past Second Reading without a complete Beneficiary Disclosure Statement on the record.
+
+**(5)** A Member may, at any reading, move that a Beneficiary Disclosure Statement be revised to correct material omissions or inaccuracies. Such a motion is debatable and amendable.
+
+**(6)** Where the Speaker determines, on application by any Member or on the Speaker's own motion, that a Bill falls within the definition of named-party legislation in §2(f), the Speaker shall direct the sponsor to file a Beneficiary Disclosure Statement. Sponsors may apply to the Speaker for advance ruling on whether a proposed Bill falls within the definition.
+
+**(7)** Nothing in this section requires disclosure of information subject to solicitor-client privilege, national security, or active law enforcement investigation. Where partial disclosure is provided on such grounds, the sponsor shall state the reasons for partial disclosure and make the complete Statement available to the Speaker in confidence.
+
+**(7A)** Any person whose personal information is included in a published Beneficiary Disclosure Statement may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Statement. The original Statement shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
+---
+
+## Part 3 — Disclosure Accompanying Regulatory Approvals
+
+**4(1)** Where a regulatory body grants a regulatory approval in respect of a project, transaction, facility, or activity whose estimated value exceeds the threshold prescribed by regulation, the regulatory body shall publish, within 10 business days of the approval, a **Proponent Disclosure Record** in the form prescribed by regulation.
+
+**(2)** The Proponent Disclosure Record shall identify the proponent entity; every individual with significant control of the proponent entity; for each ISC, contributions to any Alberta political party, constituency association, or candidate made within the preceding 48 months where such contributions exceed the contribution threshold; for the proponent entity, any discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; any entity under common control or common beneficial ownership with the proponent, as determined under §25(10) of the Honest Government Act, together with the same disclosure for such entities; and the estimated financial value of the regulatory approval to the proponent.
+
+**(3)** The Proponent Disclosure Record shall be published on the regulatory body's website and shall remain accessible for the duration of the approval's effect and for not less than 7 years thereafter.
+
+**(4)** Where the proponent is a publicly-traded entity, ISC disclosure may be satisfied by reference to the proponent's disclosure under applicable securities legislation, provided the securities disclosure meets or exceeds the requirements of this section.
+
+**(5)** Failure to publish a Proponent Disclosure Record, or material inaccuracy in a published Record, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act and may give rise to proceedings under Parts 3 and 8 of that Act.
+
+**(6)** This section does not affect the substantive criteria governing regulatory approvals and does not empower the Commissioner to review the merits of an approval. The Commissioner's jurisdiction under this section is limited to the completeness, accuracy, and timeliness of the Proponent Disclosure Record.
+
+**(7)** Where the regulatory body determines that full disclosure under this section would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or legitimate commercial confidence not otherwise subject to public disclosure under applicable law, the body may publish a partial Record with reasons, and shall deliver the complete Record to the Speaker in confidence.
+
+**(7A)** Any person whose personal information is included in a published Proponent Disclosure Record may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Record. The original Record shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
+---
+
+## Part 4 — Disclosure Accompanying Crown Concessional Arrangements
+
+**5(1)** Where the Crown, a public body, or a Crown corporation enters into a concessional arrangement with a specific party whose estimated value to the party exceeds the threshold prescribed by regulation, the authorizing Minister shall publish, within 30 days of execution, a **Concessional Arrangement Disclosure** in the form prescribed by regulation.
+
+**(2)** The Concessional Arrangement Disclosure shall identify the recipient party; every individual with significant control of a recipient entity; for each ISC, contributions within the preceding 48 months exceeding the contribution threshold; for the recipient, any other discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; the estimated financial value of the concession to the recipient, including assumptions and methodology; the reasons for the concession, including why the recipient was selected, why the concession was granted on the terms specified, and what public interest the concession serves; and any other concessional arrangement under this Part entered into by the same Minister within the preceding 24 months.
+
+**(3)** The Concessional Arrangement Disclosure shall be tabled in the Legislative Assembly forthwith, or delivered to the Speaker for tabling on the first sitting day thereafter, and published on a government website.
+
+**(4)** Concessional arrangements meeting the definition in §2(b) but available to all parties meeting objective statutory criteria of general application are not subject to this section.
+
+**(5)** Failure to publish, or material inaccuracy in the publication, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
+
+**(6)** Where the authorizing Minister determines that full disclosure would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or commercially sensitive information the disclosure of which would cause material harm to the recipient unrelated to the matters this Act is designed to illuminate, the Minister may publish a partial Disclosure with reasons, and shall deliver the complete Disclosure to the Speaker in confidence.
+
+**(6A)** Any person whose personal information is included in a published Concessional Arrangement Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
+---
+
+## Part 5 — Disclosure of Ministerial Individual Exemptions
+
+**6(1)** Every ministerial individual exemption whose estimated value to the recipient exceeds the threshold prescribed by regulation shall be accompanied by an **Individual Exemption Disclosure** in the form prescribed by regulation.
+
+**(2)** The Individual Exemption Disclosure shall identify the recipient; every individual with significant control where the recipient is an entity; for each ISC, contributions within the preceding 48 months exceeding the contribution threshold; the statute or regulation from which exemption is granted and the specific requirement exempted; the reasons for granting the exemption, including the public interest served; the estimated value of the exemption to the recipient; and aggregate data on prior ministerial individual exemptions granted by the same Minister within the preceding 24 months under the same statutory authority, including the total number, total estimated value, and any patterns in recipient characteristics.
+
+**(3)** The Individual Exemption Disclosure shall be published on a government website within 30 days of the exemption and shall remain accessible for the duration of the exemption and for not less than 7 years thereafter.
+
+**(4)** Ministerial individual exemptions granted under emergency authority in circumstances requiring urgent action may be published within 30 days of the expiration of the emergency circumstances, with the Minister required to table a report to the Legislative Assembly within 10 sitting days of such publication explaining the circumstances.
+
+**(5)** Failure to publish, or material inaccuracy in the publication, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
+
+**(5A)** Any person whose personal information is included in a published Individual Exemption Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
+---
+
+## Part 6 — Enforcement Equity Reporting
+
+**7(1)** The Auditor General, in collaboration with the Ethics Commissioner, shall prepare and publish annually an **Enforcement Equity Report** examining the enforcement activity of provincial regulatory bodies, administrative tribunals, and enforcement agencies.
+
+**(2)** The Enforcement Equity Report shall, for each regulatory body, tribunal, or enforcement agency examined, identify patterns in enforcement action across comparably-situated parties, including whether similarly-situated parties have been subject to similar enforcement outcomes; whether enforcement intensity correlates with any observable characteristic of parties including industry sector, size, political affiliation of ISCs or senior officers, recent contributions to Alberta political parties, or recent receipt of discretionary state benefit; any statistically significant disparities in enforcement outcomes that cannot be adequately explained by differences in the underlying conduct; and any patterns warranting further investigation under the Honest Government Act or referral to the appropriate law enforcement authority.
+
+**(3)** The Auditor General shall have access to the enforcement records and decision data of regulatory bodies, tribunals, and enforcement agencies sufficient to prepare the Report, subject to solicitor-client privilege, active law enforcement investigation constraints, and protection of third-party personal information under the *Protection of Privacy Act*.
+
+**(4)** The Report shall be tabled in the Legislative Assembly and published on the Auditor General's website. Patterns identified as warranting further investigation may be referred to the Ethics Commissioner for proceedings under the Honest Government Act.
+
+**(5)** Regulatory bodies, tribunals, and enforcement agencies shall provide the Auditor General with such information and cooperation as is reasonably necessary to prepare the Report. A failure to cooperate is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
+
+**(6)** The Report is a statistical and analytical document. Findings of pattern do not constitute findings against specific individuals or entities; such findings arise, if at all, through proceedings under the Honest Government Act or through referral to other competent authority.
+
+**(7) Phased implementation.** The first Enforcement Equity Report shall examine no fewer than three regulatory bodies, tribunals, or enforcement agencies, selected by the Auditor General based on elevated risk, transaction volume, or public-interest significance. Subsequent annual Reports shall expand coverage, achieving comprehensive examination of all provincial regulatory bodies, tribunals, and enforcement agencies within 5 years of the first Report. The Auditor General shall publish the selection methodology and the intended phase-in schedule at the time of the first Report.
+
+**(8) Communications log.** Each Enforcement Equity Report shall include a complete log of all communications received by the Auditor General from any Minister, Deputy Minister, senior official, or entity of the Crown regarding the scope, methodology, selection of bodies examined, or findings of the Report, identifying the date, sender, and substance of each communication. The log shall be complete regardless of whether communications were formal or informal, written or oral. The Auditor General shall characterize each logged communication as informational, advisory, or directive, with reasons, and that characterization shall be included in the log. The obligation to log applies to communications received at any time during the preparation of the Report, including in the period following delivery of draft findings. A nil return — confirming no such communications were received — is required where no communications occurred.
+
+---
+
+## Part 7 — Enforcement and Common Provisions
+
+**8(1) Cross-reference to Honest Government Act.** The following provisions of the Honest Government Act apply to conduct within the jurisdiction of the Commissioner under this Act, with necessary modifications, as if enacted in this Act:
+
+(a) the escalation framework in Part 3 (Public Report of Findings, Compliance Order, Certificate of Malfeasance);
+(b) the proportional penalty framework in §25, including the decline-tracking mechanism in §25(6) and the beneficial ownership determination authority in §25(10);
+(c) the good-faith defense in §26;
+(d) the review and appeal provisions in Part 8;
+(e) the quarterly compliance report obligation in §23, extended to include matters arising under this Act;
+(f) the resourcing and budget visibility provisions in §24;
+(g) the threshold and regulation-making authority in §28;
+(h) the cost recovery provisions in §29.
+
+**(2) Coordination with other statutes.** Nothing in this Act limits the application of the *Access to Information Act*, the *Conflicts of Interest Act*, the *Financial Administration Act*, or any other statute. Disclosure obligations under this Act are in addition to, and not in lieu of, disclosure obligations under any other statute.
+
+**(3) Complaints and investigation.** A person may file a complaint with the Commissioner alleging non-compliance with this Act. The Commissioner may investigate on complaint, on audit under §27 of the Honest Government Act (Random Audit Program, extended by this subsection to include obligations under this Act), or on the Commissioner's own initiative on reasonable grounds.
+
+**(4) Institutional deference.** This Act is intended to complement and not replace the work of the courts, criminal justice authorities, regulatory bodies, the Auditor General, and the Legislative Assembly. Nothing in this Act empowers the Commissioner to substitute administrative judgment for the substantive decisions of regulatory bodies, the Legislative Assembly, or Ministers acting within their lawful authority. The Commissioner's jurisdiction under this Act is limited to the transparency of those decisions, not their substance.
+
+---
+
+**8A. Annual named-party compliance assessment.** The Commissioner shall include in the annual report under §24(3) of the *Honest Government Act* an assessment of compliance with Part 2 of this Act, identifying: (a) every Bill introduced in the Legislative Assembly in the preceding year for which a Beneficiary Disclosure Statement was filed, with a note on whether the Statement was materially complete; (b) every Bill the Commissioner assesses as meeting the definition of named-party legislation under §2(f) for which no Beneficiary Disclosure Statement was filed, with the Commissioner's reasons for that assessment; and (c) any pattern of non-filing across the preceding three years. The assessment under paragraph (b) is the Commissioner's administrative opinion regarding the application of §2(f) to the named Bill; it does not constitute a ruling on a matter of parliamentary procedure and is without prejudice to any determination made by the Speaker. The Commissioner's assessment shall be tabled in the Legislative Assembly and published on the Commissioner's website.
+
+---
+
+## Part 8 — Statutory Review and Commencement
+
+### Statutory Review
+
+**9.** Within 5 years of commencement, the Minister responsible for the administration of this Act shall cause a comprehensive review of the operation of the Act to be conducted jointly with the review required under §30 of the Honest Government Act. The review shall assess the effectiveness of Parts 2 through 6 in illuminating systemic advantage conferred through legislation, regulation, concessional arrangement, and enforcement disparity; the administrative cost of the Act relative to the public interest served; the adequacy of the Enforcement Equity Report as a tool for identifying patterns warranting further investigation; any unintended consequences or gaps; and consult with the Commissioners, the Auditor General, public bodies, regulatory bodies, and affected members of the public, reporting findings with any recommendations for amendment to the Legislative Assembly.
+
+### Commencement
+
+**10(1)** The following provisions come into force 180 days after Royal Assent: §1 (Short Title); Part 1 (Interpretation); Parts 2, 3, 4, and 5 (Named-Party Legislation, Regulatory Approvals, Concessional Arrangements, and Ministerial Individual Exemptions); and Part 7 (Enforcement and Common Provisions).
+
+**(2)** Part 6 (Enforcement Equity Reporting) comes into force 365 days after Royal Assent. The first Enforcement Equity Report shall be published no later than 18 months after Royal Assent, covering the enforcement activity of the preceding fiscal year.
+
+**(3)** During the 180-day phase-in period, the Commissioner and the Auditor General may issue interim guidance. The Commissioner may, on application, grant time-limited extensions to regulatory bodies and public bodies demonstrating good-faith efforts toward compliance.
+
+**(4)** Obligations under Parts 2 through 5 apply only to named-party legislation introduced, regulatory approvals granted, concessional arrangements entered into, and ministerial individual exemptions made on or after the commencement of those respective Parts.
+
+**(5)** Except as otherwise provided, this Act comes into force on Royal Assent.

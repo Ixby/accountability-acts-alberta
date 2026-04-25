@@ -80,6 +80,8 @@ but does not include:
 
 **(7)** Nothing in this section requires disclosure of information subject to solicitor-client privilege, national security, or active law enforcement investigation. Where partial disclosure is provided on such grounds, the sponsor shall state the reasons for partial disclosure and make the complete Statement available to the Speaker in confidence.
 
+**(7A)** Any person whose personal information is included in a published Beneficiary Disclosure Statement may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Statement. The original Statement shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
 ---
 
 ## Part 3 — Disclosure Accompanying Regulatory Approvals
@@ -98,6 +100,8 @@ but does not include:
 
 **(7)** Where the regulatory body determines that full disclosure under this section would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or legitimate commercial confidence not otherwise subject to public disclosure under applicable law, the body may publish a partial Record with reasons, and shall deliver the complete Record to the Speaker in confidence.
 
+**(7A)** Any person whose personal information is included in a published Proponent Disclosure Record may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Record. The original Record shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
 ---
 
 ## Part 4 — Disclosure Accompanying Crown Concessional Arrangements
@@ -114,6 +118,8 @@ but does not include:
 
 **(6)** Where the authorizing Minister determines that full disclosure would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or commercially sensitive information the disclosure of which would cause material harm to the recipient unrelated to the matters this Act is designed to illuminate, the Minister may publish a partial Disclosure with reasons, and shall deliver the complete Disclosure to the Speaker in confidence.
 
+**(6A)** Any person whose personal information is included in a published Concessional Arrangement Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
 ---
 
 ## Part 5 — Disclosure of Ministerial Individual Exemptions
@@ -127,6 +133,8 @@ but does not include:
 **(4)** Ministerial individual exemptions granted under emergency authority in circumstances requiring urgent action may be published within 30 days of the expiration of the emergency circumstances, with the Minister required to table a report to the Legislative Assembly within 10 sitting days of such publication explaining the circumstances.
 
 **(5)** Failure to publish, or material inaccuracy in the publication, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
+
+**(5A)** Any person whose personal information is included in a published Individual Exemption Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 
 ---
 

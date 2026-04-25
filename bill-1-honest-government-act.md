@@ -211,6 +211,10 @@
 >
 > (ii) a resolution of the Legislative Assembly passed by not fewer than two-thirds of all Members present and voting.
 
+**(e)** by adding after subsection (3):
+
+> **(4)** Where the office of Ethics Commissioner is or becomes vacant and no appointment has been made under subsection (1) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Ethics Commissioner. The acting Commissioner serves until an appointment is made under subsection (1) and has all the powers and duties of the Ethics Commissioner during that period. An individual appointed under this subsection must meet the eligibility requirements in subsection (2.1). The Chief Justice shall publish written reasons for the appointment. Service as acting Commissioner does not count against the term limit in subsection (2) and does not affect eligibility for formal appointment under subsection (1).
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*

@@ -832,8 +832,8 @@ COVER_HTML = f"""<section class="cover" aria-label="Cover">
     <div class="cover-eyebrow">A drafted policy package &nbsp; {PUBLICATION_DATE}</div>
     <div class="cover-title-block">
       <h1 class="cover-title">
-        <span class="word word--top">Honest</span>
-        <span class="word word--bottom">Alberta</span>
+        <span class="word word--top">Rebuilding</span>
+        <span class="word word--bottom">Trust</span>
       </h1>
       <div class="cover-scaffold" aria-hidden="true">
         <span class="rung rung-5"></span>

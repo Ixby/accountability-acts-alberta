@@ -17,7 +17,7 @@ const { PDFDocument } = require('pdf-lib');
 
 const HEADER_BODY = `
   <div style="font-family: 'Inter', sans-serif; font-size: 8pt; color: #003f87; width: 100%; padding: 0 0.7in; margin-top: 0.35in; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 500; display: flex; justify-content: space-between;">
-    <span>Honest Alberta</span>
+    <span>Rebuilding Trust</span>
     <span></span>
   </div>`;
 const FOOTER_BODY = `

@@ -205,7 +205,7 @@ Bill 1 covers Ministers, senior officials, and Members of the Legislative Assemb
 
 ### Lobbying that actually has to register
 
-Alberta's current rule registers in-house lobbyists at 50 hours of lobbying activity per year. The threshold has produced a working answer for paid consultant lobbying: keep the clock low. The bill closes this for paid consultants. A consultant lobbyist registers regardless of time spent: from the moment money changes hands for the work, registration is required. For employees lobbying inside their own organization, the time threshold survives, because the alternative would force every employee who occasionally talks to government to register.
+Alberta's current rule registers in-house lobbyists at fifty hours of lobbying activity per year. The threshold has produced a working answer for paid consultant lobbying: keep the clock low. The bill closes this for paid consultants. A consultant lobbyist registers regardless of time spent: from the moment money changes hands for the work, registration is required. For employees lobbying inside their own organization, the threshold is restructured rather than removed. The bill replaces the fifty-hour annual clock with a twenty-percent-of-working-time-per-calendar-quarter test plus a position-description test: lobbying captured because it is structurally part of the job, not because somebody hit a stopwatch.
 
 Citizen advocates emailing their MLA are not captured. Volunteer advocates working through community organizations are not captured. The bill is explicit about this. It is aimed at paid persuasion that currently structures itself to avoid the registry.
 
@@ -239,7 +239,7 @@ Cabinet confidence is a real and important constitutional principle. Decisions i
 
 It can also become a shield wider than its purpose. In the SNC-Lavalin matter, the federal Ethics Commissioner reported that nine witnesses were constrained from giving him their full evidence because the Privy Council Clerk had refused to broaden the Cabinet confidence waiver. The Commissioner reached findings without complete evidence.
 
-Bill 1 amends Alberta's Access to Information Act to draw a sharper line. Factual, statistical, and operational data (what a program cost, how many people received a benefit, what the timeline of events was) is no longer protected by Cabinet confidence in the same way. Deliberative content, what a minister actually said in cabinet, remains protected. The line is not perfect; it will be litigated. The current line is too wide for the accountability function to operate.
+Bill 1 amends Alberta's Access to Information Act to draw a sharper line. Factual, statistical, and operational data (what a program cost, how many people received a benefit, what the timeline of events was) is no longer protected by Cabinet confidence in the same way. Deliberative content, what a minister actually said in cabinet, remains protected. The amendment also flips two specific document classes from default-secret to default-disclose: Treasury Board Decision Summaries within 180 days of execution, and Ministerial Mandate Letters at session end or eighteen months, whichever is sooner. Withholdings are recorded in a public register. The line is not perfect; it will be litigated. The current line is too wide for the accountability function to operate.
 
 ### Decisions that have to be written down
 
@@ -261,7 +261,7 @@ ISC is shorthand for a defined term in federal corporate law. It means the natur
 
 In plain language: *who actually owns this.*
 
-Where the contract is large enough, the awarding body cross-references the ISC return against the political contributions registry. If an ISC has personally made political contributions above a match threshold within the previous four years, the award is paused for the Commissioner to review. The Commissioner can clear, condition, or recommend setting aside.
+Where the contract is large enough, the awarding body cross-references the ISC return against the political contributions registry. If an ISC has personally made political contributions above a match threshold within the previous four years, or holds executive office in a registered party, the match is referred to the Commissioner. The Commissioner conducts an initial review within ten business days; only if a potential substantive conflict is identified is the award stayed for a further twenty business days for full investigation. The Commissioner can clear, condition, or recommend setting aside.
 
 The cross-reference is not a ban. The Act is explicit: a bidder is not excluded from public contracts because of an ISC's contribution history. The cross-reference triggers a review, the connection becomes a public record, and the procurement decision is then made with that record visible.
 
@@ -273,7 +273,7 @@ The bill includes an identity-consistency requirement that prevents the same per
 
 ### Cooling-off that respects public service
 
-Former Ministers cannot, for eighteen months after leaving office, take board seats or paid roles with firms that won discretionary contracts during their tenure.
+Former Ministers and senior officials cannot, for eighteen months after leaving office, take board seats or paid roles with firms that received a discretionary provincial contract or grant above threshold during their tenure, where the official had direct or indirect decision-making authority over that contract or grant.
 
 The eighteen-month period balances two real concerns. A revolving door, Minister leaves cabinet on Friday and takes a seat on the board of a regulated company on Monday, corrodes public trust. A bar that lasts too long pushes good people out of public service for fear of what comes after.
 
@@ -285,11 +285,11 @@ The Public Interest Disclosure Act in its current form requires whistleblowers t
 
 The bill reverses the burden, in line with the burden-shifting framework established by *Ontario Human Rights Commission v Simpsons-Sears* and refined in *Moore v British Columbia (Education)*. Once an employee establishes that a protected disclosure was made and an adverse employment action followed within twenty-four months, the employer must prove, on a balance of probabilities, that the adverse action was unrelated to the disclosure. The burden goes where the evidence lives.
 
-There is also personal liability for managers who retaliate in bad faith, capped at six months of compensation, not indemnifiable by the Crown or by any insurance arrangement funded with public money.
+There is also personal liability for managers who direct, authorize, or carry out a reprisal in bad faith or with knowledge that the action is a reprisal — capped at six months of compensation or a regulatory amount, whichever is less, and not indemnifiable from public funds.
 
 The bill creates a preservation order authority. When a disclosure is made and an investigation commenced, the Commissioner can freeze the documentary record and the employment status of complainants and witnesses pending determination. Status quo, not reinstatement. Records cannot be destroyed; the people involved cannot be fired in the meantime. Disclosure protection was strong; evidence preservation was absent. This closes the gap.
 
-A safe harbour exists for direct disclosure to MLAs or journalists when internal channels have failed, where there is imminent risk to public health or safety, or where the Commissioner has declined to investigate. The conditions are tight, and they should be: most disclosures should still go through internal channels first.
+A safe harbour exists for direct disclosure to MLAs or journalists under any of four conditions: where there is imminent risk to public health or safety; where the discloser reasonably believes internal disclosure will trigger destruction or alteration of evidence; where prior protected disclosure has met retaliation; or where the Commissioner has declined to investigate or has not commenced within sixty days. The conditions are tight, and they should be: most disclosures should still go through internal channels first.
 
 ### Penalties that aren't ruinous to the poor or trivial to the rich
 
@@ -341,7 +341,7 @@ Some bills are general: they apply to everyone meeting objective criteria. Other
 
 Bill 2 requires a **Beneficiary Disclosure Statement** for any bill whose benefits are concentrated on a small number of parties. The Statement names the beneficiaries, discloses contribution history above the relevant threshold within the previous four years, and identifies any other discretionary state benefits (contracts, regulatory approvals, concessional arrangements) received within the same period. It quantifies the financial value of the legislation to each beneficiary, where reasonably ascertainable.
 
-The Statement is filed at First Reading and published within five business days. No bill subject to the section can proceed past Second Reading without a complete Statement on the record. The definition of "named-party legislation" uses a five-or-fewer-parties test, plus a financial-value threshold to exclude trivial cases, plus four safe harbours for legitimate narrow legislation: implementing a treaty or court order, public infrastructure where any private benefit is incidental, transitional legislation giving effect to existing entitlements, and legislation available to all parties meeting objective general criteria.
+The Statement is filed at First Reading and published within five business days. No bill subject to the section can proceed past Second Reading without a complete Statement on the record. The Speaker can determine on application or own motion that a Bill falls within the definition; sponsors can apply for advance ruling. The definition of "named-party legislation" uses a five-or-fewer-parties test, plus a financial-value threshold to exclude trivial cases, plus four safe harbours for legitimate narrow legislation: implementing a treaty or court order, public infrastructure where any private benefit is incidental, transitional legislation giving effect to existing entitlements, and legislation available to all parties meeting objective general criteria. Material protected by solicitor-client privilege, national security, or active law enforcement investigation can be filed in confidence with the Speaker rather than published.
 
 ### Regulatory approvals that disclose their proponents
 
@@ -357,7 +357,7 @@ Royalty reductions, tax abatements, loan guarantees, debt forgiveness, deferred 
 
 What they have in common is invisibility. A royalty reduction worth $40 million to a specific company doesn't show up where a $40 million procurement contract would. There is no common public register.
 
-Bill 2 changes that. Every concessional arrangement above a threshold gets a **Concessional Arrangement Disclosure**: recipient, ISCs, contribution history, other state benefits received, estimated financial value, and the reasons for the concession, including why this recipient was selected and what public interest the arrangement serves. Tabled in the Legislative Assembly and published.
+Bill 2 changes that. Every concessional arrangement above a threshold gets a **Concessional Arrangement Disclosure**: recipient, ISCs, contribution history, other state benefits received, estimated financial value, and the reasons for the concession, including why this recipient was selected and what public interest the arrangement serves. Published on a government website within thirty days of execution and tabled in the Legislative Assembly.
 
 Arrangements available to everyone meeting objective criteria (a tax credit available to all qualifying businesses, a grant program with published eligibility) are excluded.
 
@@ -369,7 +369,7 @@ Bill 2 requires an **Individual Exemption Disclosure** for every ministerial exe
 
 The pattern matters as much as the individual case. A Minister who has granted thirty individual exemptions in two years under a statute that contemplated rare exceptions is operating differently from a Minister who has granted three. Both might be defensible. Both should be visible.
 
-> **Applied to the Turkish Tylenol procurement.** This is the provision that addresses the unreasoned emergency procurement. The disclosure would not have prevented the emergency action. Emergency authority survives, with a reporting window after the emergency. What it would have done is require contemporaneous written reasoning: why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. *Scenario analysis, not prediction.*
+> **Applied to the Turkish Tylenol procurement.** Disclosure obligations under §6 would have applied if the decision was characterized as exempting a specific party from a rule of general application; the timing exemption at §6(4) defers publication until after the emergency expires, preserving the executive's ability to act quickly. The provision that would have actually required reasoning *at the moment* the decision was made is the duty to document at Bill 1 §14A — it has no emergency carve-out. Together, the duty to document plus the eventual disclosure would have required a written, contemporaneous record of why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. *Scenario analysis, not prediction.*
 
 ### The Enforcement Equity Report
 
@@ -476,11 +476,10 @@ The bills were drafted to be used.
 
 # Appendix A — Bill 1: The Honest Government Act
 
-*Full drafted text as at v1.16. Released under CC-BY-SA 4.0.*
+*Full drafted text. Released under CC-BY-SA 4.0.*
 
 ---
 
-# Bill 1 — The Honest Government Act
 
 ## Preamble
 
@@ -1181,11 +1180,10 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 # Appendix B — Bill 2: The Open Books Act
 
-*Full drafted text as at v1.16. Released under CC-BY-SA 4.0.*
+*Full drafted text. Released under CC-BY-SA 4.0.*
 
 ---
 
-# Bill 2 — The Open Books Act
 
 *Companion to Bill 1, the Honest Government Act*
 
@@ -1384,9 +1382,10 @@ but does not include:
 
 # Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail
 
+*Source companion document. The aggregate $5M figure is a drafter's estimate, not Treasury Board analysis.*
+
 ---
 
-# Costing Document — Honest Government and Open Books Acts
 
 *Companion document to the drafted legislation.*
 
@@ -1588,9 +1587,10 @@ A serious tabling of these bills would benefit from independent fiscal validatio
 
 # Appendix D — moral-defence.md: Philosophical case and objections
 
+*Source companion document.*
+
 ---
 
-# The Moral and Formal Case for the Honest Government and Open Books Acts
 
 *Companion document to the drafted legislation.*
 
@@ -1738,9 +1738,10 @@ That is the invitation.
 
 # Appendix E — red-team.md: Adversarial failure-mode analysis
 
+*Source companion document.*
+
 ---
 
-# Red Team — Adversarial Analysis of the Honest Government and Open Books Acts
 
 *Companion document to the drafted legislation.*
 
@@ -2010,9 +2011,10 @@ This residual risk list is partial. People with different priors will find failu
 
 # Appendix F — legislative-cross-reference.md: Mapping against existing Alberta statutes
 
+*Source companion document.*
+
 ---
 
-# Legislative Cross-Reference
 ## Honest Government Act & Open Books Act vs. Existing Alberta Legislation
 
 **Version:** 1.0 — April 24, 2026
@@ -2265,9 +2267,10 @@ FOIP was repealed June 11, 2025. Any Bill references to "FOIP" or "Freedom of In
 
 # Appendix G — policy-recommendations.md: Recommended starting values for thresholds
 
+*Source companion document.*
+
 ---
 
-# Policy Recommendations — Starting Regulatory Values
 
 *Companion document to the Honest Government and Open Books Acts.*
 

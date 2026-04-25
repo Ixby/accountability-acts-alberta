@@ -97,27 +97,65 @@ body {
 .cover-title .word { display: block; }
 .cover-title .word--top { margin-bottom: 0.04em; }
 
-/* Five wheat-gold rungs of decreasing length stacked beneath the title
-   — short at the bottom, long at the top — reading as a ladder being
-   climbed UP TO the title above. The longest rung sits directly under
-   the title (the rung you reach when you arrive). */
+/* Five wheat-gold rungs forming a forced-perspective scaffold beneath
+   the title. The longest rung sits farthest from the viewer (top, near
+   the title); each successive rung is shorter, thicker, and more
+   saturated, layered in front of the rung above it. The shorter
+   foreground rungs partially overlap the longer ones behind without
+   covering them — the unobscured ends remain visible, preserving the
+   sense of depth and proportionality. The eye reads the stack as
+   looking up a ladder from below. */
 .cover-scaffold {
+  position: relative;
   margin: 1.2em 0 1.6em;
-  display: flex;
-  flex-direction: column-reverse;
-  gap: 0.55em;
+  height: 56px;
 }
 .cover-scaffold .rung {
+  position: absolute;
+  left: 0;
   display: block;
-  height: 2px;
-  background: #f2a900;
   border: none;
+  background: #f2a900;
 }
-.cover-scaffold .rung-1 { width: 14%; }
-.cover-scaffold .rung-2 { width: 26%; }
-.cover-scaffold .rung-3 { width: 40%; }
-.cover-scaffold .rung-4 { width: 58%; }
-.cover-scaffold .rung-5 { width: 80%; }
+/* Top rung — farthest from viewer, closest to the title above.
+   Longest, thinnest, most faded. */
+.cover-scaffold .rung-5 {
+  top: 0;
+  width: 80%;
+  height: 1px;
+  opacity: 0.4;
+  z-index: 1;
+}
+.cover-scaffold .rung-4 {
+  top: 9px;
+  width: 58%;
+  height: 2px;
+  opacity: 0.65;
+  z-index: 2;
+}
+.cover-scaffold .rung-3 {
+  top: 19px;
+  width: 40%;
+  height: 3px;
+  background: #f2a900;
+  z-index: 3;
+}
+.cover-scaffold .rung-2 {
+  top: 30px;
+  width: 26%;
+  height: 4px;
+  background: #e69d00;
+  z-index: 4;
+}
+/* Bottom rung — closest to viewer, foreground.
+   Shortest, thickest, deepest saturation. */
+.cover-scaffold .rung-1 {
+  top: 42px;
+  width: 14%;
+  height: 5px;
+  background: #d99100;
+  z-index: 5;
+}
 
 .cover-subtitle {
   font-family: "Source Serif 4", Georgia, serif;
@@ -791,7 +829,7 @@ def slugify(text):
 
 COVER_HTML = f"""<section class="cover" aria-label="Cover">
   <div class="cover-inner">
-    <div class="cover-eyebrow">A drafted policy package &middot; {PUBLICATION_DATE}</div>
+    <div class="cover-eyebrow">A drafted policy package &nbsp; {PUBLICATION_DATE}</div>
     <div class="cover-title-block">
       <h1 class="cover-title">
         <span class="word word--top">Honest</span>

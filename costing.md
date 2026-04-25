@@ -60,7 +60,7 @@ Total technology:
 
 ### Court confirmation and legal support
 
-**Commissioner legal support:** $200,000 to $400,000 annually. Assisting with court confirmation proceedings for large penalties under §22(5), defending beneficial ownership determinations, responding to judicial review applications.
+**Commissioner legal support:** $200,000 to $400,000 annually. Assisting with court confirmation proceedings for large penalties under §22(5)(a) (non-Member respondents), defending beneficial ownership determinations, responding to judicial review applications.
 
 **Dedicated Court of King's Bench time (cost-shared with respondents):** approximately $100,000 to $200,000 in provincial overhead. The Chief Justice may designate a rotation or panel under §22(5). Actual court cost is low but real.
 
@@ -108,9 +108,7 @@ For each of three recent Alberta cases, the analysis identifies which provisions
 
 **Counterfactual:** The bills do not prevent the lab privatization. They create pressure at the contract-signing stage and at each subsequent decision point. Public disclosure of decision rationale at the time of decision creates political cost for any decision that lacks substantive justification.
 
-**Estimated savings range:** $10 to $30 million reduction in buyback exposure under conservative assumptions. The full $109 million loss is difficult to fully eliminate because some buyback was likely unavoidable given AHS lab restart requirements once DynaLIFE's insolvency was confirmed. The estimate reflects the drafter's judgment about how disclosure pressure would have shaped earlier decision points; reasonable analysts could disagree.
-
-**Confidence:** Low to moderate. The provisions clearly engage at relevant decision points; whether the resulting transparency would have changed political behavior is the uncertain part.
+The provisions clearly engage at relevant decision points. Whether transparency at those points would have changed political behaviour is a counterfactual this analysis declines to put a number on.
 
 ### Turkish children's Tylenol
 
@@ -125,9 +123,7 @@ For each of three recent Alberta cases, the analysis identifies which provisions
 
 **Counterfactual:** The emergency nature of the purchase is real and the bills accommodate emergency action. What changes is that the decision rationale becomes public within 30 days of the emergency ending, with the Minister responsible answerable for the specific decisions made — minimum order of 5 million bottles, $14 per bottle premium pricing, lower-concentration formulation requiring additional pharmacist education. Documented questions become answerable at the time the decision is made rather than years later.
 
-**Estimated savings range:** $20 to $40 million reduction in waste under conservative assumptions. The $80 million purchase itself might still occur given genuine shortage urgency; the unused inventory is the reducible component. The estimate reflects the drafter's judgment that earlier scrutiny of formulation specifications and order quantity would have produced a smaller, more usable order.
-
-**Confidence:** Low to moderate. The provisions clearly engage; whether the disclosure pressure would have changed the procurement structure under emergency conditions is uncertain.
+The provisions clearly engage. Whether disclosure pressure under emergency conditions would have changed the procurement structure is a counterfactual this analysis declines to put a number on.
 
 ### Canadian Energy Centre
 
@@ -141,25 +137,21 @@ For each of three recent Alberta cases, the analysis identifies which provisions
 
 **Counterfactual:** This is the case where the proposed regime most directly addresses the failure mode. The private corporation structure designed to avoid FOIP would no longer work, because §13 pierces the Cabinet-confidence and private-corporation veils for factual and operational data. Public access to the CEC's activities, budget, and communications outputs becomes legally enforceable. Whether public scrutiny would have constrained budget growth or changed the agency's mandate is harder to predict — public scrutiny doesn't always produce restraint.
 
-**Estimated savings range:** $20 to $50 million cumulative over the agency's operational period under conservative assumptions, through reduced budget growth, improved focus on activities that can withstand scrutiny, or accelerated wind-down. Alternatively, the entity might not have been created in its specific private-corporation form because the FOIP-avoidance advantage no longer existed.
-
-**Confidence:** Moderate to high — the §13 amendment is a direct structural response to the precise mechanism that made the CEC's FOIP-avoidance possible. The savings figure is more uncertain than the structural fit.
+The §13 amendment is a direct structural response to the precise mechanism that made the CEC's FOIP-avoidance possible. Whether public scrutiny would have constrained budget growth, changed the agency's mandate, or prevented its creation in that form is a counterfactual this analysis declines to put a number on.
 
 ### Aggregate scenario analysis
 
-Three example cases, drafter's estimated savings ranges:
+Three example cases, showing the scale of what the regime is designed to illuminate:
 
-| Case | Estimated cost to taxpayers | Drafter's estimated savings range | Confidence |
-|---|---|---|---|
-| DynaLIFE | up to $109M (AG estimate) | $10–30M | Low to moderate |
-| Turkish Tylenol | $80M | $20–40M | Low to moderate |
-| Canadian Energy Centre | $50–100M lifetime estimated | $20–50M | Moderate to high |
+| Case | Estimated cost to taxpayers | Annual cost of proposed regime |
+|---|---|---|
+| DynaLIFE | up to $109M (AG estimate) | ~$5M |
+| Turkish Tylenol | $80M | ~$5M |
+| Canadian Energy Centre (lifetime) | estimated $50–100M | ~$5M |
 
-Five-year regime cost: approximately $25 million cumulative (year-one ramp-up plus four years of steady state).
+Each of these single events cost taxpayers 10 to 20 times the proposed regime's annual operating cost. Whether the regime would have prevented any of them is a counterfactual question this analysis declines to answer with false precision. The honest claim is structural: a regime of this kind creates conditions under which decisions of this size face scrutiny at the point they are made, rather than years later through buybacks, FOIP requests, or leaked documents.
 
-Five-year captured savings at midpoint of ranges: approximately $50 to $80 million.
-
-Net positive return under midpoint assumptions: $25 to $55 million over five years. The estimate carries substantial uncertainty in both directions. Reasonable analysts could conclude the savings are smaller (or non-existent if the regime fails to operate as intended), or larger (if multiple events in any five-year window triggered prevention). The case is more about structural conditions the regime creates than about specific dollar prediction.
+Five-year regime cost: approximately $25 million cumulative (year-one ramp-up plus four years of steady state). Whether that cost is justified depends on how one values the structural conditions the regime creates — a question for the reader, not for drafter assertion.
 
 ## Comparison to peer jurisdictions
 
@@ -195,7 +187,7 @@ The higher per-capita figure reflects the regime's substantive expansion beyond 
 
 ## Conclusion
 
-The $5 million annual steady-state estimate is the drafter's midpoint of a $3 to $6 million operational range. The scenario analysis suggests that, under conservative counterfactual assumptions, the regime could be cost-justified by a single prevention event of the scale Alberta has experienced in recent years. Whether prevention actually materializes in operation is a separate question; the analysis here describes structural conditions, not guaranteed outcomes.
+The $5 million annual steady-state estimate is the drafter's midpoint of a $3 to $6 million operational range. The scenario analysis describes which provisions would have engaged in each case and at what decision points — it does not estimate what the regime would have saved. Each of the three example cases cost taxpayers 10 to 20 times the annual operating cost of the proposed regime. Whether that scale comparison justifies the cost is for the reader to judge.
 
 Comparison to peer Canadian jurisdictions places the cost scale in the same range as comparable oversight bodies, with a higher per-capita rate explained by the regime's substantive expansion beyond traditional Canadian oversight practice.
 

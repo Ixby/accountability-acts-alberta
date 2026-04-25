@@ -38,7 +38,23 @@
 
 **(e) "ministerial individual exemption"** means any decision by a Minister, or by an official acting on the delegated authority of a Minister, to grant a specific person or entity an exemption from, variation of, or relief from a requirement that would otherwise apply under a statute, regulation, or administrative policy of general application.
 
-**(f) "named-party legislation"** means any Bill introduced in the Legislative Assembly — whether a private Bill, a public Bill, or an amendment to a Bill — that confers benefit on one or more specifically named parties; on a class of parties so narrowly defined that the class effectively identifies one or a small number of specific parties; or on a class of parties where, based on publicly available information at the time of introduction, a substantial majority of the benefit is reasonably expected to flow to a small number of identifiable parties.
+**(f) "named-party legislation"** means any Bill introduced in the Legislative Assembly — whether a private Bill, a public Bill, or an amendment to a Bill — that confers benefit:
+
+(i) on one or more specifically named parties;
+
+(ii) on a class of parties so narrowly defined that the class effectively identifies five or fewer specific parties; or
+
+(iii) on a class of parties where, based on publicly available information at the time of introduction, a substantial majority of the benefit is reasonably expected to flow to five or fewer identifiable parties and the estimated financial value of that benefit to those parties exceeds the threshold prescribed by regulation under §28 of the *Honest Government Act*;
+
+but does not include:
+
+(iv) legislation available to all parties meeting objective criteria established by statute or regulation of general application, where the criteria are not designed to identify specific parties;
+
+(v) legislation whose primary stated purpose is the construction, improvement, or operation of public infrastructure, the delivery of a public service, or the implementation of a public benefit program, where any benefit to specific identifiable parties is incidental to and not the primary object of the legislation;
+
+(vi) legislation implementing the terms of a treaty, court order, arbitration award, settlement agreement, or constitutional obligation to which the Crown or the Government of Alberta is a party; or
+
+(vii) transitional or administrative legislation that identifies specific parties solely to modify, repeal, or give effect to an obligation or entitlement those parties already hold under existing law.
 
 **(g) "regulatory approval"** means a decision by a regulatory body, tribunal, board, commission, agency, or delegated authority under the law of Alberta to approve, license, permit, authorize, or exempt a specific project, transaction, facility, or activity of a specific person or entity.
 

@@ -127,7 +127,7 @@ For each iteration after the first, the brief to each expert should explicitly c
 
 ## File and tool layout
 
-For the Alberta accountability brief, the canonical files are at `C:\Users\email\AppData\Local\Temp\accountability-acts-alberta\`:
+For the Alberta accountability brief, the canonical files are at `C:\Users\email\Documents\Claude\Projects\accountability-acts-alberta\`:
 
 - `policy-brief.md` — the assembled manuscript (narrative + 7 appendices).
 - `policy-brief.html` — rendered single-page HTML (built from policy-brief.md).
@@ -142,15 +142,15 @@ The rebuild command, run after the narrative is updated:
 
 ```bash
 {
-  cat /tmp/accountability-acts-alberta/narrative-vN.md
+  cat /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/narrative-vN.md
   echo ""; echo "---"; echo ""
   echo "# Appendix A — Bill 1: The Honest Government Act"
   echo ""; echo "*Full drafted text. Released under CC-BY-SA 4.0.*"
   echo ""; echo "---"; echo ""
-  cat /tmp/accountability-acts-alberta/bill-1-honest-government-act.md
+  cat /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/bill-1-honest-government-act.md
   # ... and so on for B through G
-} > /tmp/accountability-acts-alberta/policy-brief.md
-cd /tmp/accountability-acts-alberta && python build-policy-brief-html.py
+} > /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/policy-brief.md
+cd /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta && python build-policy-brief-html.py
 ```
 
 ---

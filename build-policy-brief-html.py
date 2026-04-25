@@ -350,17 +350,90 @@ table td:nth-child(3) {
   margin: 0.3em 0 0.5em;
   font-size: 0.94em;
 }
-.toc li { margin: 0.32em 0; }
+.toc li { margin: 0.55em 0; }
+.toc li.toc-part {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.toc li.toc-appendix {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.98rem;
+  font-style: italic;
+  margin-top: 0.85em;
+}
+.toc li.toc-appendix:first-of-type {
+  margin-top: 1.6em;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--rule);
+}
 .toc a {
   color: var(--ink);
   text-decoration: none;
-  border-bottom: 1px dotted var(--rule);
+  border-bottom: 1px dotted transparent;
   transition: all 0.15s;
 }
 .toc a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
   border-bottom-style: solid;
+}
+
+/* ===== Bill text — statutory typography ===== */
+
+.bill-text {
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+.bill-text h2 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  text-transform: none;
+  margin-top: 2.4em;
+}
+.bill-text h2::before {
+  width: 1.8rem;
+  background: var(--accent-soft);
+}
+.bill-text h3 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.bill-text blockquote {
+  background: transparent;
+  border-left: 2px solid var(--rule);
+  margin: 0.8em 0;
+  padding: 0.4em 1.2em;
+  font-size: 0.96em;
+  color: var(--ink);
+}
+
+/* ===== At a glance — promoted block ===== */
+
+.at-a-glance-block {
+  margin: 3em 0 2em;
+}
+.at-a-glance-block h2 {
+  margin-top: 0;
+}
+.at-a-glance-block table {
+  margin-top: 1em;
+}
+.at-a-glance-block table td:nth-child(2),
+.at-a-glance-block table td:nth-child(3) {
+  font-feature-settings: "lnum", "tnum";
+  font-weight: 600;
+}
+.at-a-glance-block table td:last-child {
+  font-style: italic;
+  color: var(--ink-soft);
 }
 
 /* ===== Heading anchors ===== */
@@ -472,9 +545,15 @@ h4:hover .heading-anchor { opacity: 1; }
 @media print {
   html, body { background: white; }
   body {
-    font-size: 11pt;
+    font-size: 10.5pt;
     line-height: 1.5;
     color: var(--ink);
+    orphans: 3;
+    widows: 3;
+  }
+  p, li, blockquote {
+    orphans: 3;
+    widows: 3;
   }
   .site-header, .site-footer, .heading-anchor, .back-to-top {
     display: none !important;
@@ -485,44 +564,109 @@ h4:hover .heading-anchor { opacity: 1; }
   }
   .cover {
     page-break-after: always;
-    min-height: 9.4in;
+    min-height: 9.6in;
     border: none;
     background: var(--paper);
-    padding: 1.2in 0.9in 0.9in;
+    padding: 2in 0.9in 1in;
   }
-  .cover-title { font-size: 38pt; }
-  .cover-subtitle { font-size: 14pt; }
-  .toc { page-break-after: always; }
+  .cover-title { font-size: 40pt; line-height: 1.04; }
+  .cover-subtitle { font-size: 13pt; max-width: 30ch; }
+  .toc {
+    page-break-after: always;
+    page-break-inside: avoid;
+    border: none;
+    padding: 1.5in 0 0 0;
+    background: transparent;
+  }
+  .toc::before { display: none; }
+  .toc h2 {
+    font-size: 9pt;
+    margin: 0 0 1.4em;
+    color: var(--accent);
+  }
+  .toc li.toc-part { font-size: 12pt; margin: 0.45em 0; }
+  .toc li.toc-appendix { font-size: 11pt; margin-top: 0.6em; }
   h1 {
     page-break-before: always;
     page-break-after: avoid;
     font-size: 22pt;
-    border-bottom-width: 1.5pt;
+    border-bottom-width: 0.6pt;
+    padding-bottom: 0.3em;
   }
+  /* Allow the document title H1 not to force a page break — it's on the cover. */
   h1:first-of-type, .cover + main h1:first-of-type {
     page-break-before: avoid;
   }
+  /* Don't double-stack rules when H2 follows H1 immediately */
+  h1 + h2 { margin-top: 0.8em; }
   h2 {
     page-break-after: avoid;
-    font-size: 14pt;
-    margin-top: 1.6em;
+    font-size: 13pt;
+    margin-top: 1.8em;
   }
-  h2::before { width: 1.8em; }
+  h2::before { width: 1.8em; height: 1.5pt; margin-bottom: 0.7em; }
   h3 {
     page-break-after: avoid;
-    font-size: 12pt;
+    font-size: 11pt;
+    margin-top: 1.4em;
   }
-  blockquote, table, pre, .display-cost, .pull-quote {
+  /* Statutory text — denser and visually distinct */
+  .bill-text {
+    font-size: 9.5pt;
+    line-height: 1.4;
+  }
+  .bill-text h2 {
+    font-size: 10.5pt;
+    color: var(--accent);
+    text-transform: none;
+    margin-top: 1.6em;
+  }
+  .bill-text h3 {
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+  }
+  .bill-text blockquote {
+    margin: 0.5em 0;
+    padding: 0.3em 1em;
+    font-size: 9pt;
+    border-left-width: 1pt;
+    border-color: var(--rule);
+  }
+  blockquote, table, pre, .display-cost, .pull-quote, .at-a-glance-block table {
     page-break-inside: avoid;
+  }
+  .at-a-glance-block {
+    page-break-before: always;
+    page-break-after: always;
+    padding-top: 1in;
+  }
+  .at-a-glance-block h2 {
+    font-size: 11pt;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+  }
+  .at-a-glance-block h2::before { display: none; }
+  .at-a-glance-block table {
+    margin-top: 0.8in;
+    font-size: 11.5pt;
+  }
+  .at-a-glance-block table td {
+    padding: 0.85em 0.9em;
+  }
+  .at-a-glance-block table td:nth-child(2) {
+    font-size: 14pt;
+    color: var(--accent);
+    font-weight: 700;
   }
   a {
     color: var(--ink);
     text-decoration: none;
     border-bottom: none;
   }
-  a[href^="http"]:after {
-    content: "";
-  }
+  a[href^="http"]:after { content: ""; }
   table th {
     border-top: 1.5pt solid var(--ink);
     border-bottom: 0.75pt solid var(--ink);
@@ -532,7 +676,15 @@ h4:hover .heading-anchor { opacity: 1; }
     border-bottom: 1.5pt solid var(--ink);
   }
   .display-cost {
-    font-size: 36pt;
+    font-size: 56pt;
+    margin-top: 0.6in;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.025em;
+  }
+  .display-cost-label {
+    margin-bottom: 0.6in;
+    font-size: 9pt;
+    letter-spacing: 0.28em;
   }
   .pull-quote {
     font-size: 14pt;
@@ -540,7 +692,7 @@ h4:hover .heading-anchor { opacity: 1; }
   }
   blockquote {
     background: transparent;
-    border-left-width: 2pt;
+    border-left-width: 1.5pt;
   }
 }
 """
@@ -561,7 +713,6 @@ COVER_HTML = f"""<section class="cover" aria-label="Cover">
     <hr class="cover-rule" />
     <div class="cover-meta">
       <span class="meta-line"><span class="meta-label">The package</span> The Honest Government Act &amp; The Open Books Act</span>
-      <span class="meta-line"><span class="meta-label">Drafted by</span> a private citizen of Alberta</span>
       <span class="meta-line"><span class="meta-label">Released</span> Creative Commons Attribution-ShareAlike 4.0</span>
       <span class="meta-line"><span class="meta-label">Source</span> <a href="{REPO_URL}">{REPO_URL.replace('https://','')}</a></span>
     </div>
@@ -626,30 +777,41 @@ def build():
         body_html,
     )
 
-    # Build hierarchical TOC. Treat the very first h1 (document title) specially.
-    toc_entries = headings
-    if toc_entries and toc_entries[0][0] == 1:
-        toc_entries = toc_entries[1:]
+    # Build a tight, reader-facing TOC.
+    # Rules:
+    #   - Skip the document title (first h1).
+    #   - Narrative (Parts I–VII): include only h2 (Part headings).
+    #   - Appendices (h1 starting with "Appendix"): include the H1 only.
+    #     Do NOT include the bill's internal Parts/sections in the TOC —
+    #     they have their own internal navigation inside each appendix.
+    #   - Skip the "At a glance" / "A note" interjections.
+    skip_in_toc = {"a note from the drafter", "at a glance"}
+    toc_entries = []
+    in_appendix = False
+    for level, text, slug in headings:
+        text_lc = text.lower().strip()
+        if level == 1:
+            if text_lc.startswith("appendix"):
+                toc_entries.append((1, text, slug))
+                in_appendix = True
+            else:
+                # The document title — skip.
+                in_appendix = False
+            continue
+        if in_appendix:
+            continue
+        if level == 2 and not any(text_lc.startswith(s) for s in skip_in_toc):
+            toc_entries.append((2, text, slug))
 
     toc_html = ['<nav class="toc" aria-label="Table of contents">',
                 '<h2>Contents</h2>',
                 '<ol>']
-    current_level = 1
     for level, text, slug in toc_entries:
-        eff = 1 if level == 1 else 2
-        if eff > current_level:
-            toc_html.append('<ol>')
-        elif eff < current_level:
-            toc_html.append('</ol></li>')
+        if level == 1:
+            toc_html.append(f'<li class="toc-appendix"><a href="#{slug}">{text}</a></li>')
         else:
-            if current_level == eff and not toc_html[-1].endswith('<ol>'):
-                toc_html.append('</li>')
-        toc_html.append(f'<li><a href="#{slug}">{text}</a>')
-        current_level = eff
-    while current_level > 1:
-        toc_html.append('</li></ol>')
-        current_level -= 1
-    toc_html.append('</li></ol></nav>')
+            toc_html.append(f'<li class="toc-part"><a href="#{slug}">{text}</a></li>')
+    toc_html.append('</ol></nav>')
     toc = "\n".join(toc_html)
 
     # Inject TOC after the first horizontal rule following the title block.
@@ -658,6 +820,40 @@ def build():
         body_html = parts[0] + "<hr />" + toc + parts[1]
     else:
         body_html = toc + body_html
+
+    # Wrap content following each Bill 1/2 appendix H1 with class="bill-text"
+    # so we can apply statutory typography (smaller, hanging indents, sans heads).
+    def wrap_bill(match):
+        h1_block = match.group(1)
+        body = match.group(2)
+        return f'{h1_block}<section class="bill-text">{body}</section>'
+
+    body_html = re.sub(
+        r'(<h1 [^>]*id="appendix-a[^"]*"[^>]*>.*?</h1>)(.*?)(?=<h1 [^>]*id="appendix-b)',
+        wrap_bill,
+        body_html,
+        flags=re.DOTALL,
+    )
+    body_html = re.sub(
+        r'(<h1 [^>]*id="appendix-b[^"]*"[^>]*>.*?</h1>)(.*?)(?=<h1 [^>]*id="appendix-c)',
+        wrap_bill,
+        body_html,
+        flags=re.DOTALL,
+    )
+
+    # Promote the "At a glance" table — give it a class and let it own a print page.
+    body_html = re.sub(
+        r'(<h2[^>]*id="at-a-glance"[^>]*>.*?</h2>)',
+        r'<div class="at-a-glance-block">\1',
+        body_html,
+        flags=re.DOTALL,
+    )
+    # Close the at-a-glance block before Part I begins
+    body_html = re.sub(
+        r'(<h2[^>]*id="part-i[^"]*"[^>]*>)',
+        r'</div>\1',
+        body_html,
+    )
 
     html = f"""<!DOCTYPE html>
 <html lang="en">

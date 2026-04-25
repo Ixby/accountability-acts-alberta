@@ -339,17 +339,90 @@ table td:nth-child(3) {
   margin: 0.3em 0 0.5em;
   font-size: 0.94em;
 }
-.toc li { margin: 0.32em 0; }
+.toc li { margin: 0.55em 0; }
+.toc li.toc-part {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.toc li.toc-appendix {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.98rem;
+  font-style: italic;
+  margin-top: 0.85em;
+}
+.toc li.toc-appendix:first-of-type {
+  margin-top: 1.6em;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--rule);
+}
 .toc a {
   color: var(--ink);
   text-decoration: none;
-  border-bottom: 1px dotted var(--rule);
+  border-bottom: 1px dotted transparent;
   transition: all 0.15s;
 }
 .toc a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
   border-bottom-style: solid;
+}
+
+/* ===== Bill text — statutory typography ===== */
+
+.bill-text {
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+.bill-text h2 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  text-transform: none;
+  margin-top: 2.4em;
+}
+.bill-text h2::before {
+  width: 1.8rem;
+  background: var(--accent-soft);
+}
+.bill-text h3 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.bill-text blockquote {
+  background: transparent;
+  border-left: 2px solid var(--rule);
+  margin: 0.8em 0;
+  padding: 0.4em 1.2em;
+  font-size: 0.96em;
+  color: var(--ink);
+}
+
+/* ===== At a glance — promoted block ===== */
+
+.at-a-glance-block {
+  margin: 3em 0 2em;
+}
+.at-a-glance-block h2 {
+  margin-top: 0;
+}
+.at-a-glance-block table {
+  margin-top: 1em;
+}
+.at-a-glance-block table td:nth-child(2),
+.at-a-glance-block table td:nth-child(3) {
+  font-feature-settings: "lnum", "tnum";
+  font-weight: 600;
+}
+.at-a-glance-block table td:last-child {
+  font-style: italic;
+  color: var(--ink-soft);
 }
 
 /* ===== Heading anchors ===== */
@@ -461,9 +534,15 @@ h4:hover .heading-anchor { opacity: 1; }
 @media print {
   html, body { background: white; }
   body {
-    font-size: 11pt;
+    font-size: 10.5pt;
     line-height: 1.5;
     color: var(--ink);
+    orphans: 3;
+    widows: 3;
+  }
+  p, li, blockquote {
+    orphans: 3;
+    widows: 3;
   }
   .site-header, .site-footer, .heading-anchor, .back-to-top {
     display: none !important;
@@ -474,44 +553,109 @@ h4:hover .heading-anchor { opacity: 1; }
   }
   .cover {
     page-break-after: always;
-    min-height: 9.4in;
+    min-height: 9.6in;
     border: none;
     background: var(--paper);
-    padding: 1.2in 0.9in 0.9in;
+    padding: 2in 0.9in 1in;
   }
-  .cover-title { font-size: 38pt; }
-  .cover-subtitle { font-size: 14pt; }
-  .toc { page-break-after: always; }
+  .cover-title { font-size: 40pt; line-height: 1.04; }
+  .cover-subtitle { font-size: 13pt; max-width: 30ch; }
+  .toc {
+    page-break-after: always;
+    page-break-inside: avoid;
+    border: none;
+    padding: 1.5in 0 0 0;
+    background: transparent;
+  }
+  .toc::before { display: none; }
+  .toc h2 {
+    font-size: 9pt;
+    margin: 0 0 1.4em;
+    color: var(--accent);
+  }
+  .toc li.toc-part { font-size: 12pt; margin: 0.45em 0; }
+  .toc li.toc-appendix { font-size: 11pt; margin-top: 0.6em; }
   h1 {
     page-break-before: always;
     page-break-after: avoid;
     font-size: 22pt;
-    border-bottom-width: 1.5pt;
+    border-bottom-width: 0.6pt;
+    padding-bottom: 0.3em;
   }
+  /* Allow the document title H1 not to force a page break — it's on the cover. */
   h1:first-of-type, .cover + main h1:first-of-type {
     page-break-before: avoid;
   }
+  /* Don't double-stack rules when H2 follows H1 immediately */
+  h1 + h2 { margin-top: 0.8em; }
   h2 {
     page-break-after: avoid;
-    font-size: 14pt;
-    margin-top: 1.6em;
+    font-size: 13pt;
+    margin-top: 1.8em;
   }
-  h2::before { width: 1.8em; }
+  h2::before { width: 1.8em; height: 1.5pt; margin-bottom: 0.7em; }
   h3 {
     page-break-after: avoid;
-    font-size: 12pt;
+    font-size: 11pt;
+    margin-top: 1.4em;
   }
-  blockquote, table, pre, .display-cost, .pull-quote {
+  /* Statutory text — denser and visually distinct */
+  .bill-text {
+    font-size: 9.5pt;
+    line-height: 1.4;
+  }
+  .bill-text h2 {
+    font-size: 10.5pt;
+    color: var(--accent);
+    text-transform: none;
+    margin-top: 1.6em;
+  }
+  .bill-text h3 {
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+  }
+  .bill-text blockquote {
+    margin: 0.5em 0;
+    padding: 0.3em 1em;
+    font-size: 9pt;
+    border-left-width: 1pt;
+    border-color: var(--rule);
+  }
+  blockquote, table, pre, .display-cost, .pull-quote, .at-a-glance-block table {
     page-break-inside: avoid;
+  }
+  .at-a-glance-block {
+    page-break-before: always;
+    page-break-after: always;
+    padding-top: 1in;
+  }
+  .at-a-glance-block h2 {
+    font-size: 11pt;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+  }
+  .at-a-glance-block h2::before { display: none; }
+  .at-a-glance-block table {
+    margin-top: 0.8in;
+    font-size: 11.5pt;
+  }
+  .at-a-glance-block table td {
+    padding: 0.85em 0.9em;
+  }
+  .at-a-glance-block table td:nth-child(2) {
+    font-size: 14pt;
+    color: var(--accent);
+    font-weight: 700;
   }
   a {
     color: var(--ink);
     text-decoration: none;
     border-bottom: none;
   }
-  a[href^="http"]:after {
-    content: "";
-  }
+  a[href^="http"]:after { content: ""; }
   table th {
     border-top: 1.5pt solid var(--ink);
     border-bottom: 0.75pt solid var(--ink);
@@ -521,7 +665,15 @@ h4:hover .heading-anchor { opacity: 1; }
     border-bottom: 1.5pt solid var(--ink);
   }
   .display-cost {
-    font-size: 36pt;
+    font-size: 56pt;
+    margin-top: 0.6in;
+    margin-bottom: 0.15em;
+    letter-spacing: -0.025em;
+  }
+  .display-cost-label {
+    margin-bottom: 0.6in;
+    font-size: 9pt;
+    letter-spacing: 0.28em;
   }
   .pull-quote {
     font-size: 14pt;
@@ -529,7 +681,7 @@ h4:hover .heading-anchor { opacity: 1; }
   }
   blockquote {
     background: transparent;
-    border-left-width: 2pt;
+    border-left-width: 1.5pt;
   }
 }
 </style>
@@ -543,7 +695,6 @@ h4:hover .heading-anchor { opacity: 1; }
     <hr class="cover-rule" />
     <div class="cover-meta">
       <span class="meta-line"><span class="meta-label">The package</span> The Honest Government Act &amp; The Open Books Act</span>
-      <span class="meta-line"><span class="meta-label">Drafted by</span> a private citizen of Alberta</span>
       <span class="meta-line"><span class="meta-label">Released</span> Creative Commons Attribution-ShareAlike 4.0</span>
       <span class="meta-line"><span class="meta-label">Source</span> <a href="https://github.com/Ixby/accountability-acts-alberta">github.com/Ixby/accountability-acts-alberta</a></span>
     </div>
@@ -562,366 +713,21 @@ h4:hover .heading-anchor { opacity: 1; }
 <nav class="toc" aria-label="Table of contents">
 <h2>Contents</h2>
 <ol>
-<ol>
-<li><a href="#a-note-from-the-drafter">A note from the drafter</a>
-</li>
-<li><a href="#at-a-glance">At a glance</a>
-</li>
-<li><a href="#part-i-what-this-costs-you">Part I — What This Costs You</a>
-</li>
-<li><a href="#a-lab-system-that-didnt-work">A lab system that didn't work</a>
-</li>
-<li><a href="#eighty-million-dollars-of-acetaminophen">Eighty million dollars of acetaminophen</a>
-</li>
-<li><a href="#a-communications-agency-designed-to-be-invisible">A communications agency designed to be invisible</a>
-</li>
-<li><a href="#what-these-have-in-common">What these have in common</a>
-</li>
-<li><a href="#a-note-on-case-selection">A note on case selection</a>
-</li>
-<li><a href="#part-ii-why-the-tools-we-have-dont-reach">Part II — Why The Tools We Have Don't Reach</a>
-</li>
-<li><a href="#the-framework-was-built-for-individual-misconduct">The framework was built for individual misconduct</a>
-</li>
-<li><a href="#where-the-largest-value-actually-moves">Where the largest value actually moves</a>
-</li>
-<li><a href="#why-most-of-this-isnt-criminal">Why most of this isn't criminal</a>
-</li>
-<li><a href="#a-note-on-the-people-inside-the-system">A note on the people inside the system</a>
-</li>
-<li><a href="#part-iii-designing-for-whoever-wins">Part III — Designing For Whoever Wins</a>
-</li>
-<li><a href="#sunshine-over-criminalization">Sunshine over criminalization</a>
-</li>
-<li><a href="#you-cannot-consent-to-what-you-cannot-see">You cannot consent to what you cannot see</a>
-</li>
-<li><a href="#three-principles-that-run-through-the-bills">Three principles that run through the bills</a>
-</li>
-<li><a href="#part-iv-the-honest-government-act-how-officials-behave">Part IV — The Honest Government Act: How Officials Behave</a>
-</li>
-<li><a href="#lobbying-that-actually-has-to-register">Lobbying that actually has to register</a>
-</li>
-<li><a href="#a-graduated-ladder-of-consequence">A graduated ladder of consequence</a>
-</li>
-<li><a href="#who-appoints-the-commissioner">Who appoints the Commissioner</a>
-</li>
-<li><a href="#when-cabinet-confidence-reaches-too-far">When Cabinet confidence reaches too far</a>
-</li>
-<li><a href="#decisions-that-have-to-be-written-down">Decisions that have to be written down</a>
-</li>
-<li><a href="#procurement-that-can-be-cross-referenced">Procurement that can be cross-referenced</a>
-</li>
-<li><a href="#cooling-off-that-respects-public-service">Cooling-off that respects public service</a>
-</li>
-<li><a href="#whistleblowers-with-the-burden-in-the-right-place">Whistleblowers, with the burden in the right place</a>
-</li>
-<li><a href="#penalties-that-arent-ruinous-to-the-poor-or-trivial-to-the-rich">Penalties that aren't ruinous to the poor or trivial to the rich</a>
-</li>
-<li><a href="#random-audits-with-dice-that-no-one-controls">Random audits with dice that no one controls</a>
-</li>
-<li><a href="#what-this-bill-leaves-open">What this bill leaves open</a>
-</li>
-<li><a href="#part-v-the-open-books-act-how-advantage-flows">Part V — The Open Books Act: How Advantage Flows</a>
-</li>
-<li><a href="#legislation-that-benefits-specific-parties">Legislation that benefits specific parties</a>
-</li>
-<li><a href="#regulatory-approvals-that-disclose-their-proponents">Regulatory approvals that disclose their proponents</a>
-</li>
-<li><a href="#concessional-arrangements-that-get-daylight">Concessional arrangements that get daylight</a>
-</li>
-<li><a href="#ministerial-individual-exemptions">Ministerial individual exemptions</a>
-</li>
-<li><a href="#the-enforcement-equity-report">The Enforcement Equity Report</a>
-</li>
-<li><a href="#part-vi-the-honest-limits">Part VI — The Honest Limits</a>
-</li>
-<li><a href="#what-could-go-wrong">What could go wrong</a>
-</li>
-<li><a href="#what-it-costs">What it costs</a>
-</li>
-<li><a href="#what-hasnt-been-done-yet">What hasn't been done yet</a>
-</li>
-<li><a href="#part-vii-the-invitation">Part VII — The Invitation</a>
-</li>
-<li><a href="#a-draft-email-to-your-mla">A draft email to your MLA</a>
-</ol></li>
-<li><a href="#appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act</a>
-<ol>
-<li><a href="#preamble">Preamble</a>
-</li>
-<li><a href="#short-title">Short Title</a>
-</li>
-<li><a href="#part-1-interpretation">Part 1 — Interpretation</a>
-</li>
-<li><a href="#part-2-amendments-to-the-lobbyists-act-rsa-2000-c-l-205">Part 2 — Amendments to the Lobbyists Act, RSA 2000, c L-20.5</a>
-</li>
-<li><a href="#part-3-the-escalation-framework-oversight-officer-independence-and-amendments-to-the-conflicts-of-interest-act-rsa-2000-c-c-23-and-the-auditor-general-act-rsa-2000-c-a-46">Part 3 — The Escalation Framework, Oversight Officer Independence, and Amendments to the Conflicts of Interest Act, RSA 2000, c C-23 and the Auditor General Act, RSA 2000, c A-46</a>
-</li>
-<li><a href="#general-principles-and-triage-authority">General Principles and Triage Authority</a>
-</li>
-<li><a href="#tier-1-public-report-of-findings">Tier 1 — Public Report of Findings</a>
-</li>
-<li><a href="#tier-2-compliance-order">Tier 2 — Compliance Order</a>
-</li>
-<li><a href="#tier-3-certificate-of-malfeasance">Tier 3 — Certificate of Malfeasance</a>
-</li>
-<li><a href="#post-employment-restrictions">Post-Employment Restrictions</a>
-</li>
-<li><a href="#part-4-amendments-to-the-access-to-information-act">Part 4 — Amendments to the Access to Information Act</a>
-</li>
-<li><a href="#part-5-amendments-to-the-financial-administration-act-rsa-2000-c-f-12">Part 5 — Amendments to the Financial Administration Act, RSA 2000, c F-12</a>
-</li>
-<li><a href="#part-6-amendments-to-the-recall-act-sa-2021-c-r-57">Part 6 — Amendments to the Recall Act, SA 2021, c R-5.7</a>
-</li>
-<li><a href="#part-7-amendments-to-the-public-interest-disclosure-whistleblower-protection-act-and-the-alberta-public-agencies-governance-act">Part 7 — Amendments to the Public Interest Disclosure (Whistleblower Protection) Act and the Alberta Public Agencies Governance Act</a>
-</li>
-<li><a href="#part-8-common-procedural-provisions">Part 8 — Common Procedural Provisions</a>
-</li>
-<li><a href="#general-application">General Application</a>
-</li>
-<li><a href="#first-nations-métis-and-inuit-governance">First Nations, Métis, and Inuit Governance</a>
-</li>
-<li><a href="#writ-period">Writ Period</a>
-</li>
-<li><a href="#review-and-appeal">Review and Appeal</a>
-</li>
-<li><a href="#protection-against-proceedings-for-delay">Protection Against Proceedings for Delay</a>
-</li>
-<li><a href="#quarterly-compliance-report">Quarterly Compliance Report</a>
-</li>
-<li><a href="#resourcing-and-budget-visibility">Resourcing and Budget Visibility</a>
-</li>
-<li><a href="#proportional-penalty-framework">Proportional Penalty Framework</a>
-</li>
-<li><a href="#good-faith-defense">Good-Faith Defense</a>
-</li>
-<li><a href="#random-audit-program">Random Audit Program</a>
-</li>
-<li><a href="#part-9-calibration-administration-and-commencement">Part 9 — Calibration, Administration, and Commencement</a>
-</li>
-<li><a href="#threshold-and-regulation-making-authority">Threshold and Regulation-Making Authority</a>
-</li>
-<li><a href="#cost-recovery">Cost Recovery</a>
-</li>
-<li><a href="#personal-information-retention">Personal Information Retention</a>
-</li>
-<li><a href="#statutory-review">Statutory Review</a>
-</li>
-<li><a href="#transitional-provisions">Transitional Provisions</a>
-</li>
-<li><a href="#commencement">Commencement</a>
-</ol></li>
-<li><a href="#appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act</a>
-<ol>
-<li><a href="#preamble-1">Preamble</a>
-</li>
-<li><a href="#short-title-1">Short Title</a>
-</li>
-<li><a href="#part-1-interpretation-1">Part 1 — Interpretation</a>
-</li>
-<li><a href="#part-2-disclosure-accompanying-named-party-legislation">Part 2 — Disclosure Accompanying Named-Party Legislation</a>
-</li>
-<li><a href="#part-3-disclosure-accompanying-regulatory-approvals">Part 3 — Disclosure Accompanying Regulatory Approvals</a>
-</li>
-<li><a href="#part-4-disclosure-accompanying-crown-concessional-arrangements">Part 4 — Disclosure Accompanying Crown Concessional Arrangements</a>
-</li>
-<li><a href="#part-5-disclosure-of-ministerial-individual-exemptions">Part 5 — Disclosure of Ministerial Individual Exemptions</a>
-</li>
-<li><a href="#part-6-enforcement-equity-reporting">Part 6 — Enforcement Equity Reporting</a>
-</li>
-<li><a href="#part-7-enforcement-and-common-provisions">Part 7 — Enforcement and Common Provisions</a>
-</li>
-<li><a href="#part-8-statutory-review-and-commencement">Part 8 — Statutory Review and Commencement</a>
-</li>
-<li><a href="#statutory-review-1">Statutory Review</a>
-</li>
-<li><a href="#commencement-1">Commencement</a>
-</ol></li>
-<li><a href="#appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail">Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail</a>
-<ol>
-<li><a href="#sources-and-confidence">Sources and confidence</a>
-</li>
-<li><a href="#summary">Summary</a>
-</li>
-<li><a href="#cost-breakdown">Cost breakdown</a>
-</li>
-<li><a href="#personnel-steady-state">Personnel (steady state)</a>
-</li>
-<li><a href="#technology-and-infrastructure">Technology and infrastructure</a>
-</li>
-<li><a href="#court-confirmation-and-legal-support">Court confirmation and legal support</a>
-</li>
-<li><a href="#training-guidance-and-public-materials">Training, guidance, and public materials</a>
-</li>
-<li><a href="#phase-in-costs">Phase-in costs</a>
-</li>
-<li><a href="#fee-recovery">Fee recovery</a>
-</li>
-<li><a href="#scenario-analysis">Scenario analysis</a>
-</li>
-<li><a href="#dynalife-lab-services">DynaLIFE lab services</a>
-</li>
-<li><a href="#turkish-childrens-tylenol">Turkish children's Tylenol</a>
-</li>
-<li><a href="#canadian-energy-centre">Canadian Energy Centre</a>
-</li>
-<li><a href="#aggregate-scenario-analysis">Aggregate scenario analysis</a>
-</li>
-<li><a href="#comparison-to-peer-jurisdictions">Comparison to peer jurisdictions</a>
-</li>
-<li><a href="#risk-factors-and-uncertainties">Risk factors and uncertainties</a>
-</li>
-<li><a href="#conclusion">Conclusion</a>
-</ol></li>
-<li><a href="#appendix-d-moral-defencemd-philosophical-case-and-objections">Appendix D — moral-defence.md: Philosophical case and objections</a>
-<ol>
-<li><a href="#what-this-document-is-for">What this document is for</a>
-</li>
-<li><a href="#a-note-on-philosophical-sources">A note on philosophical sources</a>
-</li>
-<li><a href="#the-central-claim">The central claim</a>
-</li>
-<li><a href="#this-grows-the-states-surveillance-capacity">"This grows the state's surveillance capacity"</a>
-</li>
-<li><a href="#it-will-chill-legitimate-political-and-economic-activity">"It will chill legitimate political and economic activity"</a>
-</li>
-<li><a href="#this-treats-normal-politics-as-corruption">"This treats normal politics as corruption"</a>
-</li>
-<li><a href="#why-disclosure-rather-than-criminalization">Why disclosure rather than criminalization</a>
-</li>
-<li><a href="#proportional-penalties-and-justice">Proportional penalties and justice</a>
-</li>
-<li><a href="#institutional-humility">Institutional humility</a>
-</li>
-<li><a href="#partisan-neutrality-and-binding-whoever-holds-power">Partisan neutrality and binding whoever holds power</a>
-</li>
-<li><a href="#good-faith-defense-as-moral-architecture">Good-faith defense as moral architecture</a>
-</li>
-<li><a href="#indigenous-sovereignty">Indigenous sovereignty</a>
-</li>
-<li><a href="#what-this-regime-says-about-alberta">What this regime says about Alberta</a>
-</ol></li>
-<li><a href="#appendix-e-red-teammd-adversarial-failure-mode-analysis">Appendix E — red-team.md: Adversarial failure-mode analysis</a>
-<ol>
-<li><a href="#part-i-method-and-sources">Part I — Method and Sources</a>
-</li>
-<li><a href="#part-ii-how-comparable-regimes-have-failed">Part II — How Comparable Regimes Have Failed</a>
-</li>
-<li><a href="#part-iii-failure-mode-analysis">Part III — Failure Mode Analysis</a>
-</li>
-<li><a href="#1-compliance-theatre">§1 — Compliance Theatre</a>
-</li>
-<li><a href="#2-good-faith-defense-as-opinion-shopping-shield">§2 — Good-Faith Defense as Opinion-Shopping Shield</a>
-</li>
-<li><a href="#3-random-audit-weaponization-and-statistical-noise">§3 — Random Audit Weaponization and Statistical Noise</a>
-</li>
-<li><a href="#4-mandate-erosion-through-subsequent-legislation">§4 — Mandate Erosion Through Subsequent Legislation</a>
-</li>
-<li><a href="#5-definitional-games-and-scope-narrowing">§5 — Definitional Games and Scope Narrowing</a>
-</li>
-<li><a href="#6-regulatory-capture-of-the-commissioner-office">§6 — Regulatory Capture of the Commissioner Office</a>
-</li>
-<li><a href="#7-whistleblower-regime-collapse">§7 — Whistleblower Regime Collapse</a>
-</li>
-<li><a href="#8-cabinet-confidence-as-evidence-block">§8 — Cabinet Confidence as Evidence Block</a>
-</li>
-<li><a href="#9-resource-starvation">§9 — Resource Starvation</a>
-</li>
-<li><a href="#10-appointment-capture">§10 — Appointment Capture</a>
-</li>
-<li><a href="#11-sanctions-enforcement-gap-against-sitting-members">§11 — Sanctions Enforcement Gap Against Sitting Members</a>
-</li>
-<li><a href="#12-constitutional-vulnerability-of-core-provisions">§12 — Constitutional Vulnerability of Core Provisions</a>
-</li>
-<li><a href="#part-iv-motivated-actor-scenarios">Part IV — Motivated Actor Scenarios</a>
-</li>
-<li><a href="#13-hostile-opposition">§13 — Hostile Opposition</a>
-</li>
-<li><a href="#14-industry-lobbying-and-regulatory-capture">§14 — Industry Lobbying and Regulatory Capture</a>
-</li>
-<li><a href="#15-constitutional-challenge-by-motivated-respondent">§15 — Constitutional Challenge by Motivated Respondent</a>
-</li>
-<li><a href="#16-hostile-government-weaponization">§16 — Hostile Government Weaponization</a>
-</li>
-<li><a href="#part-v-what-the-regime-gets-right">Part V — What the Regime Gets Right</a>
-</li>
-<li><a href="#part-vi-residual-risk-register">Part VI — Residual Risk Register</a>
-</ol></li>
-<li><a href="#appendix-f-legislative-cross-referencemd-mapping-against-existing-alberta-statutes">Appendix F — legislative-cross-reference.md: Mapping against existing Alberta statutes</a>
-<ol>
-<li><a href="#honest-government-act-amp-open-books-act-vs-existing-alberta-legislation">Honest Government Act &amp; Open Books Act vs. Existing Alberta Legislation</a>
-</li>
-<li><a href="#1-existing-legislative-landscape">1. Existing Legislative Landscape</a>
-</li>
-<li><a href="#2-cross-reference-by-act">2. Cross-Reference by Act</a>
-</li>
-<li><a href="#21-conflicts-of-interest-act-rsa-2000-c-c-23">2.1 Conflicts of Interest Act (RSA 2000 c C-23)</a>
-</li>
-<li><a href="#22-lobbyists-act-sa-2007-c-l-205">2.2 Lobbyists Act (SA 2007 c L-20.5)</a>
-</li>
-<li><a href="#23-public-interest-disclosure-whistleblower-protection-act-sa-2012-c-p-395">2.3 Public Interest Disclosure (Whistleblower Protection) Act (SA 2012 c P-39.5)</a>
-</li>
-<li><a href="#24-financial-administration-act-rsa-2000-c-f-12">2.4 Financial Administration Act (RSA 2000 c F-12)</a>
-</li>
-<li><a href="#25-auditor-general-act-rsa-2000-c-a-46">2.5 Auditor General Act (RSA 2000 c A-46)</a>
-</li>
-<li><a href="#26-access-to-information-act-protection-of-privacy-act-sa-2024">2.6 Access to Information Act / Protection of Privacy Act (SA 2024)</a>
-</li>
-<li><a href="#27-election-finances-and-contributions-disclosure-act-rsa-2000-c-e-2">2.7 Election Finances and Contributions Disclosure Act (RSA 2000 c E-2)</a>
-</li>
-<li><a href="#28-procurement-sole-source-rules-treasury-board-policy">2.8 Procurement / Sole-Source Rules (Treasury Board Policy)</a>
-</li>
-<li><a href="#3-material-findings">3. Material Findings</a>
-</li>
-<li><a href="#31-mciver-ruling-225-conflict-risk">3.1 McIver Ruling — §22(5) Conflict Risk ⚠️</a>
-</li>
-<li><a href="#32-foip-replacement-citation-update-needed">3.2 FOIP Replacement — Citation Update Needed</a>
-</li>
-<li><a href="#4-what-is-genuinely-novel-no-existing-alberta-equivalent">4. What Is Genuinely Novel (No Existing Alberta Equivalent)</a>
-</li>
-<li><a href="#5-summary-assessment">5. Summary Assessment</a>
-</ol></li>
-<li><a href="#appendix-g-policy-recommendationsmd-recommended-starting-values-for-thresholds">Appendix G — policy-recommendations.md: Recommended starting values for thresholds</a>
-<ol>
-<li><a href="#purpose">Purpose</a>
-</li>
-<li><a href="#bill-1-honest-government-act">Bill 1 — Honest Government Act</a>
-</li>
-<li><a href="#part-2-lobbyists-act-amendments">Part 2 — Lobbyists Act amendments</a>
-</li>
-<li><a href="#part-3-conflicts-of-interest-act-amendments">Part 3 — Conflicts of Interest Act amendments</a>
-</li>
-<li><a href="#part-4-access-to-information-act-amendments">Part 4 — Access to Information Act amendments</a>
-</li>
-<li><a href="#part-5-financial-administration-act-amendments">Part 5 — Financial Administration Act amendments</a>
-</li>
-<li><a href="#part-6-recall-act-amendments">Part 6 — Recall Act amendments</a>
-</li>
-<li><a href="#part-7-public-interest-disclosure-act-amendments">Part 7 — Public Interest Disclosure Act amendments</a>
-</li>
-<li><a href="#part-8-common-procedural-provisions-1">Part 8 — Common Procedural Provisions</a>
-</li>
-<li><a href="#part-9-threshold-calibration-and-administration">Part 9 — Threshold Calibration and Administration</a>
-</li>
-<li><a href="#bill-2-open-books-act">Bill 2 — Open Books Act</a>
-</li>
-<li><a href="#part-2-named-party-legislation-disclosure">Part 2 — Named-Party Legislation Disclosure</a>
-</li>
-<li><a href="#part-3-regulatory-approval-disclosure">Part 3 — Regulatory Approval Disclosure</a>
-</li>
-<li><a href="#part-4-concessional-arrangement-disclosure">Part 4 — Concessional Arrangement Disclosure</a>
-</li>
-<li><a href="#part-5-ministerial-individual-exemption-disclosure">Part 5 — Ministerial Individual Exemption Disclosure</a>
-</li>
-<li><a href="#part-6-enforcement-equity-reporting-1">Part 6 — Enforcement Equity Reporting</a>
-</li>
-<li><a href="#implementation-priorities">Implementation priorities</a>
-</li>
-<li><a href="#items-requiring-further-policy-work">Items requiring further policy work</a>
-</li>
-<li><a href="#summary-1">Summary</a>
-</li></ol>
-</li></ol></nav><h1 id="what-accountable-government-looks-like">What Accountable Government Looks Like <a class="heading-anchor" href="#what-accountable-government-looks-like" aria-label="Link to this section">¶</a></h1>
+<li class="toc-part"><a href="#part-i-what-this-costs-you">Part I — What This Costs You</a></li>
+<li class="toc-part"><a href="#part-ii-why-the-tools-we-have-dont-reach">Part II — Why The Tools We Have Don't Reach</a></li>
+<li class="toc-part"><a href="#part-iii-designing-for-whoever-wins">Part III — Designing For Whoever Wins</a></li>
+<li class="toc-part"><a href="#part-iv-the-honest-government-act-how-officials-behave">Part IV — The Honest Government Act: How Officials Behave</a></li>
+<li class="toc-part"><a href="#part-v-the-open-books-act-how-advantage-flows">Part V — The Open Books Act: How Advantage Flows</a></li>
+<li class="toc-part"><a href="#part-vi-the-honest-limits">Part VI — The Honest Limits</a></li>
+<li class="toc-part"><a href="#part-vii-the-invitation">Part VII — The Invitation</a></li>
+<li class="toc-appendix"><a href="#appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act</a></li>
+<li class="toc-appendix"><a href="#appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act</a></li>
+<li class="toc-appendix"><a href="#appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail">Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail</a></li>
+<li class="toc-appendix"><a href="#appendix-d-moral-defencemd-philosophical-case-and-objections">Appendix D — moral-defence.md: Philosophical case and objections</a></li>
+<li class="toc-appendix"><a href="#appendix-e-red-teammd-adversarial-failure-mode-analysis">Appendix E — red-team.md: Adversarial failure-mode analysis</a></li>
+<li class="toc-appendix"><a href="#appendix-f-legislative-cross-referencemd-mapping-against-existing-alberta-statutes">Appendix F — legislative-cross-reference.md: Mapping against existing Alberta statutes</a></li>
+<li class="toc-appendix"><a href="#appendix-g-policy-recommendationsmd-recommended-starting-values-for-thresholds">Appendix G — policy-recommendations.md: Recommended starting values for thresholds</a></li>
+</ol></nav><h1 id="what-accountable-government-looks-like">What Accountable Government Looks Like <a class="heading-anchor" href="#what-accountable-government-looks-like" aria-label="Link to this section">¶</a></h1>
 <p><em>A drafted policy package for Alberta — two bills, why they were written, and what they could be worth.</em></p>
 <hr>
 <h2 id="a-note-from-the-drafter">A note from the drafter <a class="heading-anchor" href="#a-note-from-the-drafter" aria-label="Link to this section">¶</a></h2>
@@ -933,7 +739,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>What follows is released under Creative Commons Attribution-ShareAlike. Adapt it, improve it, table it, build on it. Attribution and same-licence are the only conditions. The bills were drafted to be used.</p>
 <p>If you came here for the bills, they are in Appendices A and B. If you came here for the case for the bills, Parts I through VII are the case.</p>
 <hr>
-<h2 id="at-a-glance">At a glance <a class="heading-anchor" href="#at-a-glance" aria-label="Link to this section">¶</a></h2>
+<div class="at-a-glance-block"><h2 id="at-a-glance">At a glance <a class="heading-anchor" href="#at-a-glance" aria-label="Link to this section">¶</a></h2>
 <p><strong>Three Alberta decisions, recently:</strong></p>
 <table>
 <thead>
@@ -970,7 +776,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>What it doesn't yet do:</strong> constitutional review, Indigenous co-development, Treasury Board fiscal validation, legislative drafting review. Each named in Part VI.</p>
 <p><strong>If you want to send something to your MLA:</strong> there's a draft email at the end of Part VII. Replace the name and the riding. That's it.</p>
 <hr>
-<h2 id="part-i-what-this-costs-you">Part I — What This Costs You <a class="heading-anchor" href="#part-i-what-this-costs-you" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-i-what-this-costs-you">Part I — What This Costs You <a class="heading-anchor" href="#part-i-what-this-costs-you" aria-label="Link to this section">¶</a></h2>
 <p>Three decisions. None of them dramatic enough to occupy the front page for more than a news cycle. Together, somewhere between $200 and $300 million of our money.</p>
 <h3 id="a-lab-system-that-didnt-work">A lab system that didn't work <a class="heading-anchor" href="#a-lab-system-that-didnt-work" aria-label="Link to this section">¶</a></h3>
 <p>In December 2022, Alberta Health Services launched a privatized community lab service under a long-term contract with DynaLIFE Medical Labs. The company was insolvent within months. AHS took the operation back in August 2023. In November 2025, the provincial Auditor General estimated the total taxpayer cost at approximately $109 million: roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement.</p>
@@ -1003,7 +809,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <h3 id="a-note-on-case-selection">A note on case selection <a class="heading-anchor" href="#a-note-on-case-selection" aria-label="Link to this section">¶</a></h3>
 <p>The three cases above all sit inside the recent UCP era because the verifiable record close to the present is what an honest brief can use without speculation. The structural patterns these cases illustrate, oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, and opaque concessional arrangements, are older than the UCP and have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The regime has to bind a future NDP government in 2027 as readily as it would have applied to these three cases.</p>
 <hr>
-<h2 id="part-ii-why-the-tools-we-have-dont-reach">Part II — Why The Tools We Have Don't Reach <a class="heading-anchor" href="#part-ii-why-the-tools-we-have-dont-reach" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-ii-why-the-tools-we-have-dont-reach">Part II — Why The Tools We Have Don't Reach <a class="heading-anchor" href="#part-ii-why-the-tools-we-have-dont-reach" aria-label="Link to this section">¶</a></h2>
 <p>Alberta has accountability law: the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, the Election Finances and Contributions Disclosure Act, an Ethics Commissioner, an Auditor General, an Information and Privacy Commissioner. All of them do important work.</p>
 <p>Each was designed for a narrower problem than the one we have.</p>
 <h3 id="the-framework-was-built-for-individual-misconduct">The framework was built for individual misconduct <a class="heading-anchor" href="#the-framework-was-built-for-individual-misconduct" aria-label="Link to this section">¶</a></h3>
@@ -1034,7 +840,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>The regime that follows is not built to terrorize public service. It includes a robust good-faith defence: a Minister or official acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The protections are real and load-bearing.</p>
 <p>What the regime cannot do is shield anyone from the political consequences of decisions made in public. Those consequences are the point.</p>
 <hr>
-<h2 id="part-iii-designing-for-whoever-wins">Part III — Designing For Whoever Wins <a class="heading-anchor" href="#part-iii-designing-for-whoever-wins" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iii-designing-for-whoever-wins">Part III — Designing For Whoever Wins <a class="heading-anchor" href="#part-iii-designing-for-whoever-wins" aria-label="Link to this section">¶</a></h2>
 <p>There is one design test that matters before any provision: would you want this regime applied to a government you politically agree with? If your answer is yes for the regime as a whole, the design is partisan-neutral. If your answer is yes except for the parts that would hit your side, the design is a campaign document.</p>
 <p>The historical record on regimes written by one faction to discipline another is not encouraging. Some are walked back when their own writers get caught. Others are weakened, hollowed out, or selectively enforced once the other side takes office. The cost of partisan neutrality is real. It means provisions that discipline my own preferences, too. The design has to live with that cost or it does not deserve the name.</p>
 <h3 id="sunshine-over-criminalization">Sunshine over criminalization <a class="heading-anchor" href="#sunshine-over-criminalization" aria-label="Link to this section">¶</a></h3>
@@ -1050,7 +856,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>Protect good faith.</strong> Public servants, volunteer board members, and records officers are protected throughout. The good-faith defence at §26 is the moral architecture of the entire regime. A person acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The burden of proving bad faith rests on the Commissioner. If the defence is invoked on the basis of legal advice, the respondent has to disclose every legal opinion they obtained on the same question, not only the one they liked. A pattern of getting four opinions, three of which said "this is impermissible," and acting on the fourth is evidence of willful blindness, not exoneration.</p>
 <p><strong>Defer to existing institutions.</strong> The regime does not replace courts, the Assembly, criminal justice, or existing regulators. Civil and criminal matters go to courts. Electoral consequences go to the Assembly. The Commissioner investigates and reports. The Assembly decides.</p>
 <hr>
-<h2 id="part-iv-the-honest-government-act-how-officials-behave">Part IV — The Honest Government Act: How Officials Behave <a class="heading-anchor" href="#part-iv-the-honest-government-act-how-officials-behave" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iv-the-honest-government-act-how-officials-behave">Part IV — The Honest Government Act: How Officials Behave <a class="heading-anchor" href="#part-iv-the-honest-government-act-how-officials-behave" aria-label="Link to this section">¶</a></h2>
 <p>Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.</p>
 <h3 id="lobbying-that-actually-has-to-register">Lobbying that actually has to register <a class="heading-anchor" href="#lobbying-that-actually-has-to-register" aria-label="Link to this section">¶</a></h3>
 <p>Alberta's current rule registers in-house lobbyists at fifty hours of lobbying activity per year. The threshold has produced a working answer for paid consultant lobbying: keep the clock low. The bill closes this for paid consultants. A consultant lobbyist registers regardless of time spent: from the moment money changes hands for the work, registration is required. For employees lobbying inside their own organization, the threshold is restructured rather than removed. The bill replaces the fifty-hour annual clock with a twenty-percent-of-working-time-per-calendar-quarter test plus a position-description test: lobbying captured because it is structurally part of the job, not because somebody hit a stopwatch.</p>
@@ -1199,7 +1005,7 @@ h4:hover .heading-anchor { opacity: 1; }
 </blockquote>
 <p>The bills were drafted to be used.</p>
 <hr>
-<h1 id="appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act <a class="heading-anchor" href="#appendix-a-bill-1-the-honest-government-act" aria-label="Link to this section">¶</a></h1>
+<h1 id="appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act <a class="heading-anchor" href="#appendix-a-bill-1-the-honest-government-act" aria-label="Link to this section">¶</a></h1><section class="bill-text">
 <p><em>Full drafted text. Released under CC-BY-SA 4.0.</em></p>
 <hr>
 <h2 id="preamble">Preamble <a class="heading-anchor" href="#preamble" aria-label="Link to this section">¶</a></h2>
@@ -1615,7 +1421,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>(3)</strong> Section 27 (Random Audit Program) comes into force 365 days after Royal Assent, with the first audit conducted in the first full fiscal year following commencement.</p>
 <p><strong>(4)</strong> Except as otherwise provided in this section, this Act comes into force on Royal Assent.</p>
 <hr>
-<h1 id="appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act <a class="heading-anchor" href="#appendix-b-bill-2-the-open-books-act" aria-label="Link to this section">¶</a></h1>
+</section><h1 id="appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act <a class="heading-anchor" href="#appendix-b-bill-2-the-open-books-act" aria-label="Link to this section">¶</a></h1><section class="bill-text">
 <p><em>Full drafted text. Released under CC-BY-SA 4.0.</em></p>
 <hr>
 <p><em>Companion to Bill 1, the Honest Government Act</em></p>
@@ -1719,7 +1525,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>(4)</strong> Obligations under Parts 2 through 5 apply only to named-party legislation introduced, regulatory approvals granted, concessional arrangements entered into, and ministerial individual exemptions made on or after the commencement of those respective Parts.</p>
 <p><strong>(5)</strong> Except as otherwise provided, this Act comes into force on Royal Assent.</p>
 <hr>
-<h1 id="appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail">Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail <a class="heading-anchor" href="#appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail" aria-label="Link to this section">¶</a></h1>
+</section><h1 id="appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail">Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail <a class="heading-anchor" href="#appendix-c-costingmd-cost-analysis-fte-breakdown-and-scenario-detail" aria-label="Link to this section">¶</a></h1>
 <p><em>Source companion document. The aggregate $5M figure is a drafter's estimate, not Treasury Board analysis.</em></p>
 <hr>
 <p><em>Companion document to the drafted legislation.</em></p>
@@ -1936,12 +1742,12 @@ h4:hover .heading-anchor { opacity: 1; }
 <hr>
 <p><em>Companion document to the drafted legislation.</em></p>
 <hr>
-<h2 id="part-i-method-and-sources">Part I — Method and Sources <a class="heading-anchor" href="#part-i-method-and-sources" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-i-method-and-sources">Part I — Method and Sources <a class="heading-anchor" href="#part-i-method-and-sources" aria-label="Link to this section">¶</a></h2>
 <p><strong>1.</strong> A regime designed to bind whoever holds power has to survive motivated subversion by whoever holds power. This document traces that risk through four lenses: documented failure patterns from comparable Canadian regimes, systematic failure mode analysis organized by residual severity, motivated actor scenarios organized by actor sophistication, and a ranked residual risk register.</p>
 <p><strong>2.</strong> The historical cases referenced — SNC-Lavalin, the Aga Khan finding, the Alberta Ethics Commissioner decisions in Smith-Pawlowski, Hinshaw, and Redford, the McIver parliamentary privilege ruling, the federal PSIC resource crisis, and the Lobbying Act review failures — are drawn from publicly reported accounts in CBC, Globe and Mail, CTV, court rulings, and commissioner reports. Specific factual claims have been verified against contemporary reporting where possible.</p>
 <p><strong>3.</strong> The connections drawn between historical failure modes and proposed provisions are the drafter's analysis. Whether each provision addresses each failure mode in operation is empirically uncertain. A red-team conducted by people with different priors, different stakes, and different expertise would surface failure modes this document did not see. The invitation to that work stands.</p>
 <hr>
-<h2 id="part-ii-how-comparable-regimes-have-failed">Part II — How Comparable Regimes Have Failed <a class="heading-anchor" href="#part-ii-how-comparable-regimes-have-failed" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-ii-how-comparable-regimes-have-failed">Part II — How Comparable Regimes Have Failed <a class="heading-anchor" href="#part-ii-how-comparable-regimes-have-failed" aria-label="Link to this section">¶</a></h2>
 <p><strong>4. Findings without consequences.</strong> Federal Ethics Commissioner Mario Dion found in August 2019 that Prime Minister Trudeau contravened the Conflict of Interest Act by pressuring the Attorney General on SNC-Lavalin. The federal Act specifies no sanction for the violation. Trudeau took rhetorical responsibility and won the next election. A second Trudeau finding — the Aga Khan vacation, December 2017 — produced the same structural outcome: a finding, a public statement, no consequence. The lesson is not about any specific government. It is that an accountability regime without specified enforcement is a publicity regime, dependent on public outrage to do its work — and public outrage is unreliable and fades.</p>
 <p><strong>5. Cabinet confidence as evidence block.</strong> In the SNC-Lavalin investigation, nine of twenty witnesses could not disclose information they believed relevant because of Cabinet confidence claims. Privy Council Clerk Ian Shugart denied Commissioner Dion's waiver request. The investigation proceeded with acknowledged blind spots. Cabinet confidence has historically been invoked broadly, characterized as deliberative, and accepted by courts deferring to government framing.</p>
 <p><strong>6. Appointment capture and vacancy weaponization.</strong> Between Mario Dion's retirement in February 2023 and the appointment of an interim commissioner in August 2023, federal ethics oversight was paused for six months. During the gap, the government appointed Martine Richard — sister-in-law of cabinet minister Dominic LeBlanc — as interim commissioner. She resigned within weeks under opposition pressure. A government that moves slowly on appointments has structural control over the rhythm of oversight.</p>
@@ -1949,7 +1755,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>8. Definitional games and scope narrowing.</strong> In December 2023, Alberta Ethics Commissioner Trussler closed her investigation into the dismissal of Dr. Deena Hinshaw from an AHS position without investigating Premier Smith, citing statutory scope. Opposition leader Notley identified the structural problem: "The Conflict of Interest Act is very narrow in scope." Earlier, Trussler's finding against Smith on the Pawlowski prosecution resulted in no sanctions. The pattern is Commissioners choosing narrow application consistently, regardless of available statutory language.</p>
 <p><strong>9. Threshold erosion through inaction.</strong> The federal Lobbying Act's 20% rule for in-house lobbyists was treated as 32 hours per month for years, allowing a large population of organizations to evade registration. The Commissioner's July 2025 reinterpretation reduced the threshold to eight hours, capturing organizations that had evaded registration for the entire life of the Act. The five-year statutory review required by that Act had not occurred since 2012. Thresholds erode systematically without mandatory, enforceable review.</p>
 <hr>
-<h2 id="part-iii-failure-mode-analysis">Part III — Failure Mode Analysis <a class="heading-anchor" href="#part-iii-failure-mode-analysis" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iii-failure-mode-analysis">Part III — Failure Mode Analysis <a class="heading-anchor" href="#part-iii-failure-mode-analysis" aria-label="Link to this section">¶</a></h2>
 <p><strong>10.</strong> The following failure modes are analyzed in order from lowest to highest residual severity after the regime's mitigation provisions are applied. For each: the structural or historical pattern, the provisions that address it, and the residual risk that remains.</p>
 <hr>
 <h3 id="1-compliance-theatre">§1 — Compliance Theatre <a class="heading-anchor" href="#1-compliance-theatre" aria-label="Link to this section">¶</a></h3>
@@ -2012,7 +1818,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>45. Regime mitigation.</strong> §22(6) preserves Cabinet and executive privilege as grounds in review proceedings. §22A anti-SLAPP provisions protect against challenges brought primarily for delay, with presumptive solicitor-client costs on failed challenges. The §28(7) counter-regulation is designated subject to Assembly disallowance. Review and appeal architecture under §22 provides conventional judicial oversight.</p>
 <p><strong>46. Residual risk.</strong> Highest-severity structural risk in the design. A successful challenge to §28(3)–(4) forces all operational regulations through Cabinet, introducing political control over the Commissioner's operational parameters. A successful privilege challenge to §22(5)(b) collapses MLA enforcement back to the existing pattern. A successful Charter challenge to §15(2) requires redesign of the contribution cross-reference architecture. Explicit severability clauses and a pre-tabling constitutional law opinion from counsel with administrative law expertise are the minimum required before this risk is acceptably managed.</p>
 <hr>
-<h2 id="part-iv-motivated-actor-scenarios">Part IV — Motivated Actor Scenarios <a class="heading-anchor" href="#part-iv-motivated-actor-scenarios" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iv-motivated-actor-scenarios">Part IV — Motivated Actor Scenarios <a class="heading-anchor" href="#part-iv-motivated-actor-scenarios" aria-label="Link to this section">¶</a></h2>
 <p><strong>47.</strong> The failure modes above are categorical. The scenarios below trace specific motivated actors through the regime's defenses, organized from least to most sophisticated.</p>
 <hr>
 <h3 id="13-hostile-opposition">§13 — Hostile Opposition <a class="heading-anchor" href="#13-hostile-opposition" aria-label="Link to this section">¶</a></h3>

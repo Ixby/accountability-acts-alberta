@@ -401,6 +401,22 @@
 
 **(6)** Nothing in this section limits the jurisdiction of the courts or administrative tribunals to adjudicate matters involving constitutional rights, treaty rights, or the duty to consult.
 
+### Writ Period
+
+**21B(1)** During a provincial general election or by-election, from the day the election writ is issued to the day the writ is returned:
+
+> (a) The Commissioner shall not commence a new investigation under this Act.
+>
+> (b) Investigations commenced before the issue of the writ continue in all respects, including the collection of evidence, the conduct of hearings, and the preparation of Reports, Orders, and Certificates.
+>
+> (c) Public Reports of Findings, Compliance Orders, and Certificates of Malfeasance arising from investigations in progress at the issue of the writ shall be issued on their normal timetable and shall not be delayed or accelerated on account of the writ period. The Commissioner shall not time the release of any Report, Order, or Certificate to coincide with electoral events.
+>
+> (d) A Certificate of Malfeasance issued during a writ period shall be delivered to the Speaker for tabling on the first sitting day following the return of the writ.
+
+**(2)** Subsection (1)(a) does not prevent: (a) the receipt and registration of complaints during a writ period; (b) the continuation of random audit work in progress at the issue of the writ; or (c) administrative and operational functions of the Commissioner office not involving the commencement of a new investigation.
+
+**(3)** For greater certainty, where the writ is issued while a complaint is pending and no investigation has yet been formally commenced, the Commissioner shall hold the complaint and commence investigation after the return of the writ, unless the writ is returned without an election having been held, in which case investigation may commence immediately.
+
 ### Review and Appeal
 
 **22(1)** A person aggrieved by a determination may apply to the Commissioner for reconsideration within 30 days.

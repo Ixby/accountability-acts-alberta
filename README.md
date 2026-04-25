@@ -71,7 +71,7 @@ The drafter's estimate is that the regime would cost roughly $5 million per year
 Set against the three cases above:
 
 | Case | Estimated cost to taxpayers | Annual cost of proposed regime |
-|---|---|---|
+| --- | --- | --- |
 | DynaLIFE buyout | up to $109M (AG estimate) | ~$5M |
 | Turkish Tylenol | $80M | ~$5M |
 | Canadian Energy Centre (lifetime) | estimated $50–100M | ~$5M |
@@ -108,7 +108,7 @@ This package doesn't answer every question. Here are the parts still being worke
 
 **Constitutional — officer-of-the-Legislature rulemaking.** Bill 1 gives the Commissioner direct regulation-making authority for threshold calibration and operational matters, with Assembly disallowance as the check. Defensible but novel in Alberta. Federal independent agencies provide precedent. Should get constitutional law review before tabling.
 
-**Election writ periods.** Should new investigations started during a writ period wait until after the election? The case cuts both ways, and the draft doesn't pick.
+**Election writ periods.** Resolved in §21B: no new investigations commenced during a writ period; ongoing investigations continue in all respects; outputs from ongoing investigations proceed on their normal timetable without delay or acceleration; the Commissioner shall not time releases to coincide with electoral events. Complaints received during a writ are held for investigation after the writ returns.
 
 **Verifying wealth for proportional penalties.** Net assets track capacity best but cost money to verify. Tax filings are cheap but miss retained earnings, unrealized gains, and trust-held wealth. The draft uses net assets with a tax-filing fallback where verification is impractical. Whether that's calibrated right is worth arguing about.
 

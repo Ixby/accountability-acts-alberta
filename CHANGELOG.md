@@ -4,6 +4,10 @@ Version history for the Honest Government and Open Books Acts drafting package.
 
 Entries below mark substantive changes to the legislation. Intermediate editorial passes are not listed.
 
+## v1.14
+
+- **Bill 1 §21B** — Writ period rule. No new investigations commenced from writ issue to writ return. Ongoing investigations continue in all respects. Outputs from ongoing investigations not delayed or accelerated by the writ; Commissioner shall not time releases to coincide with electoral events. Certificates issued during writ are held for tabling on the first sitting day after return. Complaints received during the writ are held and investigation commences after return. Resolves the open question flagged in the README.
+
 ## v1.13
 
 Five structural gap provisions, each addressing a vulnerability identified in the post-v1.12 robustness review as not covered by the sunshine philosophy: gaps where public record-keeping alone was insufficient and legislative enforcement was available.

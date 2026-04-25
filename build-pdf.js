@@ -15,16 +15,9 @@ const path = require('path');
 const fs = require('fs');
 const { PDFDocument } = require('pdf-lib');
 
-const HEADER_BODY = `
-  <div style="font-family: 'Inter', sans-serif; font-size: 8pt; color: #003f87; width: 100%; padding: 0 0.7in; margin-top: 0.35in; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 500; display: flex; justify-content: space-between;">
-    <span>Rebuilding Trust</span>
-    <span></span>
-  </div>`;
-const FOOTER_BODY = `
-  <div style="font-family: 'Inter', sans-serif; font-size: 8pt; color: #4a4a4a; width: 100%; padding: 0 0.7in; margin-bottom: 0.35in; display: flex; justify-content: space-between; align-items: center;">
-    <span style="letter-spacing: 0.06em;">Drafted by Will Conner &middot; CC BY-SA 4.0</span>
-    <span style="font-feature-settings: 'tnum';"><span class="pageNumber"></span></span>
-  </div>`;
+// Header/footer chrome is now driven by @page CSS rules in
+// build-policy-brief-html.py — running-part string set by H2 part-opener
+// or by hidden running-anchor spans inside the bill appendices.
 
 const HTML_PATH = path.resolve(__dirname, 'policy-brief.html');
 const FILE_URL = 'file:///' + HTML_PATH.replace(/\\/g, '/');
@@ -238,7 +231,9 @@ async function renderToc(headings) {
   });
 }
 
-// Stage 3 — render the body with running header/footer.
+// Stage 3 — render the body. Running header/footer is now produced by
+// @page CSS rules; displayHeaderFooter is false so puppeteer doesn't
+// inject its own templates over the @page-generated chrome.
 async function renderBody() {
   return await withPage(async (page) => {
     await page.addStyleTag({
@@ -246,12 +241,9 @@ async function renderBody() {
     });
     return await page.pdf({
       format: 'Letter',
-      margin: { top: '0.85in', right: '0.7in', bottom: '0.95in', left: '0.7in' },
       printBackground: true,
       preferCSSPageSize: true,
-      displayHeaderFooter: true,
-      headerTemplate: HEADER_BODY,
-      footerTemplate: FOOTER_BODY,
+      displayHeaderFooter: false,
     });
   });
 }

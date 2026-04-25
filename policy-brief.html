@@ -76,15 +76,22 @@ body {
 .cover-title {
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 700;
-  font-size: clamp(4rem, 13vw, 8.4rem);
-  line-height: 0.9;
-  letter-spacing: -0.03em;
+  font-size: clamp(2.2rem, 7.8vw, 5.4rem);
+  line-height: 0.96;
+  letter-spacing: -0.025em;
   color: #003f87;
   margin: 0;
   text-transform: uppercase;
 }
 .cover-title .word { display: block; }
-.cover-title .word--top { margin-bottom: 0.04em; }
+.cover-title .word--line-1,
+.cover-title .word--line-2,
+.cover-title .word--line-3 { margin-bottom: 0.04em; }
+.cover-title .word--line-4 {
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
 
 /* Five wheat-gold rungs forming a forced-perspective scaffold beneath
    the title. The longest rung sits farthest from the viewer (top, near
@@ -271,6 +278,49 @@ h2::before {
   height: 2px;
   background: var(--accent);
   margin-bottom: 1.2rem;
+}
+
+/* Part-opener: each "Part I/II/.../VII — Title" h2 carries a separate
+   monumental Roman-numeral prefix in deep Alberta-blue, with the title
+   in italic serif beneath it. Pulls the cover's blue cameo into the body. */
+h2.part-opener {
+  margin-top: 4em;
+  padding-top: 0.6em;
+  border-top: 1px solid var(--rule);
+  display: block;
+}
+h2.part-opener::before {
+  content: attr(data-numeral);
+  display: block;
+  width: auto;
+  height: auto;
+  background: transparent;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #003f87;
+  margin: 0 0 0.15em;
+}
+h2.part-opener .part-prefix {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #003f87;
+  margin-bottom: 0.2em;
+}
+h2.part-opener .part-title {
+  display: block;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: var(--ink);
+  letter-spacing: -0.005em;
 }
 h3 {
   font-size: 1.25rem;
@@ -609,9 +659,76 @@ h4:hover .heading-anchor { opacity: 1; }
 @page {
   size: Letter;
   margin: 0.85in 0.7in 0.95in 0.7in;
+  @top-left {
+    content: string(brief-title);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #6b1f1f;
+    vertical-align: bottom;
+    padding-bottom: 0.3in;
+  }
+  @top-right {
+    content: string(running-part);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #003f87;
+    vertical-align: bottom;
+    padding-bottom: 0.3in;
+  }
+  @bottom-left {
+    content: "Drafted by Will Conner · CC BY-SA 4.0";
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    color: #4a4a4a;
+    letter-spacing: 0.06em;
+    vertical-align: top;
+    padding-top: 0.35in;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    color: #4a4a4a;
+    font-feature-settings: "tnum";
+    vertical-align: top;
+    padding-top: 0.35in;
+  }
 }
 @page :first {
   margin: 0;
+  @top-left { content: ""; }
+  @top-right { content: ""; }
+  @bottom-left { content: ""; }
+  @bottom-right { content: ""; }
+}
+/* Document title is set once on the body via a hidden anchor, then
+   string()-referenced from @top-left on every page. */
+body::before {
+  content: "What Accountable Government Looks Like";
+  string-set: brief-title content();
+  display: none;
+}
+/* Each Part-opener H2 sets the running-part string. As the layout
+   engine paginates, the latest string-set value is what appears in
+   @top-right — so each Part's pages carry that Part's name. */
+h2.part-opener .part-prefix {
+  string-set: running-part content();
+}
+/* Hidden span anchors set the running-part string for the bill
+   appendices. They don't render visually (visibility:hidden keeps
+   them in the page flow so string-set fires) but the engine captures
+   the content into the running header string. */
+.running-anchor {
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+  string-set: running-part content();
 }
 
 @media print {
@@ -646,7 +763,7 @@ h4:hover .heading-anchor { opacity: 1; }
     font-size: 8pt;
     margin-bottom: 1.2in;
   }
-  .cover-title { font-size: 78pt; line-height: 0.92; }
+  .cover-title { font-size: 50pt; line-height: 0.96; }
   .cover-subtitle { font-size: 11pt; max-width: 36ch; }
   .cover-foot-block {
     font-size: 9pt;
@@ -698,6 +815,25 @@ h4:hover .heading-anchor { opacity: 1; }
     margin: 1.5em 0 0.45em;
   }
   h2::before { width: 1.8em; height: 1pt; margin-bottom: 0.6em; }
+  /* Part-opener in print: each Part starts a new page with the
+     oversized Roman numeral and the deep-blue prefix. */
+  h2.part-opener {
+    page-break-before: always;
+    margin-top: 0;
+    padding-top: 0.6in;
+    border-top: none;
+  }
+  h2.part-opener::before {
+    font-size: 48pt;
+    margin-bottom: 0.1em;
+  }
+  h2.part-opener .part-prefix {
+    font-size: 9pt;
+    margin-bottom: 0.3em;
+  }
+  h2.part-opener .part-title {
+    font-size: 18pt;
+  }
   h3 {
     page-break-after: avoid;
     break-after: avoid-page;
@@ -888,8 +1024,10 @@ h4:hover .heading-anchor { opacity: 1; }
     <div class="cover-eyebrow">A drafted policy package &nbsp; April 2026</div>
     <div class="cover-title-block">
       <h1 class="cover-title">
-        <span class="word word--top">Rebuilding</span>
-        <span class="word word--bottom">Trust</span>
+        <span class="word word--line-1">What</span>
+        <span class="word word--line-2">Accountable</span>
+        <span class="word word--line-3">Government</span>
+        <span class="word word--line-4">Looks Like</span>
       </h1>
       <div class="cover-scaffold" aria-hidden="true">
         <span class="rung rung-5"></span>
@@ -982,7 +1120,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>What it doesn't yet do:</strong> constitutional review, Indigenous co-development, Treasury Board fiscal validation, legislative drafting review. Each named in Part VI.</p>
 <p><strong>If you want to send something to your MLA:</strong> there's a draft email at the end of Part VII. Replace the name and the riding. That's it.</p>
 <hr>
-</div><h2 id="part-i-what-this-costs-you">Part I — What This Costs You <a class="heading-anchor" href="#part-i-what-this-costs-you" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-i-what-this-costs-you" class="part-opener" data-numeral="I"><span class="part-prefix">Part I</span><span class="part-title">What This Costs You ¶</span></h2>
 <p>Three decisions. None of them dramatic enough to occupy the front page for more than a news cycle. Together, somewhere between $200 and $300 million of our money.</p>
 <h3 id="a-lab-system-that-didnt-work">A lab system that didn't work <a class="heading-anchor" href="#a-lab-system-that-didnt-work" aria-label="Link to this section">¶</a></h3>
 <p>In December 2022, Alberta Health Services launched a privatized community lab service under a long-term contract with DynaLIFE Medical Labs. The company was insolvent within months. AHS took the operation back in August 2023. In November 2025, the provincial Auditor General estimated the total taxpayer cost at approximately $109 million: roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement.</p>
@@ -1015,7 +1153,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <h3 id="a-note-on-case-selection">A note on case selection <a class="heading-anchor" href="#a-note-on-case-selection" aria-label="Link to this section">¶</a></h3>
 <p>The three cases above all sit inside the recent UCP era because the verifiable record close to the present is what an honest brief can use without speculation. The structural patterns these cases illustrate, oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, and opaque concessional arrangements, are older than the UCP and have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The regime has to bind a future NDP government in 2027 as readily as it would have applied to these three cases.</p>
 <hr>
-</div><h2 id="part-ii-why-the-tools-we-have-dont-reach">Part II — Why The Tools We Have Don't Reach <a class="heading-anchor" href="#part-ii-why-the-tools-we-have-dont-reach" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-ii-why-the-tools-we-have-dont-reach" class="part-opener" data-numeral="II"><span class="part-prefix">Part II</span><span class="part-title">Why The Tools We Have Don't Reach ¶</span></h2>
 <p>Alberta has accountability law: the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, the Election Finances and Contributions Disclosure Act, an Ethics Commissioner, an Auditor General, an Information and Privacy Commissioner. All of them do important work.</p>
 <p>Each was designed for a narrower problem than the one we have.</p>
 <h3 id="the-framework-was-built-for-individual-misconduct">The framework was built for individual misconduct <a class="heading-anchor" href="#the-framework-was-built-for-individual-misconduct" aria-label="Link to this section">¶</a></h3>
@@ -1046,7 +1184,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>The regime that follows is not built to terrorize public service. It includes a robust good-faith defence: a Minister or official acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The protections are real and load-bearing.</p>
 <p>What the regime cannot do is shield anyone from the political consequences of decisions made in public. Those consequences are the point.</p>
 <hr>
-</div><h2 id="part-iii-designing-for-whoever-wins">Part III — Designing For Whoever Wins <a class="heading-anchor" href="#part-iii-designing-for-whoever-wins" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iii-designing-for-whoever-wins" class="part-opener" data-numeral="III"><span class="part-prefix">Part III</span><span class="part-title">Designing For Whoever Wins ¶</span></h2>
 <p>There is one design test that matters before any provision: would you want this regime applied to a government you politically agree with? If your answer is yes for the regime as a whole, the design is partisan-neutral. If your answer is yes except for the parts that would hit your side, the design is a campaign document.</p>
 <p>The historical record on regimes written by one faction to discipline another is not encouraging. Some are walked back when their own writers get caught. Others are weakened, hollowed out, or selectively enforced once the other side takes office. The cost of partisan neutrality is real. It means provisions that discipline my own preferences, too. The design has to live with that cost or it does not deserve the name.</p>
 <h3 id="sunshine-over-criminalization">Sunshine over criminalization <a class="heading-anchor" href="#sunshine-over-criminalization" aria-label="Link to this section">¶</a></h3>
@@ -1057,12 +1195,18 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>We give a small number of people the power to make decisions on our behalf. In return, we keep the right to know what they are deciding, why, and on whose behalf.</p>
 <p>You cannot consent to what you cannot see.</p>
 <p>You might consent to a Minister conferring $50 million in benefit to a specific party once you understand the reasons. You cannot consent to it if you don't know it happened. You cannot meaningfully consent to a regulatory framework where the decisions that move the most value are routinely made in rooms whose contents leave no record.</p>
+<h3 id="accountability-is-a-condition-of-legitimate-government-not-a-constraint-on-it">Accountability is a condition of legitimate government, not a constraint on it <a class="heading-anchor" href="#accountability-is-a-condition-of-legitimate-government-not-a-constraint-on-it" aria-label="Link to this section">¶</a></h3>
+<p>Three objections to a regime like this are worth meeting before the bills are walked through, because if the answers don't hold the rest of the brief is a procedural exercise.</p>
+<p><strong>This is surveillance.</strong> It isn't, and the carve-outs are explicit. The regime watches the exercise of <em>public</em> power, not the exercise of private life. Citizens emailing their MLA about a policy are not lobbying. Family members of an ISC who have not themselves donated are not captured by procurement cross-reference. Volunteer community-board members are not subject to penalty without direct personal involvement in a contravention. Indigenous governments' internal governance is carved out entirely. Small bidders use a simplified annual declaration rather than per-bid disclosure. Junior staff are protected by a minimum penalty floor and the asset-based enhancement applies only above a regulatory threshold. The regime doesn't watch what private people do. It watches what public power does.</p>
+<p><strong>This treats normal politics as corruption.</strong> It doesn't, and the distinction matters. Patronage — rewarding supporters with appointments and concessions — has been part of democratic politics since there has been democratic politics. The traditional defence of patronage rested on its visibility: voters knew what they were getting, and could reward or punish at the next election. What the regime asks is that the modern analogues — large contracts to donors, regulatory approvals to politically-connected firms, concessions to party-adjacent beneficiaries — be similarly visible. It does not criminalize patronage. It exposes it. The public then decides.</p>
+<p><strong>This will chill legitimate public service.</strong> It mostly won't, and the design lives or dies on the good-faith defence. The regime is calibrated so that public servants and volunteer board members acting on reasonable legal advice, on published guidance, on documented practice in their field, are not subject to penalty. The burden of proving bad faith rests on the Commissioner. The 18-month post-employment cooling-off carves out arms-length public entities — AHS, universities, municipalities — so legitimate public-service mobility is not blocked. Junior-staff-tier penalties are scaled to the minimum floor. The regime is built to discipline the conduct that warrants discipline; it is not built to make public service unattractive to people of integrity.</p>
+<p>The deeper claim underneath all three answers: accountability is not opposed to effective government. It is a condition of it. Power that cannot be seen cannot be consented to, and power that cannot be consented to is not legitimate power. The regime's job is not to constrain the executive. It is to keep the executive's power legitimately delegated.</p>
 <h3 id="three-principles-that-run-through-the-bills">Three principles that run through the bills <a class="heading-anchor" href="#three-principles-that-run-through-the-bills" aria-label="Link to this section">¶</a></h3>
 <p><strong>Bind whoever holds power.</strong> Random audit selection uses verifiable randomness, so no commissioner can pick targets. Penalty thresholds index to inflation, so the framework doesn't erode silently. Court confirmation is required for large penalties against non-Members. Assembly disallowance is preserved for regulations.</p>
 <p><strong>Protect good faith.</strong> Public servants, volunteer board members, and records officers are protected throughout. The good-faith defence at §26 is the moral architecture of the entire regime. A person acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The burden of proving bad faith rests on the Commissioner. If the defence is invoked on the basis of legal advice, the respondent has to disclose every legal opinion they obtained on the same question, not only the one they liked. A pattern of getting four opinions, three of which said "this is impermissible," and acting on the fourth is evidence of willful blindness, not exoneration.</p>
 <p><strong>Defer to existing institutions.</strong> The regime does not replace courts, the Assembly, criminal justice, or existing regulators. Civil and criminal matters go to courts. Electoral consequences go to the Assembly. The Commissioner investigates and reports. The Assembly decides.</p>
 <hr>
-</div><h2 id="part-iv-the-honest-government-act-how-officials-behave">Part IV — The Honest Government Act: How Officials Behave <a class="heading-anchor" href="#part-iv-the-honest-government-act-how-officials-behave" aria-label="Link to this section">¶</a></h2>
+</div><h2 id="part-iv-the-honest-government-act-how-officials-behave" class="part-opener" data-numeral="IV"><span class="part-prefix">Part IV</span><span class="part-title">The Honest Government Act: How Officials Behave ¶</span></h2>
 <p>Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.</p>
 <h3 id="lobbying-that-actually-has-to-register">Lobbying that actually has to register <a class="heading-anchor" href="#lobbying-that-actually-has-to-register" aria-label="Link to this section">¶</a></h3>
 <p>Alberta's current rule registers in-house lobbyists at fifty hours of lobbying activity per year. The threshold has produced a working answer for paid consultant lobbying: keep the clock low. The bill closes this for paid consultants. A consultant lobbyist registers regardless of time spent: from the moment money changes hands for the work, registration is required. For employees lobbying inside their own organization, the threshold is restructured rather than removed. The bill replaces the fifty-hour annual clock with a twenty-percent-of-working-time-per-calendar-quarter test plus a position-description test: lobbying captured because it is structurally part of the job, not because somebody hit a stopwatch.</p>
@@ -1127,7 +1271,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>Operational details.</strong> Threshold calibration, what counts as a "large penalty," what counts as a "small bidder," is deferred to regulation under §28. The bill includes initial values where I felt confident. Other specific numbers are best argued by people who have to administer the system.</p>
 <p>None of these prevents serious engagement with the bill as drafted.</p>
 <hr>
-<h2 id="part-v-the-open-books-act-how-advantage-flows">Part V — The Open Books Act: How Advantage Flows <a class="heading-anchor" href="#part-v-the-open-books-act-how-advantage-flows" aria-label="Link to this section">¶</a></h2>
+<h2 id="part-v-the-open-books-act-how-advantage-flows" class="part-opener" data-numeral="V"><span class="part-prefix">Part V</span><span class="part-title">The Open Books Act: How Advantage Flows ¶</span></h2>
 <p>Bill 1 catches people. Bill 2 catches structures.</p>
 <p>The Canadian Energy Centre wasn't corrupt officials. It was a corporate structure, deliberately chosen, that put a public function outside the framework that would have applied to a Crown agency doing the same work. The Crown-corp end-run. That kind of decision is what Bill 2 is for.</p>
 <blockquote>
@@ -1165,7 +1309,7 @@ The full text is in Appendix B.</p>
 <p>The first report covers a small number of bodies; coverage expands to all provincial regulators, tribunals, and enforcement agencies within five years (Bill 2 §7).</p>
 <p>This is the hardest provision in the package to administer, and the most consequential. Right now, we don't even know enough to have the methodological argument.</p>
 <hr>
-<h2 id="part-vi-the-honest-limits">Part VI — The Honest Limits <a class="heading-anchor" href="#part-vi-the-honest-limits" aria-label="Link to this section">¶</a></h2>
+<h2 id="part-vi-the-honest-limits" class="part-opener" data-numeral="VI"><span class="part-prefix">Part VI</span><span class="part-title">The Honest Limits ¶</span></h2>
 <p>A regime designed to bind whoever holds power has to survive motivated subversion by whoever holds power.</p>
 <h3 id="what-could-go-wrong">What could go wrong <a class="heading-anchor" href="#what-could-go-wrong" aria-label="Link to this section">¶</a></h3>
 <p><strong>Constitutional vulnerability.</strong> Three provisions face material exposure: the Commissioner's regulation-making authority at §28, Assembly enforcement of large penalties against sitting Members at §22(5)(b), and the political-contribution cross-reference at §15. None is fatal. A pre-tabling constitutional opinion is non-negotiable. The drafter designed within constraints; counsel will say whether that worked.</p>
@@ -1173,6 +1317,7 @@ The full text is in Appendix B.</p>
 <p><strong>Appointment capture.</strong> A two-thirds threshold is a substantial barrier; it is not a guarantee. A government with two-thirds of the Assembly, which has happened in Alberta, can appoint its preferred candidate. The seven-year non-renewable term, the eligibility bar on recent partisans, and the Chief Justice fallback at 120 days all raise the cost. None eliminates the risk.</p>
 <p><strong>Resource starvation.</strong> The regime can be defunded. The budget floor at §24(6) requires a recorded vote and a written consequences statement before estimates fall below the prior-year-CPI-adjusted floor. It does not prevent cuts; a government that accepts the political cost can still starve the office. The floor forces that cost into the open.</p>
 <p><strong>Coordinated capture.</strong> The most serious failure mode is sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority. Sufficient political will, applied across multiple election cycles, can defeat any structural design — Hungary's Orbán government and several U.S. states have demonstrated as much. No legislation can prevent this. It can raise the cost, generate records that survive the attempt, and distribute power so capturing every institution is itself a visible operation.</p>
+<p><strong>Weaponization against the opposition.</strong> The corollary, and the question every reader should ask: what stops a future government from using the regime to harass its political opponents? Walk through the scenario. A future Commissioner is appointed by the supermajority of a dominant governing party. Investigations are launched against opposition MLAs and former opposition Ministers, with audit selections mysteriously concentrating on one side of the aisle. What does the bill do? Random audit selection uses a publicly verifiable randomness beacon (§27) — selection methodology is published, the seed is published, anyone can check. Court confirmation is required for large penalties against non-Members (§22(5)(a)) — administrative weaponization runs into King's Bench review. The good-faith defence (§26) and its disclosure-of-all-opinions corollary (§26(5)) protect a Minister who acted on reasonable advice; they remove the protection from one who shopped for permissive opinions. The cooperation register (§24(5)) and the Auditor General's communications log (Bill 2 §7(8)) make ministerial pressure on the office a matter of public record. The seven-year non-renewable Commissioner term (§11A) outlasts most majorities, so even a captured Commissioner inherits the term limits of the appointment. None of these are guarantees. They are friction. A weaponizing government has to break the randomness beacon, override the Court, falsify the cooperation register, and silence the Auditor General — each one in public, each one creating its own record. The asymmetry between hidden capture (cheap) and visible capture (expensive) is the entire structural argument.</p>
 <p>The pattern across these failure modes is the same: every accountability regime in modern Canadian and British practice that has been substantially weakened was weakened by a confluence of three things — a captured appointment, a passive Assembly, and a slow erosion of resourcing. The bill's structural protections (supermajority appointment, two-thirds removal, eligibility bars on recent partisans, indexed thresholds, recorded-vote budget floors) raise the cost of each of those three independently. They do not eliminate the risk; they make it visible.</p>
 <h3 id="what-it-costs">What it costs <a class="heading-anchor" href="#what-it-costs" aria-label="Link to this section">¶</a></h3>
 <p>The combined regime costs an estimated <strong>$5 million per year at steady state</strong>, achieved by year five. Year-one capital is approximately $1.7 million for the technology build (the ISC registry, the cross-reference engine, the identity-consistency platform, the Tier 0 automated audit system); year-one operating spending is approximately $1.5 million during partial-year operations. The drafter's allocation across offices: roughly 18 FTE at the Ethics Commissioner office, 6 FTE at the Auditor General office for the Enforcement Equity Report, 4 FTE at the Information and Privacy Commissioner for documentation standards and audit, plus shared technology operations. Per capita the regime sits modestly higher than peer Canadian provincial oversight regimes — a function of broader scope rather than higher unit costs.</p>
@@ -1186,7 +1331,7 @@ The full text is in Appendix B.</p>
 <p><strong>Independent fiscal validation.</strong> The $5 million figure is consistent with peer Canadian oversight regimes on a per-capita basis, slightly higher because of broader scope. It needs Treasury Board analysis or equivalent.</p>
 <p><strong>Legislative drafting review.</strong> Section numbers referencing existing Alberta statutes need a legislative drafter's verification. Internal consistency across the two bills needs another pass by someone trained in legislative drafting craft. This brief is one citizen's serious attempt, not the equivalent of a legislative counsel's office product.</p>
 <hr>
-<h2 id="part-vii-the-invitation">Part VII — The Invitation <a class="heading-anchor" href="#part-vii-the-invitation" aria-label="Link to this section">¶</a></h2>
+<h2 id="part-vii-the-invitation" class="part-opener" data-numeral="VII"><span class="part-prefix">Part VII</span><span class="part-title">The Invitation ¶</span></h2>
 <p>Three structural failures, named: the <strong>oral-briefing loophole</strong>, the <strong>no-paper emergency</strong>, the <strong>Crown-corp end-run</strong>. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.</p>
 <p>If something in the package is worth supporting, the support has to be public and specific. <em>I want this provision because of these reasons.</em> General endorsement is worth less than a particular sentence put in front of a particular MLA.</p>
 <p>If none of it is worth supporting, that is a position worth taking publicly. A no with reasoning beats a no without.</p>
@@ -1210,7 +1355,7 @@ The full text is in Appendix B.</p>
 </blockquote>
 <p>The bills were drafted to be used.</p>
 <hr>
-<h1 id="appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act <a class="heading-anchor" href="#appendix-a-bill-1-the-honest-government-act" aria-label="Link to this section">¶</a></h1><section class="bill-text">
+<h1 id="appendix-a-bill-1-the-honest-government-act">Appendix A — Bill 1: The Honest Government Act <a class="heading-anchor" href="#appendix-a-bill-1-the-honest-government-act" aria-label="Link to this section">¶</a></h1><span class="running-anchor">Honest Government Act</span><section class="bill-text">
 <p><em>Full drafted text. Released under CC-BY-SA 4.0.</em></p>
 <hr>
 <h2 id="preamble">Preamble <a class="heading-anchor" href="#preamble" aria-label="Link to this section">¶</a></h2>
@@ -1626,7 +1771,7 @@ The full text is in Appendix B.</p>
 <p><strong>(3)</strong> Section 27 (Random Audit Program) comes into force 365 days after Royal Assent, with the first audit conducted in the first full fiscal year following commencement.</p>
 <p><strong>(4)</strong> Except as otherwise provided in this section, this Act comes into force on Royal Assent.</p>
 <hr>
-</section><h1 id="appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act <a class="heading-anchor" href="#appendix-b-bill-2-the-open-books-act" aria-label="Link to this section">¶</a></h1>
+</section><h1 id="appendix-b-bill-2-the-open-books-act">Appendix B — Bill 2: The Open Books Act <a class="heading-anchor" href="#appendix-b-bill-2-the-open-books-act" aria-label="Link to this section">¶</a></h1><span class="running-anchor">Open Books Act</span><section class="bill-text">
 <p><em>Full drafted text. Released under CC-BY-SA 4.0.</em></p>
 <hr>
 <p><em>Companion to Bill 1, the Honest Government Act</em></p>
@@ -1735,7 +1880,7 @@ The full text is in Appendix B.</p>
 *End of drafted package*  
 Drafted by Will Conner &middot; Released under Creative Commons Attribution-ShareAlike 4.0  
 github.com/Ixby/accountability-acts-alberta
-</div>
+</div></section>
 </main>
 <footer class="site-footer">
   <div class="wrap">

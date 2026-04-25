@@ -87,15 +87,22 @@ body {
 .cover-title {
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 700;
-  font-size: clamp(4rem, 13vw, 8.4rem);
-  line-height: 0.9;
-  letter-spacing: -0.03em;
+  font-size: clamp(2.2rem, 7.8vw, 5.4rem);
+  line-height: 0.96;
+  letter-spacing: -0.025em;
   color: #003f87;
   margin: 0;
   text-transform: uppercase;
 }
 .cover-title .word { display: block; }
-.cover-title .word--top { margin-bottom: 0.04em; }
+.cover-title .word--line-1,
+.cover-title .word--line-2,
+.cover-title .word--line-3 { margin-bottom: 0.04em; }
+.cover-title .word--line-4 {
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
 
 /* Five wheat-gold rungs forming a forced-perspective scaffold beneath
    the title. The longest rung sits farthest from the viewer (top, near
@@ -282,6 +289,49 @@ h2::before {
   height: 2px;
   background: var(--accent);
   margin-bottom: 1.2rem;
+}
+
+/* Part-opener: each "Part I/II/.../VII — Title" h2 carries a separate
+   monumental Roman-numeral prefix in deep Alberta-blue, with the title
+   in italic serif beneath it. Pulls the cover's blue cameo into the body. */
+h2.part-opener {
+  margin-top: 4em;
+  padding-top: 0.6em;
+  border-top: 1px solid var(--rule);
+  display: block;
+}
+h2.part-opener::before {
+  content: attr(data-numeral);
+  display: block;
+  width: auto;
+  height: auto;
+  background: transparent;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #003f87;
+  margin: 0 0 0.15em;
+}
+h2.part-opener .part-prefix {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #003f87;
+  margin-bottom: 0.2em;
+}
+h2.part-opener .part-title {
+  display: block;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: var(--ink);
+  letter-spacing: -0.005em;
 }
 h3 {
   font-size: 1.25rem;
@@ -620,9 +670,76 @@ h4:hover .heading-anchor { opacity: 1; }
 @page {
   size: Letter;
   margin: 0.85in 0.7in 0.95in 0.7in;
+  @top-left {
+    content: string(brief-title);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #6b1f1f;
+    vertical-align: bottom;
+    padding-bottom: 0.3in;
+  }
+  @top-right {
+    content: string(running-part);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #003f87;
+    vertical-align: bottom;
+    padding-bottom: 0.3in;
+  }
+  @bottom-left {
+    content: "Drafted by Will Conner · CC BY-SA 4.0";
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    color: #4a4a4a;
+    letter-spacing: 0.06em;
+    vertical-align: top;
+    padding-top: 0.35in;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: "Inter", sans-serif;
+    font-size: 8pt;
+    color: #4a4a4a;
+    font-feature-settings: "tnum";
+    vertical-align: top;
+    padding-top: 0.35in;
+  }
 }
 @page :first {
   margin: 0;
+  @top-left { content: ""; }
+  @top-right { content: ""; }
+  @bottom-left { content: ""; }
+  @bottom-right { content: ""; }
+}
+/* Document title is set once on the body via a hidden anchor, then
+   string()-referenced from @top-left on every page. */
+body::before {
+  content: "What Accountable Government Looks Like";
+  string-set: brief-title content();
+  display: none;
+}
+/* Each Part-opener H2 sets the running-part string. As the layout
+   engine paginates, the latest string-set value is what appears in
+   @top-right — so each Part's pages carry that Part's name. */
+h2.part-opener .part-prefix {
+  string-set: running-part content();
+}
+/* Hidden span anchors set the running-part string for the bill
+   appendices. They don't render visually (visibility:hidden keeps
+   them in the page flow so string-set fires) but the engine captures
+   the content into the running header string. */
+.running-anchor {
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+  string-set: running-part content();
 }
 
 @media print {
@@ -657,7 +774,7 @@ h4:hover .heading-anchor { opacity: 1; }
     font-size: 8pt;
     margin-bottom: 1.2in;
   }
-  .cover-title { font-size: 78pt; line-height: 0.92; }
+  .cover-title { font-size: 50pt; line-height: 0.96; }
   .cover-subtitle { font-size: 11pt; max-width: 36ch; }
   .cover-foot-block {
     font-size: 9pt;
@@ -709,6 +826,25 @@ h4:hover .heading-anchor { opacity: 1; }
     margin: 1.5em 0 0.45em;
   }
   h2::before { width: 1.8em; height: 1pt; margin-bottom: 0.6em; }
+  /* Part-opener in print: each Part starts a new page with the
+     oversized Roman numeral and the deep-blue prefix. */
+  h2.part-opener {
+    page-break-before: always;
+    margin-top: 0;
+    padding-top: 0.6in;
+    border-top: none;
+  }
+  h2.part-opener::before {
+    font-size: 48pt;
+    margin-bottom: 0.1em;
+  }
+  h2.part-opener .part-prefix {
+    font-size: 9pt;
+    margin-bottom: 0.3em;
+  }
+  h2.part-opener .part-title {
+    font-size: 18pt;
+  }
   h3 {
     page-break-after: avoid;
     break-after: avoid-page;
@@ -906,8 +1042,10 @@ COVER_HTML = f"""<section class="cover" aria-label="Cover">
     <div class="cover-eyebrow">A drafted policy package &nbsp; {PUBLICATION_DATE}</div>
     <div class="cover-title-block">
       <h1 class="cover-title">
-        <span class="word word--top">Rebuilding</span>
-        <span class="word word--bottom">Trust</span>
+        <span class="word word--line-1">What</span>
+        <span class="word word--line-2">Accountable</span>
+        <span class="word word--line-3">Government</span>
+        <span class="word word--line-4">Looks Like</span>
       </h1>
       <div class="cover-scaffold" aria-hidden="true">
         <span class="rung rung-5"></span>
@@ -978,6 +1116,33 @@ def build():
         flags=re.DOTALL,
     )
 
+    # Part-opener treatment: every "Part I/II/III/.../VII — Title" h2 gets
+    # a class plus a data-numeral attribute (the Roman numeral) so we can
+    # render the oversized blue numeral above the heading via CSS.
+    def tag_part_opener(match):
+        attrs = match.group(1)
+        inner = match.group(2)
+        m = re.match(r"\s*Part\s+([IVX]+)\s*[—-]\s*(.+)", re.sub(r"<[^>]+>", "", inner).strip())
+        if not m:
+            return match.group(0)
+        numeral = m.group(1)
+        title_only = m.group(2).strip()
+        # Insert class and data-numeral
+        if 'class="' in attrs:
+            new_attrs = re.sub(r'class="([^"]*)"', r'class="\1 part-opener"', attrs)
+        else:
+            new_attrs = attrs + ' class="part-opener"'
+        new_attrs += f' data-numeral="{numeral}"'
+        # Replace inner with just the title (the Part X — prefix is now visual)
+        return f'<h2{new_attrs}><span class="part-prefix">Part {numeral}</span><span class="part-title">{title_only}</span></h2>'
+
+    body_html = re.sub(
+        r"<h2([^>]*)>(.*?)</h2>",
+        tag_part_opener,
+        body_html,
+        flags=re.DOTALL,
+    )
+
     # Add display treatment to the $200-300 million cost figure in Part I close.
     # Look for the specific paragraph that contains that text.
     body_html = re.sub(
@@ -1034,20 +1199,29 @@ def build():
 
     # Wrap content following each Bill 1/2 appendix H1 with class="bill-text"
     # so we can apply statutory typography (smaller, hanging indents, sans heads).
-    def wrap_bill(match):
+    # Inject a hidden running-anchor immediately after each appendix H1 to set
+    # the running-part string for the page header.
+    def wrap_bill_a(match):
         h1_block = match.group(1)
         body = match.group(2)
-        return f'{h1_block}<section class="bill-text">{body}</section>'
+        anchor = '<span class="running-anchor">Honest Government Act</span>'
+        return f'{h1_block}{anchor}<section class="bill-text">{body}</section>'
+
+    def wrap_bill_b(match):
+        h1_block = match.group(1)
+        body = match.group(2)
+        anchor = '<span class="running-anchor">Open Books Act</span>'
+        return f'{h1_block}{anchor}<section class="bill-text">{body}</section>'
 
     body_html = re.sub(
         r'(<h1 [^>]*id="appendix-a[^"]*"[^>]*>.*?</h1>)(.*?)(?=<h1 [^>]*id="appendix-b)',
-        wrap_bill,
+        wrap_bill_a,
         body_html,
         flags=re.DOTALL,
     )
     body_html = re.sub(
-        r'(<h1 [^>]*id="appendix-b[^"]*"[^>]*>.*?</h1>)(.*?)(?=<h1 [^>]*id="appendix-c)',
-        wrap_bill,
+        r'(<h1 [^>]*id="appendix-b[^"]*"[^>]*>.*?</h1>)(.*)$',
+        wrap_bill_b,
         body_html,
         flags=re.DOTALL,
     )

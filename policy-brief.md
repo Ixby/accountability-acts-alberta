@@ -34,10 +34,10 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 **Two bills:**
 
-- **The Honest Government Act** — how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
-- **The Open Books Act** — how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
+- **The Honest Government Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
+- **The Open Books Act:** how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
 
-**What it costs:** ~$5 million per year — roughly one one-hundredth of one percent of the provincial budget.
+**What it costs:** ~$5 million per year, roughly one one-hundredth of one percent of the provincial budget.
 
 **What it doesn't yet do:** constitutional review, Indigenous co-development, Treasury Board fiscal validation, legislative drafting review. Each named in Part VI.
 
@@ -51,7 +51,7 @@ Three decisions. None of them dramatic enough to occupy the front page for more 
 
 ### A lab system that didn't work
 
-In December 2022, Alberta Health Services launched a privatized community lab service under a long-term contract with DynaLIFE Medical Labs. The company was insolvent within months. AHS took the operation back in August 2023. In November 2025, the provincial Auditor General estimated the total taxpayer cost at approximately $109 million — roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement.
+In December 2022, Alberta Health Services launched a privatized community lab service under a long-term contract with DynaLIFE Medical Labs. The company was insolvent within months. AHS took the operation back in August 2023. In November 2025, the provincial Auditor General estimated the total taxpayer cost at approximately $109 million: roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement.
 
 Here is the part of the story that matters for this brief.
 
@@ -99,6 +99,10 @@ It is worth giving the three structural failures names, because the rest of the 
 
 The bills are designed to reach all three.
 
+### A note on case selection
+
+The three cases above all sit inside the recent UCP era because the verifiable record close to the present is what an honest brief can use without speculation. The structural patterns these cases illustrate, oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, and opaque concessional arrangements, are older than the UCP and have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The regime has to bind a future NDP government in 2027 as readily as it would have applied to these three cases.
+
 ---
 
 ## Part II — Why The Tools We Have Don't Reach
@@ -117,7 +121,7 @@ The Lobbyists Act asks: who is being paid to influence government, and on whose 
 
 The Public Interest Disclosure Act protects whistleblowers from retaliation. The federal version of the same regime has produced a documented record of very few completed reprisal cases in nearly two decades of operation, by widely reported accounts.
 
-The federal Ethics Commissioner has, since the 2007 *Conflict of Interest Act*, twice found a sitting Prime Minister in personal breach: the *Trudeau Report* (2017, on the Aga Khan vacation) and the *Trudeau II Report* (2019, on the SNC-Lavalin matter). The Act specifies no penalty for breach. The findings are published. The rest is up to voters.
+The federal Ethics Commissioner has, since the 2007 *Conflict of Interest Act*, twice found a sitting Prime Minister in personal breach: the *Trudeau Report* (2017, on the Aga Khan vacation) and the *Trudeau II Report* (2019, on the SNC-Lavalin matter). The federal regime has investigated and reported on ministers across both Conservative and Liberal governments at various times in its operation; the *Trudeau Report* and *Trudeau II Report* are the two findings of personal breach against a sitting Prime Minister. The Act specifies no penalty for breach. The findings are published. The rest is up to voters.
 
 This is not a story about bad commissioners. It is a story about laws written for a smaller problem, deployed against a world where most of the value moves through structural choices that don't break any rule.
 
@@ -127,7 +131,7 @@ If you watch where money flows from public to private hands in any Canadian juri
 
 Larger amounts move through other channels.
 
-**Legislation written narrowly enough to benefit specific parties.** A private bill, or a public bill where the practical beneficiaries are a handful of identifiable companies. Legislatures do this for legitimate reasons — implementing a treaty, recognizing a settlement, transitioning a regulated industry. The question is whether the public can see who benefits and by how much.
+**Legislation written narrowly enough to benefit specific parties.** A private bill, or a public bill where the practical beneficiaries are a handful of identifiable companies. Legislatures do this for legitimate reasons: implementing a treaty, recognizing a settlement, transitioning a regulated industry. The question is whether the public can see who benefits and by how much.
 
 **Regulatory approvals.** Pipelines, utility licences, major land-use decisions. The financial value of a single major regulatory approval can dwarf any procurement contract. If a regulator approves a billion-dollar project, that is a billion-dollar transfer of public value. Procurement disclosure rules don't apply.
 
@@ -139,7 +143,7 @@ Larger amounts move through other channels.
 
 These channels are not five separate problems. They are the same problem expressed five ways: decisions that move public value through points the existing framework was not built to see.
 
-This is where Bill 2 — the Open Books Act — is aimed.
+This is where Bill 2, the Open Books Act, is aimed.
 
 ### Why most of this isn't criminal
 
@@ -147,7 +151,7 @@ Looking at the cost figures in Part I, you might ask: surely some of this must b
 
 Mostly it isn't, and mostly it can't be. Criminal law has specific elements that have to be proven beyond reasonable doubt. Fraud requires deception causing harm. Breach of trust requires a senior public officer abusing their position for personal benefit or a prohibited purpose. Bribery requires a corrupt agreement. Obstruction requires intentional interference with justice.
 
-The destroyed records, the unreasoned procurement, the corporate shell — most of what Part I describes does not meet those elements. Sometimes because the conduct genuinely isn't criminal. More often because the documentary trail required to prove it is exactly the trail that doesn't exist.
+The destroyed records, the unreasoned procurement, the corporate shell: most of what Part I describes does not meet those elements. Sometimes because the conduct genuinely isn't criminal. More often because the documentary trail required to prove it is exactly the trail that doesn't exist.
 
 You can criminalize more, but the criminal law is a coarse tool. It imposes consequences appropriate to criminal conviction (imprisonment, criminal record, lasting collateral damage) and procedural protections appropriate to that level of consequence. Most public servants acting in good faith should not face criminal prosecution. They should face accountability proportional to what they actually did.
 
@@ -157,7 +161,7 @@ The space between "nothing happens" and "criminal prosecution" is enormous. That
 
 Most public servants in Alberta are trying to do their jobs well, under real constraints, in a complex system. Most Ministers want to leave the office better than they found it. The accountability problem is not that these people are corrupt. It is that the system's accountability machinery was designed for a smaller problem than the one we have, and the structural patterns where the largest value moves are largely unreached.
 
-The regime that follows is not built to terrorize public service. It includes a robust good-faith defence — a Minister or official acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The protections are real and load-bearing.
+The regime that follows is not built to terrorize public service. It includes a robust good-faith defence: a Minister or official acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The protections are real and load-bearing.
 
 What the regime cannot do is shield anyone from the political consequences of decisions made in public. Those consequences are the point.
 
@@ -173,7 +177,7 @@ The historical record on regimes written by one faction to discipline another is
 
 The regime is built around disclosure rather than new crimes.
 
-Disclosure generates information that the political process, the press, regulators, courts, voters, and future commissioners can each act on. Criminalization, by contrast, requires proof beyond reasonable doubt, secured through prosecutors with discretion not to charge. Most of what the bills target wouldn't meet criminal standards even if it should be exposed. And criminalizing political conduct creates the risk that political opponents weaponize the criminal law against each other — a risk we have watched play out elsewhere and have no need to import.
+Disclosure generates information that the political process, the press, regulators, courts, voters, and future commissioners can each act on. Criminalization, by contrast, requires proof beyond reasonable doubt, secured through prosecutors with discretion not to charge. Most of what the bills target wouldn't meet criminal standards even if it should be exposed. And criminalizing political conduct creates the risk that political opponents weaponize the criminal law against each other, a risk we have watched play out elsewhere and have no need to import.
 
 Justice Brandeis put the underlying intuition into a phrase a century ago: sunlight is the best of disinfectants. Make decisions visible. Make the people making them accountable for showing their work. Let the political process and the courts and the press do what they already exist to do.
 
@@ -189,7 +193,7 @@ You might consent to a Minister conferring $50 million in benefit to a specific 
 
 **Bind whoever holds power.** Random audit selection uses verifiable randomness, so no commissioner can pick targets. Penalty thresholds index to inflation, so the framework doesn't erode silently. Court confirmation is required for large penalties against non-Members. Assembly disallowance is preserved for regulations.
 
-**Protect good faith.** Public servants, volunteer board members, and records officers are protected throughout. The good-faith defence at §26 is the moral architecture of the entire regime. A person acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The burden of proving bad faith rests on the Commissioner. If the defence is invoked on the basis of legal advice, the respondent has to disclose every legal opinion they obtained on the same question — not only the one they liked. A pattern of getting four opinions, three of which said "this is impermissible," and acting on the fourth is evidence of willful blindness, not exoneration.
+**Protect good faith.** Public servants, volunteer board members, and records officers are protected throughout. The good-faith defence at §26 is the moral architecture of the entire regime. A person acting on reasonable legal advice, on published guidance, on documented practice in their field, is not subject to penalty. The burden of proving bad faith rests on the Commissioner. If the defence is invoked on the basis of legal advice, the respondent has to disclose every legal opinion they obtained on the same question, not only the one they liked. A pattern of getting four opinions, three of which said "this is impermissible," and acting on the fourth is evidence of willful blindness, not exoneration.
 
 **Defer to existing institutions.** The regime does not replace courts, the Assembly, criminal justice, or existing regulators. Civil and criminal matters go to courts. Electoral consequences go to the Assembly. The Commissioner investigates and reports. The Assembly decides.
 
@@ -313,9 +317,9 @@ For audits that close cleanly, the records are destroyed within ninety days, wit
 
 **Constitutional review.** Three provisions face material exposure that needs pre-tabling legal opinion: the Commissioner's regulation-making authority at §28, Assembly enforcement of large penalties against sitting Members at §22(5)(b), and the political-contribution cross-reference at §15 (Charter §2(b)). A pre-tabling constitutional opinion is non-negotiable. Counsel will identify issues the drafter missed.
 
-**Indigenous co-development.** Section 21A includes an internal-governance carve-out, a consultation requirement, and explicit preservation of section 35 rights. *None of that discharges the duty to consult.* The honour of the Crown attaches to the development of legislation that bears on Indigenous governance, not only its application. Co-drafting — not consultation on a draft — needs to happen with First Nations governments, Métis settlements, and the Métis Nation of Alberta before tabling. The carve-out as drafted is a placeholder, structured to absorb the revisions that real co-development will produce.
+**Indigenous co-development.** Section 21A includes an internal-governance carve-out, a consultation requirement, and explicit preservation of section 35 rights. *None of that discharges the duty to consult.* The honour of the Crown attaches to the development of legislation that bears on Indigenous governance, not only its application. Co-drafting, not consultation on a draft, needs to happen with First Nations governments, Métis settlements, and the Métis Nation of Alberta before tabling. The carve-out as drafted is a placeholder, structured to absorb the revisions that real co-development will produce.
 
-**Operational details.** Threshold calibration — what counts as a "large penalty," what counts as a "small bidder" — is deferred to regulation under §28. The bill includes initial values where I felt confident. Other specific numbers are best argued by people who have to administer the system.
+**Operational details.** Threshold calibration, what counts as a "large penalty," what counts as a "small bidder," is deferred to regulation under §28. The bill includes initial values where I felt confident. Other specific numbers are best argued by people who have to administer the system.
 
 None of these prevents serious engagement with the bill as drafted.
 
@@ -333,11 +337,11 @@ The full text is in Appendix B.
 
 ### Legislation that benefits specific parties
 
-Some bills are general — they apply to everyone meeting objective criteria. Other bills are narrow: they implement a treaty, recognize a settlement, transition a specific industry, or hand a benefit to a small number of identifiable parties. Narrow bills are not inherently wrong. The question is whether the public can see, at the time the bill is introduced, who benefits and by how much.
+Some bills are general: they apply to everyone meeting objective criteria. Other bills are narrow: they implement a treaty, recognize a settlement, transition a specific industry, or hand a benefit to a small number of identifiable parties. Narrow bills are not inherently wrong. The question is whether the public can see, at the time the bill is introduced, who benefits and by how much.
 
 Bill 2 requires a **Beneficiary Disclosure Statement** for any bill whose benefits are concentrated on a small number of parties. The Statement names the beneficiaries, discloses contribution history above the relevant threshold within the previous four years, and identifies any other discretionary state benefits (contracts, regulatory approvals, concessional arrangements) received within the same period. It quantifies the financial value of the legislation to each beneficiary, where reasonably ascertainable.
 
-The Statement is filed at First Reading and published within five business days. No bill subject to the section can proceed past Second Reading without a complete Statement on the record. The definition of "named-party legislation" uses a five-or-fewer-parties test, plus a financial-value threshold to exclude trivial cases, plus four safe harbours for legitimate narrow legislation — implementing a treaty or court order, public infrastructure where any private benefit is incidental, transitional legislation giving effect to existing entitlements, and legislation available to all parties meeting objective general criteria.
+The Statement is filed at First Reading and published within five business days. No bill subject to the section can proceed past Second Reading without a complete Statement on the record. The definition of "named-party legislation" uses a five-or-fewer-parties test, plus a financial-value threshold to exclude trivial cases, plus four safe harbours for legitimate narrow legislation: implementing a treaty or court order, public infrastructure where any private benefit is incidental, transitional legislation giving effect to existing entitlements, and legislation available to all parties meeting objective general criteria.
 
 ### Regulatory approvals that disclose their proponents
 
@@ -345,15 +349,15 @@ A pipeline approval. A utility licence. A major land-use decision. The financial
 
 Bill 2 requires a **Proponent Disclosure Record** for every regulatory approval above a threshold. The Record names the proponent entity, identifies its individuals with significant control, discloses contributions and other state benefits received by the ISCs, identifies entities under common ownership with the proponent, and includes the estimated financial value of the approval. Published within ten business days. Accessible for the duration of the approval and at least seven years after.
 
-The disclosure does not affect the substantive decision. The Commissioner does not review the merits. That stays where it belongs — with the regulatory body that has the substantive expertise. The Commissioner's jurisdiction is limited to the completeness, accuracy, and timeliness of the Record.
+The disclosure does not affect the substantive decision. The Commissioner does not review the merits. That stays where it belongs, with the regulatory body that has the substantive expertise. The Commissioner's jurisdiction is limited to the completeness, accuracy, and timeliness of the Record.
 
 ### Concessional arrangements that get daylight
 
-Royalty reductions, tax abatements, loan guarantees, debt forgiveness, deferred payment arrangements. Each is a way for the Crown to confer financial advantage on a specific party — negotiated, not bid, often with a defensible rationale. None is inherently corrupt.
+Royalty reductions, tax abatements, loan guarantees, debt forgiveness, deferred payment arrangements. Each is a way for the Crown to confer financial advantage on a specific party: negotiated, not bid, often with a defensible rationale. None is inherently corrupt.
 
 What they have in common is invisibility. A royalty reduction worth $40 million to a specific company doesn't show up where a $40 million procurement contract would. There is no common public register.
 
-Bill 2 changes that. Every concessional arrangement above a threshold gets a **Concessional Arrangement Disclosure** — recipient, ISCs, contribution history, other state benefits received, estimated financial value, and the reasons for the concession, including why this recipient was selected and what public interest the arrangement serves. Tabled in the Legislative Assembly and published.
+Bill 2 changes that. Every concessional arrangement above a threshold gets a **Concessional Arrangement Disclosure**: recipient, ISCs, contribution history, other state benefits received, estimated financial value, and the reasons for the concession, including why this recipient was selected and what public interest the arrangement serves. Tabled in the Legislative Assembly and published.
 
 Arrangements available to everyone meeting objective criteria (a tax credit available to all qualifying businesses, a grant program with published eligibility) are excluded.
 
@@ -365,7 +369,7 @@ Bill 2 requires an **Individual Exemption Disclosure** for every ministerial exe
 
 The pattern matters as much as the individual case. A Minister who has granted thirty individual exemptions in two years under a statute that contemplated rare exceptions is operating differently from a Minister who has granted three. Both might be defensible. Both should be visible.
 
-> **Applied to the Turkish Tylenol procurement.** This is the provision that addresses the unreasoned emergency procurement. The disclosure would not have prevented the emergency action — emergency authority survives, with a reporting window after the emergency. What it would have done is require contemporaneous written reasoning: why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. *Scenario analysis, not prediction.*
+> **Applied to the Turkish Tylenol procurement.** This is the provision that addresses the unreasoned emergency procurement. The disclosure would not have prevented the emergency action. Emergency authority survives, with a reporting window after the emergency. What it would have done is require contemporaneous written reasoning: why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. *Scenario analysis, not prediction.*
 
 ### The Enforcement Equity Report
 
@@ -423,7 +427,7 @@ Four items, each before tabling.
 
 **Constitutional opinion.** The three provisions identified above need a pre-tabling opinion from administrative law counsel, addressing the *Vaid* parliamentary privilege framework, *Wigglesworth* / *Guindon* on administrative penalty, *Harper* on §2(b) and political-contribution disclosure, and the structural-constitution questions raised by giving an officer of the legislature regulation-making authority.
 
-**Indigenous co-development.** I drafted §21A without formal consultation. The carve-out is a placeholder. Legislation affecting Indigenous peoples has to be co-developed with First Nations governments, Métis settlements, and the Métis Nation of Alberta — and the duty under *Haida Nation* attaches to the development of legislation, not only its application. I know this. I did not have access to do that work. Anyone moving the bill forward must do it.
+**Indigenous co-development.** I drafted §21A without formal consultation. The carve-out is a placeholder. Legislation affecting Indigenous peoples has to be co-developed with First Nations governments, Métis settlements, and the Métis Nation of Alberta. The duty under *Haida Nation* attaches to the development of legislation, not only its application. I know this. I did not have access to do that work. Anyone moving the bill forward must do it.
 
 **Independent fiscal validation.** The $5 million figure is consistent with peer Canadian oversight regimes on a per-capita basis, slightly higher because of broader scope. It needs Treasury Board analysis or equivalent.
 
@@ -437,11 +441,11 @@ If something in the package is worth supporting, the support has to be public an
 
 If none of it is worth supporting, that is a position worth taking publicly. A no with reasoning beats a no without.
 
-If you have an MLA, ask — any party — whether they would support this. Get an answer on the record. A no should come with a specific objection, not a general dismissal. The response is information.
+If you have an MLA, ask them, of any party, whether they would support this. Get an answer on the record. A no should come with a specific objection, not a general dismissal. The response is information.
 
-The package isn't finished. Constitutional review, Indigenous co-development, fiscal validation, legislative drafting review — each named in Part VI. Several require external work I cannot do alone.
+The package isn't finished. Constitutional review, Indigenous co-development, fiscal validation, legislative drafting review: each named in Part VI. Several require external work I cannot do alone.
 
-The bills are released under Creative Commons Attribution-ShareAlike 4.0. Any party, any advocacy group, any legislative drafter, any elected official can use them — attribution and same-licence are the only conditions.
+The bills are released under Creative Commons Attribution-ShareAlike 4.0. Any party, any advocacy group, any legislative drafter, any elected official can use them. Attribution and same-licence are the only conditions.
 
 ### A draft email to your MLA
 
@@ -449,9 +453,9 @@ If you would like to ask your MLA about this directly and don't know where to st
 
 > Dear [MLA's name],
 >
-> I'm a constituent in [your riding]. I recently read a drafted policy package called *What Accountable Government Looks Like* — two bills, the Honest Government Act and the Open Books Act, drafted by a private citizen and released under Creative Commons. The package is at [URL].
+> I'm a constituent in [your riding]. I recently read a drafted policy package called *What Accountable Government Looks Like*: two bills, the Honest Government Act and the Open Books Act, drafted by a private citizen and released under Creative Commons. The package is at [URL].
 >
-> I'm writing to ask whether you would support legislation along these lines, regardless of which party is currently in government. The drafted bills are designed to apply equally to whichever party holds power.
+> I'm writing to ask whether you would support legislation along these lines, regardless of which party is in government. The drafted bills are designed to apply equally to whichever party holds power.
 >
 > Three specific provisions I would like your view on:
 >
@@ -1380,8 +1384,6 @@ but does not include:
 
 # Appendix C — costing.md: Cost analysis, FTE breakdown, and scenario detail
 
-*Source companion document. The aggregate $5M figure is a drafter's estimate, not Treasury Board analysis.*
-
 ---
 
 # Costing Document — Honest Government and Open Books Acts
@@ -1586,8 +1588,6 @@ A serious tabling of these bills would benefit from independent fiscal validatio
 
 # Appendix D — moral-defence.md: Philosophical case and objections
 
-*Source companion document. Working document for defending the design against skepticism.*
-
 ---
 
 # The Moral and Formal Case for the Honest Government and Open Books Acts
@@ -1737,8 +1737,6 @@ That is the invitation.
 ---
 
 # Appendix E — red-team.md: Adversarial failure-mode analysis
-
-*Source companion document.*
 
 ---
 
@@ -2012,8 +2010,6 @@ This residual risk list is partial. People with different priors will find failu
 
 # Appendix F — legislative-cross-reference.md: Mapping against existing Alberta statutes
 
-*Source companion document.*
-
 ---
 
 # Legislative Cross-Reference
@@ -2268,8 +2264,6 @@ FOIP was repealed June 11, 2025. Any Bill references to "FOIP" or "Freedom of In
 ---
 
 # Appendix G — policy-recommendations.md: Recommended starting values for thresholds
-
-*Source companion document.*
 
 ---
 

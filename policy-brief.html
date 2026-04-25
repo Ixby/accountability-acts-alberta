@@ -9,7 +9,7 @@
 <meta property="og:description" content="Two bills, the reasoning behind them, and an honest assessment of what they can't do.">
 <meta property="og:type" content="article">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Serif+4:ital,opsz,wght@1,8..60,400&family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
   --ink: #0a0a0a;
@@ -37,82 +37,154 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* ===== Cover page ===== */
+/* ===== Cover page (scaffolding / stepping-toward-justice) ===== */
 
 .cover {
+  position: relative;
   min-height: 100vh;
+  background: #f2ead0;
+  color: #003f87;
+  padding: 0;
+  overflow: hidden;
+  page-break-after: always;
+}
+
+/* Construction-grid background — vertical and horizontal hairlines in
+   wheat gold, evoking architectural drawings and scaffolding. */
+.cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgba(242, 169, 0, 0.18) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(242, 169, 0, 0.18) 1px, transparent 1px);
+  background-size: 4rem 4rem;
+  pointer-events: none;
+}
+
+/* Ascending scaffolding rungs running up the left side — each longer
+   than the one below, in wheat gold. Reads as a ladder being climbed. */
+.cover::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background-image:
+    linear-gradient(to right, #f2a900 0, #f2a900 18%, transparent 18%),
+    linear-gradient(to right, #f2a900 0, #f2a900 26%, transparent 26%),
+    linear-gradient(to right, #f2a900 0, #f2a900 36%, transparent 36%),
+    linear-gradient(to right, #f2a900 0, #f2a900 48%, transparent 48%),
+    linear-gradient(to right, #f2a900 0, #f2a900 62%, transparent 62%);
+  background-position:
+    0 80%,
+    0 64%,
+    0 48%,
+    0 32%,
+    0 16%;
+  background-size:
+    100% 2px,
+    100% 2px,
+    100% 2px,
+    100% 2px,
+    100% 2px;
+  background-repeat: no-repeat;
+}
+
+.cover-inner {
+  position: relative;
+  z-index: 2;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 12vh 8vw 8vh;
-  background: var(--paper);
-  border-bottom: 1px solid var(--rule);
+  min-height: 100vh;
+  padding: 9vh 8vw 7vh;
 }
+
+.cover-top {
+  position: relative;
+}
+
 .cover-eyebrow {
   font-family: "Inter", system-ui, sans-serif;
-  font-size: 0.78rem;
-  letter-spacing: 0.22em;
+  font-size: 0.7rem;
+  letter-spacing: 0.28em;
   text-transform: uppercase;
-  color: var(--accent);
-  font-weight: 500;
-  margin-bottom: 2.4rem;
+  color: #a4253a;
+  font-weight: 600;
+  margin-bottom: 8vh;
 }
+
+.cover-title-block {
+  position: relative;
+  margin-left: 8%;  /* sits at the top of the rungs */
+}
+
 .cover-title {
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 700;
-  font-size: clamp(2.4rem, 6vw, 4.2rem);
-  line-height: 1.05;
-  letter-spacing: -0.015em;
-  color: var(--ink);
-  margin: 0 0 1.6rem;
-  max-width: 14ch;
+  font-size: clamp(4rem, 12vw, 8rem);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  color: #003f87;
+  margin: 0;
+  text-transform: uppercase;
 }
+.cover-title .word {
+  display: block;
+}
+.cover-title .word--top { margin-bottom: 0.05em; }
+
 .cover-subtitle {
   font-family: "Source Serif 4", Georgia, serif;
   font-style: italic;
-  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  font-weight: 400;
+  font-size: clamp(0.95rem, 1.7vw, 1.15rem);
   line-height: 1.4;
-  color: var(--ink-soft);
-  margin: 0 0 3rem;
-  max-width: 36ch;
+  color: #003f87;
+  margin: 1.4rem 0 0;
+  max-width: 38ch;
 }
+
 .cover-rule {
-  width: 4rem;
-  height: 3px;
-  background: var(--accent);
-  margin: 1.5rem 0 2rem;
+  width: 3rem;
+  height: 2px;
+  background: #f2a900;
+  margin: 1.6rem 0 0;
   border: none;
 }
-.cover-meta {
-  font-family: "Inter", system-ui, sans-serif;
-  font-size: 0.92rem;
-  color: var(--muted);
-  line-height: 1.6;
-}
-.cover-meta .meta-line {
-  display: block;
-  margin: 0.3rem 0;
-}
-.cover-meta .meta-label {
-  display: inline-block;
-  width: 7rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  color: var(--accent);
-  font-weight: 500;
-}
-.cover-foot {
+
+.cover-foot-block {
+  margin-left: 8%;
   font-family: "Inter", system-ui, sans-serif;
   font-size: 0.78rem;
-  letter-spacing: 0.06em;
-  color: var(--muted);
-  border-top: 1px solid var(--rule);
-  padding-top: 1.2rem;
+  line-height: 1.7;
+  color: #003f87;
+  letter-spacing: 0.04em;
 }
-.cover-foot a {
-  color: var(--accent);
+.cover-foot-line { display: block; }
+.cover-foot-name {
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+}
+.cover-foot-license {
+  font-style: italic;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.85rem;
+}
+.cover-foot-source {
+  margin-top: 0.6rem;
+  font-size: 0.72rem;
+  color: rgba(0, 63, 135, 0.7);
+}
+.cover-foot-source a {
+  color: inherit;
   text-decoration: none;
+  border-bottom: 1px solid #f2a900;
 }
 
 /* ===== Site chrome ===== */
@@ -534,178 +606,208 @@ h4:hover .heading-anchor { opacity: 1; }
 @media print {
   html, body { background: white; }
   body {
-    font-size: 10.5pt;
+    font-size: 11pt;
     line-height: 1.5;
     color: var(--ink);
+    font-weight: 400;
     orphans: 3;
     widows: 3;
+    -webkit-font-smoothing: antialiased;
   }
-  /* In print, the HTML cover is replaced by a Canva-generated cover PDF
-     which is merged in by the build-pdf pipeline. Hide the HTML cover
-     in print to avoid duplication. */
-  .html-cover-shim, .cover { display: none !important; }
-  p, li, blockquote {
-    orphans: 3;
-    widows: 3;
+  /* The HTML TOC is replaced in the merged PDF by a measurement-driven
+     TOC page rendered separately. Hide the inline TOC in print. The
+     cover (now designed in HTML/CSS) is rendered as page 1 separately
+     too — the build-pdf pipeline extracts it via pageRanges. */
+  .toc { display: none !important; }
+  .html-cover-shim { display: block; }
+  .cover {
+    display: flex !important;
+    page-break-after: always;
+    min-height: 9.6in;
+    background: #f2ead0;
+    padding: 0;
+    margin: 0;
   }
-  .site-header, .site-footer, .heading-anchor, .back-to-top {
-    display: none !important;
+  .cover-inner {
+    padding: 1.4in 0.9in 1in;
   }
+  .cover-eyebrow {
+    font-size: 8pt;
+    margin-bottom: 1.2in;
+  }
+  .cover-title { font-size: 78pt; line-height: 0.92; }
+  .cover-subtitle { font-size: 11pt; max-width: 36ch; }
+  .cover-foot-block {
+    font-size: 9pt;
+  }
+  .cover-foot-name { font-size: 8.5pt; letter-spacing: 0.14em; }
+  .cover-foot-license { font-size: 10pt; }
+  .cover-foot-source { font-size: 8pt; }
+  p, li, blockquote { orphans: 3; widows: 3; }
+  .site-header, .site-footer, .heading-anchor, .back-to-top { display: none !important; }
+
+  /* Universal column: every section uses the same text width.
+     The page margin (0.7in) sets the column. main and bill-text and
+     at-a-glance-block all live inside the same column. */
   main {
     max-width: none;
     padding: 0;
+    margin: 0;
   }
-  .cover {
-    page-break-after: always;
-    min-height: 9.6in;
-    border: none;
-    background: var(--paper);
-    padding: 2in 0.9in 1in;
-  }
-  .cover-title { font-size: 40pt; line-height: 1.04; }
-  .cover-subtitle { font-size: 13pt; max-width: 30ch; }
-  .toc {
-    page-break-after: always;
-    page-break-inside: avoid;
-    border: none;
-    padding: 1.5in 0 0 0;
-    background: transparent;
-  }
-  .toc::before { display: none; }
-  .toc h2 {
-    font-size: 9pt;
-    margin: 0 0 1.4em;
-    color: var(--accent);
-  }
-  .toc li.toc-part { font-size: 12pt; margin: 0.45em 0; }
-  .toc li.toc-appendix { font-size: 11pt; margin-top: 0.6em; }
+  main > * { max-width: none; }
+
+  /* Headings — no forced page breaks. Let content flow naturally;
+     keep-with-next prevents stranded headings. */
   h1 {
-    page-break-before: always;
+    page-break-before: avoid;
     page-break-after: avoid;
     font-size: 22pt;
-    border-bottom-width: 0.6pt;
+    line-height: 1.1;
+    margin: 1.4em 0 0.5em;
+    border-bottom: 0.5pt solid var(--accent);
     padding-bottom: 0.3em;
   }
-  /* Allow the document title H1 not to force a page break — it's on the cover. */
-  h1:first-of-type, .cover + main h1:first-of-type {
-    page-break-before: avoid;
-  }
-  /* Don't double-stack rules when H2 follows H1 immediately */
   h1 + h2 { margin-top: 0.8em; }
   h2 {
     page-break-after: avoid;
     font-size: 13pt;
-    margin-top: 1.8em;
+    line-height: 1.2;
+    margin: 1.6em 0 0.5em;
   }
-  h2::before { width: 1.8em; height: 1.5pt; margin-bottom: 0.7em; }
+  h2::before { width: 1.8em; height: 1pt; margin-bottom: 0.6em; }
   h3 {
     page-break-after: avoid;
-    font-size: 11pt;
-    margin-top: 1.4em;
+    font-size: 11.5pt;
+    line-height: 1.25;
+    margin: 1.2em 0 0.4em;
+    font-weight: 600;
   }
-  /* Statutory text — denser and visually distinct */
+
+  /* Statutory text — same column width as narrative, slightly smaller
+     type. 10pt with 1.4 line-height keeps Source Serif 4 strokes solid;
+     9.5pt was thinning the rendering at print resolution. */
   .bill-text {
-    font-size: 9.5pt;
-    line-height: 1.4;
+    font-size: 10pt;
+    line-height: 1.45;
+    font-weight: 400;
   }
   .bill-text h2 {
-    font-size: 10.5pt;
+    font-size: 11pt;
     color: var(--accent);
     text-transform: none;
-    margin-top: 1.6em;
+    margin-top: 1.4em;
+    font-weight: 600;
   }
   .bill-text h3 {
-    font-size: 9pt;
+    font-size: 9.5pt;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     color: var(--accent);
+    margin-top: 1em;
+    font-weight: 600;
   }
   .bill-text blockquote {
-    margin: 0.5em 0;
-    padding: 0.3em 1em;
-    font-size: 9pt;
+    margin: 0.4em 0;
+    padding: 0.3em 0.9em;
+    font-size: 9.5pt;
     border-left-width: 1pt;
     border-color: var(--rule);
   }
-  blockquote, table, pre, .display-cost, .pull-quote, .at-a-glance-block table {
+
+  /* Page-break-inside: avoid for atomic units, no forced breaks. */
+  blockquote, table, pre, .display-cost, .pull-quote {
     page-break-inside: avoid;
   }
+
+  /* At-a-glance table sits in line with the rest of the narrative now —
+     no forced page break before or after. */
   .at-a-glance-block {
-    page-break-before: always;
-    page-break-after: always;
-    padding-top: 1in;
+    margin: 1.5em 0 1.2em;
+    page-break-inside: avoid;
   }
   .at-a-glance-block h2 {
     font-size: 11pt;
     color: var(--accent);
     text-transform: uppercase;
-    letter-spacing: 0.18em;
+    letter-spacing: 0.16em;
+    margin-bottom: 0.6em;
   }
   .at-a-glance-block h2::before { display: none; }
   .at-a-glance-block table {
-    margin-top: 0.8in;
-    font-size: 11.5pt;
+    margin-top: 0.4em;
+    font-size: 10.5pt;
   }
   .at-a-glance-block table td {
-    padding: 0.85em 0.9em;
+    padding: 0.55em 0.7em;
   }
   .at-a-glance-block table td:nth-child(2) {
-    font-size: 14pt;
+    font-size: 12pt;
     color: var(--accent);
     font-weight: 700;
   }
+
   a {
     color: var(--ink);
     text-decoration: none;
     border-bottom: none;
   }
   a[href^="http"]:after { content: ""; }
+
   table th {
-    border-top: 1.5pt solid var(--ink);
-    border-bottom: 0.75pt solid var(--ink);
+    border-top: 1pt solid var(--ink);
+    border-bottom: 0.5pt solid var(--ink);
     background: transparent;
   }
   table tr:last-child td {
-    border-bottom: 1.5pt solid var(--ink);
+    border-bottom: 1pt solid var(--ink);
   }
+
+  /* Display moment — sized to be a real event but not its own page. */
   .display-cost {
-    font-size: 56pt;
-    margin-top: 0.6in;
-    margin-bottom: 0.15em;
-    letter-spacing: -0.025em;
+    font-size: 44pt;
+    margin: 0.5em 0 0.1em;
+    letter-spacing: -0.02em;
+    line-height: 1;
   }
   .display-cost-label {
-    margin-bottom: 0.6in;
-    font-size: 9pt;
-    letter-spacing: 0.28em;
+    margin-bottom: 0.6em;
+    font-size: 8.5pt;
+    letter-spacing: 0.24em;
   }
+
   .pull-quote {
-    font-size: 14pt;
+    font-size: 13pt;
     border-color: var(--accent);
   }
+
   blockquote {
     background: transparent;
     border-left-width: 1.5pt;
+    padding: 0.4em 1em;
+    margin: 0.8em 0;
   }
 }
 </style>
 </head>
 <body>
 <div class="html-cover-shim"><section class="cover" aria-label="Cover">
-  <div class="cover-top">
-    <div class="cover-eyebrow">A drafted policy package &middot; Alberta &middot; April 2026</div>
-    <h1 class="cover-title">What Accountable Government Looks Like</h1>
-    <p class="cover-subtitle">A drafted policy package for Alberta &mdash; two bills, why they were written, and what they could be worth.</p>
-    <hr class="cover-rule" />
-    <div class="cover-meta">
-      <span class="meta-line"><span class="meta-label">The package</span> The Honest Government Act &amp; The Open Books Act</span>
-      <span class="meta-line"><span class="meta-label">Drafted by</span> Will Conner</span>
-      <span class="meta-line"><span class="meta-label">Released</span> Creative Commons Attribution-ShareAlike 4.0</span>
-      <span class="meta-line"><span class="meta-label">Source</span> <a href="https://github.com/Ixby/accountability-acts-alberta">github.com/Ixby/accountability-acts-alberta</a></span>
+  <div class="cover-inner">
+    <div class="cover-top">
+      <div class="cover-eyebrow">A drafted policy package &middot; April 2026</div>
     </div>
-  </div>
-  <div class="cover-foot">
-    Adapt &middot; Improve &middot; Table &middot; Build on &middot; The bills were drafted to be used.
+    <div class="cover-title-block">
+      <h1 class="cover-title">
+        <span class="word word--top">Honest</span>
+        <span class="word word--bottom">Alberta</span>
+      </h1>
+      <p class="cover-subtitle">Two drafted bills. The Honest Government Act and the Open Books Act &mdash; the rules Alberta should already have, drafted as if we did.</p>
+      <hr class="cover-rule" />
+    </div>
+    <div class="cover-foot-block">
+      <span class="cover-foot-line cover-foot-name">Drafted by Will Conner</span>
+      <span class="cover-foot-line cover-foot-license">Creative Commons Attribution-ShareAlike 4.0</span>
+      <span class="cover-foot-line cover-foot-source"><a href="https://github.com/Ixby/accountability-acts-alberta">github.com/Ixby/accountability-acts-alberta</a></span>
+    </div>
   </div>
 </section></div>
 <header class="site-header">

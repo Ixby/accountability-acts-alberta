@@ -142,6 +142,10 @@ async function renderToc(headings) {
             </li>
           `).join('')}
         </ol>
+        <div class="print-toc-colophon">
+          <span class="colophon-line">Drafted by Will Conner &middot; Released under Creative Commons Attribution-ShareAlike 4.0</span>
+          <span class="colophon-line">github.com/Ixby/accountability-acts-alberta</span>
+        </div>
       `;
       document.body.appendChild(tocPage);
     }, items);
@@ -203,7 +207,25 @@ async function renderToc(headings) {
           color: #003f87;
           font-weight: 600;
         }
+        .print-toc-colophon {
+          position: absolute;
+          bottom: 0.9in;
+          left: 0.85in;
+          right: 0.85in;
+          font-family: "Inter", system-ui, sans-serif;
+          font-size: 7.5pt;
+          color: #4a4a4a;
+          letter-spacing: 0.06em;
+          padding-top: 0.6em;
+          border-top: 1px solid #c9bfa6;
+          line-height: 1.6;
+        }
+        .print-toc-colophon .colophon-line { display: block; }
       `,
+    });
+    await page.evaluate(() => {
+      const tocPage = document.querySelector('.print-toc-page');
+      if (tocPage) tocPage.style.position = 'relative';
     });
 
     return await page.pdf({

@@ -678,9 +678,16 @@ h4:hover .heading-anchor { opacity: 1; }
     break-after: avoid-page;
     font-size: 22pt;
     line-height: 1.1;
-    margin: 1.4em 0 0.5em;
+    margin: 2em 0 0.5em;
     border-bottom: 0.5pt solid var(--accent);
     padding-bottom: 0.3em;
+  }
+  /* Defensive top-padding on the very first H1 of the document so the
+     puppeteer running header (which prints in the page margin) clears
+     the H1 baseline. Without this, "REBUILDING TRUST" oxblood caps
+     and the H1's own border-bottom can graze. */
+  main > h1:first-child {
+    margin-top: 0.4in;
   }
   h1 + h2 { margin-top: 0.8em; }
   h2 {
@@ -704,11 +711,27 @@ h4:hover .heading-anchor { opacity: 1; }
 
   /* Statutory text — same column width as narrative, slightly smaller
      type. 10pt with 1.4 line-height keeps Source Serif 4 strokes solid;
-     9.5pt was thinning the rendering at print resolution. */
+     9.5pt was thinning the rendering at print resolution. Statutory
+     paragraphs are structurally self-bounded by their (1)/(2)/(a)/(b)
+     numbering — they don't need novel-prose orphan/widow protection,
+     so we relax the rule to 2 lines inside .bill-text. This recovers
+     the heading-can't-fit-paragraph ghost pages that were dropping
+     ~3 inches of cream after short cross-reference headings. */
   .bill-text {
     font-size: 10pt;
     line-height: 1.45;
     font-weight: 400;
+  }
+  .bill-text p, .bill-text li, .bill-text blockquote {
+    orphans: 2;
+    widows: 2;
+  }
+  /* Short cross-reference headings ("15A. The following is added after
+     section 82.1:") are connectors, not section openers. Don't bind
+     them to the next paragraph. */
+  .bill-text p + h3, .bill-text blockquote + h3 {
+    page-break-after: auto;
+    break-after: auto;
   }
   .bill-text h2 {
     font-size: 11pt;
@@ -805,6 +828,57 @@ h4:hover .heading-anchor { opacity: 1; }
     padding: 0.4em 1em;
     margin: 0.8em 0;
   }
+
+  /* Closing end-mark + colophon on the final page — turns trailing
+     cream into intentional silence rather than a trailing-off feeling. */
+  .end-mark {
+    text-align: center;
+    color: var(--accent);
+    font-size: 14pt;
+    letter-spacing: 0.5em;
+    margin: 3em 0 1.5em;
+    page-break-before: avoid;
+  }
+  .end-colophon {
+    text-align: center;
+    font-family: "Inter", system-ui, sans-serif;
+    font-size: 8.5pt;
+    line-height: 1.7;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    page-break-before: avoid;
+  }
+  .end-colophon em {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    font-size: 10pt;
+    color: var(--ink-soft);
+    display: block;
+    margin-bottom: 0.4em;
+  }
+}
+
+/* Screen styles for end-mark/colophon — keep visible on web too. */
+.end-mark {
+  text-align: center;
+  color: var(--accent);
+  font-size: 1.1rem;
+  letter-spacing: 0.6em;
+  margin: 3rem 0 1.5rem;
+}
+.end-colophon {
+  text-align: center;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.end-colophon em {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1rem;
+  color: var(--ink-soft);
+  display: block;
+  margin-bottom: 0.3em;
 }
 </style>
 </head>
@@ -934,10 +1008,10 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>It is worth giving the three structural failures names, because the rest of the brief refers back to them:</p>
 <ul>
 <li>The <strong>oral-briefing loophole</strong> — decisions made in rooms with no minute-taker, reasoning reconstructed afterward. DynaLIFE.</li>
-<li>The <strong>unreasoned emergency procurement</strong> — emergency authority used without contemporaneous written justification. Turkish Tylenol.</li>
-<li>The <strong>Crown-corp end-run</strong> — public functions performed through private corporate structures specifically chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.</li>
+<li>The <strong>no-paper emergency</strong> — urgent authority exercised without contemporaneous written reasons. Turkish Tylenol.</li>
+<li>The <strong>Crown-corp end-run</strong> — public functions performed through private corporate structures chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.</li>
 </ul>
-<p>The bills are designed to reach all three.</p>
+<p>The bills are designed to reach all three. <em>Scenario analysis throughout this brief is illustrative, not predictive — the regime makes decisions visible at the moment they are made; what becomes of those decisions, once visible, is for the political process and the press.</em></p>
 <h3 id="a-note-on-case-selection">A note on case selection <a class="heading-anchor" href="#a-note-on-case-selection" aria-label="Link to this section">¶</a></h3>
 <p>The three cases above all sit inside the recent UCP era because the verifiable record close to the present is what an honest brief can use without speculation. The structural patterns these cases illustrate, oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, and opaque concessional arrangements, are older than the UCP and have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The regime has to bind a future NDP government in 2027 as readily as it would have applied to these three cases.</p>
 <hr>
@@ -1014,7 +1088,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>This is the gap the DynaLIFE situation exposed. It is what allows reasoning to be reconstructed years later, when the people involved have moved on or the political moment has passed.</p>
 <p>The bill creates a duty to document. Decisions that would be subject to disclosure under either the Access to Information Act or the Open Books Act have to be written down. Standards (what counts as adequate documentation, what timing applies) are set by the Information and Privacy Commissioner by regulation. Willful or repeated failure is penalty-tracked. Oral-briefing-only decision-making is the violation, not the workaround.</p>
 <blockquote>
-<p><strong>Applied to DynaLIFE.</strong> This is the provision that addresses the oral-briefing loophole. A duty to document would have required the contract negotiation and the failure-management decisions to be on paper at the time. The Auditor General would not have arrived three years later to find missing records and destroyed notebooks. Whether the decisions themselves would have been different is unprovable. Whether the documentary record would have existed for review is not. <em>Scenario analysis, not prediction.</em></p>
+<p><strong>Applied to DynaLIFE.</strong> This is the provision that addresses the oral-briefing loophole. A duty to document would have required the contract negotiation and the failure-management decisions to be on paper at the time. The Auditor General would not have arrived three years later to find missing records and destroyed notebooks. Whether the decisions themselves would have been different is unprovable. Whether the documentary record would have existed for review is not.</p>
 </blockquote>
 <h3 id="procurement-that-can-be-cross-referenced">Procurement that can be cross-referenced <a class="heading-anchor" href="#procurement-that-can-be-cross-referenced" aria-label="Link to this section">¶</a></h3>
 <p>Public procurement is well-regulated. The bill does not redesign procurement; it adds one piece.</p>
@@ -1057,9 +1131,9 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>Bill 1 catches people. Bill 2 catches structures.</p>
 <p>The Canadian Energy Centre wasn't corrupt officials. It was a corporate structure, deliberately chosen, that put a public function outside the framework that would have applied to a Crown agency doing the same work. The Crown-corp end-run. That kind of decision is what Bill 2 is for.</p>
 <blockquote>
-<p><strong>Applied to the CEC.</strong> Several Bill 2 provisions reach the structure. The Beneficiary Disclosure Statement at §3 would have required, at the moment the enabling legislation or appropriation was introduced, a public record of who was expected to benefit, including ISCs and contribution history. The Concessional Arrangement Disclosure at §5 would have applied to the funding mechanism. The Enforcement Equity Report would have, in time, surfaced any pattern of structural-choice favouring among Crown communications work. None of this would have prevented the CEC from being created if a government wanted to create it. It would have made the structural choice visible at the moment it was made. <em>Scenario analysis, not prediction.</em></p>
+<p><strong>Applied to the CEC.</strong> Several Bill 2 provisions reach the structure. The Beneficiary Disclosure Statement at §3 would have required, at the moment the enabling legislation or appropriation was introduced, a public record of who was expected to benefit, including ISCs and contribution history. The Concessional Arrangement Disclosure at §5 would have applied to the funding mechanism. The Enforcement Equity Report would have, in time, surfaced any pattern of structural-choice favouring among Crown communications work. None of this would have prevented the CEC from being created if a government wanted to create it. It would have made the structural choice visible at the moment it was made.
+The full text is in Appendix B.</p>
 </blockquote>
-<p>The full text is in Appendix B.</p>
 <h3 id="legislation-that-benefits-specific-parties">Legislation that benefits specific parties <a class="heading-anchor" href="#legislation-that-benefits-specific-parties" aria-label="Link to this section">¶</a></h3>
 <p>Some bills are general: they apply to everyone meeting objective criteria. Other bills are narrow: they implement a treaty, recognize a settlement, transition a specific industry, or hand a benefit to a small number of identifiable parties. Narrow bills are not inherently wrong. The question is whether the public can see, at the time the bill is introduced, who benefits and by how much.</p>
 <p>Bill 2 requires a <strong>Beneficiary Disclosure Statement</strong> for any bill whose benefits are concentrated on a small number of parties. The Statement names the beneficiaries, discloses contribution history above the relevant threshold within the previous four years, and identifies any other discretionary state benefits (contracts, regulatory approvals, concessional arrangements) received within the same period. It quantifies the financial value of the legislation to each beneficiary, where reasonably ascertainable.</p>
@@ -1078,7 +1152,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>Bill 2 requires an <strong>Individual Exemption Disclosure</strong> for every ministerial exemption above a value threshold. The Disclosure names the recipient, identifies ISCs, discloses contribution history, names the rule being exempted, gives reasons, estimates value, and provides aggregate data on the same Minister's exemption pattern over the previous twenty-four months under the same statutory authority.</p>
 <p>The pattern matters as much as the individual case. A Minister who has granted thirty individual exemptions in two years under a statute that contemplated rare exceptions is operating differently from a Minister who has granted three. Both might be defensible. Both should be visible.</p>
 <blockquote>
-<p><strong>Applied to the Turkish Tylenol procurement.</strong> Disclosure obligations under §6 would have applied if the decision was characterized as exempting a specific party from a rule of general application; the timing exemption at §6(4) defers publication until after the emergency expires, preserving the executive's ability to act quickly. The provision that would have actually required reasoning <em>at the moment</em> the decision was made is the duty to document at Bill 1 §14A — it has no emergency carve-out. Together, the duty to document plus the eventual disclosure would have required a written, contemporaneous record of why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. <em>Scenario analysis, not prediction.</em></p>
+<p><strong>Applied to the Turkish Tylenol procurement — the no-paper emergency.</strong> Disclosure obligations under §6 would have applied if the decision was characterized as exempting a specific party from a rule of general application; the timing exemption at §6(4) defers publication until after the emergency expires, preserving the executive's ability to act quickly. The provision that would have actually required reasoning <em>at the moment</em> the decision was made is the duty to document at Bill 1 §14A — it has no emergency carve-out. Together, the duty to document plus the eventual disclosure would have required a written, contemporaneous record of why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it.</p>
 </blockquote>
 <h3 id="the-enforcement-equity-report">The Enforcement Equity Report <a class="heading-anchor" href="#the-enforcement-equity-report" aria-label="Link to this section">¶</a></h3>
 <p>If there is one provision in either bill that is genuinely new in Canadian provincial practice, this is it.</p>
@@ -1113,6 +1187,7 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>Legislative drafting review.</strong> Section numbers referencing existing Alberta statutes need a legislative drafter's verification. Internal consistency across the two bills needs another pass by someone trained in legislative drafting craft. This brief is one citizen's serious attempt, not the equivalent of a legislative counsel's office product.</p>
 <hr>
 <h2 id="part-vii-the-invitation">Part VII — The Invitation <a class="heading-anchor" href="#part-vii-the-invitation" aria-label="Link to this section">¶</a></h2>
+<p>Three structural failures, named: the <strong>oral-briefing loophole</strong>, the <strong>no-paper emergency</strong>, the <strong>Crown-corp end-run</strong>. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.</p>
 <p>If something in the package is worth supporting, the support has to be public and specific. <em>I want this provision because of these reasons.</em> General endorsement is worth less than a particular sentence put in front of a particular MLA.</p>
 <p>If none of it is worth supporting, that is a position worth taking publicly. A no with reasoning beats a no without.</p>
 <p>If you have an MLA, ask them, of any party, whether they would support this. Get an answer on the record. A no should come with a specific objection, not a general dismissal. The response is information.</p>
@@ -1122,18 +1197,16 @@ h4:hover .heading-anchor { opacity: 1; }
 <p>If you would like to ask your MLA about this directly and don't know where to start, here is a draft. Replace the bracketed parts and send. If you change nothing else, you have asked the question.</p>
 <blockquote>
 <p>Dear [MLA's name],</p>
-<p>I'm a constituent in [your riding]. I recently read a drafted policy package called <em>What Accountable Government Looks Like</em>: two bills, the Honest Government Act and the Open Books Act, drafted by a private citizen and released under Creative Commons. The package is at [URL].</p>
-<p>I'm writing to ask whether you would support legislation along these lines, regardless of which party is in government. The drafted bills are designed to apply equally to whichever party holds power.</p>
-<p>Three specific provisions I would like your view on:</p>
+<p>I'm a constituent in [your riding]. Would you support legislation along the lines of the Honest Government Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].</p>
+<p>Three specific provisions I'd like your view on:</p>
 <ol>
-<li>A duty to document decisions that are subject to disclosure, so that the documentary record exists at the time decisions are made (Bill 1, §14A).</li>
-<li>A Beneficiary Disclosure Statement for legislation that benefits a small number of specifically identifiable parties (Bill 2, §3).</li>
+<li>A duty to document decisions subject to disclosure, so the record exists at the time the decision is made (Bill 1, §14A).</li>
+<li>A Beneficiary Disclosure Statement for legislation that benefits a small number of identifiable parties (Bill 2, §3).</li>
 <li>An annual Auditor General report on whether enforcement reaches similarly-situated parties similarly (Bill 2, §7).</li>
 </ol>
-<p>A yes would tell me you are willing to support the substance of these provisions. A no, with a specific reason, would tell me what I need to know to weigh your view against others. A general dismissal would tell me something too.</p>
+<p>A yes, a no with a reason, or a general dismissal — each tells me something. I'd appreciate a reply on the record.</p>
 <p>Thank you.</p>
-<p>Sincerely,
-[Your name]</p>
+<p>[Your name]</p>
 </blockquote>
 <p>The bills were drafted to be used.</p>
 <hr>
@@ -1656,6 +1729,13 @@ h4:hover .heading-anchor { opacity: 1; }
 <p><strong>(3)</strong> During the 180-day phase-in period, the Commissioner and the Auditor General may issue interim guidance. The Commissioner may, on application, grant time-limited extensions to regulatory bodies and public bodies demonstrating good-faith efforts toward compliance.</p>
 <p><strong>(4)</strong> Obligations under Parts 2 through 5 apply only to named-party legislation introduced, regulatory approvals granted, concessional arrangements entered into, and ministerial individual exemptions made on or after the commencement of those respective Parts.</p>
 <p><strong>(5)</strong> Except as otherwise provided, this Act comes into force on Royal Assent.</p>
+<div class="end-mark">·  ·  ·</div>
+
+<div class="end-colophon">
+*End of drafted package*  
+Drafted by Will Conner &middot; Released under Creative Commons Attribution-ShareAlike 4.0  
+github.com/Ixby/accountability-acts-alberta
+</div>
 </main>
 <footer class="site-footer">
   <div class="wrap">

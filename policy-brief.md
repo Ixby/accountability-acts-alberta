@@ -94,10 +94,10 @@ The combined cost: somewhere between $200 and $300 million. The operating expens
 It is worth giving the three structural failures names, because the rest of the brief refers back to them:
 
 - The **oral-briefing loophole** — decisions made in rooms with no minute-taker, reasoning reconstructed afterward. DynaLIFE.
-- The **unreasoned emergency procurement** — emergency authority used without contemporaneous written justification. Turkish Tylenol.
-- The **Crown-corp end-run** — public functions performed through private corporate structures specifically chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.
+- The **no-paper emergency** — urgent authority exercised without contemporaneous written reasons. Turkish Tylenol.
+- The **Crown-corp end-run** — public functions performed through private corporate structures chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.
 
-The bills are designed to reach all three.
+The bills are designed to reach all three. *Scenario analysis throughout this brief is illustrative, not predictive — the regime makes decisions visible at the moment they are made; what becomes of those decisions, once visible, is for the political process and the press.*
 
 ### A note on case selection
 
@@ -249,7 +249,7 @@ This is the gap the DynaLIFE situation exposed. It is what allows reasoning to b
 
 The bill creates a duty to document. Decisions that would be subject to disclosure under either the Access to Information Act or the Open Books Act have to be written down. Standards (what counts as adequate documentation, what timing applies) are set by the Information and Privacy Commissioner by regulation. Willful or repeated failure is penalty-tracked. Oral-briefing-only decision-making is the violation, not the workaround.
 
-> **Applied to DynaLIFE.** This is the provision that addresses the oral-briefing loophole. A duty to document would have required the contract negotiation and the failure-management decisions to be on paper at the time. The Auditor General would not have arrived three years later to find missing records and destroyed notebooks. Whether the decisions themselves would have been different is unprovable. Whether the documentary record would have existed for review is not. *Scenario analysis, not prediction.*
+> **Applied to DynaLIFE.** This is the provision that addresses the oral-briefing loophole. A duty to document would have required the contract negotiation and the failure-management decisions to be on paper at the time. The Auditor General would not have arrived three years later to find missing records and destroyed notebooks. Whether the decisions themselves would have been different is unprovable. Whether the documentary record would have existed for review is not.
 
 ### Procurement that can be cross-referenced
 
@@ -331,8 +331,7 @@ Bill 1 catches people. Bill 2 catches structures.
 
 The Canadian Energy Centre wasn't corrupt officials. It was a corporate structure, deliberately chosen, that put a public function outside the framework that would have applied to a Crown agency doing the same work. The Crown-corp end-run. That kind of decision is what Bill 2 is for.
 
-> **Applied to the CEC.** Several Bill 2 provisions reach the structure. The Beneficiary Disclosure Statement at §3 would have required, at the moment the enabling legislation or appropriation was introduced, a public record of who was expected to benefit, including ISCs and contribution history. The Concessional Arrangement Disclosure at §5 would have applied to the funding mechanism. The Enforcement Equity Report would have, in time, surfaced any pattern of structural-choice favouring among Crown communications work. None of this would have prevented the CEC from being created if a government wanted to create it. It would have made the structural choice visible at the moment it was made. *Scenario analysis, not prediction.*
-
+> **Applied to the CEC.** Several Bill 2 provisions reach the structure. The Beneficiary Disclosure Statement at §3 would have required, at the moment the enabling legislation or appropriation was introduced, a public record of who was expected to benefit, including ISCs and contribution history. The Concessional Arrangement Disclosure at §5 would have applied to the funding mechanism. The Enforcement Equity Report would have, in time, surfaced any pattern of structural-choice favouring among Crown communications work. None of this would have prevented the CEC from being created if a government wanted to create it. It would have made the structural choice visible at the moment it was made.
 The full text is in Appendix B.
 
 ### Legislation that benefits specific parties
@@ -369,7 +368,7 @@ Bill 2 requires an **Individual Exemption Disclosure** for every ministerial exe
 
 The pattern matters as much as the individual case. A Minister who has granted thirty individual exemptions in two years under a statute that contemplated rare exceptions is operating differently from a Minister who has granted three. Both might be defensible. Both should be visible.
 
-> **Applied to the Turkish Tylenol procurement.** Disclosure obligations under §6 would have applied if the decision was characterized as exempting a specific party from a rule of general application; the timing exemption at §6(4) defers publication until after the emergency expires, preserving the executive's ability to act quickly. The provision that would have actually required reasoning *at the moment* the decision was made is the duty to document at Bill 1 §14A — it has no emergency carve-out. Together, the duty to document plus the eventual disclosure would have required a written, contemporaneous record of why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it. *Scenario analysis, not prediction.*
+> **Applied to the Turkish Tylenol procurement — the no-paper emergency.** Disclosure obligations under §6 would have applied if the decision was characterized as exempting a specific party from a rule of general application; the timing exemption at §6(4) defers publication until after the emergency expires, preserving the executive's ability to act quickly. The provision that would have actually required reasoning *at the moment* the decision was made is the duty to document at Bill 1 §14A — it has no emergency carve-out. Together, the duty to document plus the eventual disclosure would have required a written, contemporaneous record of why this supplier, why this amount, why these terms. The decision could still have been right. We would have been able to see it.
 
 ### The Enforcement Equity Report
 
@@ -437,6 +436,8 @@ Four items, each before tabling.
 
 ## Part VII — The Invitation
 
+Three structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
+
 If something in the package is worth supporting, the support has to be public and specific. *I want this provision because of these reasons.* General endorsement is worth less than a particular sentence put in front of a particular MLA.
 
 If none of it is worth supporting, that is a position worth taking publicly. A no with reasoning beats a no without.
@@ -453,21 +454,18 @@ If you would like to ask your MLA about this directly and don't know where to st
 
 > Dear [MLA's name],
 >
-> I'm a constituent in [your riding]. I recently read a drafted policy package called *What Accountable Government Looks Like*: two bills, the Honest Government Act and the Open Books Act, drafted by a private citizen and released under Creative Commons. The package is at [URL].
+> I'm a constituent in [your riding]. Would you support legislation along the lines of the Honest Government Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
 >
-> I'm writing to ask whether you would support legislation along these lines, regardless of which party is in government. The drafted bills are designed to apply equally to whichever party holds power.
+> Three specific provisions I'd like your view on:
 >
-> Three specific provisions I would like your view on:
->
-> 1. A duty to document decisions that are subject to disclosure, so that the documentary record exists at the time decisions are made (Bill 1, §14A).
-> 2. A Beneficiary Disclosure Statement for legislation that benefits a small number of specifically identifiable parties (Bill 2, §3).
+> 1. A duty to document decisions subject to disclosure, so the record exists at the time the decision is made (Bill 1, §14A).
+> 2. A Beneficiary Disclosure Statement for legislation that benefits a small number of identifiable parties (Bill 2, §3).
 > 3. An annual Auditor General report on whether enforcement reaches similarly-situated parties similarly (Bill 2, §7).
 >
-> A yes would tell me you are willing to support the substance of these provisions. A no, with a specific reason, would tell me what I need to know to weigh your view against others. A general dismissal would tell me something too.
+> A yes, a no with a reason, or a general dismissal — each tells me something. I'd appreciate a reply on the record.
 >
 > Thank you.
 >
-> Sincerely,
 > [Your name]
 
 The bills were drafted to be used.
@@ -1376,3 +1374,12 @@ but does not include:
 **(4)** Obligations under Parts 2 through 5 apply only to named-party legislation introduced, regulatory approvals granted, concessional arrangements entered into, and ministerial individual exemptions made on or after the commencement of those respective Parts.
 
 **(5)** Except as otherwise provided, this Act comes into force on Royal Assent.
+
+
+<div class="end-mark">·  ·  ·</div>
+
+<div class="end-colophon">
+*End of drafted package*  
+Drafted by Will Conner &middot; Released under Creative Commons Attribution-ShareAlike 4.0  
+github.com/Ixby/accountability-acts-alberta
+</div>

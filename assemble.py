@@ -43,6 +43,15 @@ def main():
     bill_1 = strip_first_h1(BILL_1.read_text(encoding="utf-8"))
     bill_2 = strip_first_h1(BILL_2.read_text(encoding="utf-8"))
 
+    colophon = (
+        "\n\n"
+        '<div class="end-mark">·  ·  ·</div>\n\n'
+        '<div class="end-colophon">\n'
+        "*End of drafted package*  \n"
+        "Drafted by Will Conner &middot; Released under Creative Commons Attribution-ShareAlike 4.0  \n"
+        "github.com/Ixby/accountability-acts-alberta\n"
+        "</div>\n"
+    )
     out = (
         narrative.rstrip()
         + section(
@@ -55,6 +64,7 @@ def main():
             f"Full drafted text. {LICENSE_TAG}",
             bill_2,
         )
+        + colophon
     )
     TARGET.write_text(out, encoding="utf-8")
     word_count = len(out.split())

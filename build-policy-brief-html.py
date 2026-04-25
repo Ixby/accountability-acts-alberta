@@ -689,9 +689,16 @@ h4:hover .heading-anchor { opacity: 1; }
     break-after: avoid-page;
     font-size: 22pt;
     line-height: 1.1;
-    margin: 1.4em 0 0.5em;
+    margin: 2em 0 0.5em;
     border-bottom: 0.5pt solid var(--accent);
     padding-bottom: 0.3em;
+  }
+  /* Defensive top-padding on the very first H1 of the document so the
+     puppeteer running header (which prints in the page margin) clears
+     the H1 baseline. Without this, "REBUILDING TRUST" oxblood caps
+     and the H1's own border-bottom can graze. */
+  main > h1:first-child {
+    margin-top: 0.4in;
   }
   h1 + h2 { margin-top: 0.8em; }
   h2 {
@@ -715,11 +722,27 @@ h4:hover .heading-anchor { opacity: 1; }
 
   /* Statutory text — same column width as narrative, slightly smaller
      type. 10pt with 1.4 line-height keeps Source Serif 4 strokes solid;
-     9.5pt was thinning the rendering at print resolution. */
+     9.5pt was thinning the rendering at print resolution. Statutory
+     paragraphs are structurally self-bounded by their (1)/(2)/(a)/(b)
+     numbering — they don't need novel-prose orphan/widow protection,
+     so we relax the rule to 2 lines inside .bill-text. This recovers
+     the heading-can't-fit-paragraph ghost pages that were dropping
+     ~3 inches of cream after short cross-reference headings. */
   .bill-text {
     font-size: 10pt;
     line-height: 1.45;
     font-weight: 400;
+  }
+  .bill-text p, .bill-text li, .bill-text blockquote {
+    orphans: 2;
+    widows: 2;
+  }
+  /* Short cross-reference headings ("15A. The following is added after
+     section 82.1:") are connectors, not section openers. Don't bind
+     them to the next paragraph. */
+  .bill-text p + h3, .bill-text blockquote + h3 {
+    page-break-after: auto;
+    break-after: auto;
   }
   .bill-text h2 {
     font-size: 11pt;
@@ -816,6 +839,57 @@ h4:hover .heading-anchor { opacity: 1; }
     padding: 0.4em 1em;
     margin: 0.8em 0;
   }
+
+  /* Closing end-mark + colophon on the final page — turns trailing
+     cream into intentional silence rather than a trailing-off feeling. */
+  .end-mark {
+    text-align: center;
+    color: var(--accent);
+    font-size: 14pt;
+    letter-spacing: 0.5em;
+    margin: 3em 0 1.5em;
+    page-break-before: avoid;
+  }
+  .end-colophon {
+    text-align: center;
+    font-family: "Inter", system-ui, sans-serif;
+    font-size: 8.5pt;
+    line-height: 1.7;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    page-break-before: avoid;
+  }
+  .end-colophon em {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    font-size: 10pt;
+    color: var(--ink-soft);
+    display: block;
+    margin-bottom: 0.4em;
+  }
+}
+
+/* Screen styles for end-mark/colophon — keep visible on web too. */
+.end-mark {
+  text-align: center;
+  color: var(--accent);
+  font-size: 1.1rem;
+  letter-spacing: 0.6em;
+  margin: 3rem 0 1.5rem;
+}
+.end-colophon {
+  text-align: center;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.end-colophon em {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1rem;
+  color: var(--ink-soft);
+  display: block;
+  margin-bottom: 0.3em;
 }
 """
 

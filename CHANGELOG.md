@@ -4,6 +4,18 @@ Version history for the Honest Government and Open Books Acts drafting package.
 
 Entries below mark substantive changes to the legislation. Intermediate editorial passes are not listed.
 
+## v1.11
+
+Substantive structural fixes to both bills and costing.md, addressing the three highest-priority gaps identified in the defensibility review.
+
+**Bill 1 — §22(5) McIver fix.** Court confirmation for large penalties split by respondent type. *McIver v Alberta (Ethics Commissioner)*, 2017 ABQB 695 establishes that courts have no jurisdiction over Ethics Commissioner decisions involving sitting MLAs due to parliamentary privilege — court confirmation against a sitting Member would not survive a privilege challenge. §22(5) now has two tracks: (a) court confirmation for non-Members (unchanged), and (b) for sitting Members, the penalty is incorporated into a Certificate of Malfeasance and enforced exclusively through the Assembly process under §16.
+
+**Bill 1 — §11A Commissioner appointment.** Neither bill previously addressed how the Commissioner is appointed. A compliant appointment defeats every other protection before the first investigation opens. §11A amends Conflicts of Interest Act s.15: appointment now requires two-thirds of the Select Standing Committee on Legislative Offices plus two-thirds of the full Legislative Assembly (up from a simple majority Assembly motion); term extended to 7 years non-renewable (up from 5); eligibility bar on anyone who held elected office or party executive position within the prior 7 years; removal requires Committee report plus two-thirds Assembly resolution. Based on BC Conflict of Interest Commissioner (2/3 supermajority model) and federal Auditor General (open competition + legislative approval) best practices.
+
+**Bill 2 — §2(f) named-party definition tightened.** "A small number" was undefined, giving the Speaker no concrete anchor and opponents a broad attack surface. Third prong was broad enough to catch concentrated-industry legislation where one or two parties dominate a sector by nature, not by legislative design. Fix: "small number" replaced with explicit five-or-fewer threshold; third prong adds a reg-prescribed value threshold to exclude trivial applications; four safe harbors added for general-criteria legislation, public infrastructure legislation (where private benefit is incidental), treaty and court-order implementation, and transitional legislation giving effect to pre-existing entitlements.
+
+**costing.md — counterfactual savings figures removed.** Per-case savings estimates ($10–30M, $20–40M, $20–50M) were drafter speculation. Aggregate table and net-return paragraph replaced with a cost-comparison table (annual regime cost vs. taxpayer cost of each case) and explicit acknowledgement that the case is structural, not predictive. Scenario analysis narratives retained — they describe which provisions engage and at what decision points, which is verifiable; what those provisions would have saved is not.
+
 ## v1.10
 
 No substantive changes to the legislation. Companion documents revised for factual accuracy and confidence framing after a verification pass against external sources.

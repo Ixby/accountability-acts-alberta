@@ -16,7 +16,7 @@ Peer jurisdiction budget figures are drawn from publicly available annual report
 
 ## Summary
 
-The combined regime under Bill 1 (Honest Government Act) and Bill 2 (Open Books Act) is estimated by the drafter to cost roughly **$5 million per year at steady state**, achieved by year five of operation. First-year setup costs run higher due to technology build and ramp-up staffing — approximately $3 million in operational spend plus $1.5 million in one-time capital.
+The combined regime under Bill 1 (Honest Government Act) and Bill 2 (Open Books Act) is estimated by the drafter to cost roughly **$5 million per year at steady state**, achieved by year five of operation. First-year setup costs run higher due to technology build and ramp-up staffing — approximately $3 million in operational spend plus $1.7 million in one-time capital. The capital figure includes the privacy architecture additions in v1.15: the blind hash cross-reference under §15(2A), MyAlberta Digital Identity integration under §15A, the cross-registry similarity matching engine, and the Tier 0 automated compliance check infrastructure under §27(2). The steady-state operating estimate absorbs these additions through partially offsetting reductions in routine audit labour, given that Tier 0 audits closing without discrepancy require no human review.
 
 Against this, scenario analysis of three recent Alberta cases — DynaLIFE, Turkish Tylenol, and the Canadian Energy Centre — suggests that, under conservative counterfactual assumptions, the regime might have changed outcomes by amounts that would substantially exceed its operating cost. The "might have" matters: the analysis describes structural conditions the regime creates, not guaranteed outcomes.
 
@@ -40,23 +40,24 @@ Total personnel at steady state: $1.8 to $2.9 million.
 
 ### Technology and infrastructure
 
-**ISC registry and cross-reference system (capital build, year one):** $500,000 to $1 million. Infrastructure to receive ISC returns from bidders, cross-reference against the EFCDA contributions registry, flag matches, and route to Commissioner review. Includes the simplified small-bidder track interface.
+**ISC registry and cross-reference system (capital build, year one):** $700,000 to $1.3 million. Infrastructure to receive ISC returns from bidders, cross-reference against the EFCDA contributions registry, flag matches, and route to Commissioner review. Includes the simplified small-bidder track interface, the blind hash architecture under §15(2A) (which keeps contribution history invisible until a confirmed match), MyAlberta Digital Identity integration under §15A(1), and the cross-registry similarity matching engine under §15A(4) for identity consistency. The MADI integration and similarity matching add roughly $200,000 to $300,000 to the build relative to a basic ISC registry; this is the cost of designing the system to avoid unnecessary collection of personal information.
 
-**ISC system operational cost:** $150,000 to $300,000 annually for hosting, security, updates, user support.
+**ISC system operational cost:** $180,000 to $350,000 annually for hosting, security, updates, user support, and operation of the name-consistency notice workflow under §15A(4).
 
 **Randomness beacon integration (capital):** $50,000 one-time. Using the NIST beacon or equivalent requires integration code and verification workflow. Low ongoing cost.
 
-**Random audit operations:** $100,000 to $200,000 annually for stratified sampling infrastructure, audit workflow management, and published methodology.
+**Tiered random audit operations:** $80,000 to $180,000 annually for stratified sampling infrastructure, audit workflow management, and published methodology. The tiered structure under §27(2) — Tier 0 fully automated, Tier 1 documentary, Tier 2 investigation on indicators only — concentrates analyst time on cases that surface a discrepancy and reduces routine audit labour relative to a uniformly manual program. Year-one capital for the Tier 0 automated cross-reference system: $150,000 to $250,000.
 
-**Secure records management for Commissioner office:** $150,000 to $300,000 annually. Investigation files, privileged communications, confidential disclosures under §26(5) good-faith defense waiver, and sensitive beneficial ownership determinations.
+**Records management and destruction workflow for Commissioner office:** $180,000 to $350,000 annually. Investigation files, privileged communications, confidential disclosures under §26(5) good-faith defense waiver, sensitive beneficial ownership determinations, and the destruction workflows required by §25(9B) (financial information destroyed within 90 days of penalty resolution), §27(6A) (clean-file destruction within 90 days of audit close at Tier 0 or Tier 1), and §29A (10-year retention maximum with annual published schedule). Includes attestation and confirmation-of-destruction obligations to data subjects.
 
 **Regulatory approval disclosure platform (Bill 2 Part 3):** $200,000 to $400,000 capital. Standardized publication format for Proponent Disclosure Records. Shared across regulatory bodies.
 
 **Concessional arrangement and ministerial exemption disclosure (Bill 2 Parts 4 and 5):** $100,000 to $200,000 capital. Publication infrastructure.
 
 Total technology:
-- First-year capital: $1 to $1.7 million
-- Ongoing annual: $400,000 to $700,000
+
+- First-year capital: $1.2 to $2 million (includes MADI integration, blind hash architecture, similarity matching engine, and Tier 0 automated compliance check)
+- Ongoing annual: $450,000 to $800,000
 
 ### Court confirmation and legal support
 
@@ -78,7 +79,7 @@ Total training/guidance: $350,000 to $550,000 annually.
 
 ### Phase-in costs
 
-**Year 1:** Royal Assent, 180-day commencement. Partial-year operations (about $1.5 million) plus one-time capital ($1.5 million). Total year-one spend: approximately $3 million.
+**Year 1:** Royal Assent, 180-day commencement. Partial-year operations (about $1.5 million) plus one-time capital ($1.7 million, reflecting the v1.15 privacy architecture additions). Total year-one spend: approximately $3.2 million.
 
 **Year 2:** Full operation of ATIA, COIA, and FAA amendments. Personnel ramp-up continues. Approximately $3.5 to $4 million.
 
@@ -144,7 +145,7 @@ The §13 amendment is a direct structural response to the precise mechanism that
 Three example cases, showing the scale of what the regime is designed to illuminate:
 
 | Case | Estimated cost to taxpayers | Annual cost of proposed regime |
-|---|---|---|
+| --- | --- | --- |
 | DynaLIFE | up to $109M (AG estimate) | ~$5M |
 | Turkish Tylenol | $80M | ~$5M |
 | Canadian Energy Centre (lifetime) | estimated $50–100M | ~$5M |

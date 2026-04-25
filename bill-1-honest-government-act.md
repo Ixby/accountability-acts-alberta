@@ -315,7 +315,7 @@
 >
 > (b) a Social Insurance Number, for Canadian residents without provincial photo identification;
 >
-> (c) a foreign persistent national identification number (including a United States Social Security Number, United Kingdom National Insurance Number, Australian Tax File Number, or equivalent as prescribed by regulation), together with the country of jurisdiction, under sworn declaration — Commissioner verification of identity is required above the contract threshold prescribed by regulation; or
+> (c) a foreign persistent national identification number prescribed by regulation, together with the country of jurisdiction, under sworn declaration — Commissioner verification of identity is required above the contract threshold prescribed by regulation; or
 >
 > (d) date of birth, country of citizenship, and such further combination of identifiers as the Commissioner prescribes by regulation — notarized verification is required above the contract threshold prescribed by regulation for identity combinations under this paragraph.
 >
@@ -343,9 +343,7 @@
 >
 > **(6) Entity-level reach.** A procurement suspension under subsection (5)(ii) or a permanent ban under subsection (5)(iii) applies to all entities in which the person is or was an ISC at the time of the finding, and to entities where the Commissioner determines the person has beneficial ownership within the meaning of §25(10). Entity-level application is subject to the Commissioner's written assessment of materiality and does not automatically extend to entities where the person's interest or influence is de minimis.
 >
-> **(7) Platform dependency.** Where the identity verification platform designated under subsection (1) does not support the issuance of persistent cross-application identifiers as distinct from session-specific credentials, the Commissioner shall publish a written notice to that effect and the fallback chain under subsection (2) shall apply until the platform capability is confirmed in writing by the Minister responsible for Service Alberta.
->
-> **(8) Good-faith defense.** The good-faith defense under §26 applies to proceedings under subsection (5). For greater certainty, cultural naming practices, recent legal name changes, documentation inconsistencies in immigration or civil records, and transliteration variations in official documents are not evidence of deliberate fragmentation, and a person who responds promptly to a name consistency notice under subsection (4) is not subject to the consequences under subsection (5).
+> **(7) Good-faith defense.** The good-faith defense under §26 applies to proceedings under subsection (5). For greater certainty, cultural naming practices, recent legal name changes, documentation inconsistencies in immigration or civil records, and transliteration variations in official documents are not evidence of deliberate fragmentation, and a person who responds promptly to a name consistency notice under subsection (4) is not subject to the consequences under subsection (5).
 
 ---
 
@@ -684,6 +682,8 @@ Where the proposed estimates include an appropriation below the floor establishe
 **(3)** Part 6 (Recall Act amendments) applies only to Certificates issued on or after commencement.
 
 **(4)** During the 180-day phase-in period following Royal Assent, the Commissioners may issue interim guidance and may, on application, grant time-limited extensions to public bodies demonstrating good-faith efforts toward compliance.
+
+**(5) Identity platform dependency.** Where the identity verification platform designated under §15A(1) does not support the issuance of persistent cross-application identifiers as distinct from session-specific credentials, the Commissioner shall publish a written notice to that effect and the fallback chain under §15A(2) shall apply until the platform capability is confirmed in writing by the Minister responsible for Service Alberta. This subsection ceases to have effect on the publication of that confirmation.
 
 ### Commencement
 

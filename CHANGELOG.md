@@ -4,6 +4,15 @@ Version history for the Honest Government and Open Books Acts drafting package.
 
 Entries below mark substantive changes to the legislation. Intermediate editorial passes are not listed.
 
+## v1.16
+
+Consolidation pass. No substantive changes to the regime; tightens repeated patterns and moves operational detail to regulation.
+
+- **Bill 2 §8B (new common provision)** — Consolidates two patterns that previously appeared four times across §§3–6: (1) the failure-to-publish enforcement clause (formerly §4(5), §5(5), §6(5)), and (2) the right-of-correction provision (formerly §3(7A), §4(7A), §5(6A), §6(5A)). Both now apply uniformly to every Beneficiary Disclosure Statement, Proponent Disclosure Record, Concessional Arrangement Disclosure, and Individual Exemption Disclosure through a single common provision. Privilege carve-outs remain in their respective sections because they vary by actor (sponsor, regulatory body, Minister) and grounds. Subsections in §§4, 5, 6 renumbered accordingly.
+- **Bill 1 §15A(2)(c)** — Country-specific identifier examples (US SSN, UK NI, AU TFN) moved to regulation. The provision now reads "a foreign persistent national identification number prescribed by regulation." The principle (use a persistent national ID, not a passport number) stays in legislation; the country list is regulation-level detail that will need updates over time.
+- **Bill 1 §15A(7)** — "Platform dependency" provision moved from §15A operational subsections to §31(5) Transitional Provisions. Its function is implementation transitional — it handles the case where MADI cannot issue persistent cross-application identifiers — and ceases to have effect once Service Alberta confirms the capability. Former §15A(8) good-faith defense renumbered to §15A(7).
+- **costing.md** — Updated to reflect the v1.15 privacy architecture additions: MADI integration, blind hash architecture, cross-registry similarity matching engine, and Tier 0 automated compliance check infrastructure increase year-one capital from $1.5M to $1.7M; ongoing technology operating from $400–700K to $450–800K. Tier 0 audit automation partially offsets manual audit labour. Steady-state estimate stays at ~$5M.
+
 ## v1.15
 
 Privacy architecture — ten provisions across both bills addressing collection minimization, identity consistency, automated audit tiers, and data subject rights.

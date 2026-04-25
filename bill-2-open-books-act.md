@@ -80,8 +80,6 @@ but does not include:
 
 **(7)** Nothing in this section requires disclosure of information subject to solicitor-client privilege, national security, or active law enforcement investigation. Where partial disclosure is provided on such grounds, the sponsor shall state the reasons for partial disclosure and make the complete Statement available to the Speaker in confidence.
 
-**(7A)** Any person whose personal information is included in a published Beneficiary Disclosure Statement may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Statement. The original Statement shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
-
 ---
 
 ## Part 3 — Disclosure Accompanying Regulatory Approvals
@@ -94,13 +92,9 @@ but does not include:
 
 **(4)** Where the proponent is a publicly-traded entity, ISC disclosure may be satisfied by reference to the proponent's disclosure under applicable securities legislation, provided the securities disclosure meets or exceeds the requirements of this section.
 
-**(5)** Failure to publish a Proponent Disclosure Record, or material inaccuracy in a published Record, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act and may give rise to proceedings under Parts 3 and 8 of that Act.
+**(5)** This section does not affect the substantive criteria governing regulatory approvals and does not empower the Commissioner to review the merits of an approval. The Commissioner's jurisdiction under this section is limited to the completeness, accuracy, and timeliness of the Proponent Disclosure Record.
 
-**(6)** This section does not affect the substantive criteria governing regulatory approvals and does not empower the Commissioner to review the merits of an approval. The Commissioner's jurisdiction under this section is limited to the completeness, accuracy, and timeliness of the Proponent Disclosure Record.
-
-**(7)** Where the regulatory body determines that full disclosure under this section would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or legitimate commercial confidence not otherwise subject to public disclosure under applicable law, the body may publish a partial Record with reasons, and shall deliver the complete Record to the Speaker in confidence.
-
-**(7A)** Any person whose personal information is included in a published Proponent Disclosure Record may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Record. The original Record shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+**(6)** Where the regulatory body determines that full disclosure under this section would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or legitimate commercial confidence not otherwise subject to public disclosure under applicable law, the body may publish a partial Record with reasons, and shall deliver the complete Record to the Speaker in confidence.
 
 ---
 
@@ -114,11 +108,7 @@ but does not include:
 
 **(4)** Concessional arrangements meeting the definition in §2(b) but available to all parties meeting objective statutory criteria of general application are not subject to this section.
 
-**(5)** Failure to publish, or material inaccuracy in the publication, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
-
-**(6)** Where the authorizing Minister determines that full disclosure would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or commercially sensitive information the disclosure of which would cause material harm to the recipient unrelated to the matters this Act is designed to illuminate, the Minister may publish a partial Disclosure with reasons, and shall deliver the complete Disclosure to the Speaker in confidence.
-
-**(6A)** Any person whose personal information is included in a published Concessional Arrangement Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+**(5)** Where the authorizing Minister determines that full disclosure would reveal information subject to solicitor-client privilege, national security, active law enforcement investigation, or commercially sensitive information the disclosure of which would cause material harm to the recipient unrelated to the matters this Act is designed to illuminate, the Minister may publish a partial Disclosure with reasons, and shall deliver the complete Disclosure to the Speaker in confidence.
 
 ---
 
@@ -131,10 +121,6 @@ but does not include:
 **(3)** The Individual Exemption Disclosure shall be published on a government website within 30 days of the exemption and shall remain accessible for the duration of the exemption and for not less than 7 years thereafter.
 
 **(4)** Ministerial individual exemptions granted under emergency authority in circumstances requiring urgent action may be published within 30 days of the expiration of the emergency circumstances, with the Minister required to table a report to the Legislative Assembly within 10 sitting days of such publication explaining the circumstances.
-
-**(5)** Failure to publish, or material inaccuracy in the publication, is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
-
-**(5A)** Any person whose personal information is included in a published Individual Exemption Disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original Disclosure. The original Disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 
 ---
 
@@ -180,6 +166,12 @@ but does not include:
 ---
 
 **8A. Annual named-party compliance assessment.** The Commissioner shall include in the annual report under §24(3) of the *Honest Government Act* an assessment of compliance with Part 2 of this Act, identifying: (a) every Bill introduced in the Legislative Assembly in the preceding year for which a Beneficiary Disclosure Statement was filed, with a note on whether the Statement was materially complete; (b) every Bill the Commissioner assesses as meeting the definition of named-party legislation under §2(f) for which no Beneficiary Disclosure Statement was filed, with the Commissioner's reasons for that assessment; and (c) any pattern of non-filing across the preceding three years. The assessment under paragraph (b) is the Commissioner's administrative opinion regarding the application of §2(f) to the named Bill; it does not constitute a ruling on a matter of parliamentary procedure and is without prejudice to any determination made by the Speaker. The Commissioner's assessment shall be tabled in the Legislative Assembly and published on the Commissioner's website.
+
+**8B. Common provisions for published disclosures.** The following apply to every Beneficiary Disclosure Statement, Proponent Disclosure Record, Concessional Arrangement Disclosure, and Individual Exemption Disclosure (each a "published disclosure" for the purposes of this section):
+
+**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3 and 8 of that Act.
+
+**(2) Right of correction.** Any person whose personal information is included in a published disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original disclosure. The original disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 
 ---
 

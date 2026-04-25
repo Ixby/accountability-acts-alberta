@@ -181,6 +181,36 @@
 
 > **(3)** The Commissioner shall not grant a waiver for any restriction related to procurement, appointments to public agencies, or financial grants above the threshold prescribed by regulation.
 
+**11A.** Section 15 of the *Conflicts of Interest Act* is amended:
+
+**(a)** by striking out subsection (1) and substituting:
+
+> **(1)** The Ethics Commissioner shall be appointed by Order in Council on the recommendation of the Lieutenant Governor in Council, following:
+>
+> (i) an open, merit-based competition administered by the Select Standing Committee on Legislative Offices, with the position publicly advertised and the selection criteria publicly posted before the competition opens;
+>
+> (ii) recommendation of a candidate by the Committee, passed by not fewer than two-thirds of Committee members present and voting, with written reasons for the recommendation published; and
+>
+> (iii) approval by resolution of the Legislative Assembly, passed by not fewer than two-thirds of all Members present and voting.
+
+**(b)** by striking out subsection (2) and substituting:
+
+> **(2)** The Ethics Commissioner holds office for a term of 7 years and is not eligible for reappointment.
+
+**(c)** by adding after subsection (2):
+
+> **(2.1)** No person is eligible to be appointed Ethics Commissioner who has, within 7 years immediately preceding the appointment, held elected office in any federal, provincial, or municipal jurisdiction in Canada; or held executive office — including the positions of president, vice-president, leader, deputy leader, executive director, campaign director, or equivalent — in any registered political party.
+>
+> **(2.2)** The Select Standing Committee on Legislative Offices shall publish the selection criteria, the names of all applicants who consent to public identification, and a summary of the Committee's reasons for its recommendation, to the extent consistent with applicant privacy and the integrity of the selection process.
+
+**(d)** by striking out subsection (3) and substituting:
+
+> **(3)** The Ethics Commissioner may be removed from office for cause only, on:
+>
+> (i) a report of the Select Standing Committee on Legislative Offices recommending removal, with written reasons; and
+>
+> (ii) a resolution of the Legislative Assembly passed by not fewer than two-thirds of all Members present and voting.
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*

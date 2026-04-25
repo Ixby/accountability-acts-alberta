@@ -146,6 +146,8 @@ but does not include:
 
 **(7) Phased implementation.** The first Enforcement Equity Report shall examine no fewer than three regulatory bodies, tribunals, or enforcement agencies, selected by the Auditor General based on elevated risk, transaction volume, or public-interest significance. Subsequent annual Reports shall expand coverage, achieving comprehensive examination of all provincial regulatory bodies, tribunals, and enforcement agencies within 5 years of the first Report. The Auditor General shall publish the selection methodology and the intended phase-in schedule at the time of the first Report.
 
+**(8) Communications log.** Each Enforcement Equity Report shall include a complete log of all communications received by the Auditor General from any Minister, Deputy Minister, senior official, or entity of the Crown regarding the scope, methodology, selection of bodies examined, or findings of the Report, identifying the date, sender, and substance of each communication. The log shall be complete regardless of whether communications were formal or informal, written or oral. The Auditor General shall characterize each logged communication as informational, advisory, or directive, with reasons, and that characterization shall be included in the log. The obligation to log applies to communications received at any time during the preparation of the Report, including in the period following delivery of draft findings. A nil return — confirming no such communications were received — is required where no communications occurred.
+
 ---
 
 ## Part 7 — Enforcement and Common Provisions
@@ -166,6 +168,10 @@ but does not include:
 **(3) Complaints and investigation.** A person may file a complaint with the Commissioner alleging non-compliance with this Act. The Commissioner may investigate on complaint, on audit under §27 of the Honest Government Act (Random Audit Program, extended by this subsection to include obligations under this Act), or on the Commissioner's own initiative on reasonable grounds.
 
 **(4) Institutional deference.** This Act is intended to complement and not replace the work of the courts, criminal justice authorities, regulatory bodies, the Auditor General, and the Legislative Assembly. Nothing in this Act empowers the Commissioner to substitute administrative judgment for the substantive decisions of regulatory bodies, the Legislative Assembly, or Ministers acting within their lawful authority. The Commissioner's jurisdiction under this Act is limited to the transparency of those decisions, not their substance.
+
+---
+
+**8A. Annual named-party compliance assessment.** The Commissioner shall include in the annual report under §24(3) of the *Honest Government Act* an assessment of compliance with Part 2 of this Act, identifying: (a) every Bill introduced in the Legislative Assembly in the preceding year for which a Beneficiary Disclosure Statement was filed, with a note on whether the Statement was materially complete; (b) every Bill the Commissioner assesses as meeting the definition of named-party legislation under §2(f) for which no Beneficiary Disclosure Statement was filed, with the Commissioner's reasons for that assessment; and (c) any pattern of non-filing across the preceding three years. The assessment under paragraph (b) is the Commissioner's administrative opinion regarding the application of §2(f) to the named Bill; it does not constitute a ruling on a matter of parliamentary procedure and is without prejudice to any determination made by the Speaker. The Commissioner's assessment shall be tabled in the Legislative Assembly and published on the Commissioner's website.
 
 ---
 

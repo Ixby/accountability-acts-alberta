@@ -540,6 +540,10 @@ h4:hover .heading-anchor { opacity: 1; }
     orphans: 3;
     widows: 3;
   }
+  /* In print, the HTML cover is replaced by a Canva-generated cover PDF
+     which is merged in by the build-pdf pipeline. Hide the HTML cover
+     in print to avoid duplication. */
+  .html-cover-shim, .cover { display: none !important; }
   p, li, blockquote {
     orphans: 3;
     widows: 3;
@@ -687,7 +691,7 @@ h4:hover .heading-anchor { opacity: 1; }
 </style>
 </head>
 <body>
-<section class="cover" aria-label="Cover">
+<div class="html-cover-shim"><section class="cover" aria-label="Cover">
   <div class="cover-top">
     <div class="cover-eyebrow">A drafted policy package &middot; Alberta &middot; April 2026</div>
     <h1 class="cover-title">What Accountable Government Looks Like</h1>
@@ -695,6 +699,7 @@ h4:hover .heading-anchor { opacity: 1; }
     <hr class="cover-rule" />
     <div class="cover-meta">
       <span class="meta-line"><span class="meta-label">The package</span> The Honest Government Act &amp; The Open Books Act</span>
+      <span class="meta-line"><span class="meta-label">Drafted by</span> Will Conner</span>
       <span class="meta-line"><span class="meta-label">Released</span> Creative Commons Attribution-ShareAlike 4.0</span>
       <span class="meta-line"><span class="meta-label">Source</span> <a href="https://github.com/Ixby/accountability-acts-alberta">github.com/Ixby/accountability-acts-alberta</a></span>
     </div>
@@ -702,7 +707,7 @@ h4:hover .heading-anchor { opacity: 1; }
   <div class="cover-foot">
     Adapt &middot; Improve &middot; Table &middot; Build on &middot; The bills were drafted to be used.
   </div>
-</section>
+</section></div>
 <header class="site-header">
   <div class="wrap">
     <span class="brand">Honest Government &amp; Open Books Acts</span>

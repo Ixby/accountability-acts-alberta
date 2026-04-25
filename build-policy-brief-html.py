@@ -551,6 +551,10 @@ h4:hover .heading-anchor { opacity: 1; }
     orphans: 3;
     widows: 3;
   }
+  /* In print, the HTML cover is replaced by a Canva-generated cover PDF
+     which is merged in by the build-pdf pipeline. Hide the HTML cover
+     in print to avoid duplication. */
+  .html-cover-shim, .cover { display: none !important; }
   p, li, blockquote {
     orphans: 3;
     widows: 3;
@@ -713,6 +717,7 @@ COVER_HTML = f"""<section class="cover" aria-label="Cover">
     <hr class="cover-rule" />
     <div class="cover-meta">
       <span class="meta-line"><span class="meta-label">The package</span> The Honest Government Act &amp; The Open Books Act</span>
+      <span class="meta-line"><span class="meta-label">Drafted by</span> Will Conner</span>
       <span class="meta-line"><span class="meta-label">Released</span> Creative Commons Attribution-ShareAlike 4.0</span>
       <span class="meta-line"><span class="meta-label">Source</span> <a href="{REPO_URL}">{REPO_URL.replace('https://','')}</a></span>
     </div>
@@ -868,7 +873,7 @@ def build():
 <style>{CSS}</style>
 </head>
 <body>
-{COVER_HTML}
+<div class="html-cover-shim">{COVER_HTML}</div>
 <header class="site-header">
   <div class="wrap">
     <span class="brand">Honest Government &amp; Open Books Acts</span>

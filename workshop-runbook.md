@@ -60,6 +60,7 @@ All eleven experts spawned in a single message as parallel sub-agents. Each rece
 - Explicit instruction to return findings only — no preamble, no closing summary.
 
 Critical brief discipline:
+
 - **Tell them what's been said before.** Each subsequent iteration should brief the experts on the prior round's findings so they don't surface the same issues; they should look for what's still wrong after the last pass.
 - **Flag the zero-hallucinations rule.** Especially for fact-checker, lawyer, and constitutional scholar.
 - **Use specific quotes.** Vague critique is worth nothing; specific quotes drive specific edits.
@@ -82,6 +83,7 @@ Three to four paired or three-way debates, each adjudicating a specific tension 
 4. **Poet × Educator × Copy editor** → joint language work list.
 
 Each debate spawned as a single moderating agent, given:
+
 - Both/all experts' prior findings in summary.
 - The specific points to adjudicate (with the experts' positions stated).
 - A required output of speaker-tagged transcript plus a joint statement.

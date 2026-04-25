@@ -113,7 +113,7 @@
 
 ---
 
-## Part 3 — The Escalation Framework and Amendments to the *Conflicts of Interest Act*, RSA 2000, c C-23
+## Part 3 — The Escalation Framework, Oversight Officer Independence, and Amendments to the *Conflicts of Interest Act*, RSA 2000, c C-23 and the *Auditor General Act*, RSA 2000, c A-46
 
 ### General Principles and Triage Authority
 
@@ -215,6 +215,26 @@
 
 > **(4)** Where the office of Ethics Commissioner is or becomes vacant and no appointment has been made under subsection (1) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Ethics Commissioner. The acting Commissioner serves until an appointment is made under subsection (1) and has all the powers and duties of the Ethics Commissioner during that period. An individual appointed under this subsection must meet the eligibility requirements in subsection (2.1). The Chief Justice shall publish written reasons for the appointment. Service as acting Commissioner does not count against the term limit in subsection (2) and does not affect eligibility for formal appointment under subsection (1).
 
+**11B.** The provisions of the *Auditor General Act*, RSA 2000, c A-46, governing the appointment, eligibility, term, and removal of the Auditor General are amended as follows [specific section numbers require verification against current statutory text before tabling]:
+
+**(a)** The Auditor General shall be appointed by Order in Council on the recommendation of the Lieutenant Governor in Council, following:
+
+> (i) an open, merit-based competition administered by the Standing Committee on Public Accounts, with the position publicly advertised and the selection criteria publicly posted before the competition opens;
+>
+> (ii) recommendation of a candidate by the Committee, passed by not fewer than two-thirds of Committee members present and voting, with written reasons for the recommendation published; and
+>
+> (iii) approval by resolution of the Legislative Assembly, passed by not fewer than two-thirds of all Members present and voting.
+
+**(b)** No person is eligible to be appointed Auditor General who has, within 7 years immediately preceding the appointment, held elected office in any federal, provincial, or municipal jurisdiction in Canada; or held executive office — including the positions of president, vice-president, leader, deputy leader, executive director, campaign director, or equivalent — in any registered political party. The Standing Committee on Public Accounts shall publish the selection criteria, the names of all applicants who consent to public identification, and a summary of the Committee's reasons for its recommendation, to the extent consistent with applicant privacy and the integrity of the selection process.
+
+**(c)** The Auditor General may be removed from office for cause only, on:
+
+> (i) a report of the Standing Committee on Public Accounts recommending removal, with written reasons; and
+>
+> (ii) a resolution of the Legislative Assembly passed by not fewer than two-thirds of all Members present and voting.
+
+**(d)** Where the office of Auditor General is or becomes vacant and no appointment has been made under paragraph (a) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Auditor General. The acting Auditor General serves until an appointment is made under paragraph (a) and has all the powers and duties of the Auditor General during that period. An individual appointed under this paragraph must meet the eligibility requirements in paragraph (b). The Chief Justice shall publish written reasons for the appointment. Service as acting Auditor General does not count against any statutory term limit and does not affect eligibility for formal appointment under paragraph (a).
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*
@@ -287,6 +307,18 @@
 
 > **(4)** Where the Ethics Commissioner tables a Certificate of Malfeasance regarding a sitting Member, the Legislative Assembly shall, within 30 sitting days, deal with the Certificate by resolution in one or more of the following ways: referral to the appropriate law enforcement authority for investigation (simple majority); expulsion (two-thirds majority); referral to the Chief Electoral Officer for recall (simple majority); or censure (simple majority). Resolutions under this subsection are not mutually exclusive.
 >
+> **(4A)** Where a Certificate tabled under subsection (4) incorporates a financial penalty determination under §22(5)(b) exceeding the threshold prescribed by regulation, the following requirements apply:
+>
+> (a) A resolution consisting solely of censure under subsection (4)(iv) does not satisfy the Assembly's obligation under this section.
+>
+> (b) The Certificate remains open until: (i) the Assembly passes a resolution under subsection (4)(i), (ii), or (iii); (ii) the Assembly passes a closing resolution under paragraph (c); or (iii) 60 sitting days have elapsed from the date of tabling, in which case subsection (5) applies.
+>
+> (c) The Assembly may close a Certificate incorporating a financial penalty determination by resolution passed by not fewer than two-thirds of all Members present and voting, with written reasons explaining why the conduct does not, on the facts found by the Commissioner, warrant a response under subsection (4)(i), (ii), or (iii). Such a resolution shall be published in the Votes and Proceedings with the names of Members voting for and against, and shall be delivered to the Commissioner for publication on the Commissioner's website.
+>
+> (d) The Assembly may pass a censure resolution under subsection (4)(iv) and thereafter proceed to a resolution under paragraph (b) within the applicable period; a censure resolution does not restart the clock under this subsection.
+>
+> **(4B)** Subsection (4A) does not apply where the Certificate has been set aside in whole or in part by the Commissioner on reconsideration or by a court on review such that no financial penalty determination remains outstanding.
+>
 > **(5)** If the Assembly has not dealt with the Certificate within 30 sitting days, the matter is deemed referred to the appropriate law enforcement authority for investigation. Deemed referral does not constitute a referral for recall.
 >
 > **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 8 of the *Honest Government Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
@@ -310,6 +342,24 @@
 > **(6)** An individual who directs, authorizes, or personally carries out a reprisal is personally liable, jointly and severally with the employer, where the tribunal finds the individual acted in bad faith or with knowledge that the action was a reprisal.
 >
 > **(7)** Personal liability under subsection (6) is capped at the lesser of six months of the individual's annual compensation or the amount prescribed by regulation. It is not indemnifiable by the Crown, a public body, or any insurance arrangement funded in whole or in part by public money.
+
+**18A.** The following preservation order authority is added to the *Public Interest Disclosure (Whistleblower Protection) Act*:
+
+**(1)** Where a protected disclosure has been made or the Commissioner has commenced an investigation into wrongdoing involving the employment of any person, the Commissioner may issue a preservation order to any person or entity, directing that:
+
+> (a) specified records, documents, electronic files, correspondence, or other information be preserved in their current form and not altered, deleted, moved, or transferred without the Commissioner's written consent; and
+>
+> (b) the employment status, compensation, duties, and working conditions of any employee who is or may be a complainant, disclosing employee, or witness in the proceedings not be altered pending the Commissioner's final determination, except in the ordinary course of operations demonstrably unrelated to the investigation.
+
+**(2)** A preservation order under subsection (1)(b) operates as a status quo order, not a reinstatement order. It prevents the initiation of adverse employment action during the investigation period. It does not reverse adverse employment action taken before the order was issued, unless the Commissioner has reasonable grounds, on an ex parte review of available evidence, to conclude the prior action was a reprisal, in which case the order may include a direction for temporary reinstatement pending full determination.
+
+**(3)** A preservation order remains in effect for 90 days and may be renewed by the Commissioner for further 90-day periods until the Commissioner's final determination, to a maximum total period of 18 months, or until a court varies or sets aside the order on review under subsection (4), whichever is earlier.
+
+**(4)** A preservation order is subject to expedited review by the Court of King's Bench on application by the person or entity subject to the order. The Court shall schedule a hearing within 10 business days of filing. Review is limited to whether the Commissioner had reasonable grounds to issue the order; the Court shall not conduct a full merits review of the underlying investigation at this stage.
+
+**(5)** Breach of a preservation order is conduct within the jurisdiction of the Commissioner under this Act, subject to the escalation framework in Part 3. Willful breach — including the destruction, alteration, or concealment of records after receipt of a preservation order — may give rise to a Certificate of Malfeasance without the requirement for prior Public Report or Compliance Order under that framework.
+
+**(6)** The Commissioner shall, as a matter of practice, issue a preservation order under subsection (1)(a) at the commencement of any investigation where evidence relevant to the investigation is or may be under the control of a party to the proceedings or an affiliated entity, unless the Commissioner has specific written reasons for concluding that the order is premature or would compromise the investigation.
 
 **19.** The following is added after section 31:
 
@@ -369,6 +419,40 @@
 
 **(6) Constitutional and executive privilege preserved.** Nothing in this section limits the respondent's ability to raise Cabinet confidence, executive privilege, or interference with a core executive function as grounds in any reconsideration, judicial review, or court confirmation proceeding; the Commissioner and the Court shall consider such grounds within the framework of reasonableness review.
 
+### Protection Against Proceedings for Delay
+
+**22A(1)** Where a person or entity commences a judicial review application, constitutional challenge, injunction application, or other court proceeding in connection with a determination, investigation, or action of the Commissioner under this Act (a "challenge"), and the Commissioner has reasonable grounds to believe the challenge was brought primarily to cause delay, impose litigation costs, or frustrate the purposes of this Act rather than to obtain genuine legal relief, the Commissioner may apply to the Court of King's Bench for an expedited hearing and relief under this section.
+
+**(2)** On application under subsection (1), the Court shall, on an expedited basis within 20 business days of filing, determine whether the challenge has a reasonable prospect of success on the merits. In making this determination, the Court shall consider:
+
+> (a) whether the legal grounds raised are novel and serious, or substantially the same as grounds previously raised and rejected in proceedings involving similar Commissioner determinations;
+>
+> (b) whether the timing of the challenge correlates with critical enforcement steps, including imminent collection, imminent tabling of a Certificate, or an approaching limitation period; and
+>
+> (c) whether the relief sought, if granted, would have a practical effect on the respondent's legal obligations disproportionate to the genuine legal question raised.
+
+**(3)** Where the Court determines that a challenge has no reasonable prospect of success on the merits, the Court shall:
+
+> (a) dismiss the challenge;
+>
+> (b) award costs to the Commissioner on a solicitor-client basis; and
+>
+> (c) where the Court finds the challenge was brought in bad faith, impose a further sanction calibrated to the capacity of the applicant under §25 with necessary modifications.
+
+**(4)** In any proceeding under this Act or relating to a determination under this Act, costs shall be awarded presumptively to the Commissioner on a solicitor-client basis where the challenge fails. A court may depart from this presumption only where the challenge raised a genuine, novel, and serious legal question of public importance not previously adjudicated, stating written reasons for departure.
+
+**(5)** The stay of enforcement under §22(4) applies to final collection, garnishment, and execution only. No stay arising under §22(4) or any court proceeding shall apply to:
+
+> (a) the Commissioner's obligation to publish a Report, Certificate, or compliance record under this Act;
+>
+> (b) any requirement to produce, preserve, or disclose records in an ongoing investigation; or
+>
+> (c) the Commissioner's authority to conduct the underlying investigation while proceedings regarding a determination from that investigation are pending.
+
+**(6)** Where an applicant has not taken any steps to prosecute a challenge within 60 days of filing, the Commissioner may apply to the Court for dismissal for delay. The Court shall schedule a hearing on such application within 10 business days. Costs on dismissal for delay are presumptively awarded to the Commissioner on a solicitor-client basis under subsection (4).
+
+**(7)** The Commissioner may, on application to the Court, seek an order requiring security for costs before a challenge may continue, where the Commissioner establishes on a balance of probabilities that the challenge was brought primarily for delay and that the Commissioner would suffer material financial prejudice in the absence of such security.
+
 ### Quarterly Compliance Report
 
 **23(1)** The Commissioners responsible for the statutes affected by this Act shall jointly publish a quarterly public report identifying Certificates issued during the period, with the Assembly's response; administrative penalties imposed, with the basis of calculation and any court confirmation; individuals and entities subject to Compliance Orders, including disgorgement; public bodies in persistent non-compliance with disclosure obligations (with identification at the Deputy Minister level, not line records officers unless individually subject to order); declined-but-substantiated violations under §25(6), aggregated by category, and identification of persons, entities, or beneficial owners crossing the accumulation threshold; beneficial ownership determinations; random audit results in aggregate; below-threshold dispositions; systemic obstacles; and recommendations to the Legislative Assembly.
@@ -386,6 +470,16 @@
 **(4) Monthly resource adequacy notice.** In addition to the annual report under subsection (3), the Commissioner shall publish a monthly resource adequacy notice on a date the Commissioner designates at the beginning of each calendar year by public notice, which date shall not be changed except on 90 days' advance public notice. The Commissioner shall prescribe the form of the notice, which shall include at minimum: (a) current caseload by category; (b) current funded capacity by function; (c) whether caseload or mandatory program obligations exceed funded capacity in any category, with the operational consequence of any shortfall stated plainly; (d) status of each technology and infrastructure build required under this Act, including whether capital appropriations have been received and whether builds are on schedule. Where the notice identifies that caseload exceeds funded capacity or that a required infrastructure build has not received appropriation within 12 months of commencement of the relevant provision, the Commissioner shall simultaneously deliver the notice to the Speaker for tabling at the next sitting day.
 
 **(5) Cooperation register.** The annual report under subsection (3) shall include a cooperation register identifying: (a) each request made by the Commissioner or Auditor General to the Lieutenant Governor in Council for threshold-setting or regulation-making under §28(1) through §28(4) in the preceding year; (b) whether a regulation responsive to the request was made within 90 days; (c) if a regulation was made, whether the Commissioner and Auditor General assess it as consistent with the purposes of this Act, with reasons; and (d) if no responsive regulation was made within 90 days, the operational consequence and the Commissioners' joint assessment of the effect on the operative scope of the relevant provisions.
+
+**(6) Budget floor.** The annual main estimates submitted to the Legislative Assembly shall include an appropriation for the Commissioner office not less than the greater of:
+
+> (a) the appropriation approved for the Commissioner office in the immediately preceding fiscal year, adjusted for the change in the Alberta Consumer Price Index, all items, as described in §28(1); and
+>
+> (b) the minimum operational funding level identified in the most recent resource plan under subsection (2) and confirmed in the most recent monthly resource adequacy notice under subsection (4).
+
+Where the proposed estimates include an appropriation below the floor established by this subsection, the President of the Treasury Board shall, prior to or contemporaneously with the tabling of the estimates, table in the Legislative Assembly a written statement identifying: (i) the amount of the proposed reduction and the resulting shortfall below the floor; (ii) each operational function or program that will be reduced or suspended as a result, assessed against the most recent monthly resource adequacy notice under subsection (4); and (iii) the Commissioner's written response to the proposed reduction, obtained by the President of the Treasury Board not less than 14 days before tabling. Any provision in the estimates reducing the Commissioner office's appropriation below the floor shall be voted on separately and by recorded vote in the Committee of Supply.
+
+**(7) Constitutional qualification.** Subsection (6) does not limit the constitutional authority of the Legislative Assembly to determine appropriations. It operates as a procedural requirement — mandatory disclosure of operational consequences and a separate recorded vote — not as a substantive constraint on legislative authority. An appropriation below the floor adopted in compliance with subsection (6) is valid and effective.
 
 ### Proportional Penalty Framework
 

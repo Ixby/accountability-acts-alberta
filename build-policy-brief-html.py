@@ -60,139 +60,113 @@ body {
   page-break-after: always;
 }
 
-/* Construction-grid background — vertical and horizontal hairlines in
-   wheat gold, evoking architectural drawings and scaffolding. */
-.cover::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(to right, rgba(242, 169, 0, 0.18) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(242, 169, 0, 0.18) 1px, transparent 1px);
-  background-size: 4rem 4rem;
-  pointer-events: none;
-}
-
-/* Ascending scaffolding rungs running up the left side — each longer
-   than the one below, in wheat gold. Reads as a ladder being climbed. */
-.cover::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  background-image:
-    linear-gradient(to right, #f2a900 0, #f2a900 18%, transparent 18%),
-    linear-gradient(to right, #f2a900 0, #f2a900 26%, transparent 26%),
-    linear-gradient(to right, #f2a900 0, #f2a900 36%, transparent 36%),
-    linear-gradient(to right, #f2a900 0, #f2a900 48%, transparent 48%),
-    linear-gradient(to right, #f2a900 0, #f2a900 62%, transparent 62%);
-  background-position:
-    0 80%,
-    0 64%,
-    0 48%,
-    0 32%,
-    0 16%;
-  background-size:
-    100% 2px,
-    100% 2px,
-    100% 2px,
-    100% 2px,
-    100% 2px;
-  background-repeat: no-repeat;
-}
-
 .cover-inner {
   position: relative;
   z-index: 2;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   min-height: 100vh;
-  padding: 9vh 8vw 7vh;
-}
-
-.cover-top {
-  position: relative;
+  padding: 1.4in 1.1in 1.1in;
 }
 
 .cover-eyebrow {
   font-family: "Inter", system-ui, sans-serif;
-  font-size: 0.7rem;
-  letter-spacing: 0.28em;
+  font-size: 0.72rem;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
   color: #a4253a;
   font-weight: 600;
-  margin-bottom: 8vh;
+  margin: 0 0 1em;
 }
 
 .cover-title-block {
-  position: relative;
-  margin-left: 8%;  /* sits at the top of the rungs */
+  margin-top: auto;
+  margin-bottom: 1.4em;
 }
 
 .cover-title {
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 700;
-  font-size: clamp(4rem, 12vw, 8rem);
-  line-height: 0.92;
-  letter-spacing: -0.025em;
+  font-size: clamp(4rem, 13vw, 8.4rem);
+  line-height: 0.9;
+  letter-spacing: -0.03em;
   color: #003f87;
   margin: 0;
   text-transform: uppercase;
 }
-.cover-title .word {
-  display: block;
+.cover-title .word { display: block; }
+.cover-title .word--top { margin-bottom: 0.04em; }
+
+/* Five wheat-gold rungs of decreasing length stacked beneath the title
+   — short at the bottom, long at the top — reading as a ladder being
+   climbed UP TO the title above. The longest rung sits directly under
+   the title (the rung you reach when you arrive). */
+.cover-scaffold {
+  margin: 1.2em 0 1.6em;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0.55em;
 }
-.cover-title .word--top { margin-bottom: 0.05em; }
+.cover-scaffold .rung {
+  display: block;
+  height: 2px;
+  background: #f2a900;
+  border: none;
+}
+.cover-scaffold .rung-1 { width: 14%; }
+.cover-scaffold .rung-2 { width: 26%; }
+.cover-scaffold .rung-3 { width: 40%; }
+.cover-scaffold .rung-4 { width: 58%; }
+.cover-scaffold .rung-5 { width: 80%; }
 
 .cover-subtitle {
   font-family: "Source Serif 4", Georgia, serif;
   font-style: italic;
   font-weight: 400;
-  font-size: clamp(0.95rem, 1.7vw, 1.15rem);
-  line-height: 1.4;
+  font-size: clamp(1rem, 1.7vw, 1.18rem);
+  line-height: 1.45;
   color: #003f87;
-  margin: 1.4rem 0 0;
-  max-width: 38ch;
-}
-
-.cover-rule {
-  width: 3rem;
-  height: 2px;
-  background: #f2a900;
-  margin: 1.6rem 0 0;
-  border: none;
+  margin: 0;
+  max-width: 42ch;
 }
 
 .cover-foot-block {
-  margin-left: 8%;
+  margin-top: auto;
+  padding-top: 2em;
+  border-top: 1px solid rgba(0, 63, 135, 0.18);
   font-family: "Inter", system-ui, sans-serif;
   font-size: 0.78rem;
-  line-height: 1.7;
+  line-height: 1.6;
   color: #003f87;
-  letter-spacing: 0.04em;
 }
-.cover-foot-line { display: block; }
-.cover-foot-name {
+.cover-foot-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 2rem;
+}
+.cover-foot-name-label {
+  display: block;
   font-weight: 600;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
+  color: #a4253a;
+  margin-bottom: 0.3em;
+}
+.cover-foot-author {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #003f87;
 }
 .cover-foot-license {
-  font-style: italic;
-  font-family: "Source Serif 4", Georgia, serif;
-  font-size: 0.85rem;
-}
-.cover-foot-source {
-  margin-top: 0.6rem;
+  text-align: right;
   font-size: 0.72rem;
-  color: rgba(0, 63, 135, 0.7);
+  letter-spacing: 0.04em;
 }
-.cover-foot-source a {
+.cover-foot-license .license-line { display: block; }
+.cover-foot-license a {
   color: inherit;
   text-decoration: none;
   border-bottom: 1px solid #f2a900;
@@ -667,11 +641,15 @@ h4:hover .heading-anchor { opacity: 1; }
   }
   main > * { max-width: none; }
 
-  /* Headings — no forced page breaks. Let content flow naturally;
-     keep-with-next prevents stranded headings. */
+  /* Headings — no forced page breaks. Let content flow naturally.
+     keep-with-next: page-break-after:avoid + ensure at least 3 lines
+     of body land underneath, otherwise the heading migrates to the
+     next page (the user's stated exception: a header alone at end of
+     page is OK only if its paragraph won't fit beneath it). */
   h1 {
     page-break-before: avoid;
     page-break-after: avoid;
+    break-after: avoid-page;
     font-size: 22pt;
     line-height: 1.1;
     margin: 1.4em 0 0.5em;
@@ -681,18 +659,22 @@ h4:hover .heading-anchor { opacity: 1; }
   h1 + h2 { margin-top: 0.8em; }
   h2 {
     page-break-after: avoid;
+    break-after: avoid-page;
     font-size: 13pt;
     line-height: 1.2;
-    margin: 1.6em 0 0.5em;
+    margin: 1.5em 0 0.45em;
   }
   h2::before { width: 1.8em; height: 1pt; margin-bottom: 0.6em; }
   h3 {
     page-break-after: avoid;
+    break-after: avoid-page;
     font-size: 11.5pt;
     line-height: 1.25;
-    margin: 1.2em 0 0.4em;
+    margin: 1.1em 0 0.35em;
     font-weight: 600;
   }
+  /* Keep at least three lines of paragraph with the heading above. */
+  h2 + p, h3 + p, h4 + p { page-break-before: avoid; break-before: avoid-page; }
 
   /* Statutory text — same column width as narrative, slightly smaller
      type. 10pt with 1.4 line-height keeps Source Serif 4 strokes solid;
@@ -810,21 +792,32 @@ def slugify(text):
 
 COVER_HTML = f"""<section class="cover" aria-label="Cover">
   <div class="cover-inner">
-    <div class="cover-top">
-      <div class="cover-eyebrow">A drafted policy package &middot; {PUBLICATION_DATE}</div>
-    </div>
+    <div class="cover-eyebrow">A drafted policy package &middot; {PUBLICATION_DATE}</div>
     <div class="cover-title-block">
       <h1 class="cover-title">
         <span class="word word--top">Honest</span>
         <span class="word word--bottom">Alberta</span>
       </h1>
-      <p class="cover-subtitle">Two drafted bills. The Honest Government Act and the Open Books Act &mdash; the rules Alberta should already have, drafted as if we did.</p>
-      <hr class="cover-rule" />
+      <div class="cover-scaffold" aria-hidden="true">
+        <span class="rung rung-5"></span>
+        <span class="rung rung-4"></span>
+        <span class="rung rung-3"></span>
+        <span class="rung rung-2"></span>
+        <span class="rung rung-1"></span>
+      </div>
+      <p class="cover-subtitle">Two drafted bills &mdash; the Honest Government Act and the Open Books Act &mdash; the rules Alberta should already have, drafted as if we did.</p>
     </div>
     <div class="cover-foot-block">
-      <span class="cover-foot-line cover-foot-name">Drafted by Will Conner</span>
-      <span class="cover-foot-line cover-foot-license">Creative Commons Attribution-ShareAlike 4.0</span>
-      <span class="cover-foot-line cover-foot-source"><a href="{REPO_URL}">{REPO_URL.replace('https://','')}</a></span>
+      <div class="cover-foot-grid">
+        <div>
+          <span class="cover-foot-name-label">Drafted by</span>
+          <span class="cover-foot-author">Will Conner</span>
+        </div>
+        <div class="cover-foot-license">
+          <span class="license-line">Creative Commons Attribution-ShareAlike 4.0</span>
+          <span class="license-line"><a href="{REPO_URL}">{REPO_URL.replace('https://','')}</a></span>
+        </div>
+      </div>
     </div>
   </div>
 </section>"""

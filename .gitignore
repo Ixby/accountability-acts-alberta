@@ -17,3 +17,7 @@ Thumbs.db
 # Stray temp PDFs from build experiments (the canonical PDF lives at policy-brief.pdf)
 /tmp_*.pdf
 *.pdf.bak
+--- ignore artifacts ---
+_*.pdf
+_*.png
+_*.js

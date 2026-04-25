@@ -4,6 +4,18 @@ Version history for the Honest Government and Open Books Acts drafting package.
 
 Entries below mark substantive changes to the legislation. Intermediate editorial passes are not listed.
 
+## v1.12
+
+Defensive provisions addressing the eight highest-priority partisan attack vectors. Philosophy: where enforcement is constitutionally unavailable, substitute mandatory public record-keeping. Build the record; let voters and journalists decide.
+
+- **Bill 1 §13(5)** — Mandate letter non-disclosure log. Where a mandate letter is withheld under §13(4) exceptions, the withholding is recorded in a public IPC-maintained register: Minister, subject matter (assessed for adequacy by IPC on application), date, and exception claimed. Content stays protected; the claim of protection is visible.
+- **Bill 1 §24(4)** — Monthly resource adequacy notice. Fixed pre-announced publication date. Mandatory Commissioner-prescribed format covering caseload, funded capacity, and infrastructure build status. Auto-tabled with Speaker on starvation or build failure.
+- **Bill 1 §24(5)** — Cooperation register. Annual log of every threshold-setting request to LGIC, whether a responsive regulation was made within 90 days, and adequacy assessment. Makes regulatory non-cooperation a matter of public record.
+- **Bill 1 §26(5)** — Opinion-shopping disclosure. Defense now requires disclosure of all legal opinions obtained on the same question, not just the one relied upon. Pattern of discarding contrary opinions and relying on a permissive minority opinion is evidence of wilful blindness under §26(4)(c).
+- **Bill 1 §28(7)** — Threshold adequacy mechanism. Commissioner annual adequacy assessment; Commissioner/AG may issue counter-regulation where LGIC threshold would substantially defeat operative effect; counter-regulation prevails unless Assembly disallows; every disallowance recorded in cooperation register with operational consequence stated.
+- **Bill 2 §7(8)** — AG communications log. Every Enforcement Equity Report includes a complete log of all communications from Ministers/officials about scope, methodology, selection, or findings; characterized as informational/advisory/directive with reasons; nil return required where none received.
+- **Bill 2 §8A** — Named-party compliance assessment. Commissioner annual assessment identifying every Bill meeting §2(f) criteria for which no Beneficiary Disclosure Statement was filed, with reasons. Framed as administrative opinion, not a ruling on parliamentary procedure.
+
 ## v1.11
 
 Substantive structural fixes to both bills and costing.md, addressing the three highest-priority gaps identified in the defensibility review.

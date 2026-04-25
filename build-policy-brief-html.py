@@ -140,10 +140,7 @@ body {
   color: #003f87;
 }
 .cover-foot-grid {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  gap: 2rem;
+  display: block;
 }
 .cover-foot-name-label {
   display: block;
@@ -155,13 +152,15 @@ body {
   margin-bottom: 0.3em;
 }
 .cover-foot-author {
+  display: block;
   font-family: "Source Serif 4", Georgia, serif;
   font-style: italic;
   font-size: 1.1rem;
   color: #003f87;
+  margin-bottom: 1em;
 }
 .cover-foot-license {
-  text-align: right;
+  display: block;
   font-size: 0.72rem;
   letter-spacing: 0.04em;
 }

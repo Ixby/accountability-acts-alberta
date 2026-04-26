@@ -23,16 +23,17 @@ CSS = """
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-  --ink: #0a0a0a;
-  --ink-soft: #2a2a2a;
-  --paper: #faf6ec;
-  --paper-deep: #f0e9d6;
-  --muted: #4a4a4a;
-  --rule: #c9bfa6;
-  --accent: #6b1f1f;
-  --accent-soft: #8a3a3a;
-  --link: #6b1f1f;
-  --link-visited: #4a1717;
+  --ink: #1a1a1a;
+  --ink-soft: #444;
+  --paper: #fdfaf3;
+  --paper-deep: #f4ecd9;
+  --muted: #5d5d5d;
+  --rule: #d8d0bd;
+  --accent: #003f87;
+  --accent-soft: #2a5fa0;
+  --accent-warm: #c08a1a;
+  --link: #003f87;
+  --link-visited: #2a4a7a;
 }
 
 * { box-sizing: border-box; }
@@ -762,13 +763,19 @@ h2.part-opener .part-prefix {
   .cover {
     display: flex !important;
     page-break-after: always;
-    min-height: 9.6in;
+    width: 8.5in;
+    height: 11in;
+    min-height: 11in;
     background: #f2ead0;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
   }
   .cover-inner {
-    padding: 1.4in 0.9in 1in;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1.2in 1in;
   }
   .cover-eyebrow {
     font-size: 8pt;

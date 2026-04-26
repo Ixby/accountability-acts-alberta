@@ -53,11 +53,9 @@ Three decisions. None of them dramatic enough to occupy the front page for more 
 
 In December 2022, Alberta Health Services launched a privatized community lab service under a long-term contract with DynaLIFE Medical Labs. The company was insolvent within months. AHS took the operation back in August 2023. In November 2025, the provincial Auditor General estimated the total taxpayer cost at approximately $109 million: roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement.
 
-Here is the part of the story that matters for this brief.
+When the Auditor General sought records of how the contract was negotiated and how the failures were managed, key documents were unavailable. Some had been destroyed despite explicit preservation requests. Some decisions had been made orally and never written down.
 
-When the Auditor General sought records of how the contract was negotiated and how the failures were managed, key documents were unavailable. Some had been destroyed despite explicit preservation requests. Some decisions had been made orally and never written down. The documentary trail a serious review needed was not there.
-
-Nothing was illegal in the technical sense. There is no rule in Alberta that says decisions must be documented, or that oral briefings can't substitute for written ones. The system worked exactly as it was designed to work.
+Nothing was illegal. There is no rule in Alberta that says decisions must be documented, or that oral briefings can't substitute for written ones. The system worked exactly as it was designed to work.
 
 ### Eighty million dollars of acetaminophen
 
@@ -91,13 +89,13 @@ None of it was stolen. All of it was spent in rooms we couldn't see into.
 
 The combined cost: somewhere between $200 and $300 million. The operating expense of an accountability framework that hasn't kept pace with how power actually moves.
 
-It is worth giving the three structural failures names, because the rest of the brief refers back to them:
+Three structural failures, named:
 
 - The **oral-briefing loophole** — decisions made in rooms with no minute-taker, reasoning reconstructed afterward. DynaLIFE.
 - The **no-paper emergency** — urgent authority exercised without contemporaneous written reasons. Turkish Tylenol.
 - The **Crown-corp end-run** — public functions performed through private corporate structures chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.
 
-The bills are designed to reach all three. *Scenario analysis throughout this brief is illustrative, not predictive — the regime makes decisions visible at the moment they are made; what becomes of those decisions, once visible, is for the political process and the press.*
+The bills are designed to reach all three.
 
 ### A note on case selection
 
@@ -191,15 +189,15 @@ You might consent to a Minister conferring $50 million in benefit to a specific 
 
 ### Accountability is a condition of legitimate government, not a constraint on it
 
-Three objections to a regime like this are worth meeting before the bills are walked through, because if the answers don't hold the rest of the brief is a procedural exercise.
+Three objections to meet before the bills.
 
-**This is surveillance.** It isn't, and the carve-outs are explicit. The regime watches the exercise of *public* power, not the exercise of private life. Citizens emailing their MLA about a policy are not lobbying. Family members of an ISC who have not themselves donated are not captured by procurement cross-reference. Volunteer community-board members are not subject to penalty without direct personal involvement in a contravention. Indigenous governments' internal governance is carved out entirely. Small bidders use a simplified annual declaration rather than per-bid disclosure. Junior staff are protected by a minimum penalty floor and the asset-based enhancement applies only above a regulatory threshold. The regime doesn't watch what private people do. It watches what public power does.
+**Surveillance.** The regime watches the exercise of public power, not private life. Citizens emailing their MLA are not lobbying. Family members of an ISC who have not themselves donated are not captured by procurement cross-reference. Volunteer community-board members are not subject to penalty without direct personal involvement in a contravention. Indigenous governments' internal governance is carved out entirely. Small bidders use a simplified annual declaration. Junior staff are protected by a minimum penalty floor; the asset-based enhancement applies only above a regulatory threshold. The carve-outs are not afterthoughts. They are structural.
 
-**This treats normal politics as corruption.** It doesn't, and the distinction matters. Patronage — rewarding supporters with appointments and concessions — has been part of democratic politics since there has been democratic politics. The traditional defence of patronage rested on its visibility: voters knew what they were getting, and could reward or punish at the next election. What the regime asks is that the modern analogues — large contracts to donors, regulatory approvals to politically-connected firms, concessions to party-adjacent beneficiaries — be similarly visible. It does not criminalize patronage. It exposes it. The public then decides.
+**Patronage as corruption.** Patronage — rewarding supporters with appointments and concessions — has been part of democratic politics since there has been democratic politics. The traditional defence rested on its visibility: voters knew what they were getting, and could reward or punish at the next election. The regime asks that the modern analogues — large contracts to donors, regulatory approvals to politically-connected firms, concessions to party-adjacent beneficiaries — be similarly visible. The exposure is the consequence. Criminalization is not.
 
-**This will chill legitimate public service.** It mostly won't, and the design lives or dies on the good-faith defence. The regime is calibrated so that public servants and volunteer board members acting on reasonable legal advice, on published guidance, on documented practice in their field, are not subject to penalty. The burden of proving bad faith rests on the Commissioner. The 18-month post-employment cooling-off carves out arms-length public entities — AHS, universities, municipalities — so legitimate public-service mobility is not blocked. Junior-staff-tier penalties are scaled to the minimum floor. The regime is built to discipline the conduct that warrants discipline; it is not built to make public service unattractive to people of integrity.
+**Chill on public service.** Public servants and volunteer board members acting on reasonable legal advice, on published guidance, on documented practice in their field, are not subject to penalty. The burden of proving bad faith rests on the Commissioner. The 18-month post-employment cooling-off carves out arms-length public entities — AHS, universities, municipalities — so legitimate public-service mobility is not blocked. Junior-staff-tier penalties are scaled to the minimum floor. The regime is built to discipline conduct that warrants discipline, not to make public service unattractive to people of integrity.
 
-The deeper claim underneath all three answers: accountability is not opposed to effective government. It is a condition of it. Power that cannot be seen cannot be consented to, and power that cannot be consented to is not legitimate power. The regime's job is not to constrain the executive. It is to keep the executive's power legitimately delegated.
+Power that cannot be seen cannot be consented to. Power that cannot be consented to is not legitimate power. The regime's job is not to constrain the executive; it is to keep the executive's power legitimately delegated.
 
 ### Three principles that run through the bills
 

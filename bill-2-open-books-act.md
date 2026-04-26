@@ -169,7 +169,7 @@ but does not include:
 
 **8B. Common provisions for published disclosures.** The following apply to every Beneficiary Disclosure Statement, Proponent Disclosure Record, Concessional Arrangement Disclosure, and Individual Exemption Disclosure (each a "published disclosure" for the purposes of this section):
 
-**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3, 8, 9, and 10 of that Act, as applicable.
+**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3, 9, 10, and 11 of that Act, as applicable.
 
 **(2) Right of correction.** Any person whose personal information is included in a published disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original disclosure. The original disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 

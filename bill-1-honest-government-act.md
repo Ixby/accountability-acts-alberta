@@ -587,7 +587,7 @@ Where the operation of any provision of this Act is uncertain in its application
 
 ---
 
-## Part 9 — Common Procedural Provisions
+## Part 9 — Application and Process
 
 ### General Application
 
@@ -661,6 +661,10 @@ Where the operation of any provision of this Act is uncertain in its application
 
 **(7)** The Commissioner may, on application to the Court, seek an order requiring security for costs before a challenge may continue, where the Commissioner establishes on a balance of probabilities that the challenge was brought primarily for delay and that the Commissioner would suffer material financial prejudice in the absence of such security.
 
+---
+
+## Part 10 — Reporting and Resourcing
+
 ### Quarterly Compliance Report
 
 **23(1)** The Commissioners responsible for the statutes affected by this Act shall jointly publish a quarterly public report identifying Certificates issued during the period, with the Assembly's response; administrative penalties imposed, with the basis of calculation and any court confirmation; individuals and entities subject to Compliance Orders, including disgorgement; public bodies in persistent non-compliance with disclosure obligations (with identification at the Deputy Minister level, not line records officers unless individually subject to order); declined-but-substantiated violations under §25(6), aggregated by category, and identification of persons, entities, or beneficial owners crossing the accumulation threshold; beneficial ownership determinations; random audit results in aggregate; below-threshold dispositions; systemic obstacles; and recommendations to the Legislative Assembly.
@@ -690,6 +694,10 @@ Where the operation of any provision of this Act is uncertain in its application
 Where the proposed estimates include an appropriation below the floor established by this subsection, the President of the Treasury Board shall, prior to or contemporaneously with the tabling of the estimates, table in the Legislative Assembly a written statement identifying: (i) the amount of the proposed reduction and the resulting shortfall below the floor; (ii) each operational function or program that will be reduced or suspended as a result, assessed against the most recent monthly resource adequacy notice under subsection (4); and (iii) the Commissioner's written response to the proposed reduction, obtained by the President of the Treasury Board not less than 14 days before tabling. Any provision in the estimates reducing the Commissioner office's appropriation below the floor shall be voted on separately and by recorded vote in the Committee of Supply.
 
 **(7) Constitutional qualification.** Subsection (6) does not limit the constitutional authority of the Legislative Assembly to determine appropriations. It operates as a procedural requirement — mandatory disclosure of operational consequences and a separate recorded vote — not as a substantive constraint on legislative authority. An appropriation below the floor adopted in compliance with subsection (6) is valid and effective.
+
+---
+
+## Part 11 — Sanctions, Defences, and Audit
 
 ### Proportional Penalty Framework
 
@@ -787,7 +795,7 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 ---
 
-## Part 10 — Calibration, Administration, and Commencement
+## Part 12 — Calibration, Administration, and Commencement
 
 ### Threshold and Regulation-Making Authority
 
@@ -869,7 +877,7 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 ### Commencement
 
-**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); §21A(1), (1.1), (2), and (6) (the definitional and protective subsections of Part 8 — Indigenous Engagement at the Interface); Part 9 (Common Procedural Provisions); and §26 (Good-Faith Defense). The remaining subsections of §21A come into force in accordance with subsection (3.1).
+**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); §21A(1), (1.1), (2), and (6) (the definitional and protective subsections of Part 8 — Indigenous Engagement at the Interface); Part 9 (Application and Process — §§21, 21B, 22, 22A); and §26 (Good-Faith Defense). The remaining subsections of §21A come into force in accordance with subsection (3.1). Sections in Parts 10 and 11 come into force in accordance with subsections (2) and (3).
 
 **(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions). For greater certainty, §28(4A) (the co-development requirement for Indigenous-affecting regulations) applies on and after 180 days after Royal Assent regardless of whether §21A's engagement provisions are in force.
 

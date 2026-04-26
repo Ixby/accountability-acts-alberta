@@ -105,9 +105,7 @@ The three cases above all sit inside the recent UCP era because the verifiable r
 
 ## Part II — Why The Tools We Have Don't Reach
 
-Alberta has accountability law: the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, the Election Finances and Contributions Disclosure Act, an Ethics Commissioner, an Auditor General, an Information and Privacy Commissioner. All of them do important work.
-
-Each was designed for a narrower problem than the one we have.
+Alberta has accountability law — the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, and the offices that administer them — designed for individual misconduct, not for the structural patterns Part I describes.
 
 ### The framework was built for individual misconduct
 
@@ -242,6 +240,8 @@ The bill replaces this. Appointment requires two-thirds in the Standing Committe
 A government with two-thirds of the Assembly, which has happened in Alberta, can still appoint its preferred candidate. The supermajority raises the cost of capture; it does not eliminate the option.
 
 The same protections apply to the Auditor General, who carries the Enforcement Equity Report under Bill 2.
+
+A natural design question: why not consolidate the Ethics Commissioner, the Auditor General, and the Public Interest Commissioner into a single Officer of Accountability with three deputies? The work is adjacent. The offices already coordinate poorly. One office could share infrastructure and present a single point of contact for the public. The bills as drafted keep the offices separate for two reasons. First, each office's existing statutory mandate is well-developed and the operational disruption of merging them now would slow tabling by years. Second, three offices investigating each other from outside is harder for a hostile government to capture than one office investigating itself from inside. The design preserves the current architecture, parallels the appointment protections across §11A (Ethics Commissioner) and §11B (Auditor General), and leaves consolidation as a separate decision the Legislature can make later if it chooses.
 
 ### When Cabinet confidence reaches too far
 
@@ -1262,7 +1262,7 @@ but does not include:
 
 **3(1)** Any named-party legislation introduced in the Legislative Assembly shall be accompanied, at the time of introduction, by a **Beneficiary Disclosure Statement** filed by the sponsoring Minister or Member, in the form prescribed by regulation.
 
-**(2)** The Beneficiary Disclosure Statement shall identify every person or entity that is expected to benefit directly from the legislation; for each beneficiary entity, every individual with significant control; for each beneficiary (whether natural person or ISC), contributions to any Alberta political party, constituency association, or candidate made within the preceding 48 months where such contributions exceed the contribution threshold; for each beneficiary that is an entity, any discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; a quantified estimate of the financial value of the benefit conferred by the legislation on each beneficiary, to the extent reasonably ascertainable; and, for public Bills with narrow application, an explanation of why the benefit is conferred through legislation of narrow application rather than through legislation of general application.
+**(2)** The Beneficiary Disclosure Statement shall include the common content under §8C, plus, for public Bills with narrow application, an explanation of why the benefit is conferred through legislation of narrow application rather than through legislation of general application.
 
 **(3)** The Beneficiary Disclosure Statement shall be tabled at First Reading and published on the Legislative Assembly's website within 5 business days of filing.
 
@@ -1280,7 +1280,7 @@ but does not include:
 
 **4(1)** Where a regulatory body grants a regulatory approval in respect of a project, transaction, facility, or activity whose estimated value exceeds the threshold prescribed by regulation, the regulatory body shall publish, within 10 business days of the approval, a **Proponent Disclosure Record** in the form prescribed by regulation.
 
-**(2)** The Proponent Disclosure Record shall identify the proponent entity; every individual with significant control of the proponent entity; for each ISC, contributions to any Alberta political party, constituency association, or candidate made within the preceding 48 months where such contributions exceed the contribution threshold; for the proponent entity, any discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; any entity under common control or common beneficial ownership with the proponent, as determined under §25(10) of the Honest Government Act, together with the same disclosure for such entities; and the estimated financial value of the regulatory approval to the proponent.
+**(2)** The Proponent Disclosure Record shall include the common content under §8C, plus any entity under common control or common beneficial ownership with the proponent, as determined under §25(10) of the *Honest Government Act*, together with the disclosure required by §8C for such entities.
 
 **(3)** The Proponent Disclosure Record shall be published on the regulatory body's website and shall remain accessible for the duration of the approval's effect and for not less than 7 years thereafter.
 
@@ -1296,7 +1296,7 @@ but does not include:
 
 **5(1)** Where the Crown, a public body, or a Crown corporation enters into a concessional arrangement with a specific party whose estimated value to the party exceeds the threshold prescribed by regulation, the authorizing Minister shall publish, within 30 days of execution, a **Concessional Arrangement Disclosure** in the form prescribed by regulation.
 
-**(2)** The Concessional Arrangement Disclosure shall identify the recipient party; every individual with significant control of a recipient entity; for each ISC, contributions within the preceding 48 months exceeding the contribution threshold; for the recipient, any other discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months; the estimated financial value of the concession to the recipient, including assumptions and methodology; the reasons for the concession, including why the recipient was selected, why the concession was granted on the terms specified, and what public interest the concession serves; and any other concessional arrangement under this Part entered into by the same Minister within the preceding 24 months.
+**(2)** The Concessional Arrangement Disclosure shall include the common content under §8C, plus the reasons for the concession (including why the recipient was selected, why the concession was granted on the terms specified, and what public interest the concession serves), and any other concessional arrangement under this Part entered into by the same Minister within the preceding 24 months.
 
 **(3)** The Concessional Arrangement Disclosure shall be tabled in the Legislative Assembly forthwith, or delivered to the Speaker for tabling on the first sitting day thereafter, and published on a government website.
 
@@ -1310,7 +1310,7 @@ but does not include:
 
 **6(1)** Every ministerial individual exemption whose estimated value to the recipient exceeds the threshold prescribed by regulation shall be accompanied by an **Individual Exemption Disclosure** in the form prescribed by regulation.
 
-**(2)** The Individual Exemption Disclosure shall identify the recipient; every individual with significant control where the recipient is an entity; for each ISC, contributions within the preceding 48 months exceeding the contribution threshold; the statute or regulation from which exemption is granted and the specific requirement exempted; the reasons for granting the exemption, including the public interest served; the estimated value of the exemption to the recipient; and aggregate data on prior ministerial individual exemptions granted by the same Minister within the preceding 24 months under the same statutory authority, including the total number, total estimated value, and any patterns in recipient characteristics.
+**(2)** The Individual Exemption Disclosure shall include the common content under §8C, plus the statute or regulation from which exemption is granted and the specific requirement exempted, the reasons for granting the exemption (including the public interest served), and aggregate data on prior ministerial individual exemptions granted by the same Minister within the preceding 24 months under the same statutory authority (including the total number, total estimated value, and any patterns in recipient characteristics).
 
 **(3)** The Individual Exemption Disclosure shall be published on a government website within 30 days of the exemption and shall remain accessible for the duration of the exemption and for not less than 7 years thereafter.
 
@@ -1366,6 +1366,20 @@ but does not include:
 **(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3 and 8 of that Act.
 
 **(2) Right of correction.** Any person whose personal information is included in a published disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original disclosure. The original disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
+
+**8C. Common content for published disclosures.** Every published disclosure under Parts 2 through 5 shall include the following common content, in the form prescribed by regulation:
+
+(a) the identification of every person or entity expected to benefit directly from, or to receive advantage under, the legislation, regulatory approval, concessional arrangement, or ministerial individual exemption;
+
+(b) for each beneficiary that is an entity, every individual with significant control of the entity within the meaning of §15 of the *Honest Government Act*;
+
+(c) for each beneficiary who is a natural person, and for each individual with significant control identified under (b), any contribution made within the preceding 48 months to any Alberta political party, constituency association, or candidate where the contribution exceeds the contribution threshold;
+
+(d) for each beneficiary that is an entity, any other discretionary provincial contract, grant, regulatory approval, concessional arrangement, or ministerial individual exemption received within the preceding 48 months;
+
+(e) a quantified estimate of the financial value of the legislation, approval, arrangement, or exemption to each beneficiary, to the extent reasonably ascertainable, with assumptions and methodology where the estimate is not direct.
+
+The domain-specific content additional to the common content under this section is set out at §3(2), §4(2), §5(2), and §6(2) for each respective disclosure.
 
 ---
 

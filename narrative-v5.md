@@ -105,9 +105,7 @@ The three cases above all sit inside the recent UCP era because the verifiable r
 
 ## Part II — Why The Tools We Have Don't Reach
 
-Alberta has accountability law: the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, the Election Finances and Contributions Disclosure Act, an Ethics Commissioner, an Auditor General, an Information and Privacy Commissioner. All of them do important work.
-
-Each was designed for a narrower problem than the one we have.
+Alberta has accountability law — the Conflicts of Interest Act, the Lobbyists Act, the Public Interest Disclosure Act, and the offices that administer them — designed for individual misconduct, not for the structural patterns Part I describes.
 
 ### The framework was built for individual misconduct
 
@@ -242,6 +240,8 @@ The bill replaces this. Appointment requires two-thirds in the Standing Committe
 A government with two-thirds of the Assembly, which has happened in Alberta, can still appoint its preferred candidate. The supermajority raises the cost of capture; it does not eliminate the option.
 
 The same protections apply to the Auditor General, who carries the Enforcement Equity Report under Bill 2.
+
+A natural design question: why not consolidate the Ethics Commissioner, the Auditor General, and the Public Interest Commissioner into a single Officer of Accountability with three deputies? The work is adjacent. The offices already coordinate poorly. One office could share infrastructure and present a single point of contact for the public. The bills as drafted keep the offices separate for two reasons. First, each office's existing statutory mandate is well-developed and the operational disruption of merging them now would slow tabling by years. Second, three offices investigating each other from outside is harder for a hostile government to capture than one office investigating itself from inside. The design preserves the current architecture, parallels the appointment protections across §11A (Ethics Commissioner) and §11B (Auditor General), and leaves consolidation as a separate decision the Legislature can make later if it chooses.
 
 ### When Cabinet confidence reaches too far
 

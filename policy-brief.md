@@ -47,11 +47,13 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 ## Why this, why now
 
-Alberta's combined provincial budget for fiscal 2025–26 is approximately $80 billion. Three policy decisions in the past four years moved between two and three hundred million dollars of that with structural-accountability gaps the public could see only after the fact. Each cycle of accountability reform in Canada — federal lobbying reform in 2008, the federal whistleblower regime in 2007, Ontario's accountability changes in 2014 — happened *after* its gap was named in scandal. The argument here is that the gaps are nameable now, before the next one. The cost of acting is one one-hundredth of one percent of the budget. The cost of waiting has been documented three times.
+Most accountability legislation in Canada has been written after the fact, in the weeks following a scandal large enough to make the country pay attention. The federal *Lobbying Act* arrived in the wash of Adscam. The federal *Public Servants Disclosure Protection Act* came in the same wave. Ontario's 2014 accountability reforms followed their own provincial controversies. In each case, the law that emerged carried the shape of the scandal that produced it — calibrated to that scandal, sometimes undercalibrated for the next one.
 
-There is also an unusual political opening. No party in Alberta currently campaigns on accountability legislation; the issue is between elections rather than during them. A draft sitting on the public record, released under a licence that lets any party adopt it, removes the marginal cost of being the party that puts it forward. The first party to table this gets the credit for tabling it. The opposition party that does not match it has to explain why. That is the asymmetry the package is trying to engineer.
+Alberta in 2026 does not have that scandal. There are documented failures: the lab buyback, the Tylenol procurement, the communications agency that lived for five years inside a corporate vehicle picked precisely so it could not be reviewed. None of them is occupying daily news cycles. The political moment is quiet. That quiet is the rare opportunity. Designing accountability law in the calm after a crisis tends to produce instruments shaped by the crisis; designing it in a comparatively quiet stretch is the more honest condition for getting the structural design right.
 
-This is not a moment of crisis. That is the point. Designing accountability legislation in the calm after a crisis tends to produce instruments shaped by the crisis. Drafting now, in a comparatively quiet stretch, is the more honest condition for getting the structural design right.
+The provincial budget this year is roughly eighty billion dollars. The three cases at the start of this brief moved between two and three hundred million of it through gaps the existing rules don't reach. The cost of building rules that do reach is around five million a year — about one one-hundredth of one percent of the budget, less than one-fortieth of what a single one of the three cases cost.
+
+No party in Alberta is currently campaigning on this. The issue sits between elections, not during them. A draft on the public record, under a licence that lets any party adopt it, lowers the cost of being first. Whichever party tables it gets the credit. Whichever party does not has to explain why. That is the political asymmetry the package is trying to engineer.
 
 ---
 
@@ -133,9 +135,7 @@ This is not a story about bad commissioners. It is a story about laws written fo
 
 ### Where the largest value actually moves
 
-If you watch where money flows from public to private hands in any Canadian jurisdiction, the largest amounts don't move through ordinary procurement. Procurement is competitive and audited. The press covers it. The Auditor General reviews it.
-
-Larger amounts move through other channels.
+There are five ways to move a hundred million dollars from public to private hands in this province without violating procurement law. Procurement isn't one of them: procurement is competitive, audited, covered by the press, reviewed by the Auditor General. A determined operator looking for an easy channel goes elsewhere. Five other channels exist.
 
 **Legislation written narrowly enough to benefit specific parties.** A private bill, or a public bill where the practical beneficiaries are a handful of identifiable companies. Legislatures do this for legitimate reasons: implementing a treaty, recognizing a settlement, transitioning a regulated industry. The question is whether the public can see who benefits and by how much.
 
@@ -253,13 +253,19 @@ The bill is organized into twelve Parts. Parts 1 through 7 carry the substantive
 
 ### Lobbying that actually has to register
 
-Alberta's current rule registers in-house lobbyists at fifty hours of lobbying activity per year. The threshold has produced a working answer for paid consultant lobbying: keep the clock low. The bill closes this for paid consultants. A consultant lobbyist registers regardless of time spent: from the moment money changes hands for the work, registration is required. For employees lobbying inside their own organization, the threshold is restructured rather than removed. The bill replaces the fifty-hour annual clock with a twenty-percent-of-working-time-per-calendar-quarter test plus a position-description test: lobbying captured because it is structurally part of the job, not because somebody hit a stopwatch.
+An in-house government-relations professional in Edmonton, salaried, working for a regulated industry. In quieter weeks, twenty minutes of work that meets the legal definition of lobbying — a phone call, an email, a hallway conversation at a stakeholder event. Across a year, it adds up to forty-eight hours. Forty-nine. Forty-nine and a half. Never the fiftieth. The professional is doing real work. The registry of registered lobbyists doesn't list them.
+
+That isn't a hypothetical. That is what the registry shows when you read it. The fifty-hour threshold for in-house lobbyists has produced exactly the response a thoughtful operator would predict: stay below it, do the work, never appear in the public record. The arrangement is not illegal. It uses the rule as written.
+
+The bill closes this for paid consultants. A consultant lobbyist registers from the moment money changes hands for the work, regardless of time spent. For employees lobbying inside their own organization, the threshold is restructured rather than removed. The fifty-hour annual clock becomes a twenty-percent-of-working-time-per-calendar-quarter test plus a position-description test. Lobbying is captured because it is structurally part of the job, not because someone clicked a stopwatch.
 
 Citizen advocates emailing their MLA are not captured. Volunteer advocates working through community organizations are not captured. The bill is explicit about this. It is aimed at paid persuasion that currently structures itself to avoid the registry.
 
 ### A graduated ladder of consequence
 
-Most accountability legislation, when it works at all, operates on one rung: a finding, then nothing, or a finding, then a referral. The middle is missing.
+A finding without consequence is theatre. A criminal referral without provocation is overkill. Most public-accountability findings sit between the two: conduct that was sloppy, improper, sometimes worse, but rarely criminal and almost never of a kind where doing nothing is right.
+
+Most existing regimes have one rung. The Commissioner finds something, and that is the end of it. Or the Commissioner finds something and refers it elsewhere. The middle — proportional response, ongoing-conduct correction, escalation pathway — is missing.
 
 The bill builds three rungs.
 
@@ -353,7 +359,9 @@ Court confirmation is not available for sitting MLAs. Alberta jurisprudence has 
 
 ### Random audits with dice that no one controls
 
-Most accountability regimes that conduct audits do so based on Commissioner discretion. Discretion is the right tool for following a tip; it is the wrong tool for routine audits, because discretionary selection is always plausibly partisan.
+A Minister of a future governing party reads the morning paper. The year's Commissioner-selected audits, by coincidence, have fallen disproportionately on opposition MLAs and former opposition Ministers. The pick list is plausible. The methodology is documented. There is no evidence of bad faith. There is also no evidence of anything else. The Minister's office answers media questions about why audit selection skews this way. The Commissioner's office does the same. Nobody can prove it isn't random. Nobody can prove it is.
+
+The hostile mirror of the same scenario is just as bad. A government that wants to weaponize the regime has the same tool — discretionary selection — and the same defense, that the methodology is documented and there is no evidence of bad faith. Discretion is the right instrument for following a specific tip. It is the wrong instrument for routine audits, because discretionary selection is always plausibly partisan and always plausibly impartial. The argument cannot be settled.
 
 The bill removes selection from discretion. A small percentage of officials and contracts in each stratum is selected each year using a publicly verifiable source of randomness — the National Institute of Standards and Technology's randomness beacon, or an equivalent. The methodology is published in advance. The seed is published. The resulting selection list is verifiable. Anyone can check the audit selections were random — the people audited, the parties whose members were audited, journalists.
 
@@ -459,7 +467,11 @@ The bills do not invoke the notwithstanding clause and should not be amended to 
 
 **Resource starvation.** The regime can be defunded. The budget floor at §24(6) requires a recorded vote and a written consequences statement before estimates fall below the prior-year-CPI-adjusted floor. It does not prevent cuts; a government that accepts the political cost can still starve the office. The floor forces that cost into the open.
 
-**Coordinated capture.** The most serious failure mode is sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority. Sufficient political will, applied across multiple election cycles, can defeat any structural design — Hungary's Orbán government and several U.S. states have demonstrated as much. No legislation can prevent this. It can raise the cost, generate records that survive the attempt, and distribute power so capturing every institution is itself a visible operation.
+**Coordinated capture.** Wisconsin, 2015. The state had a non-partisan Government Accountability Board that had been investigating the Governor's office on coordinated-spending concerns. The legislative majority abolished the Board and replaced it with two commissions whose members were appointed by the elected officials those commissions were now meant to oversee. The investigation closed. The records were sealed. The mechanism was entirely lawful. The result was the dismantling of a working accountability institution in a single legislative session.
+
+Hungary in the same period took longer but reached further. Across multiple election cycles, the Orbán government appointed sympathetic figures to the Constitutional Court, the State Audit Office, the Public Prosecution Service, the State Tax Authority, and the Media Council. No single appointment was the dismantling. The dismantling was the cumulative pattern, executed over years, in plain view, with each step lawful on its face.
+
+The most serious failure mode of any accountability regime is some version of these two. Sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority can defeat any structural design. No legislation prevents this. The bill raises the cost, generates records that survive the attempt, and distributes power across multiple institutions so that capture requires simultaneous control of several of them. That is the most a legislative design can do.
 
 **Weaponization against the opposition.** The corollary, and the question every reader should ask: what stops a future government from using the regime to harass its political opponents? Walk through the scenario. A future Commissioner is appointed by the supermajority of a dominant governing party. Investigations are launched against opposition MLAs and former opposition Ministers, with audit selections mysteriously concentrating on one side of the aisle. What does the bill do? Random audit selection uses a publicly verifiable randomness beacon (§27) — selection methodology is published, the seed is published, anyone can check. Court confirmation is required for large penalties against non-Members (§22(5)(a)) — administrative weaponization runs into King's Bench review. The good-faith defence (§26) and its disclosure-of-all-opinions corollary (§26(5)) protect a Minister who acted on reasonable advice; they remove the protection from one who shopped for permissive opinions. The cooperation register (§24(5)) and the Auditor General's communications log (Bill 2 §7(8)) make ministerial pressure on the office a matter of public record. The seven-year non-renewable Commissioner term (§11A) outlasts most majorities, so even a captured Commissioner inherits the term limits of the appointment. None of these are guarantees. They are friction. A weaponizing government has to break the randomness beacon, override the Court, falsify the cooperation register, and silence the Auditor General — each one in public, each one creating its own record. The asymmetry between hidden capture (cheap) and visible capture (expensive) is the entire structural argument.
 

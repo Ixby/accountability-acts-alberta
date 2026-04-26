@@ -133,7 +133,9 @@
 
 (f) in every proceeding, consider whether disgorgement of quantified benefit under §7, §8, or §9 is warranted, and address disgorgement explicitly;
 
-(g) prioritize investigation and enforcement based on materiality, public interest, and resource availability, and for that purpose may establish by published guideline a materiality threshold below which conduct is disposed of by note in the quarterly compliance report; dispose of related matters through consolidated public report; and, by regulation under §28(4), designate low-risk conduct categories for handling through standing compliance protocols rather than individual investigation.
+(g) prioritize investigation and enforcement based on materiality, public interest, and resource availability, and for that purpose may establish by published guideline a materiality threshold below which conduct is disposed of by note in the quarterly compliance report; dispose of related matters through consolidated public report; and, by regulation under §28(4), designate low-risk conduct categories for handling through standing compliance protocols rather than individual investigation; and
+
+(h) where the exercise of any power under this Act pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information that the subject would not otherwise have disclosed, do so on the *surgical-and-accountable* principle: the access shall be limited to the least intrusive scope consistent with the purpose for which it is taken; logged in the privilege-and-privacy register established under §23(1A) with the date, the subject, the authority relied upon, the scope, and the purpose; subject to destruction under §25(9B), §27(6A), or §29A as soon as the purpose for which it was taken has been served; and reviewable under Part 8.
 
 ### Tier 1 — Public Report of Findings
 
@@ -236,6 +238,48 @@
 > (ii) a resolution of the Legislative Assembly passed by not fewer than two-thirds of all Members present and voting.
 
 **(d)** Where the office of Auditor General is or becomes vacant and no appointment has been made under paragraph (a) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Auditor General. The acting Auditor General serves until an appointment is made under paragraph (a) and has all the powers and duties of the Auditor General during that period. An individual appointed under this paragraph must meet the eligibility requirements in paragraph (b). The Chief Justice shall publish written reasons for the appointment. Service as acting Auditor General does not count against any statutory term limit and does not affect eligibility for formal appointment under paragraph (a).
+
+### Advance Rulings
+
+**11C(1) Request for advance ruling.** A person subject to this Act, or an official considering conduct that may engage this Act, may request an advance ruling from the Commissioner. The request shall be in writing and shall:
+
+(a) describe the conduct contemplated and the parties involved with sufficient particularity to enable the Commissioner to assess whether any provision of this Act would be engaged;
+
+(b) identify the provisions of this Act that the requestor believes may be engaged, and any other provisions of accountability legislation the requestor considers relevant;
+
+(c) disclose every material fact the requestor reasonably believes the Commissioner would consider relevant to the determination, including any facts adverse to the requestor's preferred outcome;
+
+(d) attest, on signature of the requestor, that all material facts have been disclosed and that the requestor will conduct the contemplated conduct in accordance with the request as filed and any conditions the Commissioner attaches.
+
+**(2) Decision.** The Commissioner shall, within 30 business days of a complete request, issue one of:
+
+(a) an approval, with or without conditions;
+
+(b) a declination, with written reasons;
+
+(c) a request for further information, in which case subsection (2) re-runs from the date the further information is received.
+
+The 30-business-day period may be extended once, by published notice, where the matter raises a question of first impression or requires consultation with the Auditor General or the Information and Privacy Commissioner.
+
+**(3) Effect of approval.** An approval under subsection (2)(a) is a complete defense to subsequent proceedings under this Act in respect of the same conduct on the same facts disclosed, including the proceedings to which the limits in §26(4), (4A), (4B), (4C), (4D), and (4E) would otherwise apply, provided that:
+
+(a) the conduct was carried out in accordance with the request as filed and any conditions the Commissioner attached;
+
+(b) no material fact was withheld from the request; and
+
+(c) the conditions, if any, were complied with.
+
+The defense under this subsection is available in addition to, not in lieu of, the good-faith defense under §26.
+
+**(4) Withholding of material facts.** Where the Commissioner finds, after the conduct is carried out, that a material fact was withheld from the advance-ruling request, the approval is void from the date the conduct was carried out, and proceedings may continue as if no advance ruling had issued. The Commissioner shall give the affected person notice and opportunity to respond before making such a finding.
+
+**(5) Publication.** Approvals, declinations, and conditions imposed under subsection (2) shall be published in the quarterly compliance report under §23, and on the Commissioner's website, in the form prescribed by regulation. Personal information not material to the public-interest reasoning may be redacted; the substantive reasoning shall not be redacted. Where the Commissioner determines that immediate publication would interfere with an ongoing investigation by another authority, publication may be deferred for a stated period not exceeding 24 months, with publication of the deferral itself in the same quarterly report.
+
+**(6) General guidance.** Where requests of similar character have been received in sufficient number, the Commissioner may, by published guidance, indicate general categories of conduct that are or are not engaged by this Act. Conduct falling within a published category has the same effect as an advance ruling under subsection (3) for the duration the guidance remains in force.
+
+**(7) Cost recovery.** The Commissioner may charge a fee for advance-ruling requests, calibrated to the capacity of the requestor under §25(3) and §25(4), and waived for good-faith inquiries from junior staff (within the meaning of §25(3)) or unpaid volunteer board members. Fees are recovered under §29.
+
+**(8) No advisory binding on third parties.** An advance ruling determines the application of this Act to the conduct disclosed; it does not adjudicate the rights or interests of third parties, and it is not binding on any other authority, court, or tribunal.
 
 ---
 
@@ -519,6 +563,8 @@
 
 **23(1)** The Commissioners responsible for the statutes affected by this Act shall jointly publish a quarterly public report identifying Certificates issued during the period, with the Assembly's response; administrative penalties imposed, with the basis of calculation and any court confirmation; individuals and entities subject to Compliance Orders, including disgorgement; public bodies in persistent non-compliance with disclosure obligations (with identification at the Deputy Minister level, not line records officers unless individually subject to order); declined-but-substantiated violations under §25(6), aggregated by category, and identification of persons, entities, or beneficial owners crossing the accumulation threshold; beneficial ownership determinations; random audit results in aggregate; below-threshold dispositions; systemic obstacles; and recommendations to the Legislative Assembly.
 
+**(1A) Privilege-and-privacy register.** Each Commissioner shall maintain a register of every exercise of authority under this Act that pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information of an identifiable person not otherwise disclosed. Each entry shall record: (a) the date of the access; (b) the category of person whose information was accessed (without identifying the person except where the matter has otherwise been made public); (c) the privilege or category of information pierced; (d) the statutory authority relied upon and the scope of the access; (e) the purpose; and (f) the date the information was destroyed under §25(9B), §27(6A), or §29A, or a notation that destruction is pending. The register shall be summarized annually in the report under §24(3) (with category-level aggregates and any patterns of repeat access), and made available to the Information and Privacy Commissioner on request for the purpose of the Privacy Impact Assessment under §30(2).
+
 **(2)** The report shall be tabled in the Legislative Assembly, published on each Commissioner's website, and made available in plain-language summary form.
 
 ### Resourcing and Budget Visibility
@@ -577,6 +623,8 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(10) Beneficial ownership determinations.** The Commissioner may, on reasonable grounds and following investigation, determine that two or more entities or persons are under common beneficial ownership for purposes including aggregating related transactions; aggregating declined-but-substantiated violations; determining the scope of post-employment restrictions under §10(3.1); applying the unlimited-lookback disclosure under §15(7); and any other determination under this Act where beneficial ownership is relevant. A determination is prima facie true, and the person or entity challenging it bears the onus of disproof on a balance of probabilities. The Commissioner may consider corporate, partnership, and trust records; ISC returns; patterns of financial flow, control, or benefit; nominee arrangements; shared directors, officers, signatories, or addresses; and any other relevant information. A determination is subject to reconsideration and review under Part 8.
 
+**(10A) Pattern-based investigation of close-associate contributions.** The Commissioner may, on reasonable grounds and where a pattern of indirect influence is suggested, treat contributions made by close associates of an official or ISC — including adult children, siblings, parents, business partners, or persons with whom the official or ISC shares an address, an employer, or a controlled entity — as relevant evidence in an investigation under this Act, notwithstanding that those persons are not themselves family members within §2(w) or ISCs within §15. This subsection does not create a separate trigger for procurement review under §15 and does not require the disclosure of close-associate contributions outside the context of an open investigation. It clarifies the Commissioner's existing authority to consider patterns of contribution and benefit when determining whether a relationship of beneficial influence exists. Procedural fairness, the good-faith defense, and review under Part 8 apply to any determination made under this subsection.
+
 ### Good-Faith Defense
 
 **26(1)** A person or entity is not subject to penalty, disgorgement, or other consequence under this Act where:
@@ -589,9 +637,21 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(2)** In any proceeding, the person or entity is presumed to have acted in good faith. The burden of establishing bad faith rests on the Commissioner on a balance of probabilities.
 
+**(2A) Tie-breaker.** Where the evidence on the question of bad faith is in equipoise — that is, the Commissioner has not established bad faith on a preponderance — the determination shall be in favour of the respondent. The defense functions both as a substantive shield where the conditions in subsection (1) are met and as a tie-breaker where the Commissioner has not affirmatively established bad faith.
+
 **(3)** Where the defense is successfully raised, no penalty, disgorgement, or punitive consequence shall be imposed; the Commissioner may issue a Public Report of Findings identifying the conduct and the good-faith basis for guidance and future compliance; the Commissioner may recommend revised guidance; and a Compliance Order may be issued to correct the conduct on a prospective basis, but shall not require repayment, disgorgement, or penalty.
 
 **(4)** The defense does not apply to conduct involving intentional deception of the Commissioner or a public body; conduct where the person or entity ignored specific prior advice from the Commissioner regarding the same or substantially similar conduct; conduct constituting willful blindness to a clear requirement of this Act; conduct where the person or entity, or any other person or entity, has been the subject of a Public Report of Findings involving substantially similar conduct within 24 months; or conduct by a Deputy Minister or head of a public body involving redaction or record-production delay under the *Access to Information Act*, where the Information and Privacy Commissioner has, in any published ruling within the preceding 36 months, determined that the same public body's practices were excessive or unjustified in substantially similar circumstances.
+
+**(4A) Time-of-decision rule.** Reliance under subsection (1)(b) must be reliance at the time the decision was made. Advice obtained after the conduct occurred, or after a complaint was filed, does not establish reasonable reliance for the purposes of the defense, although it may be relevant to mitigation under §25(2).
+
+**(4B) Material facts.** The defense is not available where the person or entity, in seeking the advice or guidance relied upon, withheld from the advisor any fact that a reasonable advisor would have considered material to the question. Disclosure under subsection (5) shall include the facts provided to the advisor as well as the advice received.
+
+**(4C) Independence weighting.** In assessing the reasonableness of reliance under subsection (1)(b), the Commissioner may give less weight to advice from counsel internal to the public body whose conduct is in issue than to advice from independent external counsel, particularly where the matter involves a question on which the public body has an institutional interest in a particular conclusion.
+
+**(4D) Direct conflict carve-out.** The defense is not available where the conduct conferred a discretionary benefit upon: a family member, business associate, or beneficial-ownership-related party of the official within the meaning of §25(10); a person who, within the preceding 48 months, made a contribution above the contribution threshold to a registered political party with which the official is affiliated; or an entity in which the official held a beneficial interest at the time of the conduct, unless the conduct was pre-cleared by the Commissioner under §11C before the decision was made and the conduct was carried out in accordance with that pre-clearance.
+
+**(4E) Obvious-corruption limit.** Reliance on advice does not establish reasonable reliance where, on the balance of probabilities, the conduct is of a kind that a reasonable person without legal training would have recognized as a serious breach of public trust. This includes (without limiting the generality): the award of a public benefit to oneself; the conferral of a benefit on a person with whom the official had an active personal, business, or romantic relationship at the time of the decision; the receipt or acceptance of a thing of value in connection with the conduct; or the exercise of a discretionary power in exchange for a present or anticipated future benefit to the official. Counsel's permissive opinion on conduct of this character shall be treated as evidence of opinion-shopping under subsection (5) rather than as reasonable reliance under subsection (1)(b).
 
 **(5) Disclosure of advice relied upon.** Where the defense under this section is raised on the basis of professional advice, the person or entity shall disclose to the Commissioner: (a) the written advice relied upon, including the scope of the mandate given to counsel, the facts provided to counsel, and any conflicting advice received from any source; and (b) all other written legal opinions obtained at any time that addressed whether the same conduct, or conduct substantially similar to it, would be permissible under this Act, the *Conflicts of Interest Act*, the *Lobbyists Act*, or any other statute within the Commissioner's jurisdiction — regardless of whether those opinions were relied upon or reached contrary conclusions. Disclosure under paragraph (b) is limited to opinions directly addressing the permissibility of the conduct in question; it does not require disclosure of general legal advice unrelated to that conduct. Failure to disclose is grounds for the Commissioner to reject the defense. Where a person or entity obtained multiple opinions on the same question, discarded opinions reaching contrary conclusions, and relied on a permissive minority opinion, the Commissioner may treat that pattern as evidence of willful blindness within the meaning of §26(4)(c). Disclosure under this subsection constitutes a limited waiver of solicitor-client privilege for purposes of the defense only and does not waive privilege for other purposes; the Commissioner shall treat such disclosures as confidential under §25(9) and shall not use them in any other proceeding except as necessary to evaluate or contest the defense.
 

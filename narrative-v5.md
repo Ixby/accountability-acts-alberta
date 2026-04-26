@@ -47,9 +47,11 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 ## Why this, why now
 
-Most accountability legislation in Canada has been written after the fact, in the weeks following a scandal large enough to make the country pay attention. The federal *Lobbying Act* arrived in the wash of Adscam. The federal *Public Servants Disclosure Protection Act* came in the same wave. Ontario's 2014 accountability reforms followed their own provincial controversies. In each case, the law that emerged carried the shape of the scandal that produced it — calibrated to that scandal, sometimes undercalibrated for the next one.
+Most accountability legislation in Canada has been written after the fact, in the weeks following a scandal large enough to make the country pay attention. The federal *Lobbying Act* came after Adscam. The federal *Public Servants Disclosure Protection Act* came in the same wave. Ontario's 2014 accountability reforms followed their own provincial controversies. In each case, the law that emerged carried the shape of the scandal that produced it — calibrated to that scandal, sometimes undercalibrated for the next one.
 
-Alberta in 2026 does not have that scandal. There are documented failures: the lab buyback, the Tylenol procurement, the communications agency that lived for five years inside a corporate vehicle picked precisely so it could not be reviewed. None of them is occupying daily news cycles. The political moment is quiet. That quiet is the rare opportunity. Designing accountability law in the calm after a crisis tends to produce instruments shaped by the crisis; designing it in a comparatively quiet stretch is the more honest condition for getting the structural design right.
+Alberta's accountability statutes have the same shape. The 2014 amendments to the *Conflicts of Interest Act* arrived in the fall sitting after Premier Alison Redford resigned amid expense-account controversies. The political-finance reforms that opened the post-2015 Legislature followed an election cycle in which corporate and union donations had been a live campaign issue. The *Public Interest Disclosure (Whistleblower Protection) Act* in 2012 came after a sequence of health-system controversies — Alberta Health Services and the predecessor regional authorities — that had surfaced the limits of the regime as it then stood. In each case, what the Legislature produced was calibrated to the controversy directly in front of it.
+
+Alberta in 2026 does not have that controversy. There are documented failures: the lab buyback, the Tylenol procurement, the communications agency that lived for five years inside a corporate vehicle picked precisely so it could not be reviewed. None of them is occupying daily news cycles. The political moment is quiet. That quiet is the rare opportunity. Accountability law drafted in the calm after a crisis tends to produce instruments shaped by the crisis. Law drafted in a comparatively quiet stretch is the more honest condition for getting the structural design right.
 
 The provincial budget this year is roughly eighty billion dollars. The three cases at the start of this brief moved between two and three hundred million of it through gaps the existing rules don't reach. The cost of building rules that do reach is around five million a year — about one one-hundredth of one percent of the budget, less than one-fortieth of what a single one of the three cases cost.
 
@@ -291,9 +293,9 @@ A natural design question: why not consolidate the Ethics Commissioner, the Audi
 
 ### When Cabinet confidence reaches too far
 
-Cabinet confidence is a real and important constitutional principle. Decisions in Cabinet have to be candid; ministers have to be able to argue with each other without their disagreements ending up in tomorrow's news.
+Cabinet confidence is a real constitutional principle and a defensible one. Ministers have to argue with each other without their disagreements ending up in tomorrow's news. Without that protection, what gets said in cabinet thins out into whatever can survive the front page.
 
-It can also become a shield wider than its purpose. In the SNC-Lavalin matter, the federal Ethics Commissioner reported that nine witnesses were constrained from giving him their full evidence because the Privy Council Clerk had refused to broaden the Cabinet confidence waiver. The Commissioner reached findings without complete evidence.
+The same protection can become a shield wider than its purpose. In the SNC-Lavalin matter, the federal Ethics Commissioner reported that nine witnesses were constrained from giving him their full evidence because the Privy Council Clerk had refused to broaden the Cabinet confidence waiver. The Commissioner reached findings without complete evidence. The principle that protects candid deliberation became, in that case, the mechanism by which findings could not be tested against everything the witnesses knew.
 
 Bill 1 amends Alberta's Access to Information Act to draw a sharper line. Factual, statistical, and operational data (what a program cost, how many people received a benefit, what the timeline of events was) is no longer protected by Cabinet confidence in the same way. Deliberative content, what a minister actually said in cabinet, remains protected. The amendment also flips two specific document classes from default-secret to default-disclose: Treasury Board Decision Summaries within 180 days of execution, and Ministerial Mandate Letters at session end or eighteen months, whichever is sooner. Withholdings are recorded in a public register. The line is not perfect; it will be litigated. The current line is too wide for the accountability function to operate.
 
@@ -329,11 +331,13 @@ The bill includes an identity-consistency requirement that prevents the same per
 
 ### Cooling-off that respects public service
 
-Former Ministers and senior officials cannot, for eighteen months after leaving office, take board seats or paid roles with firms that received a discretionary provincial contract or grant above threshold during their tenure, where the official had direct or indirect decision-making authority over that contract or grant.
+A Minister leaves Cabinet on a Friday. The following Monday, they take a seat on the board of a company they regulated for the previous four years. Both transactions are visible. Both are legal. The current rules don't reach what's wrong with them.
 
-The eighteen-month period balances two real concerns. A revolving door, Minister leaves cabinet on Friday and takes a seat on the board of a regulated company on Monday, corrodes public trust. A bar that lasts too long pushes good people out of public service for fear of what comes after.
+Cooling-off provisions try to balance two real concerns. A revolving door corrodes the public's confidence that decisions in office are being made on the merits. A bar that lasts too long pushes capable people out of public service for fear of what waits at the other end of their term.
 
-Arms-length public entities (Alberta Health Services, universities, municipalities) are carved out. A former Minister taking a role at a university hospital should not be treated as if they took a role at a private contractor.
+The bill puts the period at eighteen months. The bar applies to board seats and paid roles with firms that received a discretionary provincial contract or grant above threshold during the official's tenure, where the official had direct or indirect decision-making authority over that contract or grant. Outside that scope, the official is free to take whatever role they choose.
+
+Arms-length public entities — Alberta Health Services, universities, municipalities — are carved out. A former Minister taking a role at a university hospital should not be treated as if they took a role at a private contractor.
 
 ### Whistleblowers, with the burden in the right place
 
@@ -395,7 +399,9 @@ The full text is in Appendix B. The bill is shorter than Bill 1: a definitions P
 
 ### Legislation that benefits specific parties
 
-Some bills are general: they apply to everyone meeting objective criteria. Other bills are narrow: they implement a treaty, recognize a settlement, transition a specific industry, or hand a benefit to a small number of identifiable parties. Narrow bills are not inherently wrong. The question is whether the public can see, at the time the bill is introduced, who benefits and by how much.
+A government introduces a one-paragraph amendment to a regulated-industry act, late on a Wednesday afternoon. The amendment changes a single technical definition. The effect in practice is a regulatory exemption worth perhaps forty million dollars in total to two named companies. The amendment passes Second Reading without debate. The companies' names never appear in Hansard. No rule requires them to.
+
+Some bills are general: they apply to everyone meeting objective criteria. Others are narrow: they implement a treaty, recognize a settlement, transition a specific industry, or hand a benefit to a small number of identifiable parties. Narrow bills are not inherently wrong. The question is whether the public can see, at the time the bill is introduced, who benefits and by how much.
 
 Bill 2 requires a **Beneficiary Disclosure Statement** for any bill whose benefits are concentrated on a small number of parties. The Statement names the beneficiaries, discloses contribution history above the relevant threshold within the previous four years, and identifies any other discretionary state benefits (contracts, regulatory approvals, concessional arrangements) received within the same period. It quantifies the financial value of the legislation to each beneficiary, where reasonably ascertainable.
 
@@ -403,7 +409,7 @@ The Statement is filed at First Reading and published within five business days.
 
 ### Regulatory approvals that disclose their proponents
 
-A pipeline approval. A utility licence. A major land-use decision. The financial value of a single major regulatory approval can dwarf any procurement contract.
+A pipeline approval. A utility licence. A major land-use decision authorizing a hundred-hectare development. The financial value of a single major regulatory approval routinely dwarfs any procurement contract — a billion-dollar pipeline approval moves a billion dollars of public value into private operation, and procurement disclosure rules have nothing to say about it because no procurement happened.
 
 Bill 2 requires a **Proponent Disclosure Record** for every regulatory approval above a threshold. The Record names the proponent entity, identifies its individuals with significant control, discloses contributions and other state benefits received by the ISCs, identifies entities under common ownership with the proponent, and includes the estimated financial value of the approval. Published within ten business days. Accessible for the duration of the approval and at least seven years after.
 
@@ -411,9 +417,9 @@ The disclosure does not affect the substantive decision. The Commissioner does n
 
 ### Concessional arrangements that get daylight
 
-Royalty reductions, tax abatements, loan guarantees, debt forgiveness, deferred payment arrangements. Each is a way for the Crown to confer financial advantage on a specific party: negotiated, not bid, often with a defensible rationale. None is inherently corrupt.
+A royalty reduction worth forty million dollars to one company. A loan guarantee worth fifty million to another. A debt forgiveness, a tax abatement, a deferred-payment schedule designed for a specific recipient with specific timing problems. Each is a way for the Crown to confer financial advantage. Each is negotiated, not bid. Each often has a defensible rationale. None is inherently corrupt.
 
-What they have in common is invisibility. A royalty reduction worth $40 million to a specific company doesn't show up where a $40 million procurement contract would. There is no common public register.
+What they have in common is invisibility. A forty-million-dollar royalty reduction does not appear where a forty-million-dollar procurement contract would. There is no common public register of who received what, on what terms, against what contribution history.
 
 Bill 2 changes that. Every concessional arrangement above a threshold gets a **Concessional Arrangement Disclosure**: recipient, ISCs, contribution history, other state benefits received, estimated financial value, and the reasons for the concession, including why this recipient was selected and what public interest the arrangement serves. Published on a government website within thirty days of execution and tabled in the Legislative Assembly.
 
@@ -421,7 +427,7 @@ Arrangements available to everyone meeting objective criteria (a tax credit avai
 
 ### Ministerial individual exemptions
 
-Every Minister has authority, under various statutes, to grant individual exemptions from rules of general application. The authority exists for legitimate reasons. It is also a route for individualized benefit that bypasses competition.
+Every Minister has authority, under various statutes, to grant individual exemptions from rules of general application: a rule that says X, plus the Minister's discretion to say "X, except for this person, in this circumstance, for these reasons." The authority exists for legitimate reasons — disasters, emergencies, edge cases the general rule cannot foresee. The same authority is also a route for individualized benefit that bypasses competition.
 
 Bill 2 requires an **Individual Exemption Disclosure** for every ministerial exemption above a value threshold. The Disclosure names the recipient, identifies ISCs, discloses contribution history, names the rule being exempted, gives reasons, estimates value, and provides aggregate data on the same Minister's exemption pattern over the previous twenty-four months under the same statutory authority.
 
@@ -467,11 +473,15 @@ The bills do not invoke the notwithstanding clause and should not be amended to 
 
 **Resource starvation.** The regime can be defunded. The budget floor at §24(6) requires a recorded vote and a written consequences statement before estimates fall below the prior-year-CPI-adjusted floor. It does not prevent cuts; a government that accepts the political cost can still starve the office. The floor forces that cost into the open.
 
-**Coordinated capture.** Wisconsin, 2015. The state had a non-partisan Government Accountability Board that had been investigating the Governor's office on coordinated-spending concerns. The legislative majority abolished the Board and replaced it with two commissions whose members were appointed by the elected officials those commissions were now meant to oversee. The investigation closed. The records were sealed. The mechanism was entirely lawful. The result was the dismantling of a working accountability institution in a single legislative session.
+**Coordinated capture.** Wisconsin, 2015. The state had a non-partisan Government Accountability Board that had been investigating the Governor's office on coordinated-spending concerns. The legislative majority abolished the Board and replaced it with two commissions whose members were appointed by the elected officials those commissions were now meant to oversee. The investigation closed. The records were sealed. The mechanism was lawful. The result was the dismantling of a working accountability institution in a single legislative session.
 
-Hungary in the same period took longer but reached further. Across multiple election cycles, the Orbán government appointed sympathetic figures to the Constitutional Court, the State Audit Office, the Public Prosecution Service, the State Tax Authority, and the Media Council. No single appointment was the dismantling. The dismantling was the cumulative pattern, executed over years, in plain view, with each step lawful on its face.
+Hungary across the 2010s took longer and reached further. Across multiple election cycles, the Orbán government appointed sympathetic figures to the Constitutional Court, the State Audit Office, the Public Prosecution Service, the State Tax Authority, and the Media Council. No single appointment was the dismantling. The dismantling was the cumulative pattern, executed over years, in plain view, with each step lawful on its face.
 
-The most serious failure mode of any accountability regime is some version of these two. Sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority can defeat any structural design. No legislation prevents this. The bill raises the cost, generates records that survive the attempt, and distributes power across multiple institutions so that capture requires simultaneous control of several of them. That is the most a legislative design can do.
+Russia took it further still. Putin's project across the 2000s and 2010s involved domesticating the courts, the prosecutor's office, the audit chamber, the electoral commission, and the major media. The instruments were legal appointments, ownership changes, and incremental statutory reforms, each defensible on its own terms. The cumulative effect was an institutional architecture that persisted on paper and had nothing left to check.
+
+The United States across 2025 ran a compressed version of the same pattern. Inspectors general dismissed without the statutory notice their enabling legislation required. Career prosecutors reassigned. Officials at independent agencies removed before the statutory term had run. Each move was challenged in court; some were reversed; the rate at which they were attempted exceeded the courts' capacity to keep up. The strategy was to test how many simultaneous removals the system could absorb before the accountability architecture failed in practice while staying intact on paper.
+
+The most serious failure mode of any accountability regime is some version of these four. Sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority can defeat any structural design. No legislation prevents this. The bill raises the cost, generates records that survive the attempt, and distributes power across multiple institutions so that capture requires simultaneous control of several of them. That is the most a legislative design can do.
 
 **Weaponization against the opposition.** The corollary, and the question every reader should ask: what stops a future government from using the regime to harass its political opponents? Walk through the scenario. A future Commissioner is appointed by the supermajority of a dominant governing party. Investigations are launched against opposition MLAs and former opposition Ministers, with audit selections mysteriously concentrating on one side of the aisle. What does the bill do? Random audit selection uses a publicly verifiable randomness beacon (§27) — selection methodology is published, the seed is published, anyone can check. Court confirmation is required for large penalties against non-Members (§22(5)(a)) — administrative weaponization runs into King's Bench review. The good-faith defence (§26) and its disclosure-of-all-opinions corollary (§26(5)) protect a Minister who acted on reasonable advice; they remove the protection from one who shopped for permissive opinions. The cooperation register (§24(5)) and the Auditor General's communications log (Bill 2 §7(8)) make ministerial pressure on the office a matter of public record. The seven-year non-renewable Commissioner term (§11A) outlasts most majorities, so even a captured Commissioner inherits the term limits of the appointment. None of these are guarantees. They are friction. A weaponizing government has to break the randomness beacon, override the Court, falsify the cooperation register, and silence the Auditor General — each one in public, each one creating its own record. The asymmetry between hidden capture (cheap) and visible capture (expensive) is the entire structural argument.
 

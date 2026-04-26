@@ -1083,7 +1083,18 @@ def build():
     md_text = SOURCE.read_text(encoding="utf-8")
 
     md = markdown.Markdown(
-        extensions=["extra", "tables", "sane_lists"],
+        extensions=[
+            "extra",
+            "tables",
+            "sane_lists",
+            "footnotes",
+        ],
+        extension_configs={
+            "footnotes": {
+                "PLACE_MARKER": "///FOOTNOTES_HERE///",
+                "BACKLINK_TEXT": "↩",
+            },
+        },
         output_format="html5",
     )
     body_html = md.convert(md_text)

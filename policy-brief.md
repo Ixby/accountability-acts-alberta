@@ -47,9 +47,9 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 ## Why this, why now
 
-Most accountability legislation in Canada has been written after the fact, in the weeks following a scandal large enough to make the country pay attention. The federal *Lobbying Act* came after Adscam. The federal *Public Servants Disclosure Protection Act* came in the same wave. Ontario's 2014 accountability reforms followed their own provincial controversies. In each case, the law that emerged carried the shape of the scandal that produced it — calibrated to that scandal, sometimes undercalibrated for the next one.
+Most accountability legislation in Canada has been written after the fact, in the weeks following a scandal large enough to make the country pay attention. The federal *Lobbying Act* came after Adscam.[^fed-accountability-2006] The federal *Public Servants Disclosure Protection Act* came in the same wave.[^psdpa-2005] Ontario's 2014 accountability reforms followed their own provincial controversies. In each case, the law that emerged carried the shape of the scandal that produced it — calibrated to that scandal, sometimes undercalibrated for the next one.
 
-Alberta's accountability statutes have the same shape. The 2014 amendments to the *Conflicts of Interest Act* arrived in the fall sitting after Premier Alison Redford resigned amid expense-account controversies. The political-finance reforms that opened the post-2015 Legislature followed an election cycle in which corporate and union donations had been a live campaign issue. The *Public Interest Disclosure (Whistleblower Protection) Act* in 2012 came after a sequence of health-system controversies — Alberta Health Services and the predecessor regional authorities — that had surfaced the limits of the regime as it then stood. In each case, what the Legislature produced was calibrated to the controversy directly in front of it.
+Alberta's accountability statutes have the same shape. The 2014 amendments to the *Conflicts of Interest Act* arrived in the fall sitting after Premier Alison Redford resigned amid expense-account controversies.[^alberta-accountability-2014] The political-finance reforms that opened the post-2015 Legislature followed an election cycle in which corporate and union donations had been a live campaign issue. The *Public Interest Disclosure (Whistleblower Protection) Act* in 2012 came after a sequence of health-system controversies — Alberta Health Services and the predecessor regional authorities — that had surfaced the limits of the regime as it then stood.[^pida-2012] In each case, what the Legislature produced was calibrated to the controversy directly in front of it.
 
 Alberta in 2026 does not have that controversy. There are documented failures: the lab buyback, the Tylenol procurement, the communications agency that lived for five years inside a corporate vehicle picked precisely so it could not be reviewed. None of them is occupying daily news cycles. The political moment is quiet. That quiet is the rare opportunity. Accountability law drafted in the calm after a crisis tends to produce instruments shaped by the crisis. Law drafted in a comparatively quiet stretch is the more honest condition for getting the structural design right.
 
@@ -73,7 +73,7 @@ Nothing was illegal. There is no rule in Alberta that says decisions must be doc
 
 ### Eighty million dollars of acetaminophen
 
-In December 2022, during a national children's acetaminophen shortage, Premier Danielle Smith announced a deal to import children's acetaminophen from Turkey. The total cost, including the product, logistics, and administration, came in around $80 million ($70 million to the supplier, MHCare Medical, plus roughly $10 million in shipping and administration). Only about thirty percent of the order was ultimately delivered and approved for use, representing roughly $21 million of the product cost. The rest sat in storage. In June 2025, Alberta Health Services announced that the remaining stockpile of approximately 1.4 million bottles would be donated to Health Partners International of Canada for distribution to vulnerable communities, with portions destined for Ukraine, ahead of expiry dates in late 2025 and early 2026.[^tylenol-disposition]
+In December 2022, during a national children's acetaminophen shortage, Premier Danielle Smith announced a deal to import children's acetaminophen from Turkey. The total cost, including the product, logistics, and administration, came in around $80 million ($70 million to the supplier, MHCare Medical, plus roughly $10 million in shipping and administration). Only about thirty percent of the order was ultimately delivered and approved for use, representing roughly $21 million of the product cost.[^tylenol-mhcare] The rest sat in storage. In June 2025, Alberta Health Services announced that the remaining stockpile of approximately 1.4 million bottles would be donated to Health Partners International of Canada for distribution to vulnerable communities, with portions destined for Ukraine, ahead of expiry dates in late 2025 and early 2026.[^tylenol-disposition]
 
 The decision was made under emergency authority. There is no requirement, under current Alberta law, that emergency procurements at this scale carry a written, contemporaneous explanation of why this supplier, why this amount, why these terms. The reasoning was reconstructed afterward in response to questions.
 
@@ -83,7 +83,7 @@ The Tylenol procurement is not a closed historical event. Subsequent Auditor Gen
 
 ### A communications agency designed to be invisible
 
-In late 2019, Alberta launched the Canadian Energy Centre. Its job was to communicate the provincial position on energy and resource policy. Initial budget: $30 million per year. Reduced to roughly $12 million annually by 2022. Wound down in June 2024 after persistent questions about effectiveness. Lifetime cost: estimated at $60 to $100 million.
+In late 2019, Alberta launched the Canadian Energy Centre. Its job was to communicate the provincial position on energy and resource policy. Initial budget: $30 million per year. Reduced to roughly $12 million annually by 2022. Wound down in June 2024 after persistent questions about effectiveness.[^cec-winddown] Lifetime cost: estimated at $60 to $100 million.
 
 The agency was incorporated as a private corporation, not a Crown agency. That structural choice was the point. A Crown agency falls under the Freedom of Information and Protection of Privacy Act. A private corporation that the Crown funds does not.
 
@@ -91,29 +91,42 @@ Premier Kenney's press secretary, Christine Myatt, addressed this publicly at th
 
 The structure did its job for the agency's entire operational life.
 
+### A bill written before its reasons
+
+On November 17, 2015, the Notley government tabled Bill 6, the *Enhanced Protection for Farm and Ranch Workers Act*. Twenty-three days later, on December 10, it received Royal Assent. It came into force January 1, 2016, extending Workers' Compensation Board coverage and basic Occupational Health and Safety standards to paid, non-family farm and ranch workers — a protection Albertans in every other province already had, and one that successive Alberta governments had declined to legislate for decades.[^bill6-canlii]
+
+The substantive case for the bill was strong. The procedural case was not made in time. There was no organized pre-tabling consultation with the farm and ranch sector. Labour Minister Lori Sigurdson announced the legislation at a grain farm near Gibbons on November 18, the day after first reading, and the practical scope — whether it applied to family members, to unpaid neighbours helping at harvest, to children doing chores — was not clear from the bill's text in the form first introduced.[^bill6-announcement] In the weeks that followed, more than a thousand people gathered on the legislature steps, a petition collected over ten thousand signatures, and substantive amendments excluding owners, family, and unpaid help were introduced and passed inside the same three-week window the bill was alive.[^bill6-protests] The government convened six Technical Working Groups, which began consultation in mid-2016 and reported through early 2017 — *after* the legislation had come into force.[^bill6-twg]
+
+Agriculture Minister Oneil Carlier later acknowledged that "the province's communication could have been better."[^bill6-carlier] The honest description is narrower: the consultation that should have shaped the bill happened after the bill was law. Reasons were reconstructed in response to opposition, not documented contemporaneously to support the design choices the bill embedded. Unlike DynaLIFE or the Tylenol procurement, no arm's-length oversight body has reviewed Bill 6's process; the criticism came from affected stakeholders and the opposition. That makes the pattern harder to pin to a single audit finding, but the timeline is itself the evidence.
+
+Under Bill 1 §14A, a substantive policy change of this scale would carry a contemporaneous documentary trail of the reasoning at the moment of decision. Under the engagement standard at §21A — designed for Indigenous governance but expressing a generalisable principle — pre-tabling consultation with materially affected communities would be a duty, not a discretionary courtesy. Either provision, applied to the moment Bill 6 was drafted, would have surfaced the consultation gap before tabling rather than during the protests.
+
+The structural pattern: a bill arguing for a defensible end, introduced into a moment its own reasoning had not yet caught up to.
+
 ### What these have in common
 
 You can argue any of these on the merits, and people do. None of them, individually, is the point.
 
-None was prevented by Alberta's accountability machinery, because that machinery was not designed to reach the kinds of decisions these were. The DynaLIFE buyback turned on records that didn't have to exist. The Tylenol procurement turned on emergency authority that needed no contemporaneous written reason. The CEC turned on a corporate structure deliberately chosen to be outside the rules.
+None was prevented by Alberta's accountability machinery, because that machinery was not designed to reach the kinds of decisions these were. The DynaLIFE buyback turned on records that didn't have to exist. The Tylenol procurement turned on emergency authority that needed no contemporaneous written reason. The CEC turned on a corporate structure deliberately chosen to be outside the rules. Bill 6 turned on a bill-design moment whose reasoning was assembled after tabling, not before it.
 
 These aren't loopholes. Loopholes get closed. These are the spaces between the rules — the spaces where decisions involving very large amounts of public money actually get made, by people doing what they think is the right thing, under structural conditions that allow the result to be unreviewable later.
 
 None of it was stolen. All of it was spent in rooms we couldn't see into.
 
-The combined cost: somewhere between $200 and $300 million. The operating expense of an accountability framework that hasn't kept pace with how power actually moves.
+The combined cost of the three procurement-and-structure cases: somewhere between $200 and $300 million. Bill 6 imposed no comparable financial cost; its cost was paid in trust between the government and a sector it was trying to protect. Together, the four cases describe the operating expense of an accountability framework that hasn't kept pace with how power actually moves.
 
-Three structural failures, named:
+Four structural failures, named:
 
 - The **oral-briefing loophole** — decisions made in rooms with no minute-taker, reasoning reconstructed afterward. DynaLIFE.
 - The **no-paper emergency** — urgent authority exercised without contemporaneous written reasons. Turkish Tylenol.
 - The **Crown-corp end-run** — public functions performed through private corporate structures chosen to fall outside the disclosure regime that would otherwise apply. The Canadian Energy Centre.
+- The **consultation deficit** — bills tabled before the reasoning that would justify their design choices has been documented or shared with materially affected communities. Bill 6.
 
-The bills are designed to reach all three.
+The bills are designed to reach all four.
 
 ### A note on case selection
 
-The three cases above all sit inside the recent UCP era. The "verifiable record close to the present" rationale is honest as far as it goes — these are the cases with the most complete documentary record currently available — but it is not a complete answer to the partisan-asymmetry concern, because the same standard would license PC-era or NDP-era cases that meet the documentary threshold. The honest position is narrower: this brief is structurally a critique of *kinds* of decisions, not of *parties* that made them. Oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, and opaque concessional arrangements have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The bills are aimed at the structural patterns. They have to bind a future NDP government in 2027 as readily as they would have applied to these three cases, and the design test the drafter applied to every provision was whether it survived being applied to a government the drafter happens to like. A v3 of this brief would carry at least one structurally analogous non-UCP case alongside the three current ones; the verification work to do that responsibly has not yet been completed.
+Three of the four cases above sit inside the recent UCP era; the fourth (Bill 6) sits inside the 2015–2019 NDP government. The case selection is structurally driven, not partisanly driven. This brief is a critique of *kinds* of decisions, not of *parties* that made them. Oral-briefing decision-making, unreasoned procurement, Crown-corp end-runs, opaque concessional arrangements, and pre-tabling consultation deficits have appeared in different forms under PC, NDP, Kenney UCP, and Smith UCP governments. The bills are aimed at the structural patterns. They have to bind a future NDP government in 2027 as readily as they would have applied to the four cases above, and the design test the drafter applied to every provision was whether it survived being applied to a government the drafter happens to like. The four cases were chosen because each illustrates a different kind of structural gap, and because the public record on each is reasonably complete; a longer document could carry more cases without changing the analytical claim.
 
 ---
 
@@ -131,7 +144,7 @@ The Lobbyists Act asks: who is being paid to influence government, and on whose 
 
 The Public Interest Disclosure Act protects whistleblowers from retaliation. The federal regime — the *Public Servants Disclosure Protection Act* — has, since coming into force in 2007, produced 18 case reports tabled by the Public Sector Integrity Commissioner and 9 referrals to the Public Servants Disclosure Protection Tribunal as of the Commissioner's most recent annual reports.[^psic-stats] Tribunal merit decisions number in the single digits across nearly two decades of operation. The published record sits in the Public Sector Integrity Commissioner's annual reports.
 
-The federal Ethics Commissioner has, since the 2007 *Conflict of Interest Act*, twice found a sitting Prime Minister in personal breach: the *Trudeau Report* (2017, on the Aga Khan vacation) and the *Trudeau II Report* (2019, on the SNC-Lavalin matter). The federal regime has investigated and reported on ministers across both Conservative and Liberal governments at various times in its operation; the *Trudeau Report* and *Trudeau II Report* are the two findings of personal breach against a sitting Prime Minister. The Act specifies no penalty for breach. The findings are published. The rest is up to voters.
+The federal Ethics Commissioner has, since the 2007 *Conflict of Interest Act*,[^coia-2007] twice found a sitting Prime Minister in personal breach: the *Trudeau Report* (2017, on the Aga Khan vacation)[^trudeau-i] and the *Trudeau II Report* (2019, on the SNC-Lavalin matter).[^trudeau-ii] The federal regime has investigated and reported on ministers across both Conservative and Liberal governments at various times in its operation; the *Trudeau Report* and *Trudeau II Report* are the two findings of personal breach against a sitting Prime Minister. The Act specifies no penalty for breach. The findings are published. The rest is up to voters.
 
 This is not a story about bad commissioners. It is a story about laws written for a smaller problem, deployed against a world where most of the value moves through structural choices that don't break any rule.
 
@@ -239,10 +252,10 @@ Most of what is proposed exists somewhere in Canadian or comparable practice alr
 
 | Element | Alberta now | British Columbia | Ontario | Federal | Proposed |
 | --- | --- | --- | --- | --- | --- |
-| In-house lobbyist registration threshold | 50 hours / yr | "significant part of duties" (LTA 2020) | 50 hours / yr | "significant part of duties" | 20% of any quarter, plus position-description test |
+| In-house lobbyist registration threshold | 50 hours / yr[^alberta-lobbyists-act] | "significant part of duties" (LTA 2020)[^bc-lta-2020] | 50 hours / yr[^ontario-lra] | "significant part of duties"[^fed-lobby-threshold] | 20% of any quarter, plus position-description test |
 | Consultant lobbyist registration | 50 hours / yr | from first contact | 50 hours / yr | from first contact | from first payment |
 | Whistleblower burden of proof | on the whistleblower | on the whistleblower | on the whistleblower | on the whistleblower throughout (PSIC has proposed reverse-onus reform; not enacted) | on the employer once nexus shown, throughout |
-| ISC disclosure for procurement | none | partial (Land Owner Transparency Act — beneficial ownership of land only; corporate beneficial ownership for non-land assets sits in BCBCA register, not public) | none | partial federal contract registry | required above threshold, with Registrar hash check |
+| ISC disclosure for procurement | none | partial (Land Owner Transparency Act — beneficial ownership of land only; corporate beneficial ownership for non-land assets sits in BCBCA register, not public)[^bc-lota] | none | partial federal contract registry | required above threshold, with Registrar hash check |
 | Named-party legislation disclosure | none | none | none | none | Beneficiary Disclosure Statement at First Reading |
 | Enforcement-equity reporting | none | none | none | partial (audit selection only) | annual Auditor General report |
 | Random audit selection | none | none | none | none | publicly verifiable randomness beacon |
@@ -301,7 +314,7 @@ A natural design question: why not consolidate the Ethics Commissioner, the Audi
 
 Cabinet confidence is a real constitutional principle and a defensible one. Ministers have to argue with each other without their disagreements ending up in tomorrow's news. Without that protection, what gets said in cabinet thins out into whatever can survive the front page.
 
-The same protection can become a shield wider than its purpose. In the SNC-Lavalin matter, the federal Ethics Commissioner reported that nine witnesses were constrained from giving him their full evidence because the Privy Council Clerk had refused to broaden the Cabinet confidence waiver. The Commissioner reached findings without complete evidence. The principle that protects candid deliberation became, in that case, the mechanism by which findings could not be tested against everything the witnesses knew.
+The same protection can become a shield wider than its purpose. In the SNC-Lavalin matter, the federal Ethics Commissioner reported that nine witnesses were constrained from giving him their full evidence because the Privy Council Clerk had refused to broaden the Cabinet confidence waiver.[^snc-cabinet] The Commissioner reached findings without complete evidence. The principle that protects candid deliberation became, in that case, the mechanism by which findings could not be tested against everything the witnesses knew.
 
 Bill 1 amends Alberta's Access to Information Act to draw a sharper line. Factual, statistical, and operational data (what a program cost, how many people received a benefit, what the timeline of events was) is no longer protected by Cabinet confidence in the same way. Deliberative content, what a minister actually said in cabinet, remains protected. The amendment also flips two specific document classes from default-secret to default-disclose: Treasury Board Decision Summaries within 180 days of execution, and Ministerial Mandate Letters at session end or eighteen months, whichever is sooner. Withholdings are recorded in a public register. The line is not perfect; it will be litigated. The current line is too wide for the accountability function to operate.
 
@@ -349,7 +362,7 @@ Arms-length public entities — Alberta Health Services, universities, municipal
 
 The Public Interest Disclosure Act in its current form requires whistleblowers to prove that adverse employment action against them was retaliation for their disclosure. The proof is hard, because employers control the documentary record, and most retaliation is dressed up as performance management or restructuring. The reprisal record under the federal version of the regime, noted in Part II, is the consequence.
 
-The bill reverses the burden, in line with the burden-shifting framework established by *Ontario Human Rights Commission v Simpsons-Sears* and refined in *Moore v British Columbia (Education)*. Once an employee establishes that a protected disclosure was made and an adverse employment action — firing, demotion, transfer to a worse role, withholding of opportunities — followed within twenty-four months, meaning two years from the disclosure, the employer must prove that the adverse action was unrelated to the disclosure. The burden goes where the evidence lives.
+The bill reverses the burden, in line with the burden-shifting framework established by *Ontario Human Rights Commission v Simpsons-Sears*[^simpsons-sears] and refined in *Moore v British Columbia (Education)*.[^moore] Once an employee establishes that a protected disclosure was made and an adverse employment action — firing, demotion, transfer to a worse role, withholding of opportunities — followed within twenty-four months, meaning two years from the disclosure, the employer must prove that the adverse action was unrelated to the disclosure. The burden goes where the evidence lives.
 
 There is also personal liability for managers who direct, authorize, or carry out a reprisal in bad faith or with knowledge that the action is a reprisal — capped at six months of compensation or a regulatory amount, whichever is less, and not indemnifiable from public funds.
 
@@ -365,7 +378,7 @@ The bill scales penalties to capacity. Natural-person penalties combine a base a
 
 For large penalties above a regulatory threshold, court confirmation is required before collection. The Commissioner cannot impose financial ruin by administrative fiat against a non-Member. The Court of King's Bench reviews for procedural fairness, jurisdiction, and reasonableness.
 
-Court confirmation is not available for sitting MLAs. Alberta jurisprudence has held, in line with the parliamentary privilege framework set out by the Supreme Court in *Vaid*, that judicial review is unavailable for Ethics Commissioner findings against sitting Members where the matter falls within the Assembly's exclusive disciplinary sphere. The bill respects that ceiling. For sitting Members, large penalties are incorporated into a Certificate of Malfeasance, tabled in the Assembly, and enforced through the Assembly process. That is the cost of operating within parliamentary privilege, not a drafting choice.
+Court confirmation is not available for sitting MLAs. Alberta jurisprudence has held, in line with the parliamentary privilege framework set out by the Supreme Court in *Vaid*,[^vaid] that judicial review is unavailable for Ethics Commissioner findings against sitting Members where the matter falls within the Assembly's exclusive disciplinary sphere.[^mciver-2018] The bill respects that ceiling. For sitting Members, large penalties are incorporated into a Certificate of Malfeasance, tabled in the Assembly, and enforced through the Assembly process. That is the cost of operating within parliamentary privilege, not a drafting choice.
 
 ### Random audits with dice that no one controls
 
@@ -373,7 +386,7 @@ A Minister of a future governing party reads the morning paper. The year's Commi
 
 The hostile mirror of the same scenario is just as bad. A government that wants to weaponize the regime has the same tool — discretionary selection — and the same defense, that the methodology is documented and there is no evidence of bad faith. Discretion is the right instrument for following a specific tip. It is the wrong instrument for routine audits, because discretionary selection is always plausibly partisan and always plausibly impartial. The argument cannot be settled.
 
-The bill removes selection from discretion. A small percentage of officials and contracts in each stratum is selected each year using a publicly verifiable source of randomness — the National Institute of Standards and Technology's randomness beacon, or an equivalent. The methodology is published in advance. The seed is published. The resulting selection list is verifiable. Anyone can check the audit selections were random — the people audited, the parties whose members were audited, journalists.
+The bill removes selection from discretion. A small percentage of officials and contracts in each stratum is selected each year using a publicly verifiable source of randomness — the National Institute of Standards and Technology's randomness beacon, or an equivalent.[^nist-beacon] The methodology is published in advance. The seed is published. The resulting selection list is verifiable. Anyone can check the audit selections were random — the people audited, the parties whose members were audited, journalists.
 
 Audits are tiered. Most start as automated compliance checks (Tier 0) that compare declarations against registries with no human looking at the file. Where the automated check finds no discrepancy, the matter closes. No personal records are accessed. The closure is logged.
 
@@ -485,9 +498,9 @@ The bills do not invoke the notwithstanding clause and should not be amended to 
 
 **Resource starvation.** The regime can be defunded. The budget floor at §24(6) requires a recorded vote and a written consequences statement before estimates fall below the prior-year-CPI-adjusted floor. It does not prevent cuts; a government that accepts the political cost can still starve the office. The floor forces that cost into the open.
 
-**Coordinated capture.** Wisconsin, 2015. The state had a non-partisan Government Accountability Board that had been investigating the Governor's office on coordinated-spending concerns. The legislative majority abolished the Board and replaced it with two commissions whose members were appointed by the elected officials those commissions were now meant to oversee. The investigation closed. The records were sealed. The mechanism was lawful. The result was the dismantling of a working accountability institution in a single legislative session.
+**Coordinated capture.** Wisconsin, 2015. The state had a non-partisan Government Accountability Board that had been investigating the Governor's office on coordinated-spending concerns. The legislative majority abolished the Board and replaced it with two commissions whose members were appointed by the elected officials those commissions were now meant to oversee.[^wisconsin-gab] The investigation closed. The records were sealed. The mechanism was lawful. The result was the dismantling of a working accountability institution in a single legislative session.
 
-Comparative cases over the past decade — the appointment patterns documented under Hungary's Orbán government, the institutional re-staffing in Russia across the 2000s and 2010s, the compressed pace of inspector-general dismissals and independent-agency removals in the United States across 2025 — share a common structure: a series of individually lawful steps producing, in aggregate, an accountability architecture that persists on paper and has nothing left to check. None of these are direct analogues to the Alberta context, but the failure mode is the same.
+Comparative cases over the past decade — the appointment patterns documented under Hungary's Orbán government,[^hungary-orban] the institutional re-staffing in Russia across the 2000s and 2010s, the compressed pace of inspector-general dismissals and independent-agency removals in the United States across 2025 — share a common structure: a series of individually lawful steps producing, in aggregate, an accountability architecture that persists on paper and has nothing left to check. None of these are direct analogues to the Alberta context, but the failure mode is the same.
 
 The most serious failure mode of any accountability regime is some version of this. Sustained coordinated capture across the Commissioner, the Auditor General, and a hostile Assembly majority can defeat any structural design. No legislation prevents this. The bill raises the cost, generates records that survive the attempt, and distributes power across multiple institutions so that capture requires simultaneous control of several of them. That is the most a legislative design can do.
 
@@ -519,11 +532,11 @@ The $5 million is the drafter's estimate, not a Treasury Board validation. Treas
 
 Four items, each before tabling.
 
-**Constitutional opinion.** The three provisions identified above need a pre-tabling opinion from administrative law counsel, addressing the *Vaid* parliamentary privilege framework, *Wigglesworth* / *Guindon* on administrative penalty, *Harper* on §2(b) and political-contribution disclosure, and the structural-constitution questions raised by giving an officer of the legislature regulation-making authority.
+**Constitutional opinion.** The three provisions identified above need a pre-tabling opinion from administrative law counsel, addressing the *Vaid* parliamentary privilege framework, *Wigglesworth*[^wigglesworth] / *Guindon*[^guindon] on administrative penalty, *Harper*[^harper] on §2(b) and political-contribution disclosure, and the structural-constitution questions raised by giving an officer of the legislature regulation-making authority.
 
 The §22 penalty regime needs its own §11(d) analysis, and I should have run it in the body of the brief rather than gesturing at it. *Guindon* (2015 SCC 41) sets the threshold question as whether a proceeding is "by its very nature criminal" or imposes a "true penal consequence." The asset-based-enhancement penalty under §22 is calibrated to the value of the conduct it sanctions, can run into the millions for senior actors, and is publicly attributed by Certificate; counsel will need to opine on whether that combination crosses the *Guindon* threshold and pulls the regime out of regulatory characterization. If it does, *Wigglesworth* requires the full procedural protections of §11 of the *Charter* — including, at minimum, presumption of innocence, proof beyond reasonable doubt on contested findings, and protection against self-incrimination at the investigative stage. The §22(5) court-confirmation route gives a Member access to a court before collection on large penalties; it does not, on its own, supply §11 procedural protections at the Commissioner stage where the determination is actually made, and it may not satisfy *Wigglesworth* if the threshold is crossed. Counsel should opine specifically on §22(1) through (5), §22(6) on the asset-based enhancement, the §23 publication regime as it interacts with reputation as penalty, and the burden allocation between Commissioner and respondent under §26.
 
-**Indigenous co-development.** I drafted §21A without formal consultation. The carve-out is a placeholder. Legislation affecting Indigenous peoples has to be co-developed with First Nations governments, Métis settlements, and the Métis Nation of Alberta. I want to be precise about why, because the doctrinal point is narrower than I first wrote it. *Mikisew Cree* (2018 SCC 40)[^mikisew] held that the *Haida Nation* duty to consult does not attach to the legislative process itself — Cabinet's development of bills sits inside parliamentary sovereignty, and the courts will not police it through the consultation doctrine. What survived in *Mikisew* is the honour of the Crown, which the plurality treated as a continuing principle that conditions how the Crown legislates even where the strict procedural duty does not. *Haida* still governs once the resulting statute is applied to a specific Crown action affecting an asserted right; *Mikisew* simply removes the courthouse door at the front end. So the legal floor for a bill of this kind is not enforceable consultation. It is honour-of-the-Crown conduct by the Crown that drafts and tables it, and that obligation, properly observed, makes co-development with the Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, and the Métis Settlements General Council a precondition to tabling whether the courts would order it or not. I did not have access to do that work. Anyone moving the bill forward must do it.
+**Indigenous co-development.** I drafted §21A without formal consultation. The carve-out is a placeholder. Legislation affecting Indigenous peoples has to be co-developed with First Nations governments, Métis settlements, and the Métis Nation of Alberta. I want to be precise about why, because the doctrinal point is narrower than I first wrote it. *Mikisew Cree* (2018 SCC 40)[^mikisew] held that the *Haida Nation*[^haida] duty to consult does not attach to the legislative process itself — Cabinet's development of bills sits inside parliamentary sovereignty, and the courts will not police it through the consultation doctrine. What survived in *Mikisew* is the honour of the Crown, which the plurality treated as a continuing principle that conditions how the Crown legislates even where the strict procedural duty does not. *Haida* still governs once the resulting statute is applied to a specific Crown action affecting an asserted right; *Mikisew* simply removes the courthouse door at the front end. So the legal floor for a bill of this kind is not enforceable consultation. It is honour-of-the-Crown conduct by the Crown that drafts and tables it, and that obligation, properly observed, makes co-development with the Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, and the Métis Settlements General Council a precondition to tabling whether the courts would order it or not. I did not have access to do that work. Anyone moving the bill forward must do it.
 
 A predicted critique, offered without claiming to substitute for the consultation it cannot replace: Indigenous governments and scholars are likely to identify several structural problems with §21A as drafted. First, the section is settler-drafted legislation defining the scope of "Indigenous internal governance" — the act of so defining is itself an exercise of Crown authority over a sphere where the Crown's authority is contested at the level of inherent jurisdiction. Second, the section preserves section 35 rights defensively ("shall not be interpreted so as to limit") rather than affirming them in the standard the *United Nations Declaration on the Rights of Indigenous Peoples* now sets — free, prior, and informed consent rather than consultation in good faith. Third, the materiality threshold for "Indigenous-owned entities" is set by regulation under §28(4), placing the trigger for consultation in the hands of the Lieutenant Governor in Council; co-development should set that threshold, not the executive. Fourth, the *Crown-corp end-run* framing assumes a clean line between Crown and private corporations that does not match how many First Nations and Métis Settlements operate — economic-development corporations performing what are functionally governance roles. Fifth, the regime's enforcement architecture (Ethics Commissioner, Auditor General, Information and Privacy Commissioner) carries no Indigenous representation; cross-jurisdictional questions are decided entirely within Crown structures.
 
@@ -549,7 +562,7 @@ What the package has tried to resolve preemptively, in the drafter's settler cap
 
 The definition of "Indigenous government" in §21A(1) is now framed as a Crown-internal reference applicable at the interface. The Crown needs some word for the body whose internal governance the Act exempts and with whom the Commissioner engages. That word is unavoidable in a Crown enactment. The bill makes plain that the word does not, and is not intended to, define or characterize what an Indigenous government is in any inherent or constitutional sense. Indigenous governance derives from sources independent of and prior to the Crown.
 
-The engagement standard under §21A(3) needs to be calibrated more carefully than the bill as drafted has it. The legal floor under *Mikisew Cree* is consultation, accommodating where appropriate; it is not consent. Free, prior, and informed consent is the UNDRIP standard, and federal UNDA (SC 2021, c 14) is implementation legislation that obliges the federal Crown to make federal law consistent with the Declaration over time. UNDA does not have direct effect in Alberta, and Alberta has not enacted parallel implementing legislation. So a provincial statute that asserts FPIC as a binding standard up front is not codifying existing law. It is making a deliberate aspirational choice to operate above the legal floor, and the drafter — a settler, without consultation — is not the right person to make that choice unilaterally. The honest version of §21A(3) is honour-of-the-Crown conduct as the binding floor, with a statutory commitment to a co-development path toward FPIC, the path itself to be defined with the Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, and the Métis Settlements General Council. The Indigenous Accountability Council under §21A(8) is the mechanism through which that path could be set; the §32(3.1) commencement gate is where it would land. Whether FPIC ends up the operating standard is for Indigenous governments to decide, not for me to assert in advance of the conversation.
+The engagement standard under §21A(3) needs to be calibrated more carefully than the bill as drafted has it. The legal floor under *Mikisew Cree* is consultation, accommodating where appropriate; it is not consent. Free, prior, and informed consent is the UNDRIP standard, and federal UNDA (SC 2021, c 14)[^unda-2021] is implementation legislation that obliges the federal Crown to make federal law consistent with the Declaration over time. UNDA does not have direct effect in Alberta, and Alberta has not enacted parallel implementing legislation. So a provincial statute that asserts FPIC as a binding standard up front is not codifying existing law. It is making a deliberate aspirational choice to operate above the legal floor, and the drafter — a settler, without consultation — is not the right person to make that choice unilaterally. The honest version of §21A(3) is honour-of-the-Crown conduct as the binding floor, with a statutory commitment to a co-development path toward FPIC, the path itself to be defined with the Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, and the Métis Settlements General Council. The Indigenous Accountability Council under §21A(8) is the mechanism through which that path could be set; the §32(3.1) commencement gate is where it would land. Whether FPIC ends up the operating standard is for Indigenous governments to decide, not for me to assert in advance of the conversation.
 
 §21A(5) is now an affirmative interpretation rule, not a defensive non-derogation clause. The Act is to be interpreted in a manner consistent with UNDRIP, with section 35, and with treaty rights — including treaty rights as recorded in oral tradition. Where the operation of any provision is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to those rights prevails.
 
@@ -639,7 +652,9 @@ The estimates and analysis throughout are the drafter's own and have not been in
 
 ## About the drafter
 
-I am a private citizen in Alberta. I work in technology. I am not a lawyer, a member of any political party, or an employee of any organization that lobbies, contracts with, or receives funding from the Government of Alberta. I have no commercial, professional, or political interest in the outcome of this package, beyond the interest of any other Albertan in the province being well-governed.
+I am Will Conner. I am a fourth-year Bachelor of Computer Information Systems student at Mount Royal University in Calgary, where I have taken courses in business law, advanced business law, Indigenous leadership, systems thinking, and storytelling. I have thirty years of professional experience in information technology — I started fixing computers as a kid and have been paid for that work since age seventeen — and I have worked across health care, social work, construction, and small business. I have drafted bylaws for non-profit organizations, sat on non-profit boards, co-founded a handful, and developed policy for non-profits and for the small businesses I have owned.
+
+I am not a lawyer, a member of any political party, or an employee of any organization that lobbies, contracts with, or receives funding from the Government of Alberta. I have no commercial, professional, or political interest in the outcome of this package, beyond the interest of any other Albertan in the province being well-governed.
 
 The package was drafted in personal time, on my own equipment, using publicly available legal databases, my own analysis, and a substantial amount of generative-AI-assisted research and drafting. The *Sources* list above names the cases and statutes I consulted. The structural-design choices, the failure-mode analysis, and the three innovations specific to the package — the ISC and contribution cross-reference, the Beneficiary Disclosure Statement, and the Enforcement Equity Report — are my own.
 
@@ -719,7 +734,7 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 
 **The bills give the Commissioner a lot of power. Who watches the watcher?** Three things, working together. The Auditor General audits the Commissioner's office annually under §24. The Information and Privacy Commissioner enforces the privacy and retention provisions independently. The Assembly retains disallowance over the Commissioner's regulations under §28. None of these is sufficient on its own. Together they distribute the watching across institutions a single party would have to capture simultaneously.
 
-**Why these three cases? Aren't there others?** There are. DynaLIFE, Tylenol, and the CEC were chosen because they are recent, because the public record is reasonably complete, and because each illustrates a different *kind* of structural gap — records that didn't exist, emergency authority with no contemporaneous reasoning, and a corporate vehicle outside ordinary disclosure law. The bills are designed for the categories the cases reveal, not for the cases themselves.
+**Why these four cases? Aren't there others?** There are. DynaLIFE, Tylenol, the CEC, and Bill 6 were chosen because they are recent, because the public record on each is reasonably complete, and because each illustrates a different *kind* of structural gap — records that didn't exist, emergency authority with no contemporaneous reasoning, a corporate vehicle outside ordinary disclosure law, and a bill tabled before its consultation. The bills are designed for the categories the cases reveal, not for the cases themselves. Three sit under UCP government, one under NDP government, by design.
 
 ---
 
@@ -736,6 +751,71 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 [^psic-stats]: Public Sector Integrity Commissioner, *Annual Reports* 2007–08 through 2023–24. <https://psic-ispc.gc.ca/en/resources/corporate-publications>
 
 [^mikisew]: *Mikisew Cree First Nation v. Canada (Governor General in Council)*, 2018 SCC 40. The 7–2 majority held the duty to consult does not apply to the legislative process. A 5–4 majority held that the honour of the Crown nonetheless conditions the legislative process, though the remedies that flow from that proposition remain contested.
+
+[^bill6-canlii]: *Enhanced Protection for Farm and Ranch Workers Act*, SA 2015, c 19. First reading November 17, 2015; Royal Assent December 10, 2015; in force January 1, 2016. <https://www.canlii.org/en/ab/laws/astat/sa-2015-c-19/latest/sa-2015-c-19.html>
+
+[^bill6-announcement]: *Alberta Views*, "Beyond Bill 6 — Can farmers and government find common ground?" <https://albertaviews.ca/beyond-bill-6/>
+
+[^bill6-protests]: CBC News, "Bill 6 petition in Alberta has thousands opposing NDP's farm safety legislation," December 2015 <https://www.cbc.ca/news/canada/calgary/petition-against-alberta-farm-safety-1.3338226>; CBC News, "Farm safety bill will pass this fall, but Alberta government says it will be amended," December 2015 <https://www.cbc.ca/news/canada/edmonton/bill-6-will-pass-but-alberta-government-says-it-will-be-amended-1.3345369>; Global News, "Amendments to Bill 6 exclude farm owners and their families from new rules," December 2015 <https://globalnews.ca/news/2384640/>
+
+[^bill6-twg]: CBC News, "Alberta working groups to start farm safety consultations next month," 2016 <https://www.cbc.ca/news/canada/edmonton/alberta-working-groups-to-start-farm-safety-consultations-next-month-1.3591615>; ABLawg, "Update on the Rights of Farm and Ranch Workers in Alberta," April 3, 2017 <https://ablawg.ca/2017/04/03/update-on-the-rights-of-farm-and-ranch-workers-in-alberta/>
+
+[^bill6-carlier]: CBC News, "Alberta's agriculture minister says NDP has 'turned a corner' after Bill 6 controversy," 2016 <https://www.cbc.ca/news/canada/calgary/agriculture-minister-admits-bill6-mistake-1.3415855>
+
+
+[^fed-accountability-2006]: *Federal Accountability Act*, SC 2006, c 9; Royal Assent December 12, 2006. Amended the *Lobbyists Registration Act* and renamed it the *Lobbying Act*. Enacted in response to the Commission of Inquiry into the Sponsorship Program and Advertising Activities (Gomery Commission, 2005–06). <https://laws-lois.justice.gc.ca/eng/acts/F-5.5/>
+
+[^psdpa-2005]: *Public Servants Disclosure Protection Act*, SC 2005, c 46; in force April 15, 2007. <https://laws-lois.justice.gc.ca/eng/acts/p-31.9/>
+
+[^alberta-accountability-2014]: *Alberta Accountability Act*, SA 2014, c 13 (Bill 2), Royal Assent December 11, 2014. Amended the *Conflicts of Interest Act*, the *Lobbyists Act*, and the *Public Service Act*; tabled in the fall sitting following Premier Redford's March 2014 resignation. CBC News, "Accountability act introduced by Alberta government," November 17, 2014. <https://www.cbc.ca/news/canada/edmonton/accountability-act-introduced-by-alberta-government-1.2865061>
+
+[^pida-2012]: *Public Interest Disclosure (Whistleblower Protection) Act*, SA 2012, c P-39.5; in force June 1, 2013 with Alta Reg 71/2013 and the establishment of the Office of the Public Interest Commissioner. <https://www.canlii.org/en/ab/laws/stat/sa-2012-c-p-39.5/latest/sa-2012-c-p-39.5.html>
+
+[^tylenol-mhcare]: Carrie Tait, "Alberta paid more than six times usual price for pain medications in $70-million import deal," *The Globe and Mail*. <https://www.theglobeandmail.com/canada/alberta/article-alberta-turkish-pain-medication-deal-prices/>
+
+[^cec-winddown]: Global News, "Alberta's so-called 'energy war room' shuts down," June 2024. <https://globalnews.ca/news/10561126/alberta-energy-war-room-closed/> Lifetime cost figure is the drafter's estimate from public budget reporting.
+
+[^coia-2007]: *Conflict of Interest Act*, SC 2006, c 9, s 2; in force July 9, 2007. <https://laws-lois.justice.gc.ca/eng/acts/c-36.65/>
+
+[^trudeau-i]: Mary Dawson, Conflict of Interest and Ethics Commissioner, *The Trudeau Report*, December 20, 2017. Found contraventions of sections 5, 11, 12, and 21 of the *Conflict of Interest Act*. <https://ciec-ccie.parl.gc.ca/en/publications/Documents/InvestigationReports/The%20Trudeau%20Report.pdf>
+
+[^trudeau-ii]: Mario Dion, Conflict of Interest and Ethics Commissioner, *Trudeau II Report*, August 14, 2019. Found a contravention of section 9 of the *Conflict of Interest Act*. <https://ciec-ccie.parl.gc.ca/en/publications/Documents/InvestigationReports/Trudeau%20II%20Report.pdf>
+
+[^fed-lobby-threshold]: *Lobbying Act*, RSC 1985, c 44 (4th Supp.). The statute uses "a significant part of [the employee's] duties" without numerical specification; the operative threshold is set by interpretation bulletin of the Commissioner of Lobbying. The 2009 "20% rule" interpretation (~32 hours per month) was replaced by the Commissioner's 2024 bulletin lowering the threshold to 8 hours of registrable activity within any rolling 4-week period; the new bulletin took full effect January 19, 2026. The brief's "significant part of duties" reflects the statutory language; the operative threshold under the current bulletin is materially lower. <https://lobbycanada.gc.ca/en/rules/the-lobbying-act/advice-and-interpretation-lobbying-act/significant-part-of-duties-registration-threshold-for-organizations-and-corporations>
+
+[^bc-lta-2020]: *Lobbyists Transparency Act*, SBC 2018, c 54; in force May 4, 2020. Replaced the prior 100-hour threshold with a "significant part of duties" standard. <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18054>
+
+[^ontario-lra]: *Lobbyists Registration Act, 1998*, SO 1998, c 27, Sched. Section 5(1) requires registration where in-house lobbyists, individually or collectively, devote at least 50 hours per year to lobbying activity. <https://www.ontario.ca/laws/statute/98l27>
+
+[^bc-lota]: *Land Owner Transparency Act*, SBC 2019, c 23; registry launched November 30, 2020 and opened to public search April 30, 2021. Creates a publicly searchable registry of beneficial interests in B.C. land; corporate beneficial ownership for non-land assets is recorded in the *Business Corporations Act* transparency register, which is not publicly accessible. <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19023>
+
+[^alberta-lobbyists-act]: *Lobbyists Act*, SA 2007, c L-20.5. The original 2007 Act set the in-house registration threshold at 100 hours annually; the *Lobbyists Amendment Act, 2018* (Bill 11) lowered the threshold to 50 hours annually inclusive of preparation time. <https://www.canlii.org/en/ab/laws/stat/sa-2007-c-l-20.5/latest/sa-2007-c-l-20.5.html>
+
+[^vaid]: *Canada (House of Commons) v. Vaid*, 2005 SCC 30, [2005] 1 SCR 667. Sets the doctrine-of-necessity test for parliamentary privilege. <https://www.canlii.org/en/ca/scc/doc/2005/2005scc30/2005scc30.html>
+
+[^mciver-2018]: *McIver v. Alberta (Ethics Commissioner)*, 2018 ABQB 240. Court of Queen's Bench held it lacked jurisdiction to judicially review the Ethics Commissioner's conflict-of-interest finding against a sitting MLA on the ground that the Commissioner was acting pursuant to parliamentary privilege. See also *McIver v. Alberta (Ethics Commissioner)*, 2017 ABQB 695 (Speaker added as respondent on the procedural application). <https://canliiconnects.org/en/summaries/63262>
+
+[^nist-beacon]: National Institute of Standards and Technology, Computer Security Resource Center, *Interoperable Randomness Beacons* project. Beacon Version 2.0 (Beta) generates 512-bit full-entropy pulses every 60 seconds; each pulse is sequence-numbered, time-stamped, signed, and chained by hash to the previous pulse. <https://csrc.nist.gov/projects/interoperable-randomness-beacons>
+
+[^simpsons-sears]: *Ontario Human Rights Commission v. Simpsons-Sears Ltd.*, [1985] 2 SCR 536, 1985 CanLII 18 (SCC). Established the burden-shifting framework for adverse-effect discrimination. <https://www.canlii.org/en/ca/scc/doc/1985/1985canlii18/1985canlii18.html>
+
+[^moore]: *Moore v. British Columbia (Education)*, 2012 SCC 61, [2012] 3 SCR 360. Refined the prima facie test. <https://www.canlii.org/en/ca/scc/doc/2012/2012scc61/2012scc61.html>
+
+[^snc-cabinet]: *Trudeau II Report* at paras. 51–55 and 304–315. The partial cabinet-confidence waiver issued by Order in Council on February 25, 2019 covered the Attorney General and persons who participated directly in discussions with her about the SNC-Lavalin prosecution; nine witnesses were constrained from providing the Commissioner their full evidence as a result. <https://ciec-ccie.parl.gc.ca/en/publications/Documents/InvestigationReports/Trudeau%20II%20Report.pdf>
+
+[^wigglesworth]: *R. v. Wigglesworth*, [1987] 2 SCR 541, 1987 CanLII 41 (SCC). Established the two-branch test for the application of section 11 of the *Charter*: proceedings criminal by their very nature, or proceedings imposing a "true penal consequence." <https://www.canlii.org/en/ca/scc/doc/1987/1987canlii41/1987canlii41.html>
+
+[^guindon]: *Guindon v. Canada*, 2015 SCC 41, [2015] 3 SCR 3. Confirmed the *Wigglesworth* framework and held that administrative monetary penalties under section 163.2 of the *Income Tax Act* are regulatory, not criminal, and do not engage section 11 of the *Charter*. <https://www.canlii.org/en/ca/scc/doc/2015/2015scc41/2015scc41.html>
+
+[^harper]: *Harper v. Canada (Attorney General)*, 2004 SCC 33, [2004] 1 SCR 827. Held that third-party election-spending limits in the *Canada Elections Act* infringe section 2(b) of the *Charter* but are saved under section 1 on electoral-fairness grounds. <https://www.canlii.org/en/ca/scc/doc/2004/2004scc33/2004scc33.html>
+
+[^wisconsin-gab]: 2015 Wisconsin Act 118, signed December 16, 2015 by Governor Scott Walker; dissolved the Wisconsin Government Accountability Board (effective June 30, 2016) and replaced it with two partisan-balance commissions: the Wisconsin Ethics Commission and the Wisconsin Elections Commission. <https://docs.legis.wisconsin.gov/2015/related/acts/118>
+
+[^hungary-orban]: For documentation of the appointment-pattern referenced, see European Parliament, Committee on Civil Liberties, Justice and Home Affairs, *Sargentini Report* (2018); Cato Institute, *How Viktor Orban's Hungary Eroded the Rule of Law and Free Markets* (2024). <https://www.cato.org/policy-analysis/how-viktor-orbans-hungary-eroded-rule-law-free-markets> The brief's reference is to a structural pattern, not to a direct doctrinal analogue.
+
+[^unda-2021]: *United Nations Declaration on the Rights of Indigenous Peoples Act*, SC 2021, c 14; in force June 21, 2021. Section 5 obliges the Government of Canada, in consultation and cooperation with Indigenous peoples, to take all measures necessary to ensure the laws of Canada are consistent with the *United Nations Declaration on the Rights of Indigenous Peoples*. The Act binds the federal Crown; Alberta has not enacted parallel implementing legislation. <https://laws-lois.justice.gc.ca/eng/acts/u-2.2/>
+
+[^haida]: *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73, [2004] 3 SCR 511. Established the Crown's duty to consult and, where appropriate, accommodate Aboriginal peoples whose claimed rights or title may be adversely affected by Crown conduct, grounded in the honour of the Crown. <https://www.canlii.org/en/ca/scc/doc/2004/2004scc73/2004scc73.html>
 
 ---
 
@@ -1863,6 +1943,270 @@ The domain-specific content additional to the common content under this section 
 **(4)** Obligations under Parts 2 through 5 apply only to named-party legislation introduced, regulatory approvals granted, concessional arrangements entered into, and ministerial individual exemptions made on or after the commencement of those respective Parts.
 
 **(5)** Except as otherwise provided, this Act comes into force on Royal Assent.
+
+
+---
+
+# Appendix C — Methodology proposal for the Enforcement Equity Report
+
+*A drafted starting point for the Auditor General's office. Released under CC-BY-SA 4.0.*
+
+---
+
+*A drafted starting point for the Auditor General's office. Released under CC-BY-SA 4.0. Not a final methodology; a structured proposal designed to be revised in consultation with the office that would administer it.*
+
+---
+
+## Why this is an appendix
+
+The Enforcement Equity Report at Bill 2 §7 is the most novel provision in the package and the most underspecified. Part V names a four-part methodological framework — a definition of "similarly-situated parties," a comparator-pool methodology, a covariate model, and a publication standard — but does not develop any of them in operational detail. A reader who is asked to take the provision seriously without seeing what its administration would actually look like has reasonable cause to set the brief down at that point.
+
+This appendix runs the framework. It is not a final methodology. It is a structured proposal for what one looks like, written so that the Auditor General's office, regulators, scholars, and members of the regulated public can argue with it section by section. The intended use is the first-year *draft for comment* contemplated by Part V — a document the AG's office would publish, receive submissions on, and refine before the first formal Enforcement Equity Report is tabled.
+
+The appendix borrows nothing operational from any specific Canadian or international regulator's existing practice, because none has published a methodology for systemic enforcement-equity analysis at provincial scale. Where the appendix gestures at analogues, those analogues are partial — fairness-in-policing analyses, securities-enforcement reviews, tax-administration audits — and none of them resolves the core problem the EE Report is built to address.
+
+---
+
+## Purpose and scope
+
+The EE Report asks one question. When a regulator makes an enforcement decision — to inspect, to sanction, to refer for prosecution, to resolve administratively, to defer, to close — does the pattern of those decisions, when assembled across cases, correlate with characteristics of the regulated parties that should not be driving enforcement?
+
+The report does not adjudicate any individual case. Individual adjudication is what the regulator's existing processes do. The report does not replace regulator judgement. It sits one layer above the case file, looking at decisions in aggregate.
+
+The report covers regulatory bodies, administrative tribunals, and enforcement agencies as defined in Bill 2 §7. The first report covers a small number of bodies; coverage expands to all designated bodies within five years. The five-year timeline is deliberate, because the methodology has to be developed in the open and refined iteratively. A fully formed methodology dropping in at year one would be either undercooked or a fiction.
+
+What the report does *not* cover: the Crown's own conduct in litigation; case-specific privilege; matters subject to active law-enforcement investigation; regulatory decisions that are already subject to judicial review on the same record. The report is a pattern-detector. It is not a court.
+
+---
+
+## The four-part framework, developed
+
+### Part 1 — Similarly-situated parties
+
+The hardest definition in the appendix. Two regulated parties are "similarly-situated" for the purposes of the EE Report if their underlying conduct is comparable on the regulator's own definitional terms, and the parties are comparable along axes the regulator's enforcement decisions might reasonably attend to.
+
+Four operational tests for similarity. Each is a necessary condition; together they are sufficient for inclusion in a comparator pool.
+
+**Sector.** Same regulated activity, defined by the regulator's own classification system or by NAICS / NOC code where the regulator does not maintain one. Cross-sector comparisons are not what the report is for. A pipeline operator's enforcement record is not comparable to a hospital's enforcement record, regardless of how the underlying conduct might appear similar in a procurement-style abstraction.
+
+**Scale.** Comparable approximate scale, defined by whichever metric the regulator uses to set its own enforcement tier — production volume, employee count, revenue band, number of regulated assets. The metric matters: a regulator that classifies operators by production volume produces enforcement tiers that look different from a regulator that classifies by revenue. The EE Report uses the regulator's own scale metric, not an externally imposed one.
+
+**Regulatory history.** Comparable prior regulatory record, defined by the recency, severity, and resolution of prior enforcement actions. A first-time violation at a party with a clean ten-year history is not comparable to the same violation at a party with three prior violations resolved at escalating severity. The covariate model in Part 3 holds prior history statistically constant; the similarity test ensures the comparator pool is at least minimally comparable on this dimension before the model runs.
+
+**Geography (where geography matters).** Some regulators have geographic enforcement variation that is operationally legitimate — different field offices, different inspection timetables, different regional capacity. Where geography matters, similarity is bounded within geography. Where geography does not matter operationally, the geographic axis is dropped.
+
+The output of Part 1 is, for any given enforcement decision, a definitional rule that identifies a pool of similarly-situated parties facing comparable underlying conduct. The pool is constructed from the regulator's own records and verified independently by the AG.
+
+### Part 2 — Comparator pool construction
+
+The pool for any given enforcement decision is the set of all similarly-situated parties who, over a comparable window, faced comparable underlying conduct on the regulator's own definitional terms, and for whom the regulator made an enforcement decision (including the decision not to enforce, where that decision is recorded).
+
+Three construction rules:
+
+**The window.** The comparable window is calibrated to the regulator's own enforcement cycle and the conduct's typical duration. For a one-time violation, the window is the period from the conduct's occurrence to the next regulator review of the operator. For a continuous-conduct violation, the window is the regulator's standard inspection or audit cycle. Where the regulator has no standard cycle, the AG sets a window with reasons published.
+
+**The corpus.** The full corpus from which pools are drawn is the regulator's complete enforcement-decision record over the relevant window. This includes decisions to inspect, decisions to issue warnings, administrative penalties, prosecution referrals, settlements, and decisions to take no action where conduct was identified. The AG accesses the record through a confidentiality protocol described in the *Data architecture* section below.
+
+**Verification.** The pool the AG constructs is verified independently against the regulator's own records by sampling: the AG draws a 5% random sample of pool decisions and asks the regulator to confirm the relevant facts (the conduct, the parties, the decision, the date). Discrepancies above a published tolerance — meaning more than two percent of sampled decisions cannot be confirmed — trigger reconstruction of the pool with the regulator's input. This is iterative and may take more than one cycle to settle.
+
+The output of Part 2 is a defensible comparator pool for each enforcement decision examined, with the construction methodology documented so the regulator and the public can examine it.
+
+### Part 3 — The covariate model
+
+Once the comparator pool is constructed, the question is whether the regulator's decisions across the pool show patterns that correlate with characteristics of the parties that should not be driving enforcement. The naive version of this analysis — simply observing that party A was sanctioned and party B was not — does not survive any serious regulator's response, because regulators have many legitimate reasons to treat similar cases differently.
+
+The covariate model holds the legitimate explanations statistically constant before testing the residual variance for problematic correlations.
+
+**Variables held constant.** At minimum:
+
+- *Cooperation.* Did the party cooperate with the regulator at the moment of enforcement? Cooperative parties routinely receive lighter administrative responses than uncooperative ones; this is operationally legitimate. The covariate is binary at the gross level (cooperated / did not cooperate) and ordinal at the fine level (degree of cooperation, recorded by the regulator).
+- *Severity.* The regulator's own severity scoring of the underlying conduct. A spill of one barrel and a spill of ten thousand barrels are not comparable by the regulator's own terms even where both fall within the same statutory provision.
+- *Complexity.* Is the regulator's decision constrained by the case's legal or technical complexity? A novel question of statutory interpretation may legitimately produce a softer enforcement response while precedent develops. The covariate is ordinal, set by the regulator's own complexity flag where one exists.
+- *Voluntary disclosure.* Did the party self-report the conduct to the regulator? Self-reporting is widely treated as mitigating, and properly so. The covariate is binary.
+- *Prior compliance history.* The covariate the similarity test held only minimally constant, now controlled in detail at the model stage. Number of prior actions, severity of priors, time since most recent prior.
+
+**Variables tested for.** After holding the legitimate variables constant, the residual variance is tested against:
+
+- *Industry sub-sector* (within the broad sector that defined the pool).
+- *Party size class* (within the broad scale band that defined the pool).
+- *Political contribution history of the party's individuals with significant control* (drawing on the Bill 1 §15 cross-reference register; the contribution history examined is from the four-year window preceding the conduct or the enforcement decision, whichever is earlier).
+- *Recent receipt of state benefit* (concessional arrangement, regulatory approval, ministerial individual exemption — drawing on the Bill 2 disclosure registers).
+- *Stated location relative to government caucus seats* (where the regulator covers province-wide activity).
+
+The tests are statistical. The model produces correlation coefficients with confidence intervals. A correlation that survives at the published confidence threshold is "pattern identified." A correlation that does not is "pattern not identified." Neither characterization implies a corruption finding.
+
+**Multiple comparisons.** The covariate model runs many tests simultaneously. The AG corrects for multiple comparisons using a published method (false discovery rate at q = 0.05 is the appendix's working proposal; the office may choose a different correction with reasons published). Without correction, the EE Report would generate spurious patterns; with conservative correction, it would miss real ones. The chosen correction is documented and re-examined annually.
+
+**Statistical software and reproducibility.** All analyses are conducted in software that produces reproducible scripts. The scripts, with personal-information redaction, are published alongside the report so independent analysts can replicate the analysis on the same data or run sensitivity analyses with different parameters.
+
+### Part 4 — Publication standard
+
+The report distinguishes three states for any given regulator-conduct combination:
+
+- **Pattern not identified.** The covariate model finds no statistically significant correlation between residual variance and any of the tested variables, after multiple-comparisons correction. The report so reports.
+- **Pattern identified, no further inquiry warranted.** A statistically significant pattern is detected, but its magnitude or direction does not warrant further inquiry — for example, a pattern that is statistically real but operationally trivial, or a pattern in a direction the regulator can defensibly explain on the public record.
+- **Pattern identified, further inquiry warranted.** A statistically significant pattern is detected whose magnitude, direction, or covariate combination raises questions the regulator's standard processes do not resolve. The report so reports, and the matter is referred to the Ethics Commissioner under Bill 1 §22 if the pattern implicates conduct within the Commissioner's jurisdiction, or remains a published finding for the political process and the press to act on.
+
+Each report category includes:
+
+- The methodology used (which can change year-over-year as the methodology refines).
+- The data accessed.
+- The pool construction details.
+- The covariate model parameters.
+- The correlation results, with confidence intervals.
+- The multiple-comparisons correction applied.
+- The regulator's response, where one is provided.
+- The Auditor General's comments on the response.
+- The communications log under Bill 2 §7(8).
+
+A "pattern identified" finding is not a corruption finding. The report so states, prominently, in every relevant section. The point of the regime is to surface patterns the regulator's own data reveals when assembled across cases, not to replace adjudication.
+
+---
+
+## Data architecture
+
+The AG needs access to the regulator's enforcement-decision record. Three architectural questions: what data, on what schedule, under what confidentiality.
+
+**What data.** A unified record that captures, for each regulatory action over the relevant window:
+
+- The regulated party (entity name + ISC where the entity has one).
+- The conduct identified.
+- The regulator's classification of severity.
+- The regulator's classification of complexity.
+- The cooperation indicator.
+- The voluntary-disclosure indicator.
+- The decision (no action, warning, administrative penalty, prosecution referral, settlement, other).
+- The date of the decision.
+- The geographic locus where geography matters.
+- Any cross-references to prior actions involving the same party.
+
+Most regulators already collect most of this. Where they do not, the EE Report's first-year coverage is limited to the regulators that do, and the others are added as their data infrastructure catches up.
+
+**On what schedule.** The data refresh is annual, in the first quarter of the calendar year, covering the preceding fiscal year. Incremental updates are tracked but not separately reported.
+
+**Under what confidentiality.** Three layers.
+
+The AG's office holds the data under the existing confidentiality framework that governs AG audits — the *Auditor General Act* preserves the AG's access to public-body information without compromising business confidentiality of regulated parties. The EE Report regime sits inside that framework.
+
+The published report aggregates and anonymizes. Specific parties are named only where the underlying conduct is already a matter of public record (e.g., a published enforcement decision) and where naming the party adds analytical value the report cannot otherwise convey. Where naming is unnecessary, parties are coded.
+
+The reproducibility scripts published alongside the report use anonymized data with personal-information redaction. The full underlying record remains with the AG and the regulator.
+
+---
+
+## A worked illustration: the Alberta Energy Regulator
+
+A concrete pass through the methodology, applied to a notional EE Report on the AER's enforcement of the *Oil and Gas Conservation Act* over a five-year window. This is illustrative; the AER would be one of the bodies covered, and the methodology would apply broadly similarly to other regulators.
+
+**Pool construction.** For each enforcement decision in the window — say, an administrative penalty issued for a flaring exceedance — the comparator pool is all operators with comparable production volume, comparable past five-year compliance history, operating in the same operational region, who recorded a flaring exceedance in the same statutory window. The pool is drawn from AER's own enforcement record, verified by a 5% sample.
+
+**Covariates held constant.** AER's own compliance-investigation records identify cooperation, severity, complexity, voluntary disclosure, and prior compliance history for each enforcement decision. The covariate model uses these AER-recorded values directly.
+
+**Variables tested.** The model tests whether residual variance in enforcement disposition (warning vs. administrative penalty vs. prosecution referral) correlates with: operator size sub-class within the comparable production-volume band; operator's ISCs' political contribution history within the four-year window; operator's receipt of a regulatory approval, concessional arrangement, or ministerial individual exemption within the four-year window; operator's geographic concentration relative to government caucus seats.
+
+**Possible outputs.** Three illustrative scenarios:
+
+*Scenario A.* The covariate model finds no statistically significant correlation. The report so reports. The regulator's enforcement of the *Oil and Gas Conservation Act* over the window is consistent with the legitimate explanations the model controlled for. Public confidence is reinforced; the regime imposed minor cost on AER and the AG; no further inquiry follows.
+
+*Scenario B.* The model finds a statistically significant correlation between operator size class and enforcement severity, after controlling for cooperation, severity, complexity, and prior history. Larger operators receive proportionally lighter administrative responses than smaller operators for comparable conduct. The report identifies the pattern and notes that a defensible explanation exists — larger operators have more sophisticated counsel and may resolve enforcement more efficiently — but the magnitude warrants further inquiry. The regulator responds; the AG comments. The political process reads the report.
+
+*Scenario C.* The model finds a statistically significant correlation between operator ISC contribution history and enforcement disposition: operators whose ISCs contributed above the four-year threshold to the governing party receive proportionally lighter responses. The report so reports. The matter is referred to the Ethics Commissioner under §22; the political process reads the report. No corruption finding has been made, by the AG or by the Commissioner; what has happened is that a pattern in the regulator's own data has been surfaced.
+
+The illustrations are notional. None corresponds to a current AER enforcement record. The point is to show what an actual EE Report output looks like at the level a regulator and the public can engage with it.
+
+---
+
+## What the methodology cannot do
+
+Honest accounting. Five limits.
+
+**It cannot replace regulator judgement on individual cases.** The report is a pattern-detector across cases, not an adjudicator within them. Every individual enforcement decision the report examines was made by the regulator on its own grounds; the report does not unmake any of those decisions.
+
+**It cannot identify causation.** Statistical correlation between residual variance and a tested variable does not establish that the variable caused the variance. The report identifies the pattern; the political process, the regulator, the Commissioner, and the public draw inferences.
+
+**It cannot detect patterns smaller than its statistical power admits.** Where a regulator handles few decisions per year, or where the comparator pool is small, the model may not detect a real pattern that a larger pool would have surfaced. The report is honest about this; "pattern not identified" does not mean "no pattern exists."
+
+**It cannot cover regulators whose data infrastructure is inadequate.** The first-year coverage is limited to bodies whose enforcement records meet the methodology's data requirements. Coverage expands as data matures. Where a regulator is excluded from a year's report for data reasons, the report so notes.
+
+**It cannot prevent the regime from being weaponised.** A captured Auditor General who selects which patterns to publish, or who calibrates the methodology to surface or suppress particular kinds of correlation, can corrupt the report from inside. The defences against this are upstream of the methodology: the Auditor General's two-thirds appointment and removal under Bill 1 §11B; the §24 budget floor; the §7(8) communications log. The methodology's own contribution is procedural — published methodology, reproducibility scripts, regulator-response sections, multiple-comparisons correction with stated parameters. None of those are guarantees.
+
+---
+
+## Iterative refinement
+
+The methodology is published in draft form in the AG's first year of operation under §7. The draft is open for written submissions from regulators, the regulated public, scholars, civil-society organizations, and members of the public. The AG publishes the submissions received and a written response. The methodology is revised based on the submissions and the AG's analysis; the revised methodology is the basis for the first formal EE Report.
+
+The methodology is reviewed every three years thereafter. The five-year coverage timeline at Bill 2 §7 is calibrated to the iterative-refinement schedule: year one is draft-for-comment; years two through four are first-cycle reports with one or two regulatory bodies; year five expands to full coverage of designated bodies.
+
+Methodology changes are published with reasons. A revision that materially changes how a pattern would be classified ("identified" vs. "not identified") is published with a parallel re-analysis of the prior year's report under the new methodology, so longitudinal comparability is preserved.
+
+---
+
+## What other jurisdictions do
+
+A short comparative survey, partial because the analogues are partial.
+
+**Federally.** The Canada Revenue Agency conducts large-scale random-audit programs whose findings are aggregated annually but not disaggregated by enforcement-equity dimensions of the kind this methodology would examine. The Office of the Auditor General of Canada conducts performance audits that occasionally examine enforcement-equity questions for specific programs but does not maintain a continuous methodology of the kind proposed here.
+
+**Peer provinces.** No Canadian province currently produces an annual systemic enforcement-equity report under a published methodology. Some provincial Information and Privacy Commissioners have produced one-off systemic studies; none is annual or regularised.
+
+**Comparable international practice.** The United Kingdom's National Audit Office and Australia's National Audit Office both conduct enforcement-pattern analyses on specific programs but have not generalised to a continuous province- or state-wide methodology. United States state-level analogues are partial, focused on specific enforcement domains (policing, securities, environmental), and uneven in methodology.
+
+**The EE Report's distinctiveness.** What the EE Report adds is the combination: continuous, province-wide, methodologically uniform, statistically rigorous, published with reproducibility scripts, paired with a communications log that catches ministerial pressure. None of the analogues combines all of those elements, which is why Part V calls the report "genuinely new in Canadian provincial practice."
+
+---
+
+## Statistical robustness
+
+Five tests the methodology should pass before any formal report is published.
+
+**Sample-size adequacy.** Each comparator pool must contain enough decisions to detect a meaningful pattern at the chosen confidence threshold. The methodology specifies a minimum pool size; pools that fall below the minimum are reported as "insufficient data" rather than as "pattern not identified."
+
+**Multiple-comparisons correction.** The chosen correction (false discovery rate at q = 0.05 in the working proposal) is applied transparently and re-examined annually.
+
+**Sensitivity analysis.** Each "pattern identified" finding is tested against alternative covariate specifications, alternative pool-construction rules, and alternative correction methods. The robustness of the finding to specification changes is reported.
+
+**Independent replication.** The reproducibility scripts published alongside the report allow independent analysts to replicate the analysis. The AG's office welcomes replication submissions and publishes responses.
+
+**Public verifiability.** A non-technical reader cannot verify the underlying statistics directly, but can verify the methodology is being followed (by reading the methodology document and the report's methodology section), and can verify the data is what the AG said it was (by reading the regulator's response section). The report is not a black box.
+
+---
+
+## Sample published-report template
+
+A skeleton of what an annual EE Report looks like as a document.
+
+*Front matter.* The report's title, the AG's signature, the date, the bodies covered, the period covered.
+
+*Methodology section.* The current methodology, with any changes from the prior year flagged. The pool-construction rules. The covariate-model specification. The multiple-comparisons correction.
+
+*Per-body sections.* For each regulatory body covered:
+
+- Description of the body's enforcement role.
+- Data accessed and the period covered.
+- Pool-construction details specific to the body.
+- Patterns examined (the variables tested).
+- Findings — pattern not identified / pattern identified, no further inquiry / pattern identified, further inquiry warranted.
+- Regulator's response.
+- AG's comments on the response.
+
+*Cross-cutting sections.* Patterns that appear across bodies. Methodological refinements proposed for the next cycle.
+
+*Communications log.* The §7(8) record of all communications received about the report's scope, methodology, selection, or findings, with the characterizations the section requires (informational, advisory, directive). A nil return where appropriate.
+
+*Reproducibility appendix.* Pointers to the published scripts and anonymized data sets.
+
+*Methodology evolution.* The changes from the prior year's methodology, with reasons.
+
+The report is a substantial document. It should be. The methodology argues that what is being measured matters; the report's length is the cost of doing it carefully.
+
+---
+
+## Final note
+
+This is a starting point. The Auditor General's office, in consultation with the bodies it covers and the public it serves, will produce a methodology that supersedes most of what this appendix proposes. That is the design intent: the appendix exists so the conversation has somewhere to start, not so the AG is bound to anything in particular.
+
+What the appendix does not concede is the proposition that systemic enforcement-equity analysis at provincial scale is impossible. It is hard. It has not been done in the form Bill 2 §7 contemplates. The methodology developed here is one good-faith attempt at showing how it could be done. Better attempts will follow. That is the right pattern for a hard problem.
 
 
 <div class="end-mark">·  ·  ·</div>

@@ -15,6 +15,7 @@ ROOT = Path(__file__).parent
 NARRATIVE = ROOT / "narrative-v5.md"
 BILL_1 = ROOT / "bill-1-honest-government-act.md"
 BILL_2 = ROOT / "bill-2-open-books-act.md"
+APPENDIX_C = ROOT / "appendix-c-ee-report-methodology.md"
 TARGET = ROOT / "policy-brief.md"
 
 LICENSE_TAG = "Released under CC-BY-SA 4.0."
@@ -42,6 +43,7 @@ def main():
     narrative = NARRATIVE.read_text(encoding="utf-8")
     bill_1 = strip_first_h1(BILL_1.read_text(encoding="utf-8"))
     bill_2 = strip_first_h1(BILL_2.read_text(encoding="utf-8"))
+    appendix_c = strip_first_h1(APPENDIX_C.read_text(encoding="utf-8"))
 
     colophon = (
         "\n\n"
@@ -63,6 +65,11 @@ def main():
             "Appendix B — Bill 2: The Open Books Act",
             f"Full drafted text. {LICENSE_TAG}",
             bill_2,
+        )
+        + section(
+            "Appendix C — Methodology proposal for the Enforcement Equity Report",
+            f"A drafted starting point for the Auditor General's office. {LICENSE_TAG}",
+            appendix_c,
         )
         + colophon
     )

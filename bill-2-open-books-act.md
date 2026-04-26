@@ -151,7 +151,7 @@ but does not include:
 (a) the escalation framework in Part 3 (Public Report of Findings, Compliance Order, Certificate of Malfeasance);
 (b) the proportional penalty framework in §25, including the decline-tracking mechanism in §25(6) and the beneficial ownership determination authority in §25(10);
 (c) the good-faith defense in §26;
-(d) the review and appeal provisions in Part 8;
+(d) the review and appeal provisions in Part 9;
 (e) the quarterly compliance report obligation in §23, extended to include matters arising under this Act;
 (f) the resourcing and budget visibility provisions in §24;
 (g) the threshold and regulation-making authority in §28;
@@ -169,7 +169,7 @@ but does not include:
 
 **8B. Common provisions for published disclosures.** The following apply to every Beneficiary Disclosure Statement, Proponent Disclosure Record, Concessional Arrangement Disclosure, and Individual Exemption Disclosure (each a "published disclosure" for the purposes of this section):
 
-**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3 and 8 of that Act.
+**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3, 8, 9, and 10 of that Act, as applicable.
 
 **(2) Right of correction.** Any person whose personal information is included in a published disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original disclosure. The original disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 
@@ -194,6 +194,14 @@ The domain-specific content additional to the common content under this section 
 ### Statutory Review
 
 **9.** Within 5 years of commencement, the Minister responsible for the administration of this Act shall cause a comprehensive review of the operation of the Act to be conducted jointly with the review required under §30 of the Honest Government Act. The review shall assess the effectiveness of Parts 2 through 6 in illuminating systemic advantage conferred through legislation, regulation, concessional arrangement, and enforcement disparity; the administrative cost of the Act relative to the public interest served; the adequacy of the Enforcement Equity Report as a tool for identifying patterns warranting further investigation; any unintended consequences or gaps; and consult with the Commissioners, the Auditor General, public bodies, regulatory bodies, and affected members of the public, reporting findings with any recommendations for amendment to the Legislative Assembly.
+
+### Severability
+
+**9A(1)** If any provision of this Act, or the application of any provision to any person or circumstance, is held by a court of competent jurisdiction to be invalid, unconstitutional, or otherwise unenforceable, the remainder of this Act, and the application of the provision to other persons or circumstances, remain in full force and effect.
+
+**(2)** Where a provision is severed under subsection (1), the Auditor General shall, in the next Enforcement Equity Report under §7, identify the provision severed and the operational consequences. The Minister shall introduce remedial legislation, or report in writing to the Legislative Assembly the reasons for not doing so, within 12 months of the determination.
+
+**(3)** It is the legislative intent of this Act that each provision be capable of independent operation to the maximum extent consistent with its terms, and that severance preserve the protective effect of the remainder in respect of the public interest in transparent disclosure of advantage conferred by the Crown.
 
 ### Commencement
 

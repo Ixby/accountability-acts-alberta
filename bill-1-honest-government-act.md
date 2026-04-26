@@ -135,13 +135,13 @@
 
 (g) prioritize investigation and enforcement based on materiality, public interest, and resource availability, and for that purpose may establish by published guideline a materiality threshold below which conduct is disposed of by note in the quarterly compliance report; dispose of related matters through consolidated public report; and, by regulation under §28(4), designate low-risk conduct categories for handling through standing compliance protocols rather than individual investigation; and
 
-(h) where the exercise of any power under this Act pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information that the subject would not otherwise have disclosed, do so on the *surgical-and-accountable* principle: the access shall be limited to the least intrusive scope consistent with the purpose for which it is taken; logged in the privilege-and-privacy register established under §23(1A) with the date, the subject, the authority relied upon, the scope, and the purpose; subject to destruction under §25(9B), §27(6A), or §29A as soon as the purpose for which it was taken has been served; and reviewable under Part 8.
+(h) where the exercise of any power under this Act pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information that the subject would not otherwise have disclosed, do so on the *surgical-and-accountable* principle: the access shall be limited to the least intrusive scope consistent with the purpose for which it is taken; logged in the privilege-and-privacy register established under §23(1A) with the date, the subject, the authority relied upon, the scope, and the purpose; subject to destruction under §25(9B), §27(6A), or §29A as soon as the purpose for which it was taken has been served; and reviewable under Part 9.
 
 ### Tier 1 — Public Report of Findings
 
 **7(1)** Where, following investigation with notice and opportunity to respond, the Commissioner finds that a Member, former Member, senior official, former senior official, or entity has engaged in conduct contrary to the *Conflicts of Interest Act* or another statute within the Commissioner's jurisdiction, and the conduct meets the materiality threshold, the Commissioner shall issue a Public Report of Findings.
 
-**(2)** A Public Report of Findings shall identify the person; describe the conduct investigated; set out the factual findings and reasons; state whether the Commissioner is proceeding to Tier 2 or Tier 3 or closing the matter; inform the person of review rights under Part 8 and the good-faith defense under §26; and, where the conduct involves a quantifiable benefit, address disgorgement explicitly, stating the quantified value, the proposed recipient, and any enforcement recommendation.
+**(2)** A Public Report of Findings shall identify the person; describe the conduct investigated; set out the factual findings and reasons; state whether the Commissioner is proceeding to Tier 2 or Tier 3 or closing the matter; inform the person of review rights under Part 9 and the good-faith defense under §26; and, where the conduct involves a quantifiable benefit, address disgorgement explicitly, stating the quantified value, the proposed recipient, and any enforcement recommendation.
 
 **(3)** Conduct below the materiality threshold may be disposed of by note in the quarterly compliance report, identifying the person, describing the conduct, and giving reasons for disposition without formal report.
 
@@ -179,7 +179,7 @@
 >
 > **(4)** Subsection (3) does not apply to arms-length public entities (including Alberta Health Services, public post-secondary institutions, school boards, and municipalities); non-profit organizations receiving operational funding under an established program of general application, where the former official had no decision-making role regarding the specific grant; or employment with no connection to the contract or grant in question.
 >
-> **(5)** Breach results in repayment of transition allowances or severance, in an amount proportionate to the remaining restriction period, subject to review under Part 8.
+> **(5)** Breach results in repayment of transition allowances or severance, in an amount proportionate to the remaining restriction period, subject to review under Part 9.
 
 **11.** Section 31 is amended by adding:
 
@@ -281,6 +281,56 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 **(8) No advisory binding on third parties.** An advance ruling determines the application of this Act to the conduct disclosed; it does not adjudicate the rights or interests of third parties, and it is not binding on any other authority, court, or tribunal.
 
+**(9) Anti-gaming.** The advance-ruling mechanism is bounded against strategic use as follows:
+
+(a) **Aggregation.** Where the conduct contemplated is reasonably part of a course of related conduct, the Commissioner may require that all reasonably-related conduct be addressed in a single request. Artificial severance — submitting components of a related course of conduct as separate requests, each looking unproblematic in isolation — is grounds for declination of any of the severed requests.
+
+(b) **Disclosure of related requests.** A requestor shall disclose, in each request, every other advance-ruling request the requestor or persons acting in concert with the requestor have filed on the same or related subject matter within the preceding 24 months, including any request that was withdrawn before decision.
+
+(c) **Material divergence voids approval.** Where the conduct as carried out materially differs from the conduct as described in the request — in scope, parties, terms, timing, or any other respect a reasonable person would consider material to the Commissioner's analysis — the approval is void as to the divergent conduct, and proceedings may continue as if no advance ruling had issued.
+
+(d) **Off-record contact prohibited.** A requestor and any person acting on the requestor's behalf shall conduct all communications about a pending request through the Commissioner's prescribed written channels. Off-record contact about a pending request — including contact through political or personal intermediaries — is conduct within the jurisdiction of the Commissioner under this Act and may, on its own, found a Public Report or Compliance Order regardless of the outcome of the request itself.
+
+(e) **Time-bounded approvals.** An approval is valid for 12 months from the date of issue. Conduct not carried out within that period requires a fresh request unless the Commissioner extends the period in writing for stated reasons. Approvals do not function as standing cover for indefinite future conduct.
+
+(f) **Ex post audit.** The Commissioner shall audit a random sample of approved requests, selected under the verifiable-randomness procedure in §27, to verify that conduct was carried out in accordance with the request and any conditions. Audit findings are aggregated in the quarterly compliance report under §23 and may identify individual non-compliance.
+
+(g) **Annual pattern review.** The Commissioner shall publish annually, in the report under §24(3), an analysis of the year's advance-ruling activity covering: categories of requests, approval and declination ratios, average review times, conditions imposed, ex post audit results, and any patterns the Commissioner identifies as suggesting strategic use of the mechanism. Where patterns suggest a particular requestor, office, or class of conduct is using the mechanism strategically rather than for genuine certainty-seeking, the Commissioner shall identify the pattern and may recommend regulatory or legislative response.
+
+(h) **Anti-bunching at decision deadlines.** A request received within 10 business days of a decision deadline the requestor faces in connection with the conduct is reviewable on an extended timeline at the Commissioner's discretion, and the Commissioner may decline to issue an approval where the time pressure prevents adequate review. Time-pressured requests do not defeat the Commissioner's ability to take longer where the matter warrants it.
+
+**(10) Provisional reliance pending determination.** Where conduct that is the subject of a complete advance-ruling request must, by reason of timing the requestor cannot control, be carried out before the Commissioner issues a determination under subsection (2), the requestor may proceed in provisional reliance on the request, subject to the following:
+
+(a) **Threshold for availability.** Provisional reliance is available only where:
+
+(i) the request was filed at the earliest reasonable opportunity after the conduct was contemplated;
+
+(ii) the request was complete on filing and disclosed every material fact in accordance with subsection (1);
+
+(iii) the timing pressure arose from circumstances outside the requestor's control, and not from the requestor's own scheduling, deferral, or arrangement of decision deadlines connected with the conduct; and
+
+(iv) the requestor filed contemporaneous written notice with the Commissioner, before carrying out the conduct, stating the date by which the conduct must be carried out, the reason awaiting the determination is not possible, and the specific external constraint that creates the timing.
+
+(b) **Action at risk.** Conduct carried out in provisional reliance is conduct at the requestor's own risk. The complete defense under subsection (3) is available only if the Commissioner subsequently issues an approval under subsection (2)(a) on the same facts disclosed and the conduct as carried out conforms to that approval and any conditions.
+
+(c) **Subsequent approval.** Where the Commissioner subsequently approves under subsection (2)(a) and the conduct as carried out conforms to the request and any conditions, the approval applies to the conduct already carried out as if the determination had been issued before the conduct. Conditions identified by the Commissioner as time-sensitive and incapable of retroactive application bind only future steps and shall be addressed by remediation under paragraph (d) or by future compliance, as the Commissioner directs.
+
+(d) **Subsequent declination or non-conforming approval.** Where the Commissioner subsequently declines, or approves on conditions that the conduct as carried out cannot satisfy:
+
+(i) the complete defense under subsection (3) is not available;
+
+(ii) the good-faith defense under §26 remains available on its own terms, and the contemporaneous filing under paragraph (a)(iv) is admissible as evidence relevant to good faith;
+
+(iii) the Commissioner may, in the same determination, identify remediation steps — including unwinding, restitution, divestiture, public correction, or modification of ongoing terms — that, if undertaken in good faith within a stated period, will bring the conduct into compliance and bar further proceedings under this Act on that conduct; and
+
+(iv) where remediation is impossible, refused, or unsuccessful, proceedings under this Act may continue as if no advance ruling had issued.
+
+(e) **Manufactured time pressure.** A finding under subsection (9)(h) that the requestor manufactured or aggravated the timing pressure is determinative against the availability of provisional reliance under this subsection. The contemporaneous filing under paragraph (a)(iv) is itself reviewable for accuracy, and a materially false statement in that filing is conduct within the jurisdiction of the Commissioner under this Act independent of the underlying request.
+
+(f) **Preliminary view.** On receipt of notice under paragraph (a)(iv), the Commissioner may, within the time available before the conduct must be carried out, issue a preliminary view identifying any conditions the Commissioner would likely require or any aspect of the conduct the Commissioner would likely decline. A preliminary view is not a determination under subsection (2) and does not give rise to the defense under subsection (3), but a requestor's compliance with a preliminary view is admissible as evidence of good faith under §26 and counts toward remediation under paragraph (d)(iii).
+
+(g) **Reporting.** Each instance of provisional reliance shall be identified in the quarterly compliance report under §23, with the basis stated under paragraph (a)(iv) and the eventual determination, and shall be aggregated in the annual pattern review under subsection (9)(g). A pattern of provisional reliance by a single requestor, office, or class of conduct is a pattern within the meaning of subsection (9)(g) and may be the subject of regulatory or legislative recommendation.
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*
@@ -293,7 +343,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **(3)** Subsection (1) does not apply to factual, statistical, operational, or background data provided to the Executive Council, except where disclosure would reveal the substance of Cabinet deliberations; Treasury Board Decision Summaries recording a final decision, which shall be proactively disclosed within 180 days of execution, subject to subsection (4); or Ministerial Mandate Letters, which shall be proactively disclosed at the conclusion of the parliamentary session in which they are issued or 18 months after issuance, whichever is earlier, subject to subsection (4).
 >
-> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 8 of the *Honest Government Act*.
+> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Honest Government Act*.
 >
 > **(5)** Where a Ministerial Mandate Letter is withheld from proactive disclosure under subsection (3) on the grounds of an exception in subsection (4), the withholding shall be recorded within 30 days in a public register maintained by the Information and Privacy Commissioner, identifying: (a) the Minister to whom the mandate letter was issued; (b) a description of the subject matter of the letter sufficient to inform the public of its general nature, as assessed by the Information and Privacy Commissioner — who may require greater particularity on application by any person; (c) the date the letter was issued and the date of the withholding determination; and (d) the exception claimed under subsection (4) and the reasons therefor. The register shall remain publicly accessible for not less than 7 years.
 
@@ -303,7 +353,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(2)** Before imposing a penalty, the Commissioner shall provide written notice of intent with the proposed amount and calculation; afford at least 14 days to respond, including opportunity to raise the good-faith defense; and issue written reasons.
 >
-> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 8 of the *Honest Government Act*.
+> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Honest Government Act*.
 >
 > **(4)** No penalty shall be imposed on an employee for good-faith application of a statutory exception, lawful redaction of third-party personal information protected under the *Protection of Privacy Act*, exercise of a duty to consult third parties, or on line records officers below the Deputy Minister level unless individually subject to a Compliance Order or Certificate.
 
@@ -381,7 +431,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > (i) *First finding:* the Commissioner shall issue a correction order requiring the person to consolidate all returns under a single consistent identity; impose an administrative fee under §25 with necessary modifications; and flag the person for 12-month enhanced scrutiny review of all ISC returns in which the person appears.
 >
-> (ii) *Second finding within 5 years:* the Commissioner shall impose an administrative penalty under §25; and suspend the procurement eligibility of every entity in which the person is an ISC for 24 months across all provincial contracts, subject to review under Part 8.
+> (ii) *Second finding within 5 years:* the Commissioner shall impose an administrative penalty under §25; and suspend the procurement eligibility of every entity in which the person is an ISC for 24 months across all provincial contracts, subject to review under Part 9.
 >
 > (iii) *Third finding, or a finding of deliberate systematic identity fragmentation:* the Commissioner shall impose the maximum administrative penalty available under §25; permanently ban the person from serving as an ISC for any entity bidding on provincial contracts; and refer the matter for criminal investigation under §6(b). Entity-level consequences under subsection (6) apply.
 >
@@ -411,7 +461,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(5)** If the Assembly has not dealt with the Certificate within 30 sitting days, the matter is deemed referred to the appropriate law enforcement authority for investigation. Deemed referral does not constitute a referral for recall.
 >
-> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 8 of the *Honest Government Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
+> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Honest Government Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
 >
 > **(7) Backstop on law enforcement decline.** Where a law enforcement authority receives a referral under subsection (4) or a deemed referral under subsection (5) and declines to investigate or closes the matter without investigation, the authority shall notify the Speaker in writing with reasons, subject to any legal constraint on disclosure of investigative reasoning. On receipt, the Speaker shall cause the Certificate to be retabled with the authority's notice. The Assembly shall, within 15 sitting days of retabling, deal with the Certificate by resolution under subsection (4), with a recorded vote, and the rules of subsection (6) apply to any such resolution.
 
@@ -471,25 +521,77 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 ---
 
-## Part 8 — Common Procedural Provisions
+## Part 8 — Indigenous Engagement at the Interface
+
+*This Part addresses the operational seam where the Crown's accountability machinery encounters the governance systems of Indigenous peoples. It establishes a Crown-internal definition for interface purposes only, an exemption for internal Indigenous governance, an engagement standard consistent with free, prior, and informed consent, an affirmative interpretation rule, a carve-out for Indigenous governance instruments, and an Indigenous Accountability Council. Nothing in this Part is intended to define or characterize Indigenous governance, which derives from sources independent of and prior to the Crown.*
+
+**21A(1) Definition for interface purposes.** The term "Indigenous government" is used in this section solely to identify, for the limited purposes of this Act and at the interface between the Crown and Indigenous governance systems, those bodies whose internal governance is exempt from the operation of this Act and with whom the Crown is required to engage under this section. The term does not, and is not intended to, define, characterize, recognize, withhold recognition from, or limit the inherent jurisdiction or self-determination of Indigenous peoples, which exists independently of any Crown enactment and derives from the inherent rights of Indigenous peoples and from treaty. For the limited purposes of this section, "Indigenous government" means a First Nations government, a Métis government, or an Inuit government that is recognized under federal law, under a self-government agreement, under the *Metis Settlements Act*, or under an agreement with the Government of Canada or a province of Canada, and includes a band council constituted under the *Indian Act* (Canada), a Métis Settlement, and the Métis Nation of Alberta.
+
+**(1.1) Crown-internal reference, not characterization.** For greater certainty, subsection (1) is a Crown-internal reference applicable at the boundary between this Act and the governance systems of Indigenous peoples. Nothing in this Act is to be read as conferring, withholding, defining, or modifying recognition of Indigenous governance, which derives from sources independent of and prior to the Crown.
+
+**(2)** Nothing in this Act applies to the internal governance of an Indigenous government, including the conduct of its elected officials, employees, or agents in the discharge of their governance functions.
+
+**(3) Engagement standard.** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation made in accordance with §28(4A), the Commissioner shall, before commencing the action, engage with the affected Indigenous government on a basis consistent with the principle of free, prior, and informed consent under the *United Nations Declaration on the Rights of Indigenous Peoples*. The engagement shall:
+
+(a) be initiated with sufficient notice to permit the Indigenous government to participate meaningfully;
+
+(b) provide all information reasonably necessary for informed participation;
+
+(c) address the subject matter, scope, and procedural conduct of the action;
+
+(d) be conducted on terms agreed to by the Indigenous government to the extent consistent with the Commissioner's statutory duties;
+
+(e) accommodate the outcome of the engagement to the extent reasonably possible without defeating the purposes of this Act.
+
+Where consent is not obtained, the Commissioner may proceed only on written reasons published in the quarterly compliance report under §23, identifying the engagement undertaken, the matters on which agreement was not reached, and the basis for proceeding. This subsection establishes a floor; nothing prevents an Indigenous government from agreeing in writing to less rigorous procedures where it considers them appropriate, and any such agreement is binding on the Commissioner for the matter to which it relates.
+
+**(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in subsection (3) as it applies to any other person or entity, subject to engagement and accommodation under that subsection and subject to subsection (7) where the entity is an Indigenous-owned governance instrument.
+
+**(5) Affirmative interpretation.** This Act shall be interpreted in a manner consistent with:
+
+(a) the principles of the *United Nations Declaration on the Rights of Indigenous Peoples*, including the principle of free, prior, and informed consent for measures affecting Indigenous peoples;
+
+(b) the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*; and
+
+(c) treaty rights, whether recorded in writing or in the oral records of treaty-making.
+
+Where the operation of any provision of this Act is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to paragraphs (a), (b), and (c) shall prevail.
+
+**(6)** Nothing in this section limits the jurisdiction of the courts or administrative tribunals to adjudicate matters involving constitutional rights, treaty rights, or the duty to consult.
+
+**(7) Indigenous-owned governance instruments.** Where an entity is owned or controlled by one or more Indigenous governments, in whole or in such proportion as is established under §28(4A), and is identified in writing by the Indigenous government as an instrument of its governance or of its economic self-determination (an "Indigenous governance instrument"):
+
+(a) the requirement under §15 to identify individuals with significant control is satisfied by the Indigenous government identifying itself as the principal of the entity, in the form prescribed by regulation under §28(4A); the natural-person ISC requirement does not apply, on the rationale that the entity's authority derives from the Indigenous government and not from natural-person ownership;
+
+(b) the cross-reference under §15(2) does not apply to the entity as such, but applies to any natural person identified by the Indigenous government in connection with the entity's bid in any capacity that, in another bidder, would constitute an ISC;
+
+(c) communications by elected officers or designated representatives of the Indigenous government with provincial officials, on behalf of the Indigenous government, in respect of matters affecting the Indigenous government or the Indigenous governance instrument, are not lobbying within the meaning of §3 and are not subject to the registration or other obligations of Part 2; and
+
+(d) the obligations under this Act applicable to the entity are otherwise as for any other entity, except as provided by this subsection.
+
+**(8) Indigenous Accountability Council.** There is established an Indigenous Accountability Council with the following composition, mandate, and authority:
+
+(a) Membership comprises one representative selected by Treaty 6 First Nations, one selected by Treaty 7 First Nations, one selected by Treaty 8 First Nations of Alberta, one selected by the Métis Nation of Alberta, one selected by the Métis Settlements General Council, and such other members as may be added by agreement among the Council and the Crown to reflect Indigenous communities not otherwise represented;
+
+(b) The Commissioner, the Auditor General, and the Information and Privacy Commissioner shall consult the Council before making a regulation under §28(4A); before issuing a Public Report, Compliance Order, or Certificate that affects an Indigenous government or an Indigenous governance instrument; before publishing the annual pattern review under §11C(9)(g) where the review identifies patterns affecting Indigenous matters; and on such other matters as the Council and the Commissioners may agree.
+
+(c) The Council may, on its own initiative, file a written submission with respect to any matter within the jurisdiction of the Commissioner, the Auditor General, or the Information and Privacy Commissioner that affects Indigenous governments or Indigenous governance instruments. A submission filed under this paragraph shall be acknowledged in writing within 30 days and shall be addressed in any subsequent report or determination, with the Council's position recorded;
+
+(d) Where the Council, by majority of members present and voting, records a minority position on a matter on which it has been consulted, that minority position shall be tabled in the Legislative Assembly alongside the related Commissioner Report, Order, or Certificate, and shall be published with the related document on the Commissioner's website;
+
+(e) The Council shall be funded through main estimates as a separate line item, in an amount sufficient to permit meaningful participation including travel, language services, technical advice, and member honoraria; the budget floor under §24(6) applies to the Council with necessary modifications;
+
+(f) The Council's procedures, terms of office, replacement of members, conflict-of-interest rules, and other operational matters are established by the Council itself, and are not subject to regulation under this Act except where the Council requests by resolution that a regulation be made;
+
+(g) The establishment of the Council under this subsection does not, and is not intended to, substitute for or limit the Crown's separate obligations to consult and accommodate, or to obtain free, prior, and informed consent, in respect of any specific matter; the Council exists at the operational interface and does not replace the constitutional and treaty-based relationships between the Crown and Indigenous peoples.
+
+---
+
+## Part 9 — Common Procedural Provisions
 
 ### General Application
 
 **21.** This Part applies to all determinations made under this Act or under any statute as amended by this Act, including Public Reports of Findings, Compliance Orders, Certificates of Malfeasance, administrative penalties, post-employment findings, disgorgement orders, beneficial ownership determinations, and stays of contract award, except where expressly excluded.
-
-### First Nations, Métis, and Inuit Governance
-
-**21A(1)** In this section, "Indigenous government" means a First Nations government, a Métis government, or an Inuit government that is recognized under federal law, under a self-government agreement, under the *Metis Settlements Act*, or under an agreement with the Government of Canada or a province of Canada, and includes a band council constituted under the *Indian Act* (Canada), a Métis Settlement, and the Métis Nation of Alberta.
-
-**(2)** Nothing in this Act applies to the internal governance of an Indigenous government, including the conduct of its elected officials, employees, or agents in the discharge of their governance functions.
-
-**(3)** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation, the Commissioner shall, before commencing the action, consult with the affected Indigenous government in good faith on the subject matter, scope, and procedural conduct of the action, and shall accommodate the outcome of that consultation to the extent reasonably possible without defeating the purposes of this Act.
-
-**(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in subsection (3) as it applies to any other person or entity, subject to consultation and accommodation under that subsection.
-
-**(5)** This Act shall not be interpreted so as to limit, abrogate, or derogate from the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*, or from any treaty right.
-
-**(6)** Nothing in this section limits the jurisdiction of the courts or administrative tribunals to adjudicate matters involving constitutional rights, treaty rights, or the duty to consult.
 
 ### Writ Period
 
@@ -621,9 +723,9 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(9B) Destruction of financial information.** Financial information collected under subsection (9) or (9A) shall be destroyed no later than the later of: (a) 90 days after the penalty has been collected or the proceeding has otherwise concluded; or (b) the expiry of any applicable appeal period. The Commissioner shall provide written confirmation of destruction to the respondent. This subsection does not require destruction of aggregate or anonymized data, information publicly available from other sources, or information the subject of an ongoing proceeding.
 
-**(10) Beneficial ownership determinations.** The Commissioner may, on reasonable grounds and following investigation, determine that two or more entities or persons are under common beneficial ownership for purposes including aggregating related transactions; aggregating declined-but-substantiated violations; determining the scope of post-employment restrictions under §10(3.1); applying the unlimited-lookback disclosure under §15(7); and any other determination under this Act where beneficial ownership is relevant. A determination is prima facie true, and the person or entity challenging it bears the onus of disproof on a balance of probabilities. The Commissioner may consider corporate, partnership, and trust records; ISC returns; patterns of financial flow, control, or benefit; nominee arrangements; shared directors, officers, signatories, or addresses; and any other relevant information. A determination is subject to reconsideration and review under Part 8.
+**(10) Beneficial ownership determinations.** The Commissioner may, on reasonable grounds and following investigation, determine that two or more entities or persons are under common beneficial ownership for purposes including aggregating related transactions; aggregating declined-but-substantiated violations; determining the scope of post-employment restrictions under §10(3.1); applying the unlimited-lookback disclosure under §15(7); and any other determination under this Act where beneficial ownership is relevant. A determination is prima facie true, and the person or entity challenging it bears the onus of disproof on a balance of probabilities. The Commissioner may consider corporate, partnership, and trust records; ISC returns; patterns of financial flow, control, or benefit; nominee arrangements; shared directors, officers, signatories, or addresses; and any other relevant information. A determination is subject to reconsideration and review under Part 9.
 
-**(10A) Pattern-based investigation of close-associate contributions.** The Commissioner may, on reasonable grounds and where a pattern of indirect influence is suggested, treat contributions made by close associates of an official or ISC — including adult children, siblings, parents, business partners, or persons with whom the official or ISC shares an address, an employer, or a controlled entity — as relevant evidence in an investigation under this Act, notwithstanding that those persons are not themselves family members within §2(w) or ISCs within §15. This subsection does not create a separate trigger for procurement review under §15 and does not require the disclosure of close-associate contributions outside the context of an open investigation. It clarifies the Commissioner's existing authority to consider patterns of contribution and benefit when determining whether a relationship of beneficial influence exists. Procedural fairness, the good-faith defense, and review under Part 8 apply to any determination made under this subsection.
+**(10A) Pattern-based investigation of close-associate contributions.** The Commissioner may, on reasonable grounds and where a pattern of indirect influence is suggested, treat contributions made by close associates of an official or ISC — including adult children, siblings, parents, business partners, or persons with whom the official or ISC shares an address, an employer, or a controlled entity — as relevant evidence in an investigation under this Act, notwithstanding that those persons are not themselves family members within §2(w) or ISCs within §15. This subsection does not create a separate trigger for procurement review under §15 and does not require the disclosure of close-associate contributions outside the context of an open investigation. It clarifies the Commissioner's existing authority to consider patterns of contribution and benefit when determining whether a relationship of beneficial influence exists. Procedural fairness, the good-faith defense, and review under Part 9 apply to any determination made under this subsection.
 
 ### Good-Faith Defense
 
@@ -669,7 +771,7 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(3) Scope.** A random audit is a structured compliance review, not a forensic investigation. It may include retrospective review within 48 months. Excluded from scope are matters previously resolved by Public Report, Compliance Order, or Certificate; solicitor-client privileged information; third-party personal information under the *Protection of Privacy Act*; Cabinet confidences not excepted under §13; and matters subject to active law enforcement investigation to the extent disclosure would prejudice it. Audits commence through documentary review; deeper investigation triggers only on specific screening indicators identified in published protocols.
 
-**(4) Procedural rights.** The person or entity selected has the right to be informed of selection, methodology, and scope before commencement. Findings are subject to the same notice, response, escalation, and appeal framework as complaint-triggered investigation, including the good-faith defense and Part 8 review. Random selection alone does not constitute an adverse finding; a selection producing no findings results in a closure note. The good-faith defense applies in full.
+**(4) Procedural rights.** The person or entity selected has the right to be informed of selection, methodology, and scope before commencement. Findings are subject to the same notice, response, escalation, and appeal framework as complaint-triggered investigation, including the good-faith defense and Part 9 review. Random selection alone does not constitute an adverse finding; a selection producing no findings results in a closure note. The good-faith defense applies in full.
 
 **(5) Integrity.** The Commissioner shall not use random selection as a pretext for targeted investigation; selection methodology must be verifiable as random and stratified, and any deviation from published methodology must be reported to the Legislative Assembly. Closure where random audit identifies no conduct warranting formal response shall be final and shall not support subsequent adverse inference.
 
@@ -685,7 +787,7 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 ---
 
-## Part 9 — Calibration, Administration, and Commencement
+## Part 10 — Calibration, Administration, and Commencement
 
 ### Threshold and Regulation-Making Authority
 
@@ -695,7 +797,19 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(3) Sector- and transaction-specific thresholds.** Where this Act refers to a threshold for a specific sector of provincial procurement, a specific category of transactions (including sole-source contracts, emergency procurement, and discretionary grants), or a specific category of appointment, the Commissioner, jointly with the Auditor General, may by regulation establish such a threshold, supported by evidence of elevated corruption risk. Regulations under this subsection are subject to subsection (5).
 
-**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control under §21A(3); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
+**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control under §21A(3) and the form prescribed for identification of Indigenous governance instruments under §21A(7), each subject to subsection (4A); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
+
+**(4A) Co-development of Indigenous-affecting regulations.** A regulation under subsection (4) that establishes the materiality threshold for Indigenous government ownership or control under §21A(3), or the form prescribed for identification of Indigenous governance instruments under §21A(7), or any other matter the Commissioner identifies as primarily affecting Indigenous governments or Indigenous governance instruments, shall not come into force unless and until the Minister tables in the Legislative Assembly a co-development report. The report shall describe:
+
+(a) the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, the Métis Settlements General Council, the Indigenous Accountability Council under §21A(8), and such other Indigenous governance bodies as the Minister identifies as having a material interest;
+
+(b) the matters on which agreement was reached and any matters on which agreement was not reached, including the positions taken by participating Indigenous bodies;
+
+(c) the basis on which the regulation, as proposed, reflects the outcome of co-development; and
+
+(d) any minority position recorded by an Indigenous governance body during the co-development process, which shall be reproduced in the report and tabled with the regulation.
+
+The co-development report shall be tabled at least 60 sitting days before the regulation comes into force, and the regulation is subject to subsection (5) during that period.
 
 **(5) Assembly oversight.** Regulations under subsections (1) through (4) shall be laid before the Legislative Assembly within 15 sitting days of being made. The Assembly may, by resolution within 30 sitting days of tabling, disallow any such regulation in whole or in part; a regulation disallowed is void from the date of the resolution, and a regulation not disallowed within 30 sitting days is confirmed. The Assembly may at any time, by resolution, amend or disallow any regulation made under this section whether previously confirmed or not; the Commissioner shall give effect to such a resolution within 30 days of its passage. The Commissioner shall report annually to the Assembly on the use of regulation-making authority under this section, with the report referred on tabling to the appropriate standing committee.
 
@@ -711,7 +825,7 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(3)** Fees collected under this section shall be used to offset the administrative cost of this Act and shall be reported in the annual report under §24.
 
-**(4) False complaint fee.** Where the Commissioner finds, in writing with reasons, that a complaint was frivolous, vexatious, or made in bad faith, including as part of a pattern of such complaints from the same complainant or from complainants acting in concert, the Commissioner may require the complainant to pay a fee to offset the administrative cost of responding to the complaint. The fee shall be calibrated proportionately to the complainant's capacity under §25(3) or §25(4) with necessary modifications; shall not be imposed on complainants making a single complaint that is found unfounded on the merits without a further finding of bad faith; shall be subject to review and appeal under Part 8; and shall be collected by the processes available for administrative penalties. A fee under this subsection shall not be imposed on a journalist acting in the course of journalism, on a whistleblower protected under the *Public Interest Disclosure (Whistleblower Protection) Act*, or on an individual citizen making a first complaint regarding a matter of personal experience.
+**(4) False complaint fee.** Where the Commissioner finds, in writing with reasons, that a complaint was frivolous, vexatious, or made in bad faith, including as part of a pattern of such complaints from the same complainant or from complainants acting in concert, the Commissioner may require the complainant to pay a fee to offset the administrative cost of responding to the complaint. The fee shall be calibrated proportionately to the complainant's capacity under §25(3) or §25(4) with necessary modifications; shall not be imposed on complainants making a single complaint that is found unfounded on the merits without a further finding of bad faith; shall be subject to review and appeal under Part 9; and shall be collected by the processes available for administrative penalties. A fee under this subsection shall not be imposed on a journalist acting in the course of journalism, on a whistleblower protected under the *Public Interest Disclosure (Whistleblower Protection) Act*, or on an individual citizen making a first complaint regarding a matter of personal experience.
 
 ### Personal Information Retention
 
@@ -745,12 +859,30 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(5) Identity platform dependency.** Where the identity verification platform designated under §15A(1) does not support the issuance of persistent cross-application identifiers as distinct from session-specific credentials, the Commissioner shall publish a written notice to that effect and the fallback chain under §15A(2) shall apply until the platform capability is confirmed in writing by the Minister responsible for Service Alberta. This subsection ceases to have effect on the publication of that confirmation.
 
+### Severability
+
+**31A(1)** If any provision of this Act, or the application of any provision to any person or circumstance, is held by a court of competent jurisdiction to be invalid, unconstitutional, or otherwise unenforceable, the remainder of this Act, and the application of the provision to other persons or circumstances, remain in full force and effect.
+
+**(2)** Where a provision is severed under subsection (1), the Commissioner shall, in the next quarterly compliance report under §23, identify the provision severed, the basis on which it was severed, and the operational consequences for the regime. The Minister shall introduce remedial legislation, or report in writing to the Legislative Assembly the reasons for not doing so, within 12 months of the determination.
+
+**(3)** It is the legislative intent of this Act that each provision be capable of independent operation to the maximum extent consistent with its terms, and that severance preserve the protective effect of the remainder of the Act in respect of the public interest in transparent and accountable government.
+
 ### Commencement
 
-**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); Part 8 (Common Procedural Provisions); and §26 (Good-Faith Defense).
+**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); §21A(1), (1.1), (2), and (6) (the definitional and protective subsections of Part 8 — Indigenous Engagement at the Interface); Part 9 (Common Procedural Provisions); and §26 (Good-Faith Defense). The remaining subsections of §21A come into force in accordance with subsection (3.1).
 
-**(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions).
+**(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions). For greater certainty, §28(4A) (the co-development requirement for Indigenous-affecting regulations) applies on and after 180 days after Royal Assent regardless of whether §21A's engagement provisions are in force.
 
 **(3)** Section 27 (Random Audit Program) comes into force 365 days after Royal Assent, with the first audit conducted in the first full fiscal year following commencement.
+
+**(3.1) Indigenous engagement preconditions.** Notwithstanding subsections (1) and (2):
+
+(a) §21A(3), (4), (5), (7), and (8) shall not come into force unless and until the Minister tables in the Legislative Assembly an Indigenous engagement report describing the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, and the Métis Settlements General Council on the substance of those provisions and on the establishment of the Indigenous Accountability Council under §21A(8); the matters on which agreement was reached and any matters on which it was not; and any minority position recorded during the engagement;
+
+(b) §21A(1), (1.1), (2), and (6) come into force on Royal Assent under subsection (1), on the rationale that they protect Indigenous governance from the operation of this Act and do not impose new obligations on Indigenous governments;
+
+(c) until §21A(3) is in force, the Commissioner shall, in respect of any action that would be subject to that subsection on its coming into force, conduct engagement on a basis the Commissioner considers consistent with §21A(3) and shall record the basis in the quarterly compliance report under §23, with the engagement record subject to revision once §21A(3) and the Indigenous Accountability Council under §21A(8) are operational;
+
+(d) the Indigenous engagement report under paragraph (a) shall be tabled no later than 24 months after Royal Assent, failing which the Minister shall table in the Assembly written reasons for the delay and a revised tabling schedule, with such reasons referred on tabling to the appropriate standing committee.
 
 **(4)** Except as otherwise provided in this section, this Act comes into force on Royal Assent.

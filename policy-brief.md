@@ -45,6 +45,16 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 ---
 
+## Why this, why now
+
+Alberta's combined provincial budget for fiscal 2025–26 is approximately $80 billion. Three policy decisions in the past four years moved between two and three hundred million dollars of that with structural-accountability gaps the public could see only after the fact. Each cycle of accountability reform in Canada — federal lobbying reform in 2008, the federal whistleblower regime in 2007, Ontario's accountability changes in 2014 — happened *after* its gap was named in scandal. The argument here is that the gaps are nameable now, before the next one. The cost of acting is one one-hundredth of one percent of the budget. The cost of waiting has been documented three times.
+
+There is also an unusual political opening. No party in Alberta currently campaigns on accountability legislation; the issue is between elections rather than during them. A draft sitting on the public record, released under a licence that lets any party adopt it, removes the marginal cost of being the party that puts it forward. The first party to table this gets the credit for tabling it. The opposition party that does not match it has to explain why. That is the asymmetry the package is trying to engineer.
+
+This is not a moment of crisis. That is the point. Designing accountability legislation in the calm after a crisis tends to produce instruments shaped by the crisis. Drafting now, in a comparatively quiet stretch, is the more honest condition for getting the structural design right.
+
+---
+
 ## Part I — What This Costs You
 
 Three decisions. None of them dramatic enough to occupy the front page for more than a news cycle. Together, somewhere between $200 and $300 million of our money.
@@ -209,9 +219,29 @@ How the defence operates in close cases: where the Commissioner has not establis
 
 Together with the existing requirement to disclose every opinion obtained on the same question (§26(5)), these limits target the specific patterns by which good-faith defences become routine cover for indefensible decisions.
 
-There is a separate path for an official who is genuinely uncertain. §11C lets a person about to make a decision that may engage the regime file an *advance ruling request* with the Commissioner: describe the conduct contemplated, identify the parties, attest to the facts, and ask. The Commissioner answers within thirty business days — yes, no, or yes with conditions. An approval, complied with, is a complete defence to later proceedings on the same facts. The mechanism borrows the discipline of scientific pre-registration: you tell us what you intend to do *before* you do it, you tell us all the facts you'd want a critic to know, and your conduct is judged against what you registered, not what you reconstructed afterward. Approvals and declinations are published in the quarterly compliance report — both for the public record and so future officials can see what kinds of conduct have been cleared and on what reasoning. The mechanism can be gamed. A request that omits material facts produces a void approval. A pattern of sanitized requests becomes itself a flag. The point is to give a careful official a path to certainty, and to give the public a record of the questions the regime was asked.
+There is a separate path for an official who is genuinely uncertain. §11C lets a person about to make a decision that may engage the regime file an *advance ruling request* with the Commissioner: describe the conduct contemplated, identify the parties, attest to the facts, and ask. The Commissioner answers within thirty business days — yes, no, or yes with conditions. An approval, complied with, is a complete defence to later proceedings on the same facts. The mechanism borrows the discipline of scientific pre-registration: you tell us what you intend to do *before* you do it, you tell us all the facts you'd want a critic to know, and your conduct is judged against what you registered, not what you reconstructed afterward. Approvals and declinations are published in the quarterly compliance report — both for the public record and so future officials can see what kinds of conduct have been cleared and on what reasoning.
+
+The thirty-business-day window is honest about the gap it creates: not every contract waits. A counterparty's deadline, a market window, a court-ordered timeline, an emergency procurement — sometimes the conduct has to happen before the Commissioner has answered. §11C(10) gives an official a way through that gap without making the mechanism useless. If the request was filed at the earliest reasonable opportunity, was complete, disclosed every material fact, and the timing pressure came from outside the requestor's control, the official can file a contemporaneous notice explaining the constraint and proceed in *provisional reliance*. That is not a free pass. It is action at the requestor's risk. If the Commissioner subsequently approves, the approval covers the conduct already carried out as if the determination had come first. If the Commissioner subsequently declines, the §11C complete defence is gone — but the §26 good-faith defence remains, the contemporaneous filing is admissible as evidence of good faith, and the Commissioner can prescribe remediation steps that, if taken, close the file. What provisional reliance does *not* do is reward officials who manufacture their own time pressure: a request filed ten days before a decision deadline the official set themselves is reviewable on an extended timeline, and a pattern of deliberately late filings is the kind of pattern the annual review is built to catch. The mechanism can be gamed. A request that omits material facts produces a void approval. A pattern of sanitized requests becomes itself a flag. A pattern of provisional reliance by a single office becomes a flag. The point is to give a careful official a path to certainty, give a time-pressed official a path that doesn't punish honest urgency, and give the public a record of the questions the regime was asked.
 
 **Defer to existing institutions.** The regime does not replace courts, the Assembly, criminal justice, or existing regulators. Civil and criminal matters go to courts. Electoral consequences go to the Assembly. The Commissioner investigates and reports. The Assembly decides.
+
+### Where Alberta sits compared to peer regimes
+
+Most of what is proposed exists somewhere in Canadian or comparable practice already. The drafter's contribution is consolidating provincial-level coverage and adding two innovations specific to Alberta's documented gaps. The table compares core elements of the proposed regime to current Alberta law and to peer Canadian regimes.
+
+| Element | Alberta now | British Columbia | Ontario | Federal | Proposed |
+| --- | --- | --- | --- | --- | --- |
+| In-house lobbyist registration threshold | 50 hours / yr | 100 hours / yr | 50 hours / yr | "significant part of duties" | 20% of any quarter, plus position-description test |
+| Consultant lobbyist registration | 50 hours / yr | from first contact | 50 hours / yr | from first contact | from first payment |
+| Whistleblower burden of proof | on the whistleblower | on the whistleblower | on the whistleblower | on the whistleblower (PSDPA) | on the employer once nexus shown |
+| ISC disclosure for procurement | none | none | none | partial federal contract registry | required above threshold, with Registrar hash check |
+| Named-party legislation disclosure | none | none | none | none | Beneficiary Disclosure Statement at First Reading |
+| Enforcement-equity reporting | none | none | none | partial (audit selection only) | annual Auditor General report |
+| Random audit selection | none | none | none | none | publicly verifiable randomness beacon |
+| Commissioner appointment | majority vote in Assembly | majority vote in Assembly | majority vote in Assembly | Order in Council plus Commons resolution | two-thirds Committee plus two-thirds Assembly |
+| Commissioner term | five years, renewable | six years, renewable | five years, renewable | seven years, renewable | seven years, non-renewable |
+
+The two genuine innovations are the ISC plus political-contribution cross-reference and the annual Enforcement Equity Report. Each is a response to a specific failure pattern documented in Part I. Everything else in the package adapts existing Canadian practice to provincial scope.
 
 ---
 
@@ -418,6 +448,8 @@ A regime designed to bind whoever holds power has to survive motivated subversio
 
 **Constitutional vulnerability.** Three provisions face material exposure: the Commissioner's regulation-making authority at §28, Assembly enforcement of large penalties against sitting Members at §22(5)(b), and the political-contribution cross-reference at §15. None is fatal. A pre-tabling constitutional opinion is non-negotiable. The drafter designed within constraints; counsel will say whether that worked.
 
+The bills do not invoke the notwithstanding clause and should not be amended to do so. The whole point of the regime is that decisions of consequence face scrutiny. Pre-emptively shielding a transparency provision from the Charter would be the regime contradicting itself: an accountability statute insulating its own design from review would invite, and deserve, the criticism that it is the kind of legislation that earns the *Vaid* framework's anti-evasion teeth. If a court strikes part of the cross-reference provision, the regime should redesign the provision, not suspend judicial review of it. The severability clause at §31A makes that path concrete: a struck provision falls, the remainder of the Act stands, and the Minister has twelve months to introduce a remedial amendment or report to the Assembly the reasons for not doing so. Charter compliance is a design constraint, not a target.
+
 **Sanctions enforcement against sitting Members.** Parliamentary privilege limits what courts can do to discipline sitting MLAs. The bill respects that ceiling by routing penalties against sitting Members through Certificates of Malfeasance and Assembly process. Section 16(4A) prevents censure-only resolutions from satisfying the Assembly's obligation when a Certificate involves a financial penalty. The Assembly must act substantively, pass a two-thirds resolution closing the Certificate with written reasons, or exhaust the sixty-sitting-day clock. A hostile majority with a two-thirds vote can still close a Certificate substantively. That's the cost of operating within parliamentary privilege.
 
 **Appointment capture.** A two-thirds threshold is a substantial barrier; it is not a guarantee. A government with two-thirds of the Assembly, which has happened in Alberta, can appoint its preferred candidate. The seven-year non-renewable term, the eligibility bar on recent partisans, and the Chief Justice fallback at 120 days all raise the cost. None eliminates the risk.
@@ -460,6 +492,56 @@ These critiques are visible in the recent scholarship and in the briefs Indigeno
 
 ---
 
+## On Indigenous engagement
+
+What follows is a settler citizen's perspective on the interface between this drafted regime and the governance systems of Indigenous peoples in Alberta. It is not Indigenous perspective. It cannot be. The drafter is a settler, and the document is the document of a settler.
+
+The two systems the bill operates between are not symmetrical, and pretending otherwise would do a disservice to both. Crown authority traces its lineage to a tradition of divine-right monarchy — the Crown's authority descends, historically, from a Christian-monarchical source, mediated now through constitutional convention but rooted in a claim about a source of legitimate rule that lies outside any human community. Indigenous governance traces a different lineage. It rises from relationships with the land, with kinship, with the living and the not-yet-living and those who came before. It is grounded in particular places and waters, and in treaties — including treaties that, on the Indigenous reading of them, were nation-to-nation agreements between sovereigns, not instruments of subordination.
+
+The bill does not resolve which of these traditions is correct. That question exists at a level where legislation does not reach. What the bill does is identify the *interface* — the operational seam where the Crown's accountability machinery encounters Indigenous governance — and try to draw the seam in a way that is honest about the asymmetry, gives Indigenous governments operational space the bill should not displace, and leaves the deeper questions to the people whose questions they are.
+
+What the package has tried to resolve preemptively, in the drafter's settler capacity, is the following.
+
+The definition of "Indigenous government" in §21A(1) is now framed as a Crown-internal reference applicable at the interface. The Crown needs some word for the body whose internal governance the Act exempts and with whom the Commissioner engages. That word is unavoidable in a Crown enactment. The bill makes plain that the word does not, and is not intended to, define or characterize what an Indigenous government is in any inherent or constitutional sense. Indigenous governance derives from sources independent of and prior to the Crown.
+
+The engagement standard under §21A(3) is now free, prior, and informed consent — the UNDRIP standard — notwithstanding that Alberta has not yet implemented UNDRIP. The drafter's reading is that an accountability statute asking the Crown to operate above the bare *Mikisew* floor cannot defensibly hold itself to that floor. Where consent is not obtained, the Commissioner may proceed only on written reasons published, identifying the engagement undertaken, the matters on which agreement was not reached, and the basis for proceeding. An Indigenous government can agree in writing to less rigorous procedures where it considers them appropriate.
+
+§21A(5) is now an affirmative interpretation rule, not a defensive non-derogation clause. The Act is to be interpreted in a manner consistent with UNDRIP, with section 35, and with treaty rights — including treaty rights as recorded in oral tradition. Where the operation of any provision is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to those rights prevails.
+
+§21A(7) addresses the dual-character entity problem. Many First Nations and Métis Settlements operate economic-development corporations that the Crown's corporate logic categorizes as private companies but that the Indigenous government understands as governance instruments — extensions of the nation's authority rather than private actors. The bill now recognizes this. Where an Indigenous government identifies an entity as an Indigenous governance instrument, the natural-person ISC disclosure under §15 does not apply; the Indigenous government identifies itself as the principal. Communications by elected officers of the Indigenous government on behalf of the nation, on matters affecting the nation, are not lobbying within §3. They are nation-to-nation diplomacy, and the bill should not pretend otherwise.
+
+§21A(8) establishes an Indigenous Accountability Council with representatives selected by Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, and the Métis Settlements General Council. The Council has statutory rights of consultation on matters affecting Indigenous governments and on regulations under §28(4A); its minority positions are tabled in the Assembly alongside Commissioner reports; its budget sits in main estimates as a separate line item, with the §24(6) budget-floor protections applied. The Council does not substitute for the Crown's separate constitutional and treaty-based obligations. It operates at the operational interface, not above it.
+
+§28(4A) requires that any regulation defining the materiality threshold for Indigenous-owned entities, the form for identifying Indigenous governance instruments, or any other matter primarily affecting Indigenous governments, cannot come into force without a co-development report tabled in the Assembly. The threshold is no longer a matter of executive discretion under the Lieutenant Governor in Council. It is a matter of co-development, with Indigenous governance bodies named.
+
+§32 of Bill 1 stages the §21A engagement provisions so they cannot come into force until the Minister tables in the Assembly an Indigenous engagement report. The report must describe the engagement done, the matters on which agreement was reached and the matters on which it was not, and any minority positions recorded during the engagement. Until the report is tabled, the Commissioner conducts engagement on a basis the Commissioner considers consistent with §21A(3), with the engagement record subject to revision once the §21A provisions are operational. The §21A definitional and protective subsections — (1), (1.1), (2), and (6) — come into force on the ordinary schedule, on the rationale that they protect Indigenous governance from the operation of this Act and do not impose new obligations on Indigenous governments.
+
+These are the resolutions a settler drafter can attempt in good faith from a settler vantage. They are not a substitute for what only Indigenous engagement can determine.
+
+What the drafter cannot do, and what Indigenous feedback alone can decide:
+
+Whether the line drawn in §21A between "internal governance" (exempt) and "contracts, grants, and regulatory approvals" (covered) is drawn in the right place. There may be matters the bill currently treats as covered that Indigenous governments understand as internal; there may be matters the bill currently treats as internal that Indigenous governments would prefer the Commissioner have a role in.
+
+Whether the carve-out in §21A(7) for Indigenous governance instruments is correctly drawn. Nation-as-principal may be too coarse a substitute for the natural-person ISC requirement; the §3 communications carve-out may need to extend to officers other than "elected officers and designated representatives." The drafter has chosen a starting point.
+
+Whether the Indigenous Accountability Council under §21A(8) is the right mechanism, has the right composition, and has the right authorities. The Council, once constituted, can change its own procedures; whether the procedures *to constitute* it are right is for Indigenous governments to say.
+
+Whether the FPIC standard under §21A(3) is operationally workable in the way the bill describes it, or whether implementation reveals gaps the bill has not anticipated.
+
+Whether the §32 staging is the right staging. Twenty-four months may be too short to do the engagement well; it may be too long; the framing of "engagement report" may itself be an artifact of Crown procedural categories rather than what Indigenous governments would describe as the work that has been done.
+
+Whether there are accountability traditions internal to Indigenous governance — longhouse processes, council deliberations, ceremony, kinship-based responsibility — that the bill should make space for as parallel mechanisms the Commissioner respects, or where the better answer is that the Crown's accountability machinery should not approach.
+
+Whether Indigenous data sovereignty principles, including OCAP — Ownership, Control, Access, and Possession of First Nations data — are honored by the audit, retention, and publication regime under §27, §29A, and §15(2A), and where the bill needs to give way.
+
+And the questions the drafter has not yet thought to ask.
+
+The package's request is not for endorsement. It is for engagement, in whatever form the participating Indigenous governance bodies prefer. The drafter has tried to design the bill so that what engagement returns can be folded back into the package without restructuring it. The carve-outs, the consultation standard, the Indigenous Accountability Council, the §28(4A) co-development gate, and the §32 staging can each absorb substantial revision.
+
+The deeper claim of the bill is that accountability is a condition of legitimate government, not a constraint on it. That claim, applied to the drafter, requires that the package not be tabled — by any party — until the engagement contemplated in §32 has been done in substance, not in form. A bill that defines the interface between Crown and Indigenous governance without Indigenous engagement on the definition is a bill that contradicts itself. This package cannot.
+
+---
+
 ## Part VII — The Invitation
 
 Three structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
@@ -495,6 +577,114 @@ If you would like to ask your MLA about this directly and don't know where to st
 > [Your name]
 
 The bills were drafted to be used.
+
+---
+
+## Glossary
+
+**Beneficial owner.** The natural person who ultimately controls or benefits from an entity, as distinct from the legal owner shown on a corporate registry. The bills require disclosure of beneficial owners (also called *individuals with significant control*, or ISCs) so that nominee structures cannot conceal who is actually behind a contracting party.
+
+**Carve-out.** A statutory exception. Section 21A in Bill 1 carves out Indigenous internal governance from the Act's coverage; that means the Act does not apply to those matters.
+
+**Certificate of Malfeasance.** The most serious of the three Commissioner findings, used for persistent or severe conduct. A Certificate against a sitting MLA triggers a sixty-sitting-day Assembly process to deal with it.
+
+**Compliance Order.** The middle of the three Commissioner findings. A written order requiring specific corrective steps — returning a benefit, recusing from future decisions, changing a practice.
+
+**EFCDA.** The *Election Finances and Contributions Disclosure Act*, RSA 2000, c E-2. Alberta's law on political donations and contribution disclosure.
+
+**FOIP.** The *Freedom of Information and Protection of Privacy Act*, RSA 2000, c F-25. Alberta's access-to-information law. The Canadian Energy Centre was structured to operate outside FOIP.
+
+**FTE.** Full-time equivalent. Either a full-time position or a combination of part-time positions adding up to one full-time. The combined regime is estimated at 28 FTE across three offices.
+
+**ISC.** Individual with Significant Control. The natural person behind a contracting entity. See *beneficial owner*.
+
+**MADI.** MyAlberta Digital Identity. The provincial identity-verification platform. Used in §15A as the primary identity check for ISC disclosures.
+
+**Notwithstanding clause.** Section 33 of the *Canadian Charter of Rights and Freedoms*. Allows a legislature to insulate legislation from certain Charter rights for a renewable five-year period. The drafter's position is that the bills should not invoke it.
+
+**Order in Council.** A decision of the Cabinet (Lieutenant Governor in Council). Many regulations and ministerial appointments are made by Order in Council.
+
+**PSDPA.** *Public Servants Disclosure Protection Act*, the federal whistleblower statute. Cited in this brief because in seventeen years of operation it produced one completed case, illustrating how a regime designed for the right purpose can fail in practice.
+
+**Public Report of Findings.** The first of the three Commissioner findings. The Commissioner publishes a finding that conduct contravenes the Act; the political process handles the rest.
+
+**Royal Assent.** The point at which a bill becomes law in form. Most provisions of the bills come into force on Royal Assent or a fixed period after.
+
+**Section 35.** Section 35 of the *Constitution Act, 1982*, recognizing existing Aboriginal and treaty rights of the Indigenous peoples of Canada.
+
+**Sitting day.** A day on which the Legislative Assembly is actually meeting. Thirty sitting days spans roughly a single legislative session, not thirty calendar days.
+
+**UNDRIP.** The *United Nations Declaration on the Rights of Indigenous Peoples*, implemented federally and in British Columbia. Sets a standard of free, prior, and informed consent for measures affecting Indigenous peoples.
+
+**FPIC.** Free, prior, and informed consent. The standard set by UNDRIP for Crown engagement with Indigenous peoples on measures that affect them. The bills adopt FPIC as the engagement floor under §21A(3), notwithstanding that Alberta has not yet implemented UNDRIP.
+
+**UNDA.** The *United Nations Declaration on the Rights of Indigenous Peoples Act* (federal), SC 2021, c 14, and the parallel *Declaration on the Rights of Indigenous Peoples Act* (BC), SBC 2019, c 44 — the implementing statutes that bring UNDRIP into Canadian law in those jurisdictions.
+
+**Indigenous Accountability Council.** The standing body established under §21A(8) with representatives from Treaty 6, Treaty 7, Treaty 8, the Métis Nation of Alberta, and the Métis Settlements General Council, with statutory rights of consultation on matters affecting Indigenous governments and Indigenous governance instruments.
+
+**Indigenous governance instrument.** Under §21A(7), an entity owned or controlled by one or more Indigenous governments and identified by them as an instrument of governance or economic self-determination — for example, an economic-development corporation. The bills do not require natural-person ISC disclosure for these entities; the Indigenous government is identified as the principal.
+
+---
+
+## Common questions and objections
+
+**Won't this slow government down?** The duty to document and the procurement-disclosure requirements add work to certain decisions. They do not add work to most. The marginal time cost on a major procurement is the time required to write reasons that should already exist; on a routine decision, none. If a decision cannot be made because writing it down would expose its reasoning, that is not the regime slowing government — that is the regime working.
+
+**Doesn't the federal regime do this already?** The federal regime covers federal officials, federal contracts, federal lobbying. The province has its own jurisdiction, its own procurement, its own regulatory approvals. The DynaLIFE buyback, the Tylenol procurement, and the Canadian Energy Centre were all provincial decisions outside the federal regime's reach.
+
+**Why a Commissioner instead of expanding the Auditor General?** The Auditor General audits financial administration and value-for-money. The Ethics Commissioner deals with conduct. The two functions differ in their evidentiary standards, their remedies, and their relationship to the Assembly. The bills use both: the Ethics Commissioner for individual conduct (Bill 1), the Auditor General for systemic enforcement equity (Bill 2). Combining them in one office would either dilute the audit function or politicize it.
+
+**This sounds like a partisan attack.** The structural test the drafter applied to every provision is whether it survives being applied to a government the drafter likes. Random audit selection is not a tool a hostile Commissioner can aim. The good-faith defence and the obvious-corruption limit are symmetric. The cooperation register and the Auditor General's communications log catch ministerial pressure regardless of which party's Minister is applying it. The bills are designed to bind whoever wins.
+
+**Why doesn't this criminalize obvious corruption?** Obvious corruption is already criminal under the *Criminal Code*: breach of trust, secret commissions, fraud. Police and Crown prosecutors handle that. The bills cover the much larger category of conduct that is improper but not criminal: failures of disclosure, conflicts of interest, decisions made in rooms with no paper. Criminal law is a poor tool for those.
+
+**Won't lawyers find loopholes?** Some, probably. Most foreseeable ones have been written into the design with the loophole-finder in mind. The fifty-hour lobbying threshold became 20%-of-quarter-plus-role-test specifically because the fifty-hour test had a known loophole. The good-faith defence has five abuse-limits because each was a foreseeable abuse. Reviews at five and ten years are the mechanism for closing loopholes that emerge in practice.
+
+**Why the Creative Commons licence?** Policy released under copyright can be cited but not adopted. Creative Commons Attribution-ShareAlike lets any party take the bills, change the parts they want changed, table them under their own name, and share-alike on the result. The licence removes the friction of adoption.
+
+**Who funded this?** No one. The drafter is a private citizen with no organizational affiliation, no funding from any party or advocacy group, and no commercial interest. The cost of the work has been the drafter's time.
+
+**What stops a captured Commissioner from using this against opponents?** The detailed answer is in Part VI. The short answer: the structural protections (verifiable random audit, court confirmation for large penalties against non-Members, the Auditor General and Information and Privacy Commissioner as parallel offices, the cooperation register) raise the cost of weaponization and make every step visible. Capture is possible. *Hidden* capture is much harder.
+
+**The bills give the Commissioner a lot of power. Who watches the watcher?** Three things, working together. The Auditor General audits the Commissioner's office annually under §24. The Information and Privacy Commissioner enforces the privacy and retention provisions independently. The Assembly retains disallowance over the Commissioner's regulations under §28. None of these is sufficient on its own. Together they distribute the watching across institutions a single party would have to capture simultaneously.
+
+**Why these three cases? Aren't there others?** There are. DynaLIFE, Tylenol, and the CEC were chosen because they are recent, because the public record is reasonably complete, and because each illustrates a different *kind* of structural gap — records that didn't exist, emergency authority with no contemporaneous reasoning, and a corporate vehicle outside ordinary disclosure law. The bills are designed for the categories the cases reveal, not for the cases themselves.
+
+---
+
+## Sources
+
+The numbers, cases, and statutory references in this brief are drawn from the following.
+
+**Part I.** Auditor General of Alberta, *Performance Audit: Provision of Laboratory Services* (November 2025); Office of the Auditor General of Alberta procurement reviews of the 2022 federal-provincial pediatric medication purchase; CBC News, *Globe and Mail*, and *Edmonton Journal* reporting on the Canadian Energy Centre, 2019–2024; Public Accounts of Alberta, fiscal years 2021–22 through 2024–25.
+
+**Part II.** *Conflicts of Interest Act* (federal), RSC 1985, c C-27.5; *Lobbying Act*, RSC 1985, c 44 (4th Supp.); *Public Servants Disclosure Protection Act*, SC 2005, c 46; *Conflicts of Interest Act* (Alberta), RSA 2000, c C-23; *Lobbyists Act* (Alberta), SA 2007, c L-20.5; *Public Interest Disclosure (Whistleblower Protection) Act* (Alberta), SA 2012, c P-39.5; House of Commons Standing Committee on Access to Information, Privacy and Ethics, statutory review reports of the federal lobbying and whistleblower regimes.
+
+**Part III.** *R. v. Wigglesworth*, [1987] 2 SCR 541; *Guindon v. Canada*, 2015 SCC 41; *Canada (House of Commons) v. Vaid*, 2005 SCC 30; *Haida Nation v. British Columbia (Minister of Forests)*, 2004 SCC 73; *Harper v. Canada (Attorney General)*, 2004 SCC 33; *United Nations Declaration on the Rights of Indigenous Peoples Act* (federal), SC 2021, c 14.
+
+**Part IV.** Alberta *Lobbyists Act* registration data and Office of the Ethics Commissioner annual reports; National Institute of Standards and Technology, *Randomness Beacon Project* (csrc.nist.gov/projects/interoperable-randomness-beacons); *McIver v. Alberta (Ethics Commissioner)*, 2018 ABQB 240; *McIver v. Alberta (Speaker of the Legislative Assembly)*, 2017 ABCA 109.
+
+**Part V.** *Financial Administration Act* (Alberta), RSA 2000, c F-12; *Auditor General Act* (Alberta), RSA 2000, c A-46; *Business Corporations Act* (BC), RSBC 2002, c 57, as amended by the *Land Owner Transparency Act* and corporate-transparency reforms (the source for ISC drafting language); UK *Lobbying Act 2014*; House of Commons Standing Committee on Access to Information, Privacy and Ethics studies on access reform.
+
+**Part VI.** Hungarian Government Decree No. 308/2020 (cited as a comparative example of legislative capture); U.S. state-level dismantling of independent ethics offices, including the Wisconsin Government Accountability Board reorganization (2015) and the New York Joint Commission on Public Ethics restructuring (2022); peer Canadian provincial Commissioner office annual reports for FTE benchmarks.
+
+**Part VII.** This brief.
+
+The provisions referenced in the bills draw on existing statutory drafting in Alberta and elsewhere. Where this brief presents an innovation specific to the package — the ISC plus EFCDA cross-reference, the Beneficiary Disclosure Statement at First Reading, the Enforcement Equity Report, the publicly verifiable randomness beacon for audit selection — that is the drafter's own work, released under the same licence as the bills.
+
+The estimates and analysis throughout are the drafter's own and have not been independently validated. Treasury Board fiscal validation, constitutional opinion, Indigenous co-development, and legislative drafting review are each named in Part VI as preconditions to tabling.
+
+---
+
+## About the drafter
+
+I am a private citizen in Alberta. I work in technology. I am not a lawyer, a member of any political party, or an employee of any organization that lobbies, contracts with, or receives funding from the Government of Alberta. I have no commercial, professional, or political interest in the outcome of this package, beyond the interest of any other Albertan in the province being well-governed.
+
+The package was drafted in personal time, on my own equipment, using publicly available legal databases, my own analysis, and a substantial amount of generative-AI-assisted research and drafting. The *Sources* list above names the cases and statutes I consulted. The structural-design choices, the failure-mode analysis, and the three innovations specific to the package — the ISC and contribution cross-reference, the Beneficiary Disclosure Statement, and the Enforcement Equity Report — are my own.
+
+I do not have the standing or expertise to do the constitutional, fiscal, or Indigenous-co-development work that has to precede tabling. I have tried to be honest about what I have not done. The package is released under Creative Commons Attribution-ShareAlike 4.0 because the only thing I want from it is that it become useful to someone in a position to do that work.
+
+Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, and discussions are open.
 
 ---
 
@@ -785,6 +975,56 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 **(8) No advisory binding on third parties.** An advance ruling determines the application of this Act to the conduct disclosed; it does not adjudicate the rights or interests of third parties, and it is not binding on any other authority, court, or tribunal.
 
+**(9) Anti-gaming.** The advance-ruling mechanism is bounded against strategic use as follows:
+
+(a) **Aggregation.** Where the conduct contemplated is reasonably part of a course of related conduct, the Commissioner may require that all reasonably-related conduct be addressed in a single request. Artificial severance — submitting components of a related course of conduct as separate requests, each looking unproblematic in isolation — is grounds for declination of any of the severed requests.
+
+(b) **Disclosure of related requests.** A requestor shall disclose, in each request, every other advance-ruling request the requestor or persons acting in concert with the requestor have filed on the same or related subject matter within the preceding 24 months, including any request that was withdrawn before decision.
+
+(c) **Material divergence voids approval.** Where the conduct as carried out materially differs from the conduct as described in the request — in scope, parties, terms, timing, or any other respect a reasonable person would consider material to the Commissioner's analysis — the approval is void as to the divergent conduct, and proceedings may continue as if no advance ruling had issued.
+
+(d) **Off-record contact prohibited.** A requestor and any person acting on the requestor's behalf shall conduct all communications about a pending request through the Commissioner's prescribed written channels. Off-record contact about a pending request — including contact through political or personal intermediaries — is conduct within the jurisdiction of the Commissioner under this Act and may, on its own, found a Public Report or Compliance Order regardless of the outcome of the request itself.
+
+(e) **Time-bounded approvals.** An approval is valid for 12 months from the date of issue. Conduct not carried out within that period requires a fresh request unless the Commissioner extends the period in writing for stated reasons. Approvals do not function as standing cover for indefinite future conduct.
+
+(f) **Ex post audit.** The Commissioner shall audit a random sample of approved requests, selected under the verifiable-randomness procedure in §27, to verify that conduct was carried out in accordance with the request and any conditions. Audit findings are aggregated in the quarterly compliance report under §23 and may identify individual non-compliance.
+
+(g) **Annual pattern review.** The Commissioner shall publish annually, in the report under §24(3), an analysis of the year's advance-ruling activity covering: categories of requests, approval and declination ratios, average review times, conditions imposed, ex post audit results, and any patterns the Commissioner identifies as suggesting strategic use of the mechanism. Where patterns suggest a particular requestor, office, or class of conduct is using the mechanism strategically rather than for genuine certainty-seeking, the Commissioner shall identify the pattern and may recommend regulatory or legislative response.
+
+(h) **Anti-bunching at decision deadlines.** A request received within 10 business days of a decision deadline the requestor faces in connection with the conduct is reviewable on an extended timeline at the Commissioner's discretion, and the Commissioner may decline to issue an approval where the time pressure prevents adequate review. Time-pressured requests do not defeat the Commissioner's ability to take longer where the matter warrants it.
+
+**(10) Provisional reliance pending determination.** Where conduct that is the subject of a complete advance-ruling request must, by reason of timing the requestor cannot control, be carried out before the Commissioner issues a determination under subsection (2), the requestor may proceed in provisional reliance on the request, subject to the following:
+
+(a) **Threshold for availability.** Provisional reliance is available only where:
+
+(i) the request was filed at the earliest reasonable opportunity after the conduct was contemplated;
+
+(ii) the request was complete on filing and disclosed every material fact in accordance with subsection (1);
+
+(iii) the timing pressure arose from circumstances outside the requestor's control, and not from the requestor's own scheduling, deferral, or arrangement of decision deadlines connected with the conduct; and
+
+(iv) the requestor filed contemporaneous written notice with the Commissioner, before carrying out the conduct, stating the date by which the conduct must be carried out, the reason awaiting the determination is not possible, and the specific external constraint that creates the timing.
+
+(b) **Action at risk.** Conduct carried out in provisional reliance is conduct at the requestor's own risk. The complete defense under subsection (3) is available only if the Commissioner subsequently issues an approval under subsection (2)(a) on the same facts disclosed and the conduct as carried out conforms to that approval and any conditions.
+
+(c) **Subsequent approval.** Where the Commissioner subsequently approves under subsection (2)(a) and the conduct as carried out conforms to the request and any conditions, the approval applies to the conduct already carried out as if the determination had been issued before the conduct. Conditions identified by the Commissioner as time-sensitive and incapable of retroactive application bind only future steps and shall be addressed by remediation under paragraph (d) or by future compliance, as the Commissioner directs.
+
+(d) **Subsequent declination or non-conforming approval.** Where the Commissioner subsequently declines, or approves on conditions that the conduct as carried out cannot satisfy:
+
+(i) the complete defense under subsection (3) is not available;
+
+(ii) the good-faith defense under §26 remains available on its own terms, and the contemporaneous filing under paragraph (a)(iv) is admissible as evidence relevant to good faith;
+
+(iii) the Commissioner may, in the same determination, identify remediation steps — including unwinding, restitution, divestiture, public correction, or modification of ongoing terms — that, if undertaken in good faith within a stated period, will bring the conduct into compliance and bar further proceedings under this Act on that conduct; and
+
+(iv) where remediation is impossible, refused, or unsuccessful, proceedings under this Act may continue as if no advance ruling had issued.
+
+(e) **Manufactured time pressure.** A finding under subsection (9)(h) that the requestor manufactured or aggravated the timing pressure is determinative against the availability of provisional reliance under this subsection. The contemporaneous filing under paragraph (a)(iv) is itself reviewable for accuracy, and a materially false statement in that filing is conduct within the jurisdiction of the Commissioner under this Act independent of the underlying request.
+
+(f) **Preliminary view.** On receipt of notice under paragraph (a)(iv), the Commissioner may, within the time available before the conduct must be carried out, issue a preliminary view identifying any conditions the Commissioner would likely require or any aspect of the conduct the Commissioner would likely decline. A preliminary view is not a determination under subsection (2) and does not give rise to the defense under subsection (3), but a requestor's compliance with a preliminary view is admissible as evidence of good faith under §26 and counts toward remediation under paragraph (d)(iii).
+
+(g) **Reporting.** Each instance of provisional reliance shall be identified in the quarterly compliance report under §23, with the basis stated under paragraph (a)(iv) and the eventual determination, and shall be aggregated in the annual pattern review under subsection (9)(g). A pattern of provisional reliance by a single requestor, office, or class of conduct is a pattern within the meaning of subsection (9)(g) and may be the subject of regulatory or legislative recommendation.
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*
@@ -983,17 +1223,65 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 ### First Nations, Métis, and Inuit Governance
 
-**21A(1)** In this section, "Indigenous government" means a First Nations government, a Métis government, or an Inuit government that is recognized under federal law, under a self-government agreement, under the *Metis Settlements Act*, or under an agreement with the Government of Canada or a province of Canada, and includes a band council constituted under the *Indian Act* (Canada), a Métis Settlement, and the Métis Nation of Alberta.
+**21A(1) Definition for interface purposes.** The term "Indigenous government" is used in this section solely to identify, for the limited purposes of this Act and at the interface between the Crown and Indigenous governance systems, those bodies whose internal governance is exempt from the operation of this Act and with whom the Crown is required to engage under this section. The term does not, and is not intended to, define, characterize, recognize, withhold recognition from, or limit the inherent jurisdiction or self-determination of Indigenous peoples, which exists independently of any Crown enactment and derives from the inherent rights of Indigenous peoples and from treaty. For the limited purposes of this section, "Indigenous government" means a First Nations government, a Métis government, or an Inuit government that is recognized under federal law, under a self-government agreement, under the *Metis Settlements Act*, or under an agreement with the Government of Canada or a province of Canada, and includes a band council constituted under the *Indian Act* (Canada), a Métis Settlement, and the Métis Nation of Alberta.
+
+**(1.1) Crown-internal reference, not characterization.** For greater certainty, subsection (1) is a Crown-internal reference applicable at the boundary between this Act and the governance systems of Indigenous peoples. Nothing in this Act is to be read as conferring, withholding, defining, or modifying recognition of Indigenous governance, which derives from sources independent of and prior to the Crown.
 
 **(2)** Nothing in this Act applies to the internal governance of an Indigenous government, including the conduct of its elected officials, employees, or agents in the discharge of their governance functions.
 
-**(3)** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation, the Commissioner shall, before commencing the action, consult with the affected Indigenous government in good faith on the subject matter, scope, and procedural conduct of the action, and shall accommodate the outcome of that consultation to the extent reasonably possible without defeating the purposes of this Act.
+**(3) Engagement standard.** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation made in accordance with §28(4A), the Commissioner shall, before commencing the action, engage with the affected Indigenous government on a basis consistent with the principle of free, prior, and informed consent under the *United Nations Declaration on the Rights of Indigenous Peoples*. The engagement shall:
 
-**(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in subsection (3) as it applies to any other person or entity, subject to consultation and accommodation under that subsection.
+(a) be initiated with sufficient notice to permit the Indigenous government to participate meaningfully;
 
-**(5)** This Act shall not be interpreted so as to limit, abrogate, or derogate from the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*, or from any treaty right.
+(b) provide all information reasonably necessary for informed participation;
+
+(c) address the subject matter, scope, and procedural conduct of the action;
+
+(d) be conducted on terms agreed to by the Indigenous government to the extent consistent with the Commissioner's statutory duties;
+
+(e) accommodate the outcome of the engagement to the extent reasonably possible without defeating the purposes of this Act.
+
+Where consent is not obtained, the Commissioner may proceed only on written reasons published in the quarterly compliance report under §23, identifying the engagement undertaken, the matters on which agreement was not reached, and the basis for proceeding. This subsection establishes a floor; nothing prevents an Indigenous government from agreeing in writing to less rigorous procedures where it considers them appropriate, and any such agreement is binding on the Commissioner for the matter to which it relates.
+
+**(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in subsection (3) as it applies to any other person or entity, subject to engagement and accommodation under that subsection and subject to subsection (7) where the entity is an Indigenous-owned governance instrument.
+
+**(5) Affirmative interpretation.** This Act shall be interpreted in a manner consistent with:
+
+(a) the principles of the *United Nations Declaration on the Rights of Indigenous Peoples*, including the principle of free, prior, and informed consent for measures affecting Indigenous peoples;
+
+(b) the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*; and
+
+(c) treaty rights, whether recorded in writing or in the oral records of treaty-making.
+
+Where the operation of any provision of this Act is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to paragraphs (a), (b), and (c) shall prevail.
 
 **(6)** Nothing in this section limits the jurisdiction of the courts or administrative tribunals to adjudicate matters involving constitutional rights, treaty rights, or the duty to consult.
+
+**(7) Indigenous-owned governance instruments.** Where an entity is owned or controlled by one or more Indigenous governments, in whole or in such proportion as is established under §28(4A), and is identified in writing by the Indigenous government as an instrument of its governance or of its economic self-determination (an "Indigenous governance instrument"):
+
+(a) the requirement under §15 to identify individuals with significant control is satisfied by the Indigenous government identifying itself as the principal of the entity, in the form prescribed by regulation under §28(4A); the natural-person ISC requirement does not apply, on the rationale that the entity's authority derives from the Indigenous government and not from natural-person ownership;
+
+(b) the cross-reference under §15(2) does not apply to the entity as such, but applies to any natural person identified by the Indigenous government in connection with the entity's bid in any capacity that, in another bidder, would constitute an ISC;
+
+(c) communications by elected officers or designated representatives of the Indigenous government with provincial officials, on behalf of the Indigenous government, in respect of matters affecting the Indigenous government or the Indigenous governance instrument, are not lobbying within the meaning of §3 and are not subject to the registration or other obligations of Part 2; and
+
+(d) the obligations under this Act applicable to the entity are otherwise as for any other entity, except as provided by this subsection.
+
+**(8) Indigenous Accountability Council.** There is established an Indigenous Accountability Council with the following composition, mandate, and authority:
+
+(a) Membership comprises one representative selected by Treaty 6 First Nations, one selected by Treaty 7 First Nations, one selected by Treaty 8 First Nations of Alberta, one selected by the Métis Nation of Alberta, one selected by the Métis Settlements General Council, and such other members as may be added by agreement among the Council and the Crown to reflect Indigenous communities not otherwise represented;
+
+(b) The Commissioner, the Auditor General, and the Information and Privacy Commissioner shall consult the Council before making a regulation under §28(4A); before issuing a Public Report, Compliance Order, or Certificate that affects an Indigenous government or an Indigenous governance instrument; before publishing the annual pattern review under §11C(9)(g) where the review identifies patterns affecting Indigenous matters; and on such other matters as the Council and the Commissioners may agree.
+
+(c) The Council may, on its own initiative, file a written submission with respect to any matter within the jurisdiction of the Commissioner, the Auditor General, or the Information and Privacy Commissioner that affects Indigenous governments or Indigenous governance instruments. A submission filed under this paragraph shall be acknowledged in writing within 30 days and shall be addressed in any subsequent report or determination, with the Council's position recorded;
+
+(d) Where the Council, by majority of members present and voting, records a minority position on a matter on which it has been consulted, that minority position shall be tabled in the Legislative Assembly alongside the related Commissioner Report, Order, or Certificate, and shall be published with the related document on the Commissioner's website;
+
+(e) The Council shall be funded through main estimates as a separate line item, in an amount sufficient to permit meaningful participation including travel, language services, technical advice, and member honoraria; the budget floor under §24(6) applies to the Council with necessary modifications;
+
+(f) The Council's procedures, terms of office, replacement of members, conflict-of-interest rules, and other operational matters are established by the Council itself, and are not subject to regulation under this Act except where the Council requests by resolution that a regulation be made;
+
+(g) The establishment of the Council under this subsection does not, and is not intended to, substitute for or limit the Crown's separate obligations to consult and accommodate, or to obtain free, prior, and informed consent, in respect of any specific matter; the Council exists at the operational interface and does not replace the constitutional and treaty-based relationships between the Crown and Indigenous peoples.
 
 ### Writ Period
 
@@ -1199,7 +1487,19 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(3) Sector- and transaction-specific thresholds.** Where this Act refers to a threshold for a specific sector of provincial procurement, a specific category of transactions (including sole-source contracts, emergency procurement, and discretionary grants), or a specific category of appointment, the Commissioner, jointly with the Auditor General, may by regulation establish such a threshold, supported by evidence of elevated corruption risk. Regulations under this subsection are subject to subsection (5).
 
-**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control under §21A(3); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
+**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control under §21A(3) and the form prescribed for identification of Indigenous governance instruments under §21A(7), each subject to subsection (4A); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
+
+**(4A) Co-development of Indigenous-affecting regulations.** A regulation under subsection (4) that establishes the materiality threshold for Indigenous government ownership or control under §21A(3), or the form prescribed for identification of Indigenous governance instruments under §21A(7), or any other matter the Commissioner identifies as primarily affecting Indigenous governments or Indigenous governance instruments, shall not come into force unless and until the Minister tables in the Legislative Assembly a co-development report. The report shall describe:
+
+(a) the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, the Métis Settlements General Council, the Indigenous Accountability Council under §21A(8), and such other Indigenous governance bodies as the Minister identifies as having a material interest;
+
+(b) the matters on which agreement was reached and any matters on which agreement was not reached, including the positions taken by participating Indigenous bodies;
+
+(c) the basis on which the regulation, as proposed, reflects the outcome of co-development; and
+
+(d) any minority position recorded by an Indigenous governance body during the co-development process, which shall be reproduced in the report and tabled with the regulation.
+
+The co-development report shall be tabled at least 60 sitting days before the regulation comes into force, and the regulation is subject to subsection (5) during that period.
 
 **(5) Assembly oversight.** Regulations under subsections (1) through (4) shall be laid before the Legislative Assembly within 15 sitting days of being made. The Assembly may, by resolution within 30 sitting days of tabling, disallow any such regulation in whole or in part; a regulation disallowed is void from the date of the resolution, and a regulation not disallowed within 30 sitting days is confirmed. The Assembly may at any time, by resolution, amend or disallow any regulation made under this section whether previously confirmed or not; the Commissioner shall give effect to such a resolution within 30 days of its passage. The Commissioner shall report annually to the Assembly on the use of regulation-making authority under this section, with the report referred on tabling to the appropriate standing committee.
 
@@ -1249,13 +1549,31 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(5) Identity platform dependency.** Where the identity verification platform designated under §15A(1) does not support the issuance of persistent cross-application identifiers as distinct from session-specific credentials, the Commissioner shall publish a written notice to that effect and the fallback chain under §15A(2) shall apply until the platform capability is confirmed in writing by the Minister responsible for Service Alberta. This subsection ceases to have effect on the publication of that confirmation.
 
+### Severability
+
+**31A(1)** If any provision of this Act, or the application of any provision to any person or circumstance, is held by a court of competent jurisdiction to be invalid, unconstitutional, or otherwise unenforceable, the remainder of this Act, and the application of the provision to other persons or circumstances, remain in full force and effect.
+
+**(2)** Where a provision is severed under subsection (1), the Commissioner shall, in the next quarterly compliance report under §23, identify the provision severed, the basis on which it was severed, and the operational consequences for the regime. The Minister shall introduce remedial legislation, or report in writing to the Legislative Assembly the reasons for not doing so, within 12 months of the determination.
+
+**(3)** It is the legislative intent of this Act that each provision be capable of independent operation to the maximum extent consistent with its terms, and that severance preserve the protective effect of the remainder of the Act in respect of the public interest in transparent and accountable government.
+
 ### Commencement
 
 **32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); Part 8 (Common Procedural Provisions); and §26 (Good-Faith Defense).
 
-**(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions).
+**(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions). For greater certainty, the operational provisions of subsection (3.1) of §28 apply on and after 180 days after Royal Assent regardless of whether §21A is in force.
 
 **(3)** Section 27 (Random Audit Program) comes into force 365 days after Royal Assent, with the first audit conducted in the first full fiscal year following commencement.
+
+**(3.1) Indigenous engagement preconditions.** Notwithstanding subsections (1) and (2):
+
+(a) §21A(3), (4), (5), (7), and (8) shall not come into force unless and until the Minister tables in the Legislative Assembly an Indigenous engagement report describing the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, and the Métis Settlements General Council on the substance of those provisions and on the establishment of the Indigenous Accountability Council under §21A(8); the matters on which agreement was reached and any matters on which it was not; and any minority position recorded during the engagement;
+
+(b) §21A(1), (1.1), (2), and (6) come into force on the same schedule as the rest of Part 8, on the rationale that they protect Indigenous governance from the operation of this Act and do not impose new obligations on Indigenous governments;
+
+(c) until §21A(3) is in force, the Commissioner shall, in respect of any action that would be subject to that subsection on its coming into force, conduct engagement on a basis the Commissioner considers consistent with §21A(3) and shall record the basis in the quarterly compliance report under §23, with the engagement record subject to revision once §21A(3) and the Indigenous Accountability Council under §21A(8) are operational;
+
+(d) the Indigenous engagement report under paragraph (a) shall be tabled no later than 24 months after Royal Assent, failing which the Minister shall table in the Assembly written reasons for the delay and a revised tabling schedule, with such reasons referred on tabling to the appropriate standing committee.
 
 **(4)** Except as otherwise provided in this section, this Act comes into force on Royal Assent.
 
@@ -1462,6 +1780,14 @@ The domain-specific content additional to the common content under this section 
 ### Statutory Review
 
 **9.** Within 5 years of commencement, the Minister responsible for the administration of this Act shall cause a comprehensive review of the operation of the Act to be conducted jointly with the review required under §30 of the Honest Government Act. The review shall assess the effectiveness of Parts 2 through 6 in illuminating systemic advantage conferred through legislation, regulation, concessional arrangement, and enforcement disparity; the administrative cost of the Act relative to the public interest served; the adequacy of the Enforcement Equity Report as a tool for identifying patterns warranting further investigation; any unintended consequences or gaps; and consult with the Commissioners, the Auditor General, public bodies, regulatory bodies, and affected members of the public, reporting findings with any recommendations for amendment to the Legislative Assembly.
+
+### Severability
+
+**9A(1)** If any provision of this Act, or the application of any provision to any person or circumstance, is held by a court of competent jurisdiction to be invalid, unconstitutional, or otherwise unenforceable, the remainder of this Act, and the application of the provision to other persons or circumstances, remain in full force and effect.
+
+**(2)** Where a provision is severed under subsection (1), the Auditor General shall, in the next Enforcement Equity Report under §7, identify the provision severed and the operational consequences. The Minister shall introduce remedial legislation, or report in writing to the Legislative Assembly the reasons for not doing so, within 12 months of the determination.
+
+**(3)** It is the legislative intent of this Act that each provision be capable of independent operation to the maximum extent consistent with its terms, and that severance preserve the protective effect of the remainder in respect of the public interest in transparent disclosure of advantage conferred by the Crown.
 
 ### Commencement
 

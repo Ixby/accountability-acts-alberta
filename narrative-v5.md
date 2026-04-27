@@ -610,7 +610,7 @@ The brief is in a public Git repository at github.com/Ixby/accountability-acts-a
 
 **Fork it.** If your read of what the package should be diverges substantially from what is on the public branch, fork it, write the version you think it should be, and run with that. The licence is there to make this possible. The best forks become the version that gets adopted.
 
-The point of all of this is the same. The first version is one person with cross-domain exposure putting a starting point on the record. The version that gets used, by whoever uses it, will be the result of substantial revision by people with deeper expertise. Best ideas bubble up.
+The point of all of this is the same. The first version is one person with cross-domain exposure putting a starting point on the record. The version that gets used, by whoever uses it, will be the result of substantial revision by people with deeper expertise. Best ideas bubble up, in the open, and are auditable.
 
 ### A draft email to your MLA
 

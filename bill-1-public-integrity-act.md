@@ -113,6 +113,36 @@
 
 > **18.1** No person shall receive a payment for lobbying that is in whole or in part contingent on the outcome of a lobbying activity.
 
+**5A(1) Unified public registry.** The Registrar of Lobbyists shall maintain a unified public registry combining:
+
+(a) the lobbyist registration database required under the *Lobbyists Act*, updated in real-time as registrations are filed, amended, or terminated;
+
+(b) a beneficial ownership and ISC summary derived from returns filed under §15 of this Act, updated within 5 business days of filing.
+
+**(2)** The unified registry shall be publicly searchable without registration and without fee, by:
+
+(a) the name of a lobbyist, client, or registrant;
+
+(b) the name or identifier of a public office holder who is the subject of a transparency return under §4(4);
+
+(c) the name or identifier of an individual with significant control;
+
+(d) the name of a company or entity;
+
+(e) subject matter or legislative/regulatory file reference;
+
+(f) the date range of lobbying activity or ISC return filing.
+
+**(3) Real-time update obligation.** A registered lobbyist or entity with a filed ISC return shall update the relevant registration or return within 5 business days of any material change, including a change in subject matter, client, public office holder contacted, or ISC identity. The Registrar shall record the date and nature of each update and make update history publicly accessible.
+
+**(4) Crosswalk.** The Registrar shall, in the unified registry, link ISC returns and lobbyist registrations where the same natural person or entity appears in both streams — revealing, for example, that an ISC of a provincial contractor is also a registered lobbyist. The crosswalk is displayed automatically in the public interface without requiring user-initiated search.
+
+**(5) API access.** The Registrar shall provide a machine-readable public API permitting bulk download and real-time query of all public data in the unified registry, with published documentation maintained on the Registrar's website. The Commissioner shall report in the annual report under §24(3) on API availability and any periods of outage.
+
+**(6) Relationship to existing systems.** Where a mandatory disclosure already required by the *Lobbyists Act* or by §15 of this Act satisfies an obligation under this section, no separate filing is required; the Registrar shall incorporate the existing disclosure into the unified registry automatically.
+
+**(7) Infrastructure.** The unified registry is a capital build under §24(4)(d). The Registrar shall publish a project plan and target completion date within 180 days of Royal Assent. Until the unified registry is operational, the existing Lobbyists Registry and the ISC return portal shall remain publicly accessible as separate systems, and the crosswalk obligation in subsection (4) applies to the best extent technically feasible.
+
 ---
 
 ## Part 3 — The Escalation Framework, Oversight Officer Independence, and Amendments to the *Conflicts of Interest Act*, RSA 2000, c C-23 and the *Auditor General Act*, RSA 2000, c A-46
@@ -135,7 +165,7 @@
 
 (g) prioritize investigation and enforcement based on materiality, public interest, and resource availability, and for that purpose may establish by published guideline a materiality threshold below which conduct is disposed of by note in the quarterly compliance report; dispose of related matters through consolidated public report; and, by regulation under §28(4), designate low-risk conduct categories for handling through standing compliance protocols rather than individual investigation; and
 
-(h) where the exercise of any power under this Act pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information that the subject would not otherwise have disclosed, do so on the *surgical-and-accountable* principle: the access shall be limited to the least intrusive scope consistent with the purpose for which it is taken; logged in the privilege-and-privacy register established under §23(1A) with the date, the subject, the authority relied upon, the scope, and the purpose; subject to destruction under §25(9B), §27(6A), or §29A as soon as the purpose for which it was taken has been served; and reviewable under Part 9.
+(h) where the exercise of any power under this Act pierces solicitor-client privilege, Cabinet confidence, parliamentary privilege, the privilege against self-incrimination, or accesses personal or financial information that the subject would not otherwise have disclosed, do so on the *surgical-and-accountable* principle: the access shall be limited to the least intrusive scope consistent with the purpose for which it is taken; logged in the privilege-and-privacy register established under §23(1A) with the date, the subject, the authority relied upon, the scope, and the purpose; subject to destruction under §25(9B), §27(6A), §27A(8), or §29A as soon as the purpose for which it was taken has been served; and reviewable under Part 9.
 
 ### Tier 1 — Public Report of Findings
 
@@ -177,9 +207,23 @@
 >
 > **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Public Integrity Act of Alberta*) with a recipient.
 >
+> **(3A)** "Indirect decision-making authority" in subsection (3) means that the former official reviewed, approved, or directed a subordinate action that was a proximate step in the award of the specific contract or grant in question. It does not include ministerial oversight in the ordinary course of departmental administration where the former official exercised no judgment specific to that contract or grant.
+>
 > **(4)** Subsection (3) does not apply to arms-length public entities (including Alberta Health Services, public post-secondary institutions, school boards, and municipalities); non-profit organizations receiving operational funding under an established program of general application, where the former official had no decision-making role regarding the specific grant; or employment with no connection to the contract or grant in question.
 >
 > **(5)** Breach results in repayment of transition allowances or severance, in an amount proportionate to the remaining restriction period, subject to review under Part 9.
+>
+> **(6) Successor-approval requirement for incomplete transactions.** Where a Minister or senior official initiated, negotiated, or materially advanced — but did not complete — a transaction, contract, regulatory approval, concessional arrangement, appointment, or other matter conferring a discretionary benefit on an identifiable private party, and the official subsequently leaves office before the matter is concluded, the matter shall not be concluded without:
+>
+> (a) explicit written approval by a successor Minister or senior official who had no personal involvement in initiating or advancing the matter; and
+>
+> (b) publication of that approval, with the names of the approving and former officials, the nature of the matter, and the reason for the approval, in the quarterly appointments and contracts bulletin maintained by the relevant ministry, within 30 days of the approval.
+>
+> **(6A)** "Initiated or materially advanced" in subsection (6) means that the former official made a decision or directed a subordinate to take a step that, if unchanged, would lead to completion of the matter in the ordinary course. It does not include steps taken at the direction of an external or independent body.
+>
+> **(6B)** Failure by the successor to obtain approval as required under subsection (6) constitutes conduct within the jurisdiction of the Commissioner under the *Public Integrity Act of Alberta*, subject to the escalation framework in Part 3 of that Act. A transaction or approval completed without the required successor approval is voidable by the Commissioner on application to the Court of King's Bench.
+>
+> **(6C)** Subsection (6) does not apply to: routine contracts and approvals that form part of an established program of general application where no discretion as to the recipient is exercised at the ministerial level; matters where the former official's involvement was limited to ministerial sign-off on a recommendation from an independent adjudicative body; or matters where the former official had a recusal order under the *Conflicts of Interest Act* on file in relation to that matter before leaving office.
 
 **11.** Section 31 is amended by adding:
 
@@ -217,7 +261,7 @@
 
 **(e)** by adding after subsection (3):
 
-> **(4)** Where the office of Ethics Commissioner is or becomes vacant and no appointment has been made under subsection (1) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Ethics Commissioner. The acting Commissioner serves until an appointment is made under subsection (1) and has all the powers and duties of the Ethics Commissioner during that period. An individual appointed under this subsection must meet the eligibility requirements in subsection (2.1). The Chief Justice shall publish written reasons for the appointment. Service as acting Commissioner does not count against the term limit in subsection (2) and does not affect eligibility for formal appointment under subsection (1).
+> **(4)** Where the office of Ethics Commissioner is or becomes vacant and no appointment has been made under subsection (1) within 120 days of the vacancy, the Chief Justice of the Court of King's Bench of Alberta shall appoint a qualified individual to serve as acting Ethics Commissioner. The acting Commissioner serves until an appointment is made under subsection (1) and has all the powers and duties of the Ethics Commissioner during that period. An individual appointed under this subsection must meet the eligibility requirements in subsection (2.1). The Chief Justice shall publish written reasons for the appointment. Service as acting Commissioner does not count against the term limit in subsection (2) and does not affect eligibility for formal appointment under subsection (1). Where the Chief Justice has not made an appointment within 30 days of the 120-day period expiring, any person may apply to the Court of King's Bench for an order directing the Chief Justice to proceed. A decision by the Chief Justice on who to appoint is not subject to judicial review on the merits.
 
 **11B.** The provisions of the *Auditor General Act*, RSA 2000, c A-46, governing the appointment, eligibility, term, and removal of the Auditor General are amended as follows [specific section numbers require verification against current statutory text before tabling]:
 
@@ -331,6 +375,114 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 (g) **Reporting.** Each instance of provisional reliance shall be identified in the quarterly compliance report under §23, with the basis stated under paragraph (a)(iv) and the eventual determination, and shall be aggregated in the annual pattern review under subsection (9)(g). A pattern of provisional reliance by a single requestor, office, or class of conduct is a pattern within the meaning of subsection (9)(g) and may be the subject of regulatory or legislative recommendation.
 
+### Public Asset and Income Declarations
+
+**11D(1) Asset and income declaration — Members and senior officials.** Every Member of the Legislative Assembly and every senior official shall, within 30 days of taking office and annually thereafter on a date prescribed by regulation, file an asset and income declaration with the Commissioner.
+
+**(2) Content.** A declaration shall disclose, as of a date not more than 30 days before filing:
+
+(a) all real property owned or in which the declarant holds a beneficial interest, identified by municipality and type (primary residence, secondary residence, investment property, agricultural land, commercial property), without street address;
+
+(b) all financial assets held or beneficially owned, by category (publicly traded securities, private company interests, cash and deposits, pension and retirement accounts, trust interests), with ranges rather than precise values, in ranges prescribed by regulation;
+
+(c) all sources of income outside the declarant's government salary or Member indemnity received in the preceding calendar year, by category and range;
+
+(d) all directorships, officer positions, partnerships, or ownership interests in any entity, current and active at the date of filing;
+
+(e) all significant liabilities — individually or in aggregate exceeding the liability threshold prescribed by regulation — by category (mortgage, personal loan, business debt, other), with ranges;
+
+(f) any asset, income source, or liability held through a spouse, common-law partner, or dependent child, where the declarant has knowledge of and a beneficial interest in the asset or income, applying the same categories and ranges.
+
+**(3) Public registry.** The Commissioner shall maintain a public online registry of declarations filed under this section. The registry shall:
+
+(a) be publicly searchable by name, office, and year;
+
+(b) display declarations in the standardized format prescribed by regulation;
+
+(c) retain declarations for not less than 10 years after the end of the declarant's term of office;
+
+(d) not disclose street addresses of real property, account numbers, or precise monetary values — ranges and categories are sufficient for the purposes of this section.
+
+**(4) Material change.** Where a material change in assets, income, or liabilities occurs between annual filing dates — including acquisition, disposal, or material change in value exceeding the material-change threshold prescribed by regulation — the declarant shall file an amended declaration within 30 days of the change.
+
+**(5) Relationship to Conflicts of Interest Act.** This section supplements and does not replace obligations under the *Conflicts of Interest Act*. Where a declaration under this section and a disclosure under the *Conflicts of Interest Act* address the same information, a single combined disclosure is sufficient provided it meets the requirements of both this section and that Act.
+
+**(6) Enforcement.** Failure to file a required declaration, or filing a declaration the declarant knows to be materially incomplete or misleading, is conduct within the jurisdiction of the Commissioner under this Act, subject to the escalation framework in Part 3 and the proportional penalty framework in §25.
+
+**(7) Commencement gap.** Where a senior official or Member was in office at the date this section came into force, the first declaration under subsection (1) is due 180 days after commencement.
+
+### Legislative Oversight Committee
+
+**11E(1) Legislative Oversight Committee.** The Legislative Assembly shall, within 90 days of Royal Assent, establish or designate a standing committee to act as the Legislative Oversight Committee (the "Committee") for the purposes of this section.
+
+**(2) Composition.** The Committee shall consist of not fewer than 7 and not more than 11 Members, with:
+
+(a) government caucus Members constituting not more than 50 percent of the total membership, rounded down;
+
+(b) the chair and deputy chair positions allocated as prescribed by the *Standing Orders of the Legislative Assembly*, with a preference for the chair to be held by an opposition Member.
+
+**(3) Functions.** The Committee shall:
+
+(a) review the Commissioner's annual report under §24(3) and the Auditor General's annual report, and report to the Assembly on its assessment;
+
+(b) hold public hearings with the Commissioner and, separately, the Auditor General, at least annually, at which any Member of the Assembly may submit written questions for consideration;
+
+(c) review the Commissioner's proposed budget and resource plan under §24(2) and provide the Assembly with a written assessment of whether the proposed appropriation is consistent with the Commissioner's stated operational requirements under §24(4);
+
+(d) review proposed threshold-setting and regulation-making under §28 and advise the Assembly before the 30-sitting-day disallowance window expires;
+
+(e) receive referrals from the Commissioner under §11F(6) where a Systemic Inquiry Report is tabled, and report to the Assembly within 60 sitting days on the Committee's assessment of the recommendations.
+
+**(4) Independence limitation.** The Committee shall not:
+
+(a) direct or restrict the Commissioner in the conduct of any individual investigation;
+
+(b) review or comment on findings in respect of any named individual while proceedings are pending or within the appeal period following conclusion;
+
+(c) review or comment on the merits of any determination subject to judicial review or court confirmation under §22.
+
+**(5) Staffing.** The Committee may, within its budget, retain independent legal and analytical support. The Commissioner's office shall provide administrative support to the Committee at the Committee's request, provided the support does not create a conflict with the Commissioner's investigative function.
+
+**(6)** Annual hearings under subsection (3)(b) shall be open to the public and broadcast or made permanently available on the Assembly's website.
+
+### Systemic Inquiry Power
+
+**11F(1) Systemic inquiry power.** The Commissioner may, independently of any complaint, initiate a systemic inquiry into patterns of conduct or structural conditions that create risk of the harms this Act is designed to address, where:
+
+(a) the Commissioner has received three or more complaints within any 24-month period that are individually below the materiality threshold for formal investigation but collectively suggest a systemic pattern;
+
+(b) the Commissioner's own proactive review under §27 or otherwise identifies indicators of systemic non-compliance in a class of conduct, office, or sector not adequately addressed by complaint-triggered investigation;
+
+(c) the Legislative Oversight Committee established under §11E requests in writing that the Commissioner examine a specified systemic question; or
+
+(d) the Commissioner has reasonable grounds to believe that a structural condition — including a regulatory gap, a pattern of benefit concentration, or a compliance-mechanism failure — is producing outcomes contrary to the purposes of this Act regardless of whether individual actors are in violation.
+
+**(2) Scope.** A systemic inquiry under this section:
+
+(a) examines patterns, conditions, and systemic risk — it does not make findings against named individuals unless those findings arise independently under the escalation framework in Part 3;
+
+(b) may involve document production requests directed to public bodies and regulated entities; structured interviews with current or former officials (subject to §27A on compelled testimony); and public hearings at the Commissioner's discretion;
+
+(c) may examine conduct beyond the five-year investigation period in §21C(1) for the purpose of understanding patterns, provided no penalty is recommended in respect of conduct outside that period.
+
+**(3) Relationship to individual proceedings.** Where a systemic inquiry reveals conduct by a named individual that meets the materiality threshold and falls within the limitation period, the Commissioner may commence individual proceedings under Part 3 in respect of that conduct, in addition to or following the systemic inquiry.
+
+**(4) Systemic Inquiry Report.** On concluding a systemic inquiry, the Commissioner shall publish a Systemic Inquiry Report that:
+
+(a) describes the pattern, condition, or systemic question examined;
+
+(b) sets out the Commissioner's findings on the systemic question, with evidence and reasoning;
+
+(c) makes recommendations to the Legislative Assembly, to specific public bodies, or to the Lieutenant Governor in Council, for legislative, regulatory, or administrative measures to address the systemic risk identified;
+
+(d) does not contain findings adverse to named individuals unless those findings arise independently under Part 3 and are published through the escalation framework applicable to individual proceedings.
+
+**(5) Public body response.** A public body that is the subject of a recommendation in a Systemic Inquiry Report shall, within 90 days of tabling, respond in writing to the Commissioner identifying: (a) each recommendation accepted and the implementation plan; (b) each recommendation rejected and the reasons for rejection; (c) each recommendation requiring further study and the timeline for determination. The response is published on the Commissioner's website.
+
+**(6) Tabling.** A Systemic Inquiry Report shall be tabled in the Legislative Assembly and referred to the Legislative Oversight Committee under §11E(3)(e).
+
+**(7) Resource accountability.** Where a systemic inquiry requires resources beyond the Commissioner's normal operating capacity, the Commissioner shall notify the Legislative Oversight Committee in advance and include the cost in the resource plan under §24(2).
+
 ---
 
 ## Part 4 — Amendments to the *Access to Information Act*
@@ -401,7 +553,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Public Integrity Act of Alberta*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
 >
-> **(5)** Records shall be maintained for not less than 7 years and made available to the Commissioner on request.
+> **(5)** Records shall be maintained for not less than 7 years and made available to the Commissioner on request. The 7-year retention period is consistent with standard procurement audit-trail requirements; longer retention under §29A of this Act applies to personal information held by the Commissioner, not to records held by the public body or bidder.
 >
 > **(6)** Nothing in this section prevents any person or entity from bidding on provincial contracts; this section establishes procedural transparency, not exclusion from eligibility.
 >
@@ -535,6 +687,30 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(8)** This section applies prospectively only.
 
+**20A(1) Whistleblower financial award.** Where a disclosure of information to the Commissioner by an individual leads, in whole or in material part, to a successful enforcement action resulting in collected sanctions — including administrative penalties and disgorgement — exceeding the threshold prescribed by regulation, the Commissioner may award the disclosing individual a financial award from the collected amount.
+
+**(2)** An award under subsection (1) shall be:
+
+(a) not less than 10 percent and not more than 30 percent of the collected amount attributable to the disclosure;
+
+(b) calibrated within that range based on: the significance of the information to the enforcement action; the degree of personal risk borne by the disclosing individual; whether the individual disclosed voluntarily and before the Commissioner was otherwise aware of the matter; and the degree of cooperation provided throughout the proceedings.
+
+**(3)** A financial award is not available where:
+
+(a) the disclosing individual was a participant in the wrongdoing, unless the Commissioner determines the participation was peripheral, coerced, or the individual was a necessary means of access to the information — in which case the Commissioner may reduce but not extinguish the award;
+
+(b) the disclosure was made exclusively through media publication without prior disclosure to the Commissioner, the Auditor General, or a law enforcement authority;
+
+(c) the disclosing individual is or was a Member of the Legislative Assembly, a Minister, a Deputy Minister, or an official whose accountability function includes oversight of the conduct disclosed, unless the Commissioner determines exceptional circumstances warrant an award.
+
+**(4) Application and determination.** A person seeking a financial award shall apply to the Commissioner within 24 months of the enforcement action becoming final. The Commissioner shall determine the award within 90 days of application. A determination under this subsection is subject to review under Part 9 on questions of procedural fairness only; the quantum of the award within the prescribed range is at the Commissioner's discretion.
+
+**(5) Confidentiality.** The Commissioner shall not disclose the identity of a person who received or applied for a financial award except with the person's written consent, in proceedings under Part 9, or as required by law. The existence of the award program and aggregate amounts awarded are reported in the annual report under §24(3).
+
+**(6) Funding.** Financial awards are paid from collected sanctions under this Act, not from general appropriations. Where collected sanctions in a fiscal year are insufficient to fund awards determined under subsection (2), payment is deferred to the next fiscal year in which sufficient funds are available, with priority among deferred awards determined by date of application.
+
+**(7) Prospective application.** This section applies prospectively. A financial award is available only in respect of information disclosed to the Commissioner on or after the commencement of this section and enforcement actions arising from that disclosure.
+
 ---
 
 ## Part 8 — Indigenous Engagement at the Interface
@@ -595,7 +771,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > (b) any writ period under §21B;
 >
-> (c) any period during which the respondent has left Alberta in circumstances that the Commissioner has reasonable grounds to believe are for the purpose of evading these proceedings; and
+> (c) any period during which the respondent has left Alberta in circumstances that the Commissioner has reasonable grounds to believe are for the purpose of evading these proceedings — this paragraph does not prevent the Commissioner from commencing or continuing in absentia proceedings under §21F; tolling under this paragraph applies to the investigation window only and ceases on the Commissioner's election to proceed under §21F; and
 >
 > (d) any period during which the respondent has deliberately obstructed Commissioner access to information necessary to investigate the conduct.
 
@@ -653,7 +829,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 **(3) Judgment registration.** An administrative penalty imposed under §25 of this Act may be registered by the Commissioner in the Court of King's Bench as a judgment, upon filing the Commissioner's written determination and proof of service or publication of notice. A registered judgment: (a) may be enforced in Alberta through all enforcement mechanisms available to registered judgments; and (b) may be registered for enforcement in other Canadian provinces and territories under the applicable reciprocal enforcement of judgments legislation of those jurisdictions.
 
-**(4) Certificate held open for absent Members.** Where a Certificate of Malfeasance has been issued against a sitting Member who has left the jurisdiction and has not returned, the Certificate shall be held open and shall not close under the 60-sitting-day rule. The Certificate shall be listed as open in each quarterly compliance report until the Member returns to Assembly jurisdiction, resigns their seat, or the seat is otherwise vacated.
+**(4) Certificate held open for absent Members.** Where a Certificate of Malfeasance has been issued against a sitting Member who has left the jurisdiction and has not returned, the Certificate shall be held open and shall not close under the 60-sitting-day rule. The Certificate shall be listed as open in each quarterly compliance report until the Member returns to Alberta, resigns their seat, or the seat is otherwise vacated.
 
 **(5) Criminal referral for flight.** Where the Commissioner has reasonable grounds to believe a respondent has left Alberta to evade proceedings under this Act and the conduct may also constitute a criminal offence, the Commissioner shall refer the matter to the appropriate law enforcement authority for consideration of applicable criminal process, including extradition where the respondent is outside Canada. The referral and its date shall be recorded in the quarterly compliance report.
 
@@ -843,6 +1019,50 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 (c) retain only aggregate compliance data and the closure note — the closure note shall not identify the audited person or entity in any public report.
 
+**(7) Published audit calendar.** The Commissioner shall, no later than December 1 of each year, publish the audit calendar for the following calendar year, identifying:
+
+(a) the date or dates on which random selection will be conducted for each stratum under subsection (2);
+
+(b) the randomness source and methodology to be applied;
+
+(c) the target completion date for Tier 0 screening for each stratum;
+
+(d) the expected date of aggregate results publication in the quarterly compliance report following each audit cycle.
+
+The published calendar shall not be changed except on at least 30 days' advance public notice with written reasons. The Commissioner shall not time the release of audit findings, selection announcements, or individual notifications to coincide with electoral events, writ periods, or known political calendar milestones. The annual report under §24(3) shall assess whether the audit calendar was adhered to and, where deviations occurred, state the reason for each deviation.
+
+---
+
+### Compelled Testimony and Production Orders
+
+**27A(1) Compelled testimony — witnesses.** In an active investigation under this Act or a systemic inquiry under §11F, the Commissioner may, by written notice, require any person to attend before the Commissioner and give evidence under oath or affirmation relevant to the investigation or inquiry.
+
+**(2) Use-immunity.** Evidence given by a person in response to a notice under subsection (1) — and any derivative evidence obtained through that testimony — shall not be used against the testifying person in any criminal proceedings or in Commissioner proceedings in which that person is the respondent, except proceedings for perjury or for giving false or misleading testimony under this section. Use-immunity under this subsection does not apply to derivative evidence that would have been discoverable independently of the testimony.
+
+**(3) No prosecution power.** Nothing in this section gives the Commissioner power to prosecute or initiate criminal proceedings. Where evidence obtained under this section — independently of the use-immunity protection — discloses conduct that may constitute a criminal offence, the Commissioner shall refer the matter to the appropriate law enforcement authority under §6(b).
+
+**(4) Document production.** The Commissioner may, by written production order, require any person or public body to produce records, documents, or other materials in their possession or control that are relevant to an active investigation or systemic inquiry. A production order shall:
+
+(a) identify the records or categories of records with reasonable specificity;
+
+(b) specify the time and manner of production;
+
+(c) be proportionate in scope to the investigation purpose.
+
+**(5) Court-backed enforcement.** Where a person fails to comply with a production order under subsection (4), the Commissioner may apply to the Court of King's Bench for an order requiring compliance. The Court shall hear the application on an expedited basis and may order compliance, impose costs, or hold the person in contempt of court. The Commissioner shall not execute or enforce a production order through physical access to premises without a court order obtained on application under this subsection.
+
+**(6) Privilege and privacy.** Compelled testimony and production orders are subject to:
+
+(a) solicitor-client privilege — a witness or holder of documents may claim privilege, and the Commissioner shall refer any disputed claim to the Court of King's Bench for determination;
+
+(b) Cabinet confidence — the Commissioner shall apply the *surgical-and-accountable* principle under §6(h) and may seek Court guidance on the scope of any claimed Cabinet confidence;
+
+(c) the protection against self-incrimination — use-immunity under subsection (2) is the mechanism through which the Commissioner may require testimony notwithstanding this protection; the Commissioner shall, before requiring testimony, provide written notice of the use-immunity protection to the person required to testify.
+
+**(7) Failure to comply — testimony.** Failure to comply with a notice to attend and give evidence under subsection (1), or giving false or misleading evidence in response to such a notice, is conduct within the jurisdiction of the Commissioner under this Act and a matter for referral to law enforcement where it may constitute an offence under the *Criminal Code* (Canada).
+
+**(8) Records destruction.** The Commissioner shall apply §27(6A) to testimony records and documents obtained under this section where the investigation closes without escalation to Tier 2 or higher.
+
 ---
 
 ## Part 12 — Calibration, Administration, and Commencement
@@ -855,11 +1075,11 @@ Where the proposed estimates include an appropriation below the floor establishe
 
 **(3) Sector- and transaction-specific thresholds.** Where this Act refers to a threshold for a specific sector of provincial procurement, a specific category of transactions (including sole-source contracts, emergency procurement, and discretionary grants), or a specific category of appointment, the Commissioner, jointly with the Auditor General, may by regulation establish such a threshold, supported by evidence of elevated corruption risk. Regulations under this subsection are subject to subsection (5).
 
-**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control under §21A(3) and the form prescribed for identification of Indigenous governance instruments under §21A(7), each subject to subsection (4A); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
+**(4) Operational matters.** The Commissioner, jointly with the Auditor General where relevant, may by regulation make provision for operational matters necessary for the effective administration of this Act, including the junior staff compensation threshold under §25(3); the non-profit revenue cutoff and lobbying duties percentage threshold under §2(v); the small-bidder threshold under §15(1A) and the corresponding small-bidder fee cap; the materiality threshold for Indigenous government ownership or control, and the form prescribed for identification of Indigenous governance instruments, under provisions to be co-developed pursuant to §21A(3) and §32(3.1) — these regulation-making powers become active only after the co-development provisions come into force under §32(3.1)(a), and are each subject to subsection (4A); centralized compliance services to support small ministries and public agencies, funded through main estimates; protocols for random audit intensity scaling; the form and content of simplified ISC disclosure and the consolidated quarterly appointments bulletin; the method of determining clean compliance history for the purposes of any processing fee credit; tier percentages, floor amounts, collection periods, and accumulation thresholds referenced in §25; and such other operational matters as are necessary. Regulations under this subsection are subject to subsection (5).
 
-**(4A) Co-development of Indigenous-affecting regulations.** A regulation under subsection (4) that establishes the materiality threshold for Indigenous government ownership or control under §21A(3), or the form prescribed for identification of Indigenous governance instruments under §21A(7), or any other matter the Commissioner identifies as primarily affecting Indigenous governments or Indigenous governance instruments, shall not come into force unless and until the Minister tables in the Legislative Assembly a co-development report. The report shall describe:
+**(4A) Co-development of Indigenous-affecting regulations.** A regulation under subsection (4) that establishes the materiality threshold for Indigenous government ownership or control, or the form prescribed for identification of Indigenous governance instruments, or any other matter the Commissioner identifies as primarily affecting Indigenous governments or Indigenous governance instruments, shall not come into force unless and until the Minister tables in the Legislative Assembly a co-development report. The report shall describe:
 
-(a) the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, the Métis Settlements General Council, the Indigenous Accountability Council under §21A(8), and such other Indigenous governance bodies as the Minister identifies as having a material interest;
+(a) the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, the Métis Settlements General Council, the Indigenous Accountability Council to be established through the co-development process under §21A(3), and such other Indigenous governance bodies as the Minister identifies as having a material interest;
 
 (b) the matters on which agreement was reached and any matters on which agreement was not reached, including the positions taken by participating Indigenous bodies;
 
@@ -927,7 +1147,7 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 ### Commencement
 
-**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); §21A(1), (1.1), (2), and (6) (the definitional and protective subsections of Part 8 — Indigenous Engagement at the Interface); Part 9 (Application and Process — §§21, 21B, 22, 22A); and §26 (Good-Faith Defense). The remaining subsections of §21A come into force in accordance with subsection (3.1). Sections in Parts 10 and 11 come into force in accordance with subsections (2) and (3).
+**32(1)** The following provisions come into force on Royal Assent: §1 (Short Title); Part 1 (Interpretation); §§17, 18, 19 (Public Interest Disclosure amendments); §21A(1), (1.1), (2), and (6) (the definitional and protective subsections of Part 8 — Indigenous Engagement at the Interface); Part 9 (Application and Process — §§21, 21B, 22, 22A); and §26 (Good-Faith Defense). §21A(3) is operative on Royal Assent as a process commitment only; the substantive engagement provisions to be co-developed under §21A(3) shall come into force pursuant to subsection (3.1)(a) when implementing legislation is enacted following tabling of the engagement report. Sections in Parts 10 and 11 come into force in accordance with subsections (2) and (3).
 
 **(2)** The following provisions come into force 180 days after Royal Assent: Parts 2, 3, 4, 5, and 7; §23 (Quarterly Compliance Report), with the first report due at the close of the first full fiscal quarter following commencement; §§24, 25, 28, 29 (Resourcing, Proportional Penalty Framework, Threshold and Regulation-Making Authority, Cost Recovery); and §§30, 31 (Statutory Review, Transitional Provisions). For greater certainty, §28(4A) (the co-development requirement for Indigenous-affecting regulations) applies on and after 180 days after Royal Assent regardless of whether §21A's engagement provisions are in force.
 
@@ -941,7 +1161,9 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 (c) until the co-development provisions come into force under paragraph (a), the Commissioner shall, in respect of any action affecting an Indigenous government, conduct engagement on a basis the Commissioner considers consistent with the honour of the Crown and shall record the basis in the quarterly compliance report under §23;
 
-(d) the Indigenous engagement report under paragraph (a) shall be tabled no later than 24 months after Royal Assent, failing which the Minister shall table in the Assembly written reasons for the delay and a revised tabling schedule, with such reasons referred on tabling to the appropriate standing committee.
+(d) the Indigenous engagement report under paragraph (a) shall be tabled no later than 24 months after Royal Assent, failing which the Minister shall table in the Assembly written reasons for the delay and a revised tabling schedule, with such reasons referred on tabling to the appropriate standing committee;
+
+(e) on tabling the engagement report under paragraph (a), the Minister shall, within one sitting year, introduce implementing legislation to bring the co-developed provisions into force, or report in writing to the Assembly with reasons for not doing so and a revised introduction schedule; a report in writing under this paragraph shall be referred on tabling to the appropriate standing committee.
 
 **(4)** Except as otherwise provided in this section, this Act comes into force on Royal Assent.
 

@@ -404,6 +404,26 @@ If the automated check finds a discrepancy, a documentary review is conducted at
 
 For audits that close cleanly, the records are destroyed within ninety days, with written confirmation to the audited person. The accountability framework does not become a permanent surveillance apparatus over the people it is supposed to protect.
 
+The audit calendar is published each December for the following year: when selection will run, what randomness source will be used, when results will appear. The Commissioner cannot time audit announcements to coincide with elections, writ periods, or political calendar milestones. The calendar is fixed in advance and publicly committed.
+
+### Powers that don't depend on complaints
+
+Three provisions in the bill give the accountability regime teeth that the complaint-only model lacks.
+
+A **systemic inquiry power** lets the Commissioner investigate patterns of structural failure — a compliance-mechanism gap, a class of decisions where benefit is consistently flowing in one direction — without waiting for a specific complaint that crosses a specific threshold. Three low-level complaints in twenty-four months suggesting the same systemic problem can trigger a systemic inquiry. The Legislative Oversight Committee can request one. The Commissioner can initiate one independently. The output is a Systemic Inquiry Report with recommendations, tabled in the Assembly. It does not contain findings against named individuals — those require the standard escalation process — but it can make the pattern visible and generate a public record to which public bodies must respond within ninety days.
+
+**Compelled testimony** fills the evidentiary gap that every investigative body faces when key witnesses decline to cooperate voluntarily. The Commissioner can require attendance and sworn testimony in active investigations. Evidence given under compulsion carries use-immunity: it cannot be used against the testifying person in criminal proceedings or in Commissioner proceedings where they are the respondent. The Commissioner has no prosecution power; anything that discloses potential criminal conduct is referred to law enforcement. Documents can be compelled through production orders; failure to comply can be taken to the Court of King's Bench for enforcement.
+
+A **Legislative Oversight Committee** gives the Assembly ongoing operational oversight of the Commissioner — budget adequacy, regulatory proposals, systemic inquiry follow-up — without touching the Commissioner's independence in any individual investigation. The committee cannot direct an investigation or review the merits of a finding. What it can do is receive the annual report, hold public hearings, and tell the Assembly whether the Commissioner is adequately resourced to do what the Act requires. Government-caucus members constitute at most half the membership, rounded down; the chair preference runs to the opposition. The accountability regime has its own accountability structure.
+
+### A public registry, a unified lobbying platform, and a declaration requirement
+
+Three transparency infrastructure pieces accompany the enforcement architecture.
+
+Every Member of the Legislative Assembly and every senior official files an annual asset and income declaration with the Commissioner. The declaration is public, searchable by name and year. It discloses real property by type and municipality, financial assets by category and range, outside income sources, directorships and equity interests, and significant liabilities. Street addresses, account numbers, and precise dollar values are not disclosed — categories and ranges are sufficient for the transparency purpose. The registry retains declarations for ten years after the end of the declarant's term. This is not an exotic requirement; it is standard practice under UNCAC Article 8 and in most OECD jurisdictions. Alberta is not currently among them.
+
+The Lobbyists Registry and the ISC beneficial-ownership registry are unified into a single searchable public platform with a real-time update obligation and a public API. A search on a company name surfaces both its registered lobbyists and its individuals with significant control. The crosswalk is automatic: where the same person appears as an ISC and a registered lobbyist, that connection is displayed without requiring the user to run two separate searches. This is the transparency that the Quebec Registre des entreprises has moved toward and that the federal government's beneficial-ownership registry, in its current form, does not yet provide.
+
 ### What this bill leaves open
 
 **Constitutional review.** Three provisions face material exposure that needs pre-tabling legal opinion: the Commissioner's regulation-making authority at §28, Assembly enforcement of large penalties against sitting Members at §22(5)(b), and the political-contribution cross-reference at §15 (Charter §2(b)). A pre-tabling constitutional opinion is non-negotiable. Counsel will identify issues the drafter missed.
@@ -535,6 +555,10 @@ Year-one capital is approximately $1.7 million for the technology build — mean
 Five million dollars per year is roughly one dollar per Albertan per year — one one-hundredth of one percent of the provincial budget. Each of the three Part I cases ran ten to twenty times the regime's annual operating cost. Whether the regime would have prevented any of them is a counterfactual no accounting can resolve. What the design does claim is more modest: that decisions of this size would face contemporaneous scrutiny at the moment they were made — duty to document for the DynaLIFE oral-briefing arc, contemporaneous reasoning for the Tylenol emergency procurement, structural-choice disclosure for the CEC corporate vehicle. The bills make the moment of decision visible. They do not predict the outcome.
 
 The structural claim is more modest: a regime of this kind creates conditions under which decisions of this size face scrutiny at the point they are made, rather than years later through buybacks, leaked documents, and Auditor General reports. Some treat the cost as a deductible — a predictable annual premium against unpredictable exposure to the kind of events Part I describes. Whether that's good value is a judgment for the reader.
+
+Two provisions partially offset the cost. The ISC-cross-reference processing fee is recovered from bidders, and processing fees fund registry administration rather than drawing from general appropriations. More significantly, the whistleblower financial award is paid from collected sanctions — ten to thirty percent of what the Commissioner actually collects — not from appropriated funds. It does not appear in the $5 million estimate because it costs nothing unless the enforcement program generates revenue. When it does, the award program is self-funded.
+
+The asset and income declaration registry and the unified lobbying/ISC platform are capital builds requiring one-time infrastructure investment plus annual maintenance, both included in the $5 million estimate. The infrastructure is essentially a set of structured databases with a public search interface and API. At prevailing government IT rates these are modest builds; the harder work is the data-standards alignment between the existing lobbyists registry and the ISC return system, and the ongoing maintenance of the crosswalk.
 
 The $5 million is the drafter's estimate, not a Treasury Board validation. Treasury Board validation is one of the items below.
 

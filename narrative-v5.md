@@ -34,7 +34,7 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 **Two bills:**
 
-- **The Public Integrity Act of Alberta:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
+- **The Public Integrity Act of Alberta:** how Ministers, senior officials, and MLAs behave. Lobbying reform with a real-time unified registry; a three-rung escalation ladder (Public Report → Compliance Order → Certificate of Malfeasance); supermajority Commissioner appointment (seven years, non-renewable, two-thirds threshold); Cabinet-confidence amendments; duty to document; ISC cross-reference for procurement; cooling-off and self-deal bar; whistleblower protection with burden reversal and financial awards; proportional penalties; random audits with a publicly verifiable randomness beacon and published calendar; compelled testimony with use-immunity; systemic inquiry power; legislative oversight committee; public asset and income declaration registry.
 - **The Open Books Act:** how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
 
 **What it costs:** ~$5 million per year — roughly $1 per Albertan per year. One one-hundredth of one percent of provincial spending. About what one mid-sized school costs to operate annually. Less than five percent of what a single one of the three cases above cost taxpayers.
@@ -281,6 +281,8 @@ The name describes what the bill protects, not what the current government is ac
 Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.
 
 The bill is organized into twelve Parts. Parts 1 through 7 carry the substantive obligations: definitions, lobbying reform, the escalation framework and oversight-officer independence, and amendments to the *Access to Information Act*, the *Financial Administration Act*, the *Recall Act*, and the *Public Interest Disclosure (Whistleblower Protection) Act*. Part 8 — Indigenous Engagement at the Interface — sits separately because the engagement standard the bill adopts (free, prior, and informed consent) is structurally distinct from procedural provisions that bind everyone else; it has its own commencement gate. Parts 9 through 11 carry the procedural backbone: application and process; reporting and resourcing; sanctions, defences, and audit. Part 12 is calibration, administration, and commencement — regulation-making, cost recovery, retention, statutory review, transitional provisions, severability, and the coming-into-force schedule. The walkthrough below moves by topic rather than by Part, since most provisions in this bill speak to each other across Part lines.
+
+Three provisions carry the structural weight. The **duty to document** (§14A) makes the oral-briefing loophole a violation rather than a workaround — it is the provision directly responsive to DynaLIFE. The **supermajority Commissioner appointment** (§11A) is the mechanism by which every other provision stays insulated from the party it is supposed to investigate — remove it and the regime is capturable at the top. The **ISC cross-reference for procurement** (§15) closes the gap between who lobbies and who bids. Every other provision in the bill is supporting architecture: important, grounded in comparator Canadian practice, amendable without breaking the structural logic. A reader short on time should focus on those three.
 
 ### Lobbying that actually has to register
 
@@ -562,6 +564,24 @@ The asset and income declaration registry and the unified lobbying/ISC platform 
 
 The $5 million is the drafter's estimate, not a Treasury Board validation. Treasury Board validation is one of the items below.
 
+### What this will and won't pass as
+
+The bill is realistic in design, not in a single vote. No multi-partisan package of this scope has passed an Alberta Legislative Assembly without significant prior public pressure or a forcing event. The political question is not "will this pass?" but "how does it move from here to tabled, and in what form?"
+
+**The structural non-negotiable is §11A.** The supermajority appointment provision is simultaneously the most important and most contested provision in the package. It is the structural core — without it, every other provision is capturable at the top. It is also the provision a governing majority will most resist, because it constrains their appointment power. A party negotiating adoption of this package should treat §11A as non-tradeable. The rest can be phased or amended without breaking the structural logic. Losing §11A and gaining everything else is the wrong trade.
+
+**Phased introduction is the realistic path.** A government that wants credit for the accountability commitment without absorbing the full legislative cost in a single session can table a minimum viable package: the supermajority appointment at §11A, the duty to document at §14A, the ISC cross-reference at §15, and the Beneficiary Disclosure Statement at Bill 2 §3. Those four provisions address three of the four structural failure patterns in Part I and do not require the full enforcement infrastructure on day one. The rest follows in a second session of the same mandate. The bill is designed to split cleanly — the escalation framework and the audit program operate independently of the disclosure requirements.
+
+**What survives negotiation as drafted:** duty to document, ISC cross-reference, cooling-off (it is already conceptually accepted in Alberta law), burden reversal in whistleblower protection, proportional penalties, random audit selection, and the unified lobbying registry. These are grounded in existing Canadian practice; the argument for them is precedent, not theory.
+
+**What faces amendment:** the supermajority appointment threshold (will be contested; the seven-year non-renewable term and the Chief Justice backstop are easier to defend than the two-thirds floor); the asset and income declaration registry (will face privacy objections from incumbents; the ranges-not-values architecture reduces but does not eliminate that friction); compelled testimony (will face Charter objections until use-immunity is verified by pre-tabling counsel).
+
+**The regulation-making authority at §28** is where the real legislative negotiation happens. Most specific thresholds — the materiality floor for the ISC cross-reference, the financial-value floor for named-party legislation, the penalty ranges — sit in regulations, not in the bill text. A governing party that accepts the structural design but wants to control implementation will press for narrow thresholds through the regulatory process. The bill's check on this is the Legislative Oversight Committee and the 30-sitting-day disallowance window at §28(3). Whether that check survives negotiation depends on who holds the majority.
+
+**Is the bill too long?** For a first tabling, yes. The bill grew through responsible addition — each provision addresses a real problem, nothing is frivolous — but 1,200+ lines is a hard sell as a private member's bill and a significant ask even as a government bill in a first session. The four-provision minimum viable package above runs around 200–250 lines. The full package is defensible as a platform commitment by a party that campaigns on accountability and wins with that mandate.
+
+The design is intentionally overbuilt for negotiation. There is something to give back without losing the structural core. A party that tables this and loses two provisions in committee comes out considerably ahead of where Alberta is now. That is the realistic bar.
+
 ### What hasn't been done yet
 
 Four items, each before tabling.
@@ -707,6 +727,18 @@ The exposure: a fourth-year Bachelor of Computer Information Systems at Mount Ro
 None of that makes me a lawyer, a legislative drafter, or a policy professional. It does mean that when I read a procurement story, a regulatory filing, an Auditor General's report, or an Indigenous engagement protocol, I can make sense of what is in front of me, see how the pieces connect, and notice when something is missing. The package is what one person with that range can produce in personal time. It is meant as a starting point.
 
 I am not a member of any political party, or an employee of any organization that lobbies, contracts with, or receives funding from the Government of Alberta. I have no commercial, professional, or political interest in the outcome of this package, beyond the interest of any other Albertan in the province being well-governed.
+
+---
+
+## A note before the appendices
+
+The three appendices that follow contain the full drafted statutory text of both bills and a methodology proposal for the Enforcement Equity Report. They are dense by nature. Defined terms build on each other, sections cross-reference sections across Parts, and each Part presupposes the rest of the statute.
+
+If you are reading the brief sequentially and find the bill text hard to navigate, that is normal. The narrative above has already explained what every major provision does and why — Parts IV and V are the design rationale; the appendices are the reference layer. Look up a specific provision when you need the exact wording of something the narrative described, not as an entry point into the package.
+
+If you are reading with an AI assistant, it can answer questions about specific provisions by reference to both the narrative explanation and the statutory text simultaneously. That is the fastest path to engaging with the statutory detail without becoming a part-time legislative drafter.
+
+If you are a legal or policy specialist who came directly for the bill text: the appendices are self-contained. The design rationale behind each structural choice is in Parts IV and V of the narrative.
 
 The package was drafted in personal time, on my own equipment, using publicly available legal databases, my own analysis, and a substantial amount of generative-AI-assisted research and drafting. The *Sources* list above names the cases and statutes I consulted. The structural-design choices, the failure-mode analysis, and the three innovations specific to the package — the ISC and contribution cross-reference, the Beneficiary Disclosure Statement, and the Enforcement Equity Report — are my own.
 

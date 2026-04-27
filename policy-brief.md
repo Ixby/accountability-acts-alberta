@@ -586,7 +586,7 @@ The deeper claim of the bill is that accountability is a condition of legitimate
 
 ## Part VII — The Invitation
 
-Three structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
+Four structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**, the **consultation deficit**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
 
 If something in the package is worth supporting, the support has to be public and specific. *I want this provision because of these reasons.* General endorsement is worth less than a particular sentence put in front of a particular MLA.
 
@@ -597,6 +597,20 @@ If you have an MLA, ask them, of any party, whether they would support this. Get
 The package isn't finished. Constitutional review, Indigenous co-development, fiscal validation, legislative drafting review: each named in Part VI. Several require external work I cannot do alone.
 
 The bills are released under Creative Commons Attribution-ShareAlike 4.0. Any party, any advocacy group, any legislative drafter, any elected official can use them. Attribution and same-licence are the only conditions.
+
+### How to engage with the package
+
+The brief is in a public Git repository at github.com/Ixby/accountability-acts-alberta. A few ways to engage, depending on your tools and the time you want to spend.
+
+**Read it with an AI assistant.** Modern AI tools that can read a Git repository let you read the brief alongside an assistant that can answer questions about specific provisions, surface inconsistencies, summarise a section against the perspective you bring to it, or argue with you about a design choice. The lowest-friction path is GitHub Copilot Chat in your browser: open the repository on github.com, click the "Chat" panel, and Copilot can read the entire repo without anything to install. If you prefer a desktop tool, Cursor, Anthropic's Claude Code CLI, Google Antigravity, and other LLM-assisted environments work the same way. The repository contains a `READ-WITH-AI.md` file written for the AI to use as an entry point. Point your assistant at that file (`github.com/Ixby/accountability-acts-alberta/blob/main/READ-WITH-AI.md`) and it will know how to ingest the rest of the repo and offer guided exploration paths for the kind of reader you are. This is the fastest way to read the package critically without becoming a part-time legal scholar.
+
+**Open an Issue or a Discussion.** GitHub's Issues tab is the right place for specific objections, missing material, factual errors, or improvement proposals. Discussions is the right place for more open-ended argument or for questions the brief has not anticipated. Both are public; the conversation becomes part of the package's record.
+
+**Submit a pull request.** If you can write the change you would like to see, the licence permits it and the repository accepts it. Pull requests with concrete textual revisions, supplementary research, or new appendices are welcome. The CC-BY-SA licence applies to whatever lands.
+
+**Fork it.** If your read of what the package should be diverges substantially from what is on the public branch, fork it, write the version you think it should be, and run with that. The licence is there to make this possible. The best forks become the version that gets adopted.
+
+The point of all of this is the same. The first version is one person with cross-domain exposure putting a starting point on the record. The version that gets used, by whoever uses it, will be the result of substantial revision by people with deeper expertise. Best ideas bubble up.
 
 ### A draft email to your MLA
 

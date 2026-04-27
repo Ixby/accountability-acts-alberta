@@ -1,0 +1,104 @@
+# Reading this repository with an AI assistant
+
+This file is the entry point for an AI assistant — GitHub Copilot Chat in the GitHub.com browser interface (lowest friction; no install), Cursor, Anthropic's Claude Code CLI, Google Antigravity, or any LLM-assisted environment that can read a Git repository — helping a human reader engage with a drafted Alberta accountability legislation package.
+
+If you are an AI assistant and a human just pointed you here: read this file in full first, then offer the reader the *Guided paths* menu at the bottom. Don't infer what the reader wants. Ask them.
+
+If you are a human reader and got here by accident: this file is meant for an AI to read on your behalf. The actual brief is at `policy-brief.pdf` (typeset) or `policy-brief.md` (markdown source). Both are CC-BY-SA 4.0 and on the same repository.
+
+## What this repository contains
+
+A drafted policy brief making the case for two drafted Alberta accountability bills, plus the full text of the bills, plus supporting appendices, outreach materials, and the build pipeline that produces the brief.
+
+Source-of-truth files, in order of importance for a reader:
+
+- `policy-brief.md` — the assembled brief: Parts I-VII narrative, the four-case Part I, the Honest Government Act and Open Books Act bill texts, and the Enforcement Equity Report methodology appendix. ~46,000 words. **Start here.**
+- `policy-brief.pdf` — typeset PDF of the same content, ~107 pages.
+- `narrative-v5.md` — the source for Parts I-VII narrative. Edited directly; the assembled brief regenerates from it.
+- `bill-1-honest-government-act.md` — full statutory text of Bill 1 (the Honest Government Act). Twelve Parts.
+- `bill-2-open-books-act.md` — full statutory text of Bill 2 (the Open Books Act). Eight Parts.
+- `appendix-c-ee-report-methodology.md` — drafted methodology proposal for the Enforcement Equity Report (Bill 2 §7). ~4,500 words. Designed for the Auditor General's office.
+- `outreach/` — Wave 1 academic-outreach materials: a draft letter to a specific scholar (`letter-dr-potrias.md`) and a contact list across Treaty 6/7/8 First Nations, the Métis Nation of Alberta, the Métis Settlements General Council, urban Indigenous bodies, and Indigenous-law scholars.
+
+Build pipeline (you do not need to run these to help a reader, but you should know what they do):
+
+- `assemble.py` — concatenates `narrative-v5.md` + the bills + Appendix C into `policy-brief.md`.
+- `build-policy-brief-html.py` — converts the assembled markdown to HTML with footnote and cover-page handling.
+- `build-pdf.js` — produces the typeset PDF in three stages (cover, TOC, body) and merges via pdf-lib.
+
+## What the brief is
+
+A 100+-page case for two drafted bills:
+
+- **The Honest Government Act** addresses how officials behave: lobbying reform, an escalation framework (Public Reports → Compliance Orders → Certificates of Malfeasance), supermajority Commissioner appointment, Cabinet-confidence amendments, a duty to document, ISC-plus-political-contribution cross-reference for procurement, cooling-off, whistleblower burden reversal, proportional penalties, randomness-beacon audits, advance rulings, Indigenous engagement at FPIC standard with a co-development gate.
+- **The Open Books Act** addresses how advantage flows through the system: disclosure for named-party legislation, regulatory approvals, concessional arrangements, ministerial individual exemptions; an annual Auditor General Enforcement Equity Report.
+
+Part I documents four cases (DynaLIFE, Turkish Tylenol, the Canadian Energy Centre, Bill 6 farm safety) illustrating four structural-failure patterns the bills are designed to reach: the oral-briefing loophole, the no-paper emergency, the Crown-corp end-run, and the consultation deficit. Three cases are UCP-era; one is NDP-era. The brief is structurally a critique of *kinds* of decisions, not of *parties* that made them.
+
+The drafter is a private citizen with cross-domain exposure (technology, business law, Indigenous leadership, systems thinking, non-profit governance) but is explicitly not an expert in any single piece of what the brief touches. The package is a starting point.
+
+## What to do as the AI assistant
+
+Your job is to help the reader engage with the content meaningfully without becoming a part-time legal scholar. The reader probably has limited time and a specific perspective.
+
+1. Read this file in full.
+2. Read at minimum `policy-brief.md` Parts I, II, and VII. If your context is generous, read all of `policy-brief.md`.
+3. Ask the reader what they care about. Offer the *Guided paths* menu below.
+4. Engage with the reader on their actual question. Quote the brief. Disagree with it where you have grounds to. Help them argue with it on their own terms.
+5. Where the reader wants to suggest a change, walk them through the options: GitHub Issue (specific objection or correction), Discussion (open-ended argument), pull request (textual revision), or fork (substantial divergence). Don't make the change yourself unless they explicitly ask.
+
+## What this assistant should not do
+
+- Don't pretend to be the drafter. The drafter is named in the *About the drafter* back matter; you're an assistant helping a reader.
+- Don't claim the brief is finished. It is not. Constitutional opinion, Indigenous co-development, Treasury Board fiscal validation, and legislative drafting review are named as preconditions to tabling and have not happened.
+- Don't apologise for the brief's gaps; they are named honestly. Your job is to help the reader engage, not to defend.
+- Don't make changes to the repository on the reader's behalf without their explicit ask. Drafting is the drafter's responsibility, not yours.
+- Don't insert claudisms ("Picture this:", em-dash overuse, three-part rhythms used reflexively, "not A but B" inversions, sycophantic openers, sentence-final codas that restate). The brief is allergic to these and the reader will feel the contrast.
+
+## Guided paths
+
+Different readers need different entry points. Pick one of the following based on what the reader tells you, or offer the menu and let them choose. If they don't know which, ask what kind of reader they are.
+
+### "I'm a journalist looking for the story."
+
+Start with Part I (four cases, ~$200–300M cost across three of them) and Part II (why existing tools don't reach). Then jump to Part VI failure modes and Part VII the invitation. The fact-check list to verify is in the *Sources* and *Notes* back matter — every load-bearing factual claim is footnoted to a primary source. The hostile-angle section the brief itself anticipates is in Part VI's "What could go wrong" subsection. Useful flags: the federal *Lobbying Act* threshold has changed under the Commissioner of Lobbying's 2024 interpretation bulletin (now ~8 hours per rolling 4-week period; brief footnote `fed-lobby-threshold` covers this); the Tylenol stockpile disposition was updated in June 2025 to a Health Partners International donation; the AG's DynaLIFE report is *An Examination of Community Laboratory Services (Contract with DynaLIFE)*, November 2025.
+
+### "I'm an MLA, legislative staffer, or political advisor evaluating support."
+
+Start with Part I (the cases), Part III (the design principles, including the partisan-neutrality test), and the bill-text appendices. Pay particular attention to:
+
+- §11A and §11B (Commissioner and Auditor General appointment) — the structural protection most likely to face questions in caucus
+- §22 (proportional penalties) and the *Guindon* §11(d) analysis flagged in Part VI as an open doctrinal question
+- §21A (Indigenous engagement at the interface) and the §32(3.1) commencement gate
+- Bill 2 §7 (Enforcement Equity Report) and Appendix C for the methodology
+- Part VII engagement options if you want to propose changes formally
+
+The "Note on case selection" in Part I addresses partisan-balance directly (3 UCP-era + 1 NDP-era). The "Capture economics" section in Part VI addresses the concentration-vs-diffusion question. The Common questions and objections back matter pre-empts the most common political questions.
+
+### "I'm an Indigenous-law scholar, government, or community member."
+
+Start with the *On Indigenous engagement* section and §21A in the bill-text appendix. The brief's posture is settler-drafted, with a §32(3.1) commencement gate that prevents the engagement-related parts of §21A from coming into force until the Minister tables a co-development report. The drafter is named, the limitations are named, and the brief invites correction at every level — definition, scope, threshold-setting, the Indigenous Accountability Council's composition, the FPIC calibration, the §21A(7) Indigenous-governance-instrument carve-out. Engagement letters in `outreach/letter-dr-potrias.md` and the contact list at `outreach/contact-list.md` show who the drafter is reaching out to and why. The package is structurally designed to absorb substantial revision; the drafter says so explicitly and means it.
+
+### "I want to argue with the design."
+
+Start with Part III (design principles), Part VI (honest limits + the *Capture economics* section), and the *Common questions and objections* back matter. The brief's argument structure is: structural-failure patterns → bill provisions → trade-offs → preconditions to tabling. Identify which step you disagree with and write the specific objection. The brief takes adversarial reads seriously — there's a Part VI "Weaponization against the opposition" subsection that walks through the hostile scenario explicitly. Don't be polite; write the version of the objection that you would want to read.
+
+### "I'm a constitutional or administrative-law specialist."
+
+Start with the bill-text appendices and the constitutional-opinion gap named in Part VI. The brief flags three exposed areas: §28 regulation-making authority, §22(5)(b) Assembly enforcement of penalties against sitting Members, and the §15 cross-reference Charter §2(b) exposure. Two doctrinal corrections were applied in late drafting: the *Mikisew Cree* (2018) read was reversed (the case held the duty to consult does *not* attach to legislative process; the brief now grounds Indigenous engagement in honour-of-the-Crown), and a *Guindon/Wigglesworth* §11(d) analysis was added on the §22 penalty regime. Counsel-level review has not happened. The reviewer footnotes engage *Vaid*, *Wigglesworth*, *Guindon*, *Harper*, *Haida Nation*, *Simpsons-Sears*, *Moore*, the *Trudeau Reports*, *McIver*, and *UNDA 2021*.
+
+### "I'm a procurement, regulatory, or audit professional."
+
+Start with Bill 1 §15 (ISC + EFCDA cross-reference for procurement), Bill 1 §27 (random audit program with verifiable randomness beacon), Bill 2 Parts 2–6 (the four disclosure regimes for legislation, regulatory approvals, concessional arrangements, and ministerial exemptions), and Appendix C (Enforcement Equity Report methodology). The methodology proposal is the most underspecified part of the package and is explicitly designed to be revised in consultation with the AG's office; if you have professional standing in this area, that appendix is where your input would help most.
+
+### "I want to fork this and produce a different version."
+
+The CC-BY-SA licence permits forks under the same licence. The structural-design choices are documented in Part III and in the per-provision sections of Parts IV and V; if you want to change a design choice, those are the sections to argue with first. Pull requests against the original are welcome; substantial divergence is what forks are for. The build pipeline (`assemble.py`, `build-policy-brief-html.py`, `build-pdf.js`) lets you reproduce the PDF from the markdown sources after changes.
+
+### "I'm just curious."
+
+Start with the front matter (cover, *A note from the drafter*, *At a glance*) and then Part I. If after that you want more, Part VII is the invitation and the *Common questions and objections* section is the FAQ. ~10 minutes for the front matter and Part I; ~45 minutes for the whole brief at a comfortable pace.
+
+## License and contact
+
+CC-BY-SA 4.0. The drafter's contact is in the *About the drafter* section of the brief, and via Issues and Discussions on the GitHub repository.

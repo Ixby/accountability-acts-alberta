@@ -34,7 +34,7 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 **Two bills:**
 
-- **The Honest Government Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
+- **The Government Accountability Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
 - **The Open Books Act:** how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
 
 **What it costs:** ~$5 million per year — roughly one one-hundredth of one percent of provincial spending. About what one mid-sized school costs to operate annually. Less than five percent of what a single one of the three cases above cost taxpayers.
@@ -266,7 +266,7 @@ The two genuine innovations are the ISC plus political-contribution cross-refere
 
 ---
 
-## Part IV — The Honest Government Act: How Officials Behave
+## Part IV — The Government Accountability Act: How Officials Behave
 
 Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.
 
@@ -618,7 +618,7 @@ If you would like to ask your MLA about this directly and don't know where to st
 
 > Dear [MLA's name],
 >
-> I'm a constituent in [your riding]. Would you support legislation along the lines of the Honest Government Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
+> I'm a constituent in [your riding]. Would you support legislation along the lines of the Government Accountability Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
 >
 > Three specific provisions I'd like your view on:
 >
@@ -837,7 +837,7 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 
 ---
 
-# Appendix A — Bill 1: The Honest Government Act
+# Appendix A — Bill 1: The Government Accountability Act
 
 *Full drafted text. Released under CC-BY-SA 4.0.*
 
@@ -869,7 +869,7 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 
 ## Short Title
 
-**1.** This Act may be cited as the *Honest Government Act*.
+**1.** This Act may be cited as the *Government Accountability Act*.
 
 ---
 
@@ -940,7 +940,7 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 
 (b) by striking out subclause (ii) and substituting:
 
-> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Honest Government Act* (an 'in-house lobbyist');"
+> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Government Accountability Act* (an 'in-house lobbyist');"
 
 (c) by adding:
 
@@ -1018,7 +1018,7 @@ Contact: github.com/Ixby/accountability-acts-alberta — issues, pull requests, 
 
 > **(3)** No former Minister or senior official shall, for 18 months following termination of service, accept employment with or a board seat at a private-sector entity that received a discretionary provincial contract or grant above the threshold prescribed by regulation during the official's tenure, where the official had direct or indirect decision-making authority over the contract or grant.
 >
-> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Honest Government Act*) with a recipient.
+> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Government Accountability Act*) with a recipient.
 >
 > **(4)** Subsection (3) does not apply to arms-length public entities (including Alberta Health Services, public post-secondary institutions, school boards, and municipalities); non-profit organizations receiving operational funding under an established program of general application, where the former official had no decision-making role regarding the specific grant; or employment with no connection to the contract or grant in question.
 >
@@ -1186,17 +1186,17 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **(3)** Subsection (1) does not apply to factual, statistical, operational, or background data provided to the Executive Council, except where disclosure would reveal the substance of Cabinet deliberations; Treasury Board Decision Summaries recording a final decision, which shall be proactively disclosed within 180 days of execution, subject to subsection (4); or Ministerial Mandate Letters, which shall be proactively disclosed at the conclusion of the parliamentary session in which they are issued or 18 months after issuance, whichever is earlier, subject to subsection (4).
 >
-> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Honest Government Act*.
+> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Government Accountability Act*.
 >
 > **(5)** Where a Ministerial Mandate Letter is withheld from proactive disclosure under subsection (3) on the grounds of an exception in subsection (4), the withholding shall be recorded within 30 days in a public register maintained by the Information and Privacy Commissioner, identifying: (a) the Minister to whom the mandate letter was issued; (b) a description of the subject matter of the letter sufficient to inform the public of its general nature, as assessed by the Information and Privacy Commissioner — who may require greater particularity on application by any person; (c) the date the letter was issued and the date of the withholding determination; and (d) the exception claimed under subsection (4) and the reasons therefor. The register shall remain publicly accessible for not less than 7 years.
 
 **14.** The following is added after section 92:
 
-> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Honest Government Act*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
+> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Government Accountability Act*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
 >
 > **(2)** Before imposing a penalty, the Commissioner shall provide written notice of intent with the proposed amount and calculation; afford at least 14 days to respond, including opportunity to raise the good-faith defense; and issue written reasons.
 >
-> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Honest Government Act*.
+> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Government Accountability Act*.
 >
 > **(4)** No penalty shall be imposed on an employee for good-faith application of a statutory exception, lawful redaction of third-party personal information protected under the *Protection of Privacy Act*, exercise of a duty to consult third parties, or on line records officers below the Deputy Minister level unless individually subject to a Compliance Order or Certificate.
 
@@ -1204,7 +1204,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **94(1) Duty to document.** A public body shall create and maintain records sufficient to document:
 >
-> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Honest Government Act*;
+> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Government Accountability Act*;
 >
 > (b) substantive communications between a public office holder and a registered lobbyist or person engaged in lobbying activity, whether in person, by telephone, by text message, by electronic mail, or by any other means;
 >
@@ -1212,7 +1212,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(2) Standard of adequacy.** The Information and Privacy Commissioner shall, by regulation, establish standards for the adequacy of documentation required under subsection (1), including minimum content for decision records; requirements for timely creation; retention periods; and protocols for transitory records. Standards under this subsection shall recognize that informal operational communications are not captured by subsection (1) unless they record a decision or a factual basis for a decision.
 >
-> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Honest Government Act*, subject to the good-faith defense under §26 of that Act.
+> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Government Accountability Act*, subject to the good-faith defense under §26 of that Act.
 >
 > **(4) Relationship to other records obligations.** This section is in addition to, and not in lieu of, obligations under any other statute establishing records-creation or records-retention requirements.
 
@@ -1224,7 +1224,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **82.1(1)** No public body shall award a contract above the threshold prescribed by regulation unless the bidder has provided a return identifying every individual with significant control (ISC) of the bidding entity, in the form and scope prescribed.
 >
-> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Honest Government Act* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
+> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Government Accountability Act* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
 >
 > **(2)** For contracts above the cross-reference threshold prescribed by regulation, the awarding public body shall, as part of procurement, cross-reference the ISC return against the contributions registry under the *Election Finances and Contributions Disclosure Act*, RSA 2000, c E-2, and certify to its chief financial officer that no ISC has personally, within the preceding 48 months, made a contribution above the match threshold prescribed by regulation to any party or constituency association, or held executive office in a registered party; or such a match has been identified and referred to the Ethics Commissioner. Family member contributions where the family member is not themselves an ISC are not captured by this cross-reference.
 >
@@ -1232,7 +1232,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(3)** Where a match is referred, the Commissioner shall conduct initial review within 10 business days. If no substantive conflict, the award may proceed. If a potential substantive conflict is identified, the award is stayed for a further 20 business days for full investigation, after which the Commissioner shall clear, condition, or recommend setting aside the award.
 >
-> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Honest Government Act*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
+> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Government Accountability Act*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
 >
 > **(5)** Records shall be maintained for not less than 7 years and made available to the Commissioner on request.
 >
@@ -1304,7 +1304,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(5)** If the Assembly has not dealt with the Certificate within 30 sitting days, the matter is deemed referred to the appropriate law enforcement authority for investigation. Deemed referral does not constitute a referral for recall.
 >
-> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Honest Government Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
+> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Government Accountability Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
 >
 > **(7) Backstop on law enforcement decline.** Where a law enforcement authority receives a referral under subsection (4) or a deemed referral under subsection (5) and declines to investigate or closes the matter without investigation, the authority shall notify the Speaker in writing with reasons, subject to any legal constraint on disclosure of investigative reasoning. On receipt, the Speaker shall cause the Certificate to be retabled with the authority's notice. The Assembly shall, within 15 sitting days of retabling, deal with the Certificate by resolution under subsection (4), with a recorded vote, and the rules of subsection (6) apply to any such resolution.
 
@@ -1747,7 +1747,7 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 ---
 
-*Companion to Bill 1, the Honest Government Act*
+*Companion to Bill 1, the Government Accountability Act*
 
 ## Preamble
 
@@ -1755,11 +1755,11 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 **WHEREAS** public confidence in democratic institutions depends on transparency in the conferral of state advantage, and on visible equity in the application of state enforcement power;
 
-**WHEREAS** the accountability regime established by the *Honest Government Act* addresses the conduct of Ministers and officials but does not directly address the systemic conferral of privilege through legislation, regulation, and administrative discretion;
+**WHEREAS** the accountability regime established by the *Government Accountability Act* addresses the conduct of Ministers and officials but does not directly address the systemic conferral of privilege through legislation, regulation, and administrative discretion;
 
 **WHEREAS** a legislature that grants special advantage to a named party, a regulator that approves a major project, a Minister who reduces royalties or forgives debt, and an enforcement body that applies the law differentially across comparable parties are each points at which private benefit flows from public authority, and each should be accompanied by disclosure sufficient to support public accountability;
 
-**AND WHEREAS** this Act is intended to complement the *Honest Government Act* by extending transparency obligations to decision-making contexts where the executive, the regulatory state, or the legislature itself confers advantage on specific parties;
+**AND WHEREAS** this Act is intended to complement the *Government Accountability Act* by extending transparency obligations to decision-making contexts where the executive, the regulatory state, or the legislature itself confers advantage on specific parties;
 
 **HIS MAJESTY**, by and with the advice and consent of the Legislative Assembly of Alberta, enacts as follows:
 
@@ -1775,13 +1775,13 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 **2.** In this Act:
 
-**(a) "Commissioner"** has the meaning given in the Honest Government Act.
+**(a) "Commissioner"** has the meaning given in the Government Accountability Act.
 
 **(b) "concessional arrangement"** means any arrangement by which the Crown, a public body, or a Crown corporation confers financial advantage on a specific party by reducing, forgiving, deferring, guaranteeing, or otherwise altering an obligation that party would otherwise owe, and includes royalty reductions, tax abatements, tax credits granted on an individual basis, loan guarantees, debt forgiveness, deferred payment arrangements, and other fiscal concessions, but does not include arrangements available to all parties meeting objective criteria established by statute or regulation of general application.
 
-**(c) "contribution threshold"** means the threshold for contribution disclosure prescribed by regulation under §28 of the Honest Government Act.
+**(c) "contribution threshold"** means the threshold for contribution disclosure prescribed by regulation under §28 of the Government Accountability Act.
 
-**(d) "ISC" (individual with significant control)** has the meaning given in section 15 of the *Financial Administration Act* as amended by the Honest Government Act.
+**(d) "ISC" (individual with significant control)** has the meaning given in section 15 of the *Financial Administration Act* as amended by the Government Accountability Act.
 
 **(e) "ministerial individual exemption"** means any decision by a Minister, or by an official acting on the delegated authority of a Minister, to grant a specific person or entity an exemption from, variation of, or relief from a requirement that would otherwise apply under a statute, regulation, or administrative policy of general application.
 
@@ -1791,7 +1791,7 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 (ii) on a class of parties so narrowly defined that the class effectively identifies five or fewer specific parties; or
 
-(iii) on a class of parties where, based on publicly available information at the time of introduction, a substantial majority of the benefit is reasonably expected to flow to five or fewer identifiable parties and the estimated financial value of that benefit to those parties exceeds the threshold prescribed by regulation under §28 of the *Honest Government Act*;
+(iii) on a class of parties where, based on publicly available information at the time of introduction, a substantial majority of the benefit is reasonably expected to flow to five or fewer identifiable parties and the estimated financial value of that benefit to those parties exceeds the threshold prescribed by regulation under §28 of the *Government Accountability Act*;
 
 but does not include:
 
@@ -1807,7 +1807,7 @@ but does not include:
 
 **(h) "regulatory body"** means any body, board, commission, tribunal, agency, or other authority established under the law of Alberta with power to grant regulatory approvals, and includes the Alberta Energy Regulator, the Alberta Utilities Commission, the Land and Property Rights Tribunal, and any successor or analogous body.
 
-**(i) Other definitions** from the Honest Government Act apply to this Act with necessary modifications.
+**(i) Other definitions** from the Government Accountability Act apply to this Act with necessary modifications.
 
 ---
 
@@ -1833,7 +1833,7 @@ but does not include:
 
 **4(1)** Where a regulatory body grants a regulatory approval in respect of a project, transaction, facility, or activity whose estimated value exceeds the threshold prescribed by regulation, the regulatory body shall publish, within 10 business days of the approval, a **Proponent Disclosure Record** in the form prescribed by regulation.
 
-**(2)** The Proponent Disclosure Record shall include the common content under §8C, plus any entity under common control or common beneficial ownership with the proponent, as determined under §25(10) of the *Honest Government Act*, together with the disclosure required by §8C for such entities.
+**(2)** The Proponent Disclosure Record shall include the common content under §8C, plus any entity under common control or common beneficial ownership with the proponent, as determined under §25(10) of the *Government Accountability Act*, together with the disclosure required by §8C for such entities.
 
 **(3)** The Proponent Disclosure Record shall be published on the regulatory body's website and shall remain accessible for the duration of the approval's effect and for not less than 7 years thereafter.
 
@@ -1875,15 +1875,15 @@ but does not include:
 
 **7(1)** The Auditor General, in collaboration with the Ethics Commissioner, shall prepare and publish annually an **Enforcement Equity Report** examining the enforcement activity of provincial regulatory bodies, administrative tribunals, and enforcement agencies.
 
-**(2)** The Enforcement Equity Report shall, for each regulatory body, tribunal, or enforcement agency examined, identify patterns in enforcement action across comparably-situated parties, including whether similarly-situated parties have been subject to similar enforcement outcomes; whether enforcement intensity correlates with any observable characteristic of parties including industry sector, size, political affiliation of ISCs or senior officers, recent contributions to Alberta political parties, or recent receipt of discretionary state benefit; any statistically significant disparities in enforcement outcomes that cannot be adequately explained by differences in the underlying conduct; and any patterns warranting further investigation under the Honest Government Act or referral to the appropriate law enforcement authority.
+**(2)** The Enforcement Equity Report shall, for each regulatory body, tribunal, or enforcement agency examined, identify patterns in enforcement action across comparably-situated parties, including whether similarly-situated parties have been subject to similar enforcement outcomes; whether enforcement intensity correlates with any observable characteristic of parties including industry sector, size, political affiliation of ISCs or senior officers, recent contributions to Alberta political parties, or recent receipt of discretionary state benefit; any statistically significant disparities in enforcement outcomes that cannot be adequately explained by differences in the underlying conduct; and any patterns warranting further investigation under the Government Accountability Act or referral to the appropriate law enforcement authority.
 
 **(3)** The Auditor General shall have access to the enforcement records and decision data of regulatory bodies, tribunals, and enforcement agencies sufficient to prepare the Report, subject to solicitor-client privilege, active law enforcement investigation constraints, and protection of third-party personal information under the *Protection of Privacy Act*.
 
-**(4)** The Report shall be tabled in the Legislative Assembly and published on the Auditor General's website. Patterns identified as warranting further investigation may be referred to the Ethics Commissioner for proceedings under the Honest Government Act.
+**(4)** The Report shall be tabled in the Legislative Assembly and published on the Auditor General's website. Patterns identified as warranting further investigation may be referred to the Ethics Commissioner for proceedings under the Government Accountability Act.
 
-**(5)** Regulatory bodies, tribunals, and enforcement agencies shall provide the Auditor General with such information and cooperation as is reasonably necessary to prepare the Report. A failure to cooperate is conduct within the jurisdiction of the Ethics Commissioner under the Honest Government Act.
+**(5)** Regulatory bodies, tribunals, and enforcement agencies shall provide the Auditor General with such information and cooperation as is reasonably necessary to prepare the Report. A failure to cooperate is conduct within the jurisdiction of the Ethics Commissioner under the Government Accountability Act.
 
-**(6)** The Report is a statistical and analytical document. Findings of pattern do not constitute findings against specific individuals or entities; such findings arise, if at all, through proceedings under the Honest Government Act or through referral to other competent authority.
+**(6)** The Report is a statistical and analytical document. Findings of pattern do not constitute findings against specific individuals or entities; such findings arise, if at all, through proceedings under the Government Accountability Act or through referral to other competent authority.
 
 **(7) Phased implementation.** The first Enforcement Equity Report shall examine no fewer than five regulatory bodies, tribunals, or enforcement agencies, selected by the Auditor General based on elevated risk, transaction volume, or public-interest significance. Subsequent annual Reports shall expand coverage, achieving comprehensive examination of all provincial regulatory bodies, tribunals, and enforcement agencies within 24 months of the first Report. The Auditor General shall publish the selection methodology and the intended phase-in schedule at the time of the first Report. The compressed schedule is intended to make the regime operationally complete within a single legislative mandate.
 
@@ -1893,7 +1893,7 @@ but does not include:
 
 ## Part 7 — Enforcement and Common Provisions
 
-**8(1) Cross-reference to Honest Government Act.** The following provisions of the Honest Government Act apply to conduct within the jurisdiction of the Commissioner under this Act, with necessary modifications, as if enacted in this Act:
+**8(1) Cross-reference to Government Accountability Act.** The following provisions of the Government Accountability Act apply to conduct within the jurisdiction of the Commissioner under this Act, with necessary modifications, as if enacted in this Act:
 
 (a) the escalation framework in Part 3 (Public Report of Findings, Compliance Order, Certificate of Malfeasance);
 (b) the proportional penalty framework in §25, including the decline-tracking mechanism in §25(6) and the beneficial ownership determination authority in §25(10);
@@ -1906,17 +1906,17 @@ but does not include:
 
 **(2) Coordination with other statutes.** Nothing in this Act limits the application of the *Access to Information Act*, the *Conflicts of Interest Act*, the *Financial Administration Act*, or any other statute. Disclosure obligations under this Act are in addition to, and not in lieu of, disclosure obligations under any other statute.
 
-**(3) Complaints and investigation.** A person may file a complaint with the Commissioner alleging non-compliance with this Act. The Commissioner may investigate on complaint, on audit under §27 of the Honest Government Act (Random Audit Program, extended by this subsection to include obligations under this Act), or on the Commissioner's own initiative on reasonable grounds.
+**(3) Complaints and investigation.** A person may file a complaint with the Commissioner alleging non-compliance with this Act. The Commissioner may investigate on complaint, on audit under §27 of the Government Accountability Act (Random Audit Program, extended by this subsection to include obligations under this Act), or on the Commissioner's own initiative on reasonable grounds.
 
 **(4) Institutional deference.** This Act is intended to complement and not replace the work of the courts, criminal justice authorities, regulatory bodies, the Auditor General, and the Legislative Assembly. Nothing in this Act empowers the Commissioner to substitute administrative judgment for the substantive decisions of regulatory bodies, the Legislative Assembly, or Ministers acting within their lawful authority. The Commissioner's jurisdiction under this Act is limited to the transparency of those decisions, not their substance.
 
 ---
 
-**8A. Annual named-party compliance assessment.** The Commissioner shall include in the annual report under §24(3) of the *Honest Government Act* an assessment of compliance with Part 2 of this Act, identifying: (a) every Bill introduced in the Legislative Assembly in the preceding year for which a Beneficiary Disclosure Statement was filed, with a note on whether the Statement was materially complete; (b) every Bill the Commissioner assesses as meeting the definition of named-party legislation under §2(f) for which no Beneficiary Disclosure Statement was filed, with the Commissioner's reasons for that assessment; and (c) any pattern of non-filing across the preceding three years. The assessment under paragraph (b) is the Commissioner's administrative opinion regarding the application of §2(f) to the named Bill; it does not constitute a ruling on a matter of parliamentary procedure and is without prejudice to any determination made by the Speaker. The Commissioner's assessment shall be tabled in the Legislative Assembly and published on the Commissioner's website.
+**8A. Annual named-party compliance assessment.** The Commissioner shall include in the annual report under §24(3) of the *Government Accountability Act* an assessment of compliance with Part 2 of this Act, identifying: (a) every Bill introduced in the Legislative Assembly in the preceding year for which a Beneficiary Disclosure Statement was filed, with a note on whether the Statement was materially complete; (b) every Bill the Commissioner assesses as meeting the definition of named-party legislation under §2(f) for which no Beneficiary Disclosure Statement was filed, with the Commissioner's reasons for that assessment; and (c) any pattern of non-filing across the preceding three years. The assessment under paragraph (b) is the Commissioner's administrative opinion regarding the application of §2(f) to the named Bill; it does not constitute a ruling on a matter of parliamentary procedure and is without prejudice to any determination made by the Speaker. The Commissioner's assessment shall be tabled in the Legislative Assembly and published on the Commissioner's website.
 
 **8B. Common provisions for published disclosures.** The following apply to every Beneficiary Disclosure Statement, Proponent Disclosure Record, Concessional Arrangement Disclosure, and Individual Exemption Disclosure (each a "published disclosure" for the purposes of this section):
 
-**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Honest Government Act* and may give rise to proceedings under Parts 3, 9, 10, and 11 of that Act, as applicable.
+**(1) Enforcement.** Failure to publish a required disclosure, or material inaccuracy in a published disclosure, is conduct within the jurisdiction of the Ethics Commissioner under the *Government Accountability Act* and may give rise to proceedings under Parts 3, 9, 10, and 11 of that Act, as applicable.
 
 **(2) Right of correction.** Any person whose personal information is included in a published disclosure may, within 60 days of publication, apply to the Commissioner to correct a material inaccuracy. The Commissioner shall determine the application within 30 days and, if warranted, direct that a correction notice be published alongside the original disclosure. The original disclosure shall not be removed; the correction notice shall be prominently linked and shall identify the nature of the inaccuracy and the corrected information.
 
@@ -1924,7 +1924,7 @@ but does not include:
 
 (a) the identification of every person or entity expected to benefit directly from, or to receive advantage under, the legislation, regulatory approval, concessional arrangement, or ministerial individual exemption;
 
-(b) for each beneficiary that is an entity, every individual with significant control of the entity within the meaning of §15 of the *Honest Government Act*;
+(b) for each beneficiary that is an entity, every individual with significant control of the entity within the meaning of §15 of the *Government Accountability Act*;
 
 (c) for each beneficiary who is a natural person, and for each individual with significant control identified under (b), any contribution made within the preceding 48 months to any Alberta political party, constituency association, or candidate where the contribution exceeds the contribution threshold;
 
@@ -1940,7 +1940,7 @@ The domain-specific content additional to the common content under this section 
 
 ### Statutory Review
 
-**9.** Within 5 years of commencement, the Minister responsible for the administration of this Act shall cause a comprehensive review of the operation of the Act to be conducted jointly with the review required under §30 of the Honest Government Act. The review shall assess the effectiveness of Parts 2 through 6 in illuminating systemic advantage conferred through legislation, regulation, concessional arrangement, and enforcement disparity; the administrative cost of the Act relative to the public interest served; the adequacy of the Enforcement Equity Report as a tool for identifying patterns warranting further investigation; any unintended consequences or gaps; and consult with the Commissioners, the Auditor General, public bodies, regulatory bodies, and affected members of the public, reporting findings with any recommendations for amendment to the Legislative Assembly.
+**9.** Within 5 years of commencement, the Minister responsible for the administration of this Act shall cause a comprehensive review of the operation of the Act to be conducted jointly with the review required under §30 of the Government Accountability Act. The review shall assess the effectiveness of Parts 2 through 6 in illuminating systemic advantage conferred through legislation, regulation, concessional arrangement, and enforcement disparity; the administrative cost of the Act relative to the public interest served; the adequacy of the Enforcement Equity Report as a tool for identifying patterns warranting further investigation; any unintended consequences or gaps; and consult with the Commissioners, the Auditor General, public bodies, regulatory bodies, and affected members of the public, reporting findings with any recommendations for amendment to the Legislative Assembly.
 
 ### Severability
 

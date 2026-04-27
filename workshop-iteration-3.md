@@ -94,7 +94,7 @@ CATEGORY A — RHETORICAL PIVOT/BREATH (KEEP, ~15):
 - Line 264: "The Registrar reduces both the contributions registry data and the ISC return to cryptographic hashes — think of a hash as a wax seal." Pivot to metaphor. Keep.
 
 CATEGORY B — COMMA WORK IN COSTUME (CONVERT, ~20):
-- Line 37: "**The Honest Government Act** — how Ministers..." → use period or colon at the end of bold label. Convert.
+- Line 37: "**The Government Accountability Act** — how Ministers..." → use period or colon at the end of bold label. Convert.
 - Line 38: "**The Open Books Act** — how advantage..." → same. Convert.
 - Line 40: "~$5 million per year — roughly one one-hundredth of one percent of the provincial budget." → comma. Convert.
 - Line 54: "...approximately $109 million — roughly $32 million for the buyback inclusive of liabilities, plus roughly $77 million in sunk costs from the failed procurement." → colon. Convert.
@@ -115,7 +115,7 @@ CATEGORY B — COMMA WORK IN COSTUME (CONVERT, ~20):
 - Line 440: "If you have an MLA, ask — any party — whether they would support this." → comma pair. Convert.
 - Line 442: "Constitutional review, Indigenous co-development, fiscal validation, legislative drafting review — each named in Part VI." → colon. Convert.
 - Line 444: "Any party, any advocacy group, any legislative drafter, any elected official can use them — attribution and same-licence are the only conditions." → period. Convert.
-- Line 452: "...a drafted policy package called *What Accountable Government Looks Like* — two bills, the Honest Government Act and the Open Books Act..." → colon. Convert.
+- Line 452: "...a drafted policy package called *What Accountable Government Looks Like* — two bills, the Government Accountability Act and the Open Books Act..." → colon. Convert.
 
 After conversions: roughly 22 em-dashes survive. Within target band.
 
@@ -135,7 +135,7 @@ DIAGNOSIS: Per runbook discipline, this sentence does not need editing. Protect 
 FIX: None.
 
 REMAINING TICS:
-- "honestly" / "honest" (excluding the title "Honest Government Act"): clean. Iteration 2 caught the survivors. No further fixes needed.
+- "honestly" / "honest" (excluding the title "Government Accountability Act"): clean. Iteration 2 caught the survivors. No further fixes needed.
 - "robust": appears once in Part II (line 160). Acceptable; it modifies "good-faith defence" with a specific load-bearing meaning.
 - "load-bearing": appears once. Single use is fine.
 - "the drafter": appears in the drafter's note and at lines 318/418/430. Some uses are role-label (drafter as author of the package, distinct from the bill's putative future tabler). Acceptable. Iteration 2 already moved two instances to "I."

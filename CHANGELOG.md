@@ -115,7 +115,7 @@ No substantive changes to the regime.
 - §6 Principles reordered to put institutional deference first.
 - §25(2) Calibration principle consolidated into a single unified provision.
 - Severity ordering applied throughout: §9(1) escalation triggers, §16 Recall framework, §19(1) whistleblower triggers, §26(4) defense unavailability grounds.
-- Short titles at §1 of each bill — "The Honest Government Act" and "The Open Books Act" — become the operative names.
+- Short titles at §1 of each bill — "The Government Accountability Act" and "The Open Books Act" — become the operative names.
 
 ## v1.1
 

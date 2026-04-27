@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 NARRATIVE = ROOT / "narrative-v5.md"
-BILL_1 = ROOT / "bill-1-honest-government-act.md"
+BILL_1 = ROOT / "bill-1-government-accountability-act.md"
 BILL_2 = ROOT / "bill-2-open-books-act.md"
 APPENDIX_C = ROOT / "appendix-c-ee-report-methodology.md"
 TARGET = ROOT / "policy-brief.md"
@@ -57,7 +57,7 @@ def main():
     out = (
         narrative.rstrip()
         + section(
-            "Appendix A — Bill 1: The Honest Government Act",
+            "Appendix A — Bill 1: The Government Accountability Act",
             f"Full drafted text. {LICENSE_TAG}",
             bill_1,
         )

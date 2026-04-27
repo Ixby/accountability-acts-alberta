@@ -135,7 +135,7 @@ For the Alberta accountability brief, the canonical files are at `C:\Users\email
 - `policy-brief.html` — rendered single-page HTML (built from policy-brief.md).
 - `build-policy-brief-html.py` — converter, run via `python build-policy-brief-html.py`.
 - `narrative-v5.md` — the canonical narrative (Parts I–VII, the case for the bills); reassembled into `policy-brief.md` by concatenating with the appendices. Earlier iteration drafts are preserved in `drafts/` (e.g., `drafts/narrative-v2.md`, `drafts/narrative-v3.md`, `drafts/narrative-v4.md`); the working file at root is whichever vN reflects the latest iteration.
-- `bill-1-honest-government-act.md`, `bill-2-open-books-act.md` — primary statutory text (Appendices A and B).
+- `bill-1-government-accountability-act.md`, `bill-2-open-books-act.md` — primary statutory text (Appendices A and B).
 - `costing.md`, `moral-defence.md`, `red-team.md`, `legislative-cross-reference.md`, `policy-recommendations.md` — companion documents (Appendices C through G).
 - `workshop-final-round.md`, `workshop-iteration-N.md` — workshop records per iteration.
 - `workshop-runbook.md` — this document.
@@ -146,10 +146,10 @@ The rebuild command, run after the narrative is updated:
 {
   cat /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/narrative-vN.md
   echo ""; echo "---"; echo ""
-  echo "# Appendix A — Bill 1: The Honest Government Act"
+  echo "# Appendix A — Bill 1: The Government Accountability Act"
   echo ""; echo "*Full drafted text. Released under CC-BY-SA 4.0.*"
   echo ""; echo "---"; echo ""
-  cat /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/bill-1-honest-government-act.md
+  cat /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/bill-1-government-accountability-act.md
   # ... and so on for B through G
 } > /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta/policy-brief.md
 cd /c/Users/email/Documents/Claude/Projects/accountability-acts-alberta && python build-policy-brief-html.py

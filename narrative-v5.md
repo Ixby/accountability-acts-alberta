@@ -34,7 +34,7 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 **Two bills:**
 
-- **The Honest Government Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
+- **The Government Accountability Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
 - **The Open Books Act:** how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
 
 **What it costs:** ~$5 million per year — roughly one one-hundredth of one percent of provincial spending. About what one mid-sized school costs to operate annually. Less than five percent of what a single one of the three cases above cost taxpayers.
@@ -266,7 +266,7 @@ The two genuine innovations are the ISC plus political-contribution cross-refere
 
 ---
 
-## Part IV — The Honest Government Act: How Officials Behave
+## Part IV — The Government Accountability Act: How Officials Behave
 
 Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.
 
@@ -618,7 +618,7 @@ If you would like to ask your MLA about this directly and don't know where to st
 
 > Dear [MLA's name],
 >
-> I'm a constituent in [your riding]. Would you support legislation along the lines of the Honest Government Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
+> I'm a constituent in [your riding]. Would you support legislation along the lines of the Government Accountability Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
 >
 > Three specific provisions I'd like your view on:
 >

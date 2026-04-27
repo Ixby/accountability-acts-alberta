@@ -22,7 +22,7 @@ Political power in a democracy is legitimate when the people affected by it can 
 
 This is not a radical or modern idea. It runs through Burke's reflections on the trust-based nature of political office, through J.S. Mill's defence of publicity as a check on power, and through every common-law tradition that treats public officials as fiduciaries for the public interest. What's new is the scale and specificity of delegation in the modern administrative state, and the corresponding need for accountability mechanisms that reach the actual points where power is exercised.
 
-The Honest Government Act and the Open Books Act are mechanisms, not principles. The principle is ancient. The mechanisms are calibrated for Alberta in 2026.
+The Government Accountability Act and the Open Books Act are mechanisms, not principles. The principle is ancient. The mechanisms are calibrated for Alberta in 2026.
 
 ## "This grows the state's surveillance capacity"
 

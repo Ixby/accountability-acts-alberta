@@ -1,4 +1,4 @@
-# Bill 1 — The Honest Government Act
+# Bill 1 — The Government Accountability Act
 
 ## Preamble
 
@@ -26,7 +26,7 @@
 
 ## Short Title
 
-**1.** This Act may be cited as the *Honest Government Act*.
+**1.** This Act may be cited as the *Government Accountability Act*.
 
 ---
 
@@ -97,7 +97,7 @@
 
 (b) by striking out subclause (ii) and substituting:
 
-> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Honest Government Act* (an 'in-house lobbyist');"
+> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Government Accountability Act* (an 'in-house lobbyist');"
 
 (c) by adding:
 
@@ -175,7 +175,7 @@
 
 > **(3)** No former Minister or senior official shall, for 18 months following termination of service, accept employment with or a board seat at a private-sector entity that received a discretionary provincial contract or grant above the threshold prescribed by regulation during the official's tenure, where the official had direct or indirect decision-making authority over the contract or grant.
 >
-> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Honest Government Act*) with a recipient.
+> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Government Accountability Act*) with a recipient.
 >
 > **(4)** Subsection (3) does not apply to arms-length public entities (including Alberta Health Services, public post-secondary institutions, school boards, and municipalities); non-profit organizations receiving operational funding under an established program of general application, where the former official had no decision-making role regarding the specific grant; or employment with no connection to the contract or grant in question.
 >
@@ -343,17 +343,17 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **(3)** Subsection (1) does not apply to factual, statistical, operational, or background data provided to the Executive Council, except where disclosure would reveal the substance of Cabinet deliberations; Treasury Board Decision Summaries recording a final decision, which shall be proactively disclosed within 180 days of execution, subject to subsection (4); or Ministerial Mandate Letters, which shall be proactively disclosed at the conclusion of the parliamentary session in which they are issued or 18 months after issuance, whichever is earlier, subject to subsection (4).
 >
-> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Honest Government Act*.
+> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Government Accountability Act*.
 >
 > **(5)** Where a Ministerial Mandate Letter is withheld from proactive disclosure under subsection (3) on the grounds of an exception in subsection (4), the withholding shall be recorded within 30 days in a public register maintained by the Information and Privacy Commissioner, identifying: (a) the Minister to whom the mandate letter was issued; (b) a description of the subject matter of the letter sufficient to inform the public of its general nature, as assessed by the Information and Privacy Commissioner — who may require greater particularity on application by any person; (c) the date the letter was issued and the date of the withholding determination; and (d) the exception claimed under subsection (4) and the reasons therefor. The register shall remain publicly accessible for not less than 7 years.
 
 **14.** The following is added after section 92:
 
-> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Honest Government Act*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
+> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Government Accountability Act*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
 >
 > **(2)** Before imposing a penalty, the Commissioner shall provide written notice of intent with the proposed amount and calculation; afford at least 14 days to respond, including opportunity to raise the good-faith defense; and issue written reasons.
 >
-> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Honest Government Act*.
+> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Government Accountability Act*.
 >
 > **(4)** No penalty shall be imposed on an employee for good-faith application of a statutory exception, lawful redaction of third-party personal information protected under the *Protection of Privacy Act*, exercise of a duty to consult third parties, or on line records officers below the Deputy Minister level unless individually subject to a Compliance Order or Certificate.
 
@@ -361,7 +361,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **94(1) Duty to document.** A public body shall create and maintain records sufficient to document:
 >
-> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Honest Government Act*;
+> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Government Accountability Act*;
 >
 > (b) substantive communications between a public office holder and a registered lobbyist or person engaged in lobbying activity, whether in person, by telephone, by text message, by electronic mail, or by any other means;
 >
@@ -369,7 +369,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(2) Standard of adequacy.** The Information and Privacy Commissioner shall, by regulation, establish standards for the adequacy of documentation required under subsection (1), including minimum content for decision records; requirements for timely creation; retention periods; and protocols for transitory records. Standards under this subsection shall recognize that informal operational communications are not captured by subsection (1) unless they record a decision or a factual basis for a decision.
 >
-> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Honest Government Act*, subject to the good-faith defense under §26 of that Act.
+> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Government Accountability Act*, subject to the good-faith defense under §26 of that Act.
 >
 > **(4) Relationship to other records obligations.** This section is in addition to, and not in lieu of, obligations under any other statute establishing records-creation or records-retention requirements.
 
@@ -381,7 +381,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **82.1(1)** No public body shall award a contract above the threshold prescribed by regulation unless the bidder has provided a return identifying every individual with significant control (ISC) of the bidding entity, in the form and scope prescribed.
 >
-> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Honest Government Act* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
+> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Government Accountability Act* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
 >
 > **(2)** For contracts above the cross-reference threshold prescribed by regulation, the awarding public body shall, as part of procurement, cross-reference the ISC return against the contributions registry under the *Election Finances and Contributions Disclosure Act*, RSA 2000, c E-2, and certify to its chief financial officer that no ISC has personally, within the preceding 48 months, made a contribution above the match threshold prescribed by regulation to any party or constituency association, or held executive office in a registered party; or such a match has been identified and referred to the Ethics Commissioner. Family member contributions where the family member is not themselves an ISC are not captured by this cross-reference.
 >
@@ -389,7 +389,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(3)** Where a match is referred, the Commissioner shall conduct initial review within 10 business days. If no substantive conflict, the award may proceed. If a potential substantive conflict is identified, the award is stayed for a further 20 business days for full investigation, after which the Commissioner shall clear, condition, or recommend setting aside the award.
 >
-> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Honest Government Act*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
+> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Government Accountability Act*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
 >
 > **(5)** Records shall be maintained for not less than 7 years and made available to the Commissioner on request.
 >
@@ -461,7 +461,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(5)** If the Assembly has not dealt with the Certificate within 30 sitting days, the matter is deemed referred to the appropriate law enforcement authority for investigation. Deemed referral does not constitute a referral for recall.
 >
-> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Honest Government Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
+> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Government Accountability Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
 >
 > **(7) Backstop on law enforcement decline.** Where a law enforcement authority receives a referral under subsection (4) or a deemed referral under subsection (5) and declines to investigate or closes the matter without investigation, the authority shall notify the Speaker in writing with reasons, subject to any legal constraint on disclosure of investigative reasoning. On receipt, the Speaker shall cause the Certificate to be retabled with the authority's notice. The Assembly shall, within 15 sitting days of retabling, deal with the Certificate by resolution under subsection (4), with a recorded vote, and the rules of subsection (6) apply to any such resolution.
 

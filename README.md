@@ -22,7 +22,7 @@ Two bills. One addresses executive conduct. One addresses systemic privilege.
 
 ---
 
-## Bill 1 — The Honest Government Act
+## Bill 1 — The Government Accountability Act
 
 Covers the conduct of Ministers, senior officials, and MLAs.
 
@@ -118,7 +118,7 @@ This package doesn't answer every question. Here are the parts still being worke
 
 **Whistleblower direct-disclosure triggers.** §19(1) sets four conditions under which an employee can go directly to an MLA or journalist instead of through internal channels. Whether the triggers are calibrated right is worth debate.
 
-**Duty to document — scope.** §14A adds a duty to document decisions subject to HGA and OBA disclosure, closing part of the "don't write it down" loophole. A broader duty-to-create-records obligation across all government activity — under reform of records management legislation — would be the complete companion reform. That's out of scope here. Without it, sophisticated actors can still route discussion through channels that don't trigger §14A.
+**Duty to document — scope.** §14A adds a duty to document decisions subject to GAA and OBA disclosure, closing part of the "don't write it down" loophole. A broader duty-to-create-records obligation across all government activity — under reform of records management legislation — would be the complete companion reform. That's out of scope here. Without it, sophisticated actors can still route discussion through channels that don't trigger §14A.
 
 **Non-Alberta beneficial ownership.** Sophisticated corporate structures route ISC identity to out-of-province entities whose principals donate to federal parties or other provinces. The Alberta contributions registry doesn't see them. §25(10) beneficial ownership determinations can pierce some of this but require investigative effort. An Alberta extension of EFCDA coverage or a federal beneficial ownership registry would close this gap. Neither is in this package.
 
@@ -153,7 +153,7 @@ Critique from legal drafters, constitutional scholars, Indigenous governance lea
 ## Deeper reading
 
 - **[policy-brief.md](policy-brief.md)** — Unified policy brief (~34,000 words). All nine narrative parts (problem, design rationale, legislative tour, adversarial analysis, cost case, open questions) plus the full bills and every companion document as Appendices A through G. Start here if you want the entire corpus as a single document. Also available as a styled, anchored single-page HTML version at **[policy-brief.html](policy-brief.html)** (open in a browser).
-- **[bill-1-honest-government-act.md](bill-1-honest-government-act.md)** — Full drafted text of Bill 1. Lobbyists Act, Conflicts of Interest Act, Access to Information Act, Financial Administration Act, Recall Act, and Public Interest Disclosure Act amendments, plus common procedural provisions.
+- **[bill-1-government-accountability-act.md](bill-1-government-accountability-act.md)** — Full drafted text of Bill 1. Lobbyists Act, Conflicts of Interest Act, Access to Information Act, Financial Administration Act, Recall Act, and Public Interest Disclosure Act amendments, plus common procedural provisions.
 - **[bill-2-open-books-act.md](bill-2-open-books-act.md)** — Full drafted text of Bill 2. Named-party legislation, regulatory approvals, concessional arrangements, ministerial exemptions, and enforcement equity reporting.
 - **[costing.md](costing.md)** — $5M annual estimate defended with FTE breakdown, phase-in schedule, detailed scenario analysis of the three example cases, and comparison to peer Canadian oversight budgets.
 - **[moral-defence.md](moral-defence.md)** — Philosophical case for the regime. Engages conservative, progressive, libertarian, and Indigenous perspectives on common objections.

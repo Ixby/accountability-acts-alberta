@@ -1,5 +1,5 @@
 # Legislative Cross-Reference
-## Government Accountability Act & Open Books Act vs. Existing Alberta Legislation
+## Public Integrity Act of Alberta & Open Books Act vs. Existing Alberta Legislation
 
 **Version:** 1.0 — April 24, 2026
 **Scope:** Publicly available sources only. Not a formal legal opinion. For distribution context and MLA outreach.

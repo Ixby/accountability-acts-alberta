@@ -1061,7 +1061,7 @@ COVER_HTML = f"""<section class="cover" aria-label="Cover">
         <span class="rung rung-2"></span>
         <span class="rung rung-1"></span>
       </div>
-      <p class="cover-subtitle">Two drafted bills &mdash; the Government Accountability Act and the Open Books Act &mdash; the rules Alberta should already have, drafted as if we did.</p>
+      <p class="cover-subtitle">Two drafted bills &mdash; the Public Integrity Act of Alberta and the Open Books Act &mdash; the rules Alberta should already have, drafted as if we did.</p>
     </div>
     <div class="cover-foot-block">
       <div class="cover-foot-grid">
@@ -1222,7 +1222,7 @@ def build():
     def wrap_bill_a(match):
         h1_block = match.group(1)
         body = match.group(2)
-        anchor = '<span class="running-anchor">Government Accountability Act</span>'
+        anchor = '<span class="running-anchor">Public Integrity Act of Alberta</span>'
         return f'{h1_block}{anchor}<section class="bill-text">{body}</section>'
 
     def wrap_bill_b(match):

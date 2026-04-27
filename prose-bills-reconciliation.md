@@ -83,8 +83,8 @@ CATEGORY: Alignment
 PROSE LOCATION: Part IV / "Decisions that have to be written down"
 PROSE QUOTE: "The bill creates a duty to document. Decisions that would be subject to disclosure under either the Access to Information Act or the Open Books Act have to be written down. Standards (what counts as adequate documentation, what timing applies) are set by the Information and Privacy Commissioner by regulation. Willful or repeated failure is penalty-tracked."
 BILL LOCATION: Bill 1 §14A (adding §94 to ATIA)
-BILL TEXT: §94(1) requires creation/maintenance of records for procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, "or other matter subject to disclosure under this Act or the *Government Accountability Act*"; §94(2) gives the Information and Privacy Commissioner regulation-making authority over standards; §94(3) makes willful or repeated failure subject to §93 and GAA proceedings.
-FINDING: Aligned. (Minor note: the bill cross-references GAA, not the Open Books Act, but the duty triggers via the categories — concessional arrangements, individual exemptions — that Bill 2 governs.)
+BILL TEXT: §94(1) requires creation/maintenance of records for procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, "or other matter subject to disclosure under this Act or the *Public Integrity Act of Alberta*"; §94(2) gives the Information and Privacy Commissioner regulation-making authority over standards; §94(3) makes willful or repeated failure subject to §93 and PIA proceedings.
+FINDING: Aligned. (Minor note: the bill cross-references PIA, not the Open Books Act, but the duty triggers via the categories — concessional arrangements, individual exemptions — that Bill 2 governs.)
 PROPOSAL: No change. Optionally, the prose could clarify that the trigger is the categories (procurement, exemptions, etc.), which captures Bill 2 territory in substance.
 ```
 
@@ -589,9 +589,9 @@ CATEGORY: Understated
 PROSE LOCATION: Part V / "The Enforcement Equity Report"
 PROSE QUOTE: "It does not accuse anyone of corruption. It surfaces the pattern, with a methodology that can be examined, and lets the political process, the press, and the Commissioner act on it."
 BILL LOCATION: Bill 2 §7(2), §7(4)
-BILL TEXT: §7(2) requires the report to identify "any patterns warranting further investigation under the Government Accountability Act or referral to the appropriate law enforcement authority." §7(4): patterns identified "may be referred to the Ethics Commissioner for proceedings under the Government Accountability Act."
-FINDING: Understated. The prose says "lets... the Commissioner act on it." The bill is firmer: the Auditor General can refer specific patterns directly to the Commissioner for proceedings, and to law enforcement. The Report is not just descriptive; it has a built-in referral channel that triggers the GAA's enforcement framework.
-PROPOSAL: Strengthen: "The Auditor General can refer patterns identified in the Report directly to the Ethics Commissioner for proceedings under the Government Accountability Act, or to law enforcement. The report is not just descriptive — it has a referral channel built in."
+BILL TEXT: §7(2) requires the report to identify "any patterns warranting further investigation under the Public Integrity Act of Alberta or referral to the appropriate law enforcement authority." §7(4): patterns identified "may be referred to the Ethics Commissioner for proceedings under the Public Integrity Act of Alberta."
+FINDING: Understated. The prose says "lets... the Commissioner act on it." The bill is firmer: the Auditor General can refer specific patterns directly to the Commissioner for proceedings, and to law enforcement. The Report is not just descriptive; it has a built-in referral channel that triggers the PIA's enforcement framework.
+PROPOSAL: Strengthen: "The Auditor General can refer patterns identified in the Report directly to the Ethics Commissioner for proceedings under the Public Integrity Act of Alberta, or to law enforcement. The report is not just descriptive — it has a referral channel built in."
 ```
 
 ```
@@ -636,7 +636,7 @@ The two qualifications. First, §11A's two-thirds appointment is defeatable by a
 
 **(b) The three named patterns.**
 
-*Oral-briefing loophole (DynaLIFE).* Addressed by Bill 1 §14A (ATIA §94), the duty to document, plus Bill 1 §13 amendments to ATIA §15 separating factual/operational data from deliberative content. The provision actually does what the prose says: requires creation of records sufficient to document procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, and lobbyist communications. Standards set by the IPC by regulation. Willful or repeated failure is penalty-tracked through ATIA §93 and GAA proceedings. The prose's claim is supported.
+*Oral-briefing loophole (DynaLIFE).* Addressed by Bill 1 §14A (ATIA §94), the duty to document, plus Bill 1 §13 amendments to ATIA §15 separating factual/operational data from deliberative content. The provision actually does what the prose says: requires creation of records sufficient to document procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, and lobbyist communications. Standards set by the IPC by regulation. Willful or repeated failure is penalty-tracked through ATIA §93 and PIA proceedings. The prose's claim is supported.
 
 *Unreasoned emergency procurement (Tylenol).* The prose anchors this on Bill 2 §6 (Individual Exemption Disclosure). This is the brief's weakest section-to-pattern match. (1) The Tylenol procurement is a procurement, not an exemption from a rule of general application — it likely fails §6's gating definition. (2) Even if it qualifies, §6(4) defers publication until 30 days after the emergency expires, which means the prose's "contemporaneous written reasoning" claim does not match what §6 delivers. The provision that actually addresses this pattern is Bill 1 §14A — duty to document — which has no emergency carve-out. The prose should re-anchor this scenario on §14A.
 

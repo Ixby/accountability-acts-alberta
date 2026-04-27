@@ -8,7 +8,7 @@ The bills reference many things "prescribed by regulation" — thresholds, perce
 
 This document recommends starting values. Every number below is a recommendation with rationale, not a requirement. The Commissioner, Auditor General, and Lieutenant Governor in Council would draft actual regulations under §28 after consultation. This document is the input to that drafting.
 
-## Bill 1 — Government Accountability Act
+## Bill 1 — Public Integrity Act of Alberta
 
 ### Part 2 — Lobbyists Act amendments
 
@@ -24,7 +24,7 @@ This document recommends starting values. Every number below is a recommendation
 
 ### Part 4 — Access to Information Act amendments
 
-**Duty to document standards (§14A(2)).** A decision subject to GAA or OBA disclosure requires a contemporaneous written record identifying the decision-maker, the date, the essential facts considered, the authority invoked, and the reasons. Oral briefings alone do not satisfy the duty; a written follow-up record created within 5 business days does. The Information and Privacy Commissioner publishes model templates for procurement decisions, emergency purchases, regulatory approvals, concessional arrangements, and ministerial exemptions.
+**Duty to document standards (§14A(2)).** A decision subject to PIA or OBA disclosure requires a contemporaneous written record identifying the decision-maker, the date, the essential facts considered, the authority invoked, and the reasons. Oral briefings alone do not satisfy the duty; a written follow-up record created within 5 business days does. The Information and Privacy Commissioner publishes model templates for procurement decisions, emergency purchases, regulatory approvals, concessional arrangements, and ministerial exemptions.
 
 **Willful or repeated failure penalty trigger (§14A(3)).** A third documented failure within 36 months, or any failure found to be willful, triggers personal penalty under the §25 proportional framework.
 

@@ -12,10 +12,10 @@ A drafted policy brief making the case for two drafted Alberta accountability bi
 
 Source-of-truth files, in order of importance for a reader:
 
-- `policy-brief.md` — the assembled brief: Parts I-VII narrative, the four-case Part I, the Government Accountability Act and Open Books Act bill texts, and the Enforcement Equity Report methodology appendix. ~46,000 words. **Start here.**
+- `policy-brief.md` — the assembled brief: Parts I-VII narrative, the four-case Part I, the Public Integrity Act of Alberta and Open Books Act bill texts, and the Enforcement Equity Report methodology appendix. ~46,000 words. **Start here.**
 - `policy-brief.pdf` — typeset PDF of the same content, ~107 pages.
 - `narrative-v5.md` — the source for Parts I-VII narrative. Edited directly; the assembled brief regenerates from it.
-- `bill-1-government-accountability-act.md` — full statutory text of Bill 1 (the Government Accountability Act). Twelve Parts.
+- `bill-1-public-integrity-act.md` — full statutory text of Bill 1 (the Public Integrity Act of Alberta). Twelve Parts.
 - `bill-2-open-books-act.md` — full statutory text of Bill 2 (the Open Books Act). Eight Parts.
 - `appendix-c-ee-report-methodology.md` — drafted methodology proposal for the Enforcement Equity Report (Bill 2 §7). ~4,500 words. Designed for the Auditor General's office.
 - `outreach/` — Wave 1 academic-outreach materials: a draft letter to a specific scholar (`letter-dr-potrias.md`) and a contact list across Treaty 6/7/8 First Nations, the Métis Nation of Alberta, the Métis Settlements General Council, urban Indigenous bodies, and Indigenous-law scholars.
@@ -30,7 +30,7 @@ Build pipeline (you do not need to run these to help a reader, but you should kn
 
 A 100+-page case for two drafted bills:
 
-- **The Government Accountability Act** addresses how officials behave: lobbying reform, an escalation framework (Public Reports → Compliance Orders → Certificates of Malfeasance), supermajority Commissioner appointment, Cabinet-confidence amendments, a duty to document, ISC-plus-political-contribution cross-reference for procurement, cooling-off, whistleblower burden reversal, proportional penalties, randomness-beacon audits, advance rulings, Indigenous engagement at FPIC standard with a co-development gate.
+- **The Public Integrity Act of Alberta** addresses how officials behave: lobbying reform, an escalation framework (Public Reports → Compliance Orders → Certificates of Malfeasance), supermajority Commissioner appointment, Cabinet-confidence amendments, a duty to document, ISC-plus-political-contribution cross-reference for procurement, cooling-off, whistleblower burden reversal, proportional penalties, randomness-beacon audits, advance rulings, Indigenous engagement at FPIC standard with a co-development gate.
 - **The Open Books Act** addresses how advantage flows through the system: disclosure for named-party legislation, regulatory approvals, concessional arrangements, ministerial individual exemptions; an annual Auditor General Enforcement Equity Report.
 
 Part I documents four cases (DynaLIFE, Turkish Tylenol, the Canadian Energy Centre, Bill 6 farm safety) illustrating four structural-failure patterns the bills are designed to reach: the oral-briefing loophole, the no-paper emergency, the Crown-corp end-run, and the consultation deficit. Three cases are UCP-era; one is NDP-era. The brief is structurally a critique of *kinds* of decisions, not of *parties* that made them.

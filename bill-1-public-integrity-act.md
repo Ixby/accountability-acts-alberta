@@ -1,4 +1,4 @@
-# Bill 1 — The Government Accountability Act
+# Bill 1 — The Public Integrity Act of Alberta
 
 ## Preamble
 
@@ -26,7 +26,7 @@
 
 ## Short Title
 
-**1.** This Act may be cited as the *Government Accountability Act*.
+**1.** This Act may be cited as the *Public Integrity Act of Alberta*.
 
 ---
 
@@ -97,7 +97,7 @@
 
 (b) by striking out subclause (ii) and substituting:
 
-> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Government Accountability Act* (an 'in-house lobbyist');"
+> "(ii) any employee of an organization or entity for whom communication with a public office holder constitutes a significant part of duties, as defined in the *Public Integrity Act of Alberta* (an 'in-house lobbyist');"
 
 (c) by adding:
 
@@ -175,7 +175,7 @@
 
 > **(3)** No former Minister or senior official shall, for 18 months following termination of service, accept employment with or a board seat at a private-sector entity that received a discretionary provincial contract or grant above the threshold prescribed by regulation during the official's tenure, where the official had direct or indirect decision-making authority over the contract or grant.
 >
-> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Government Accountability Act*) with a recipient.
+> **(3.1)** "Private-sector entity" includes any entity under common control or common beneficial ownership (as determined under §25(10) of the *Public Integrity Act of Alberta*) with a recipient.
 >
 > **(4)** Subsection (3) does not apply to arms-length public entities (including Alberta Health Services, public post-secondary institutions, school boards, and municipalities); non-profit organizations receiving operational funding under an established program of general application, where the former official had no decision-making role regarding the specific grant; or employment with no connection to the contract or grant in question.
 >
@@ -343,17 +343,17 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **(3)** Subsection (1) does not apply to factual, statistical, operational, or background data provided to the Executive Council, except where disclosure would reveal the substance of Cabinet deliberations; Treasury Board Decision Summaries recording a final decision, which shall be proactively disclosed within 180 days of execution, subject to subsection (4); or Ministerial Mandate Letters, which shall be proactively disclosed at the conclusion of the parliamentary session in which they are issued or 18 months after issuance, whichever is earlier, subject to subsection (4).
 >
-> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Government Accountability Act*.
+> **(4)** A public body may withhold such a record where disclosure would prejudice an ongoing procurement until concluded; reveal solicitor-client privileged legal advice; compromise an active law enforcement investigation; or endanger national security or public safety. Such a decision is subject to review by the Information and Privacy Commissioner and appeal under Part 9 of the *Public Integrity Act of Alberta*.
 >
 > **(5)** Where a Ministerial Mandate Letter is withheld from proactive disclosure under subsection (3) on the grounds of an exception in subsection (4), the withholding shall be recorded within 30 days in a public register maintained by the Information and Privacy Commissioner, identifying: (a) the Minister to whom the mandate letter was issued; (b) a description of the subject matter of the letter sufficient to inform the public of its general nature, as assessed by the Information and Privacy Commissioner — who may require greater particularity on application by any person; (c) the date the letter was issued and the date of the withholding determination; and (d) the exception claimed under subsection (4) and the reasons therefor. The register shall remain publicly accessible for not less than 7 years.
 
 **14.** The following is added after section 92:
 
-> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Government Accountability Act*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
+> **93(1)** Where the Information and Privacy Commissioner finds that a Deputy Minister or head of a public body has willfully and repeatedly delayed record production without reasonable justification, failed to correct after written warning, and cannot establish the good-faith defense under §26 of the *Public Integrity Act of Alberta*, the Commissioner shall, in sequence, identify the public body and the Deputy Minister or head of the public body in the quarterly compliance report; if non-compliance persists 90 days after publication, issue a Compliance Order directing corrective action within 60 days; and if non-compliance persists, impose an administrative penalty under §25 of that Act.
 >
 > **(2)** Before imposing a penalty, the Commissioner shall provide written notice of intent with the proposed amount and calculation; afford at least 14 days to respond, including opportunity to raise the good-faith defense; and issue written reasons.
 >
-> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Government Accountability Act*.
+> **(3)** A penalty under this section is stayed pending any review, appeal, or court confirmation under Part 9 of the *Public Integrity Act of Alberta*.
 >
 > **(4)** No penalty shall be imposed on an employee for good-faith application of a statutory exception, lawful redaction of third-party personal information protected under the *Protection of Privacy Act*, exercise of a duty to consult third parties, or on line records officers below the Deputy Minister level unless individually subject to a Compliance Order or Certificate.
 
@@ -361,15 +361,25 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **94(1) Duty to document.** A public body shall create and maintain records sufficient to document:
 >
-> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Government Accountability Act*;
+> (a) decisions relating to procurement, appointment, regulatory approval, concessional arrangement, ministerial individual exemption, or other matter subject to disclosure under this Act or the *Public Integrity Act of Alberta*;
 >
 > (b) substantive communications between a public office holder and a registered lobbyist or person engaged in lobbying activity, whether in person, by telephone, by text message, by electronic mail, or by any other means;
 >
 > (c) substantive communications within the Executive Council or Treasury Board that reflect final decisions or the factual bases relied upon in arriving at final decisions, subject to the exceptions in section 15.
 >
-> **(2) Standard of adequacy.** The Information and Privacy Commissioner shall, by regulation, establish standards for the adequacy of documentation required under subsection (1), including minimum content for decision records; requirements for timely creation; retention periods; and protocols for transitory records. Standards under this subsection shall recognize that informal operational communications are not captured by subsection (1) unless they record a decision or a factual basis for a decision.
+> **(2) Baseline standard of adequacy.** Until the Information and Privacy Commissioner makes a regulation establishing standards under subsection (2A), the following baseline standards apply to documentation required under subsection (1):
 >
-> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Government Accountability Act*, subject to the good-faith defense under §26 of that Act.
+> (a) *Triggers.* The duty applies to any decision that: (i) commits public funds in an amount exceeding the threshold prescribed by regulation, or $1,000,000 where no threshold is prescribed; (ii) invokes emergency or sole-source procurement authority; (iii) grants or denies a regulatory approval whose estimated financial value exceeds the threshold in §7(1) of the *Open Books Act*; (iv) confers a concessional arrangement or ministerial individual exemption above the threshold in that Act; or (v) constitutes a substantive direction to a Crown corporation, public agency, or regulatory body that would, if publicly known, materially affect the rights or interests of an identifiable person or class of persons.
+>
+> (b) *Minimum content.* A decision record must identify: the full name and title of the individual decision-maker, or where the decision was made collectively, the full name and title of every member who voted in favour; the date of the decision; the nature of the decision; the alternatives considered and the reasons for their rejection; and the factual basis on which the decision rests.
+>
+> (c) *Timing.* A decision record must be created at or before the time the decision is communicated externally, or within five business days of the decision, whichever is earlier. For decisions made under emergency authority, a decision record must be created within 24 hours of the decision.
+>
+> (d) *Failure definitions.* "Willful failure" means failure by an official who, within the preceding 24 months, received written notice that a prior failure of the same type had been identified. "Repeated failure" means three or more failures of the same type within any 24-month period by the same official or within the same public body.
+>
+> **(2A) IPC regulation-making authority.** The Information and Privacy Commissioner shall, by regulation, establish standards for the adequacy of documentation required under subsection (1), including minimum content for decision records; requirements for timely creation; retention periods; and protocols for transitory records. A regulation under this subsection may modify or supplement the baseline standards in subsection (2). Standards under this subsection shall recognize that informal operational communications are not captured by subsection (1) unless they record a decision or a factual basis for a decision.
+>
+> **(3) Consequences of failure.** Willful or repeated failure to document a decision or communication required under subsection (1), where the failure is not justified by a statutory exception, is conduct subject to section 93 of this Act and proceedings under the *Public Integrity Act of Alberta*, subject to the good-faith defense under §26 of that Act.
 >
 > **(4) Relationship to other records obligations.** This section is in addition to, and not in lieu of, obligations under any other statute establishing records-creation or records-retention requirements.
 
@@ -381,15 +391,15 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 > **82.1(1)** No public body shall award a contract above the threshold prescribed by regulation unless the bidder has provided a return identifying every individual with significant control (ISC) of the bidding entity, in the form and scope prescribed.
 >
-> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Government Accountability Act* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
+> **(1A) Simplified track for small bidders.** A bidder whose annual revenue in the preceding fiscal year is below the small-bidder threshold prescribed by regulation may satisfy the requirement under subsection (1) by filing a simplified ISC declaration with the Registrar on an annual basis, in a form prescribed by regulation that is materially less detailed than the full return under subsection (1), and referencing the declaration in each bid submitted during the year. The simplified declaration is subject to subsections (2) through (7) with necessary modifications, and to audit under subsection (4). Any material change during the year in ISC identity or in the contribution history of any ISC shall be disclosed by amended declaration within 30 days. Processing fees under §29(2) of the *Public Integrity Act of Alberta* for small-bidder declarations shall not exceed the small-bidder fee cap prescribed by regulation, which shall be materially lower than the cap applicable under subsection (1).
 >
-> **(2)** For contracts above the cross-reference threshold prescribed by regulation, the awarding public body shall, as part of procurement, cross-reference the ISC return against the contributions registry under the *Election Finances and Contributions Disclosure Act*, RSA 2000, c E-2, and certify to its chief financial officer that no ISC has personally, within the preceding 48 months, made a contribution above the match threshold prescribed by regulation to any party or constituency association, or held executive office in a registered party; or such a match has been identified and referred to the Ethics Commissioner. Family member contributions where the family member is not themselves an ISC are not captured by this cross-reference.
+> **(2)** For contracts above the cross-reference threshold prescribed by regulation, the awarding public body shall, as part of procurement, cross-reference the ISC return against the contributions registry under the *Election Finances and Contributions Disclosure Act*, RSA 2000, c E-2, and certify to its chief financial officer that no ISC has personally, within the preceding 48 months, made a contribution above the match threshold prescribed by regulation to any party or constituency association, or held executive office in a registered party; or such a match has been identified and referred to the Ethics Commissioner. Family member contributions where the family member is not themselves an ISC are not captured by this cross-reference. The certification shall be signed by a named individual, identified by full name and title, who is personally accountable for its accuracy. The signed certification is a public record under subsection (5).
 >
 > **(2A)** The cross-reference under subsection (2) shall be conducted by the Registrar as a hash comparison against the contributions registry. The Registrar shall return only a match/no-match indicator to the awarding public body. Where no match above the contribution threshold is indicated, no contribution history is disclosed at any level. Where a match is indicated, the Registrar shall confirm the specific match to the Commissioner; the Commissioner may access the contribution history for the sole purpose of the subsection (2) review. Records accessed under this subsection are confidential under §25(9) and shall not be published except as required by a Certificate or court confirmation under §22(5).
 >
 > **(3)** Where a match is referred, the Commissioner shall conduct initial review within 10 business days. If no substantive conflict, the award may proceed. If a potential substantive conflict is identified, the award is stayed for a further 20 business days for full investigation, after which the Commissioner shall clear, condition, or recommend setting aside the award.
 >
-> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Government Accountability Act*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
+> **(4)** The Commissioner shall audit a statistically valid sample of certifications annually, and shall conduct random full reviews under §27 of the *Public Integrity Act of Alberta*. A failure to refer a match that should have been referred may subject the certifying officer to proceedings under Part 3 of that Act, subject to the good-faith defense.
 >
 > **(5)** Records shall be maintained for not less than 7 years and made available to the Commissioner on request.
 >
@@ -398,6 +408,12 @@ The defense under this subsection is available in addition to, not in lieu of, t
 > **(7) Unlimited-lookback disclosure.** For contracts above the full-disclosure threshold, the bidder shall disclose any contribution above the match threshold made at any time by any ISC to any Alberta political party, constituency association, or candidate, without temporal limit. This disclosure is for transparency only and does not trigger automatic review unless the contribution falls within the 48-month match window.
 >
 > **(8) Accountability as procurement condition.** A bidder for a contract above the full-disclosure threshold is deemed to have acknowledged, by submitting a bid, that compliance with this section and section 82.2 is a condition of contracting with the Crown, in the same manner as other compliance conditions attached to provincial procurement.
+>
+> **(9) False-declaration penalty.** Knowingly providing false, incomplete, or misleading information in an ISC return or simplified declaration under this section is a contravention independent of any finding on the underlying procurement. The Commissioner may impose a penalty under §25 of the *Public Integrity Act of Alberta* on the individual who signed the return, on the entity on whose behalf the return was filed, or on both. A penalty under this subsection is in addition to, and not contingent on, any finding regarding the contract to which the return relates.
+>
+> **(10) Registrar verification.** The Registrar shall, on an annual basis, verify a random sample of not less than five percent of ISC returns filed in the preceding year against the Canada Business Corporations Act beneficial ownership registry, the Alberta corporate registry, and such other registries as the Registrar identifies as relevant. Where a material discrepancy is found between the return and the registry data, the Registrar shall refer the matter to the Commissioner for review. The Commissioner shall publish aggregate verification results, including the number of returns sampled, the number of discrepancies found, and the number referred, in the quarterly compliance report under §23 of the *Public Integrity Act of Alberta*.
+>
+> **(11) Ambiguous-case disclosure.** Where a bidding entity is owned or controlled, in whole or in part, by a trust, a foreign entity that does not have a natural-person equivalent under Canadian federal or Alberta corporate law, or any entity for which the beneficial ownership chain cannot be traced to a natural person, the bidder shall disclose that fact explicitly in the ISC return, identifying the trust or entity by name and describing the nature of the ownership or control relationship. Non-disclosure of such ambiguity is treated as non-disclosure for the purposes of subsection (9). The Registrar may issue published guidance specifying acceptable disclosure formats for common ambiguous-case structures.
 
 **15A.** The following is added after section 82.1:
 
@@ -461,7 +477,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 >
 > **(5)** If the Assembly has not dealt with the Certificate within 30 sitting days, the matter is deemed referred to the appropriate law enforcement authority for investigation. Deemed referral does not constitute a referral for recall.
 >
-> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Government Accountability Act* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
+> **(6)** On an explicit recall referral, the Chief Electoral Officer shall issue a recall petition, waive the notice of intent and initial signature requirement, and deem the petition period commenced on the date of referral. The petition period is held in abeyance if the Member files review under Part 9 of the *Public Integrity Act of Alberta* until the application is withdrawn, dismissed with appeals exhausted, or the Certificate is upheld in whole or in part sufficient to sustain a finding of malfeasance. A Certificate set aside on review terminates proceedings, and signatures collected shall not be used for any purpose.
 >
 > **(7) Backstop on law enforcement decline.** Where a law enforcement authority receives a referral under subsection (4) or a deemed referral under subsection (5) and declines to investigate or closes the matter without investigation, the authority shall notify the Speaker in writing with reasons, subject to any legal constraint on disclosure of investigative reasoning. On receipt, the Speaker shall cause the Certificate to be retabled with the authority's notice. The Assembly shall, within 15 sitting days of retabling, deal with the Certificate by resolution under subsection (4), with a recorded vote, and the rules of subsection (6) apply to any such resolution.
 
@@ -523,7 +539,7 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 ## Part 8 — Indigenous Engagement at the Interface
 
-*This Part addresses the operational seam where the Crown's accountability machinery encounters the governance systems of Indigenous peoples. It establishes a Crown-internal definition for interface purposes only, an exemption for internal Indigenous governance, an engagement standard consistent with free, prior, and informed consent, an affirmative interpretation rule, a carve-out for Indigenous governance instruments, and an Indigenous Accountability Council. Nothing in this Part is intended to define or characterize Indigenous governance, which derives from sources independent of and prior to the Crown.*
+*This Part addresses the operational seam where the Crown's accountability machinery encounters the governance systems of Indigenous peoples. It establishes a Crown-internal definition for interface purposes only and an exemption for internal Indigenous governance — both operative on Royal Assent. The substantive engagement standard, affirmative interpretation rule, carve-out for Indigenous governance instruments, and Indigenous Accountability Council are pending co-development with Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, and the Métis Settlements General Council; a draft framework for those discussions is at Schedule A. Nothing in this Part is intended to define or characterize Indigenous governance, which derives from sources independent of and prior to the Crown.*
 
 **21A(1) Definition for interface purposes.** The term "Indigenous government" is used in this section solely to identify, for the limited purposes of this Act and at the interface between the Crown and Indigenous governance systems, those bodies whose internal governance is exempt from the operation of this Act and with whom the Crown is required to engage under this section. The term does not, and is not intended to, define, characterize, recognize, withhold recognition from, or limit the inherent jurisdiction or self-determination of Indigenous peoples, which exists independently of any Crown enactment and derives from the inherent rights of Indigenous peoples and from treaty. For the limited purposes of this section, "Indigenous government" means a First Nations government, a Métis government, or an Inuit government that is recognized under federal law, under a self-government agreement, under the *Metis Settlements Act*, or under an agreement with the Government of Canada or a province of Canada, and includes a band council constituted under the *Indian Act* (Canada), a Métis Settlement, and the Métis Nation of Alberta.
 
@@ -531,59 +547,9 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 **(2)** Nothing in this Act applies to the internal governance of an Indigenous government, including the conduct of its elected officials, employees, or agents in the discharge of their governance functions.
 
-**(3) Engagement standard.** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation made in accordance with §28(4A), the Commissioner shall, before commencing the action, engage with the affected Indigenous government on a basis consistent with the principle of free, prior, and informed consent under the *United Nations Declaration on the Rights of Indigenous Peoples*. The engagement shall:
-
-(a) be initiated with sufficient notice to permit the Indigenous government to participate meaningfully;
-
-(b) provide all information reasonably necessary for informed participation;
-
-(c) address the subject matter, scope, and procedural conduct of the action;
-
-(d) be conducted on terms agreed to by the Indigenous government to the extent consistent with the Commissioner's statutory duties;
-
-(e) accommodate the outcome of the engagement to the extent reasonably possible without defeating the purposes of this Act.
-
-Where consent is not obtained, the Commissioner may proceed only on written reasons published in the quarterly compliance report under §23, identifying the engagement undertaken, the matters on which agreement was not reached, and the basis for proceeding. This subsection establishes a floor; nothing prevents an Indigenous government from agreeing in writing to less rigorous procedures where it considers them appropriate, and any such agreement is binding on the Commissioner for the matter to which it relates.
-
-**(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in subsection (3) as it applies to any other person or entity, subject to engagement and accommodation under that subsection and subject to subsection (7) where the entity is an Indigenous-owned governance instrument.
-
-**(5) Affirmative interpretation.** This Act shall be interpreted in a manner consistent with:
-
-(a) the principles of the *United Nations Declaration on the Rights of Indigenous Peoples*, including the principle of free, prior, and informed consent for measures affecting Indigenous peoples;
-
-(b) the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*; and
-
-(c) treaty rights, whether recorded in writing or in the oral records of treaty-making.
-
-Where the operation of any provision of this Act is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to paragraphs (a), (b), and (c) shall prevail.
+**(3) Substantive engagement provisions pending co-development.** The substantive engagement standard, affirmative interpretation rule, Indigenous-governance-instrument carve-out, and Indigenous Accountability Council for this Part shall be developed through the co-development process required under §32(3.1) and shall not come into force until the Minister tables the engagement report described in that subsection. A draft framework for co-development discussions prepared by the drafter is reproduced in Schedule A to this Act and is expressly subject to revision through that process. Until the co-development report is tabled and implementing provisions come into force, the Commissioner shall, in respect of any action affecting an Indigenous government, conduct engagement on a basis the Commissioner considers consistent with the honour of the Crown and shall record the basis in the quarterly compliance report under §23.
 
 **(6)** Nothing in this section limits the jurisdiction of the courts or administrative tribunals to adjudicate matters involving constitutional rights, treaty rights, or the duty to consult.
-
-**(7) Indigenous-owned governance instruments.** Where an entity is owned or controlled by one or more Indigenous governments, in whole or in such proportion as is established under §28(4A), and is identified in writing by the Indigenous government as an instrument of its governance or of its economic self-determination (an "Indigenous governance instrument"):
-
-(a) the requirement under §15 to identify individuals with significant control is satisfied by the Indigenous government identifying itself as the principal of the entity, in the form prescribed by regulation under §28(4A); the natural-person ISC requirement does not apply, on the rationale that the entity's authority derives from the Indigenous government and not from natural-person ownership;
-
-(b) the cross-reference under §15(2) does not apply to the entity as such, but applies to any natural person identified by the Indigenous government in connection with the entity's bid in any capacity that, in another bidder, would constitute an ISC;
-
-(c) communications by elected officers or designated representatives of the Indigenous government with provincial officials, on behalf of the Indigenous government, in respect of matters affecting the Indigenous government or the Indigenous governance instrument, are not lobbying within the meaning of §3 and are not subject to the registration or other obligations of Part 2; and
-
-(d) the obligations under this Act applicable to the entity are otherwise as for any other entity, except as provided by this subsection.
-
-**(8) Indigenous Accountability Council.** There is established an Indigenous Accountability Council with the following composition, mandate, and authority:
-
-(a) Membership comprises one representative selected by Treaty 6 First Nations, one selected by Treaty 7 First Nations, one selected by Treaty 8 First Nations of Alberta, one selected by the Métis Nation of Alberta, one selected by the Métis Settlements General Council, and such other members as may be added by agreement among the Council and the Crown to reflect Indigenous communities not otherwise represented;
-
-(b) The Commissioner, the Auditor General, and the Information and Privacy Commissioner shall consult the Council before making a regulation under §28(4A); before issuing a Public Report, Compliance Order, or Certificate that affects an Indigenous government or an Indigenous governance instrument; before publishing the annual pattern review under §11C(9)(g) where the review identifies patterns affecting Indigenous matters; and on such other matters as the Council and the Commissioners may agree.
-
-(c) The Council may, on its own initiative, file a written submission with respect to any matter within the jurisdiction of the Commissioner, the Auditor General, or the Information and Privacy Commissioner that affects Indigenous governments or Indigenous governance instruments. A submission filed under this paragraph shall be acknowledged in writing within 30 days and shall be addressed in any subsequent report or determination, with the Council's position recorded;
-
-(d) Where the Council, by majority of members present and voting, records a minority position on a matter on which it has been consulted, that minority position shall be tabled in the Legislative Assembly alongside the related Commissioner Report, Order, or Certificate, and shall be published with the related document on the Commissioner's website;
-
-(e) The Council shall be funded through main estimates as a separate line item, in an amount sufficient to permit meaningful participation including travel, language services, technical advice, and member honoraria; the budget floor under §24(6) applies to the Council with necessary modifications;
-
-(f) The Council's procedures, terms of office, replacement of members, conflict-of-interest rules, and other operational matters are established by the Council itself, and are not subject to regulation under this Act except where the Council requests by resolution that a regulation be made;
-
-(g) The establishment of the Council under this subsection does not, and is not intended to, substitute for or limit the Crown's separate obligations to consult and accommodate, or to obtain free, prior, and informed consent, in respect of any specific matter; the Council exists at the operational interface and does not replace the constitutional and treaty-based relationships between the Crown and Indigenous peoples.
 
 ---
 
@@ -885,12 +851,72 @@ The co-development report shall be tabled at least 60 sitting days before the re
 
 **(3.1) Indigenous engagement preconditions.** Notwithstanding subsections (1) and (2):
 
-(a) §21A(3), (4), (5), (7), and (8) shall not come into force unless and until the Minister tables in the Legislative Assembly an Indigenous engagement report describing the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, and the Métis Settlements General Council on the substance of those provisions and on the establishment of the Indigenous Accountability Council under §21A(8); the matters on which agreement was reached and any matters on which it was not; and any minority position recorded during the engagement;
+(a) The substantive provisions to be developed through co-development under §21A(3) shall not come into force unless and until the Minister tables in the Legislative Assembly an Indigenous engagement report describing the engagement conducted with Treaty 6 First Nations, Treaty 7 First Nations, Treaty 8 First Nations of Alberta, the Métis Nation of Alberta, and the Métis Settlements General Council on the substance of those provisions; the matters on which agreement was reached and any matters on which it was not; and any minority position recorded during the engagement. The draft framework for co-development discussions is in Schedule A;
 
 (b) §21A(1), (1.1), (2), and (6) come into force on Royal Assent under subsection (1), on the rationale that they protect Indigenous governance from the operation of this Act and do not impose new obligations on Indigenous governments;
 
-(c) until §21A(3) is in force, the Commissioner shall, in respect of any action that would be subject to that subsection on its coming into force, conduct engagement on a basis the Commissioner considers consistent with §21A(3) and shall record the basis in the quarterly compliance report under §23, with the engagement record subject to revision once §21A(3) and the Indigenous Accountability Council under §21A(8) are operational;
+(c) until the co-development provisions come into force under paragraph (a), the Commissioner shall, in respect of any action affecting an Indigenous government, conduct engagement on a basis the Commissioner considers consistent with the honour of the Crown and shall record the basis in the quarterly compliance report under §23;
 
 (d) the Indigenous engagement report under paragraph (a) shall be tabled no later than 24 months after Royal Assent, failing which the Minister shall table in the Assembly written reasons for the delay and a revised tabling schedule, with such reasons referred on tabling to the appropriate standing committee.
 
 **(4)** Except as otherwise provided in this section, this Act comes into force on Royal Assent.
+
+---
+
+## Schedule A — Draft Framework for Co-development
+
+*Subject to revision through the §32(3.1) co-development process. This Schedule is not in force and shall not be interpreted as enacted law. It is reproduced here solely to provide a starting point for co-development discussions with Treaty 6, 7, and 8 First Nations, the Métis Nation of Alberta, the Métis Settlements General Council, and other Indigenous bodies with a material interest in the subject matter of this Act. The co-development process may revise, replace, or reject any part of this framework.*
+
+---
+
+**Draft §21A(3) Engagement standard.** Where a determination, investigation, audit, or other action under this Act would affect an Indigenous government, or an entity materially owned or controlled by an Indigenous government as defined by regulation made in accordance with §28(4A), the Commissioner shall, before commencing the action, engage with the affected Indigenous government on a basis consistent with the principle of free, prior, and informed consent under the *United Nations Declaration on the Rights of Indigenous Peoples*. The engagement shall:
+
+(a) be initiated with sufficient notice to permit the Indigenous government to participate meaningfully;
+
+(b) provide all information reasonably necessary for informed participation;
+
+(c) address the subject matter, scope, and procedural conduct of the action;
+
+(d) be conducted on terms agreed to by the Indigenous government to the extent consistent with the Commissioner's statutory duties;
+
+(e) accommodate the outcome of the engagement to the extent reasonably possible without defeating the purposes of this Act.
+
+Where consent is not obtained, the Commissioner may proceed only on written reasons published in the quarterly compliance report under §23, identifying the engagement undertaken, the matters on which agreement was not reached, and the basis for proceeding. This subsection establishes a floor; nothing prevents an Indigenous government from agreeing in writing to less rigorous procedures where it considers them appropriate, and any such agreement is binding on the Commissioner for the matter to which it relates.
+
+**Draft §21A(4)** For greater certainty, this Act applies to contracts, grants, regulatory approvals, and other provincial decisions involving entities described in draft §21A(3) as it applies to any other person or entity, subject to engagement and accommodation under that subsection and subject to draft §21A(7) where the entity is an Indigenous-owned governance instrument.
+
+**Draft §21A(5) Affirmative interpretation.** This Act shall be interpreted in a manner consistent with:
+
+(a) the principles of the *United Nations Declaration on the Rights of Indigenous Peoples*, including the principle of free, prior, and informed consent for measures affecting Indigenous peoples;
+
+(b) the constitutional rights of Indigenous peoples of Canada recognized and affirmed under section 35 of the *Constitution Act, 1982*; and
+
+(c) treaty rights, whether recorded in writing or in the oral records of treaty-making.
+
+Where the operation of any provision of this Act is uncertain in its application to a matter affecting Indigenous peoples, the interpretation that better gives effect to paragraphs (a), (b), and (c) shall prevail.
+
+**Draft §21A(7) Indigenous-owned governance instruments.** Where an entity is owned or controlled by one or more Indigenous governments, in whole or in such proportion as is established under §28(4A), and is identified in writing by the Indigenous government as an instrument of its governance or of its economic self-determination (an "Indigenous governance instrument"):
+
+(a) the requirement under §15 to identify individuals with significant control is satisfied by the Indigenous government identifying itself as the principal of the entity, in the form prescribed by regulation under §28(4A); the natural-person ISC requirement does not apply, on the rationale that the entity's authority derives from the Indigenous government and not from natural-person ownership;
+
+(b) the cross-reference under §15(2) does not apply to the entity as such, but applies to any natural person identified by the Indigenous government in connection with the entity's bid in any capacity that, in another bidder, would constitute an ISC;
+
+(c) communications by elected officers or designated representatives of the Indigenous government with provincial officials, on behalf of the Indigenous government, in respect of matters affecting the Indigenous government or the Indigenous governance instrument, are not lobbying within the meaning of §3 and are not subject to the registration or other obligations of Part 2; and
+
+(d) the obligations under this Act applicable to the entity are otherwise as for any other entity, except as provided by this subsection.
+
+**Draft §21A(8) Indigenous Accountability Council.** There is established an Indigenous Accountability Council with the following composition, mandate, and authority:
+
+(a) Membership comprises one representative selected by Treaty 6 First Nations, one selected by Treaty 7 First Nations, one selected by Treaty 8 First Nations of Alberta, one selected by the Métis Nation of Alberta, one selected by the Métis Settlements General Council, and such other members as may be added by agreement among the Council and the Crown to reflect Indigenous communities not otherwise represented;
+
+(b) The Commissioner, the Auditor General, and the Information and Privacy Commissioner shall consult the Council before making a regulation under §28(4A); before issuing a Public Report, Compliance Order, or Certificate that affects an Indigenous government or an Indigenous governance instrument; before publishing the annual pattern review under §11C(9)(g) where the review identifies patterns affecting Indigenous matters; and on such other matters as the Council and the Commissioners may agree.
+
+(c) The Council may, on its own initiative, file a written submission with respect to any matter within the jurisdiction of the Commissioner, the Auditor General, or the Information and Privacy Commissioner that affects Indigenous governments or Indigenous governance instruments. A submission filed under this paragraph shall be acknowledged in writing within 30 days and shall be addressed in any subsequent report or determination, with the Council's position recorded;
+
+(d) Where the Council, by majority of members present and voting, records a minority position on a matter on which it has been consulted, that minority position shall be tabled in the Legislative Assembly alongside the related Commissioner Report, Order, or Certificate, and shall be published with the related document on the Commissioner's website;
+
+(e) The Council shall be funded through main estimates as a separate line item, in an amount sufficient to permit meaningful participation including travel, language services, technical advice, and member honoraria; the budget floor under §24(6) applies to the Council with necessary modifications;
+
+(f) The Council's procedures, terms of office, replacement of members, conflict-of-interest rules, and other operational matters are established by the Council itself, and are not subject to regulation under this Act except where the Council requests by resolution that a regulation be made;
+
+(g) The establishment of the Council under this subsection does not, and is not intended to, substitute for or limit the Crown's separate obligations to consult and accommodate, or to obtain free, prior, and informed consent, in respect of any specific matter; the Council exists at the operational interface and does not replace the constitutional and treaty-based relationships between the Crown and Indigenous peoples.

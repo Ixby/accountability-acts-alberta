@@ -14,7 +14,7 @@ This is opening a conversation, not closing one.
 
 Two bills. One addresses executive conduct. One addresses systemic privilege.
 
-Bill 1 — the Government Accountability Act. Graduated accountability ladder from Public Report to Compliance Order to Certificate of Malfeasance. Contracts cross-referenced against political contributions. Lobbying reform with the 50-hour loophole closed. 18-month post-employment cooling-off. Whistleblower protection with reverse burden on reprisal. Proportional penalties that scale to actual capacity. Random audits using a public randomness beacon. Duty to document decisions subject to disclosure.
+Bill 1 — the Public Integrity Act of Alberta. Graduated accountability ladder from Public Report to Compliance Order to Certificate of Malfeasance. Contracts cross-referenced against political contributions. Lobbying reform with the 50-hour loophole closed. 18-month post-employment cooling-off. Whistleblower protection with reverse burden on reprisal. Proportional penalties that scale to actual capacity. Random audits using a public randomness beacon. Duty to document decisions subject to disclosure.
 
 Bill 2 — the Open Books Act. Named-party legislation requires a Beneficiary Disclosure Statement at First Reading. Major regulatory approvals publish proponent disclosure. Concessional arrangements — royalty reductions, tax abatements, loan guarantees, debt forgiveness — get published with reasons. Ministerial individual exemptions get disclosed with patterns. Auditor General publishes annual Enforcement Equity Report.
 

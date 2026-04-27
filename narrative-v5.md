@@ -34,10 +34,10 @@ If you came here for the bills, they are in Appendices A and B. If you came here
 
 **Two bills:**
 
-- **The Government Accountability Act:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
+- **The Public Integrity Act of Alberta:** how Ministers, senior officials, and MLAs behave. Lobbying, appointments, duty to document, procurement disclosure, whistleblower protection, proportional penalties, random audits.
 - **The Open Books Act:** how advantage flows through the system. Disclosure for narrow legislation, regulatory approvals, concessional arrangements, and ministerial exemptions; an annual Auditor General report on enforcement equity.
 
-**What it costs:** ~$5 million per year — roughly one one-hundredth of one percent of provincial spending. About what one mid-sized school costs to operate annually. Less than five percent of what a single one of the three cases above cost taxpayers.
+**What it costs:** ~$5 million per year — roughly $1 per Albertan per year. One one-hundredth of one percent of provincial spending. About what one mid-sized school costs to operate annually. Less than five percent of what a single one of the three cases above cost taxpayers.
 
 **What it doesn't yet do:** constitutional review, Indigenous co-development, Treasury Board fiscal validation, legislative drafting review. Each named in Part VI.
 
@@ -53,15 +53,19 @@ Alberta's accountability statutes have the same shape. The 2014 amendments to th
 
 Alberta in 2026 does not have that controversy. There are documented failures: the lab buyback, the Tylenol procurement, the communications agency that lived for five years inside a corporate vehicle picked precisely so it could not be reviewed. None of them is occupying daily news cycles. The political moment is quiet. That quiet is the rare opportunity. Accountability law drafted in the calm after a crisis tends to produce instruments shaped by the crisis. Law drafted in a comparatively quiet stretch is the more honest condition for getting the structural design right.
 
-The provincial budget this year is roughly eighty billion dollars. The three cases at the start of this brief moved between two and three hundred million of it through gaps the existing rules don't reach. The cost of building rules that do reach is around five million a year — about one one-hundredth of one percent of the budget, less than one-fortieth of what a single one of the three cases cost.
+The provincial budget this year is roughly eighty billion dollars. The three cases at the start of this brief moved between two and three hundred million of it through gaps the existing rules don't reach. The cost of building rules that do reach is around five million a year — about one dollar per Albertan per year, one one-hundredth of one percent of the budget, less than one-fortieth of what a single one of the three cases cost.
 
-No party in Alberta is currently campaigning on this. The issue sits between elections, not during them. A draft on the public record, under a licence that lets any party adopt it, lowers the cost of being first. Whichever party tables it gets the credit. Whichever party does not has to explain why. That is the political asymmetry the package is trying to engineer.
+No party in Alberta is currently campaigning on this. The issue sits between elections, not during them. A draft on the public record, under a licence that lets any party adopt it, lowers the cost of being first. Whichever party tables it gets the credit. Whichever party does not has to explain why. The political asymmetry the package is trying to engineer is not primarily a media asymmetry. It is a platform asymmetry: this package is table-ready for adoption as a platform commitment, and the outreach materials in Part VII are designed to build the constituency that puts the question directly to candidates — at doorsteps, in riding meetings, at all-candidates events. A press corps that covers accountability stories between elections is an asset. A mobilized constituency that shows up and asks is a mechanism.
 
 ---
 
 ## Part I — What This Costs You
 
-Three decisions. None of them dramatic enough to occupy the front page for more than a news cycle. Together, somewhere between $200 and $300 million of our money.
+Three decisions and one legislative moment. None of them dramatic enough to occupy the front page for more than a news cycle. Together, they describe the operating expense of an accountability framework that hasn't kept pace with how power actually moves.
+
+### What this costs in money
+
+Three Alberta decisions consumed somewhere between two and three hundred million dollars through structural gaps in the existing accountability framework.
 
 ### A lab system that didn't work
 
@@ -90,6 +94,10 @@ The agency was incorporated as a private corporation, not a Crown agency. That s
 Premier Kenney's press secretary, Christine Myatt, addressed this publicly at the time of incorporation. As reported by CBC News in October 2019, Myatt said: "The CEC's internal operations are not subject to FOIP, as this would provide a tactical and/or strategic advantage to the very foreign-funded special interests the CEC is looking to counter."[^myatt] The structural choice was deliberate. Whatever its stated reason, its effect was to keep the centre outside the disclosure regime that would have applied to a Crown agency doing the same work.
 
 The structure did its job for the agency's entire operational life.
+
+### What this costs in trust
+
+A fourth case involves no comparable financial cost. Its cost was paid in the relationship between a government and the sector it was trying to protect.
 
 ### A bill written before its reasons
 
@@ -266,7 +274,9 @@ The two genuine innovations are the ISC plus political-contribution cross-refere
 
 ---
 
-## Part IV — The Government Accountability Act: How Officials Behave
+## Part IV — The Public Integrity Act of Alberta: How Officials Behave
+
+The name describes what the bill protects, not what the current government is accused of being. *Public integrity* is the standard the regime holds everyone to — NDP, UCP, and whatever party comes next. It is not a verdict on anyone in office now.
 
 Bill 1 covers Ministers, senior officials, and Members of the Legislative Assembly. The full text is in Appendix A.
 
@@ -518,11 +528,11 @@ That bet is contestable. Whether three hardened offices are actually harder to c
 
 ### What it costs
 
-The combined regime costs an estimated **$5 million per year at steady state**, achieved by year three rather than the usual year five — the timetable is designed to be operationally complete within a single four-year legislative mandate. Royal Assent in year one, most provisions in force at month six, the first Enforcement Equity Report at month twelve, comprehensive coverage of all designated regulatory bodies by month thirty-six. A government that tables this in its first session sees the regime fully running before the next election, not after it.
+The combined regime costs an estimated **$5 million per year at steady state — roughly $1 per Albertan per year**, achieved by year three rather than the usual year five — the timetable is designed to be operationally complete within a single four-year legislative mandate. Royal Assent in year one, most provisions in force at month six, the first Enforcement Equity Report at month twelve, comprehensive coverage of all designated regulatory bodies by month thirty-six. A government that tables this in its first session sees the regime fully running before the next election, not after it.
 
 Year-one capital is approximately $1.7 million for the technology build — meaning the one-time cost of the ISC registry (the system that holds the disclosure of who actually owns each contracting entity), the cross-reference engine (which checks that registry against political contributions), the identity-consistency platform, and the Tier 0 automated audit system. Year-one operating spending is approximately $1.5 million during partial-year operations. The drafter's allocation across offices: roughly 18 FTE — full-time-equivalent positions, meaning either 18 full-time staff or some equivalent mix of part-time — at the Ethics Commissioner office; 6 FTE at the Auditor General office for the Enforcement Equity Report; 4 FTE at the Information and Privacy Commissioner for documentation standards and audit; plus shared technology operations. About 28 new accountability staff in total across three offices — a small body of work in absolute terms, larger than any single Alberta oversight office's recent expansion. Per capita the regime sits modestly higher than peer Canadian provincial oversight regimes — a function of broader scope rather than higher unit costs.
 
-Five million dollars per year is roughly one one-hundredth of one percent of the provincial budget. Each of the three Part I cases ran ten to twenty times the regime's annual operating cost. Whether the regime would have prevented any of them is a counterfactual no accounting can resolve. What the design does claim is more modest: that decisions of this size would face contemporaneous scrutiny at the moment they were made — duty to document for the DynaLIFE oral-briefing arc, contemporaneous reasoning for the Tylenol emergency procurement, structural-choice disclosure for the CEC corporate vehicle. The bills make the moment of decision visible. They do not predict the outcome.
+Five million dollars per year is roughly one dollar per Albertan per year — one one-hundredth of one percent of the provincial budget. Each of the three Part I cases ran ten to twenty times the regime's annual operating cost. Whether the regime would have prevented any of them is a counterfactual no accounting can resolve. What the design does claim is more modest: that decisions of this size would face contemporaneous scrutiny at the moment they were made — duty to document for the DynaLIFE oral-briefing arc, contemporaneous reasoning for the Tylenol emergency procurement, structural-choice disclosure for the CEC corporate vehicle. The bills make the moment of decision visible. They do not predict the outcome.
 
 The structural claim is more modest: a regime of this kind creates conditions under which decisions of this size face scrutiny at the point they are made, rather than years later through buybacks, leaked documents, and Auditor General reports. Some treat the cost as a deductible — a predictable annual premium against unpredictable exposure to the kind of events Part I describes. Whether that's good value is a judgment for the reader.
 
@@ -586,7 +596,7 @@ The deeper claim of the bill is that accountability is a condition of legitimate
 
 ## Part VII — The Invitation
 
-Four structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**, the **consultation deficit**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
+Four structural failures, named: the **oral-briefing loophole**, the **no-paper emergency**, the **Crown-corp end-run**, the **consultation deficit**. Two bills, drafted to make the moment of each kind of decision visible, regardless of which party is in office. Roughly five million dollars per year — about one dollar per Albertan per year, one one-hundredth of one percent of the budget — to make decisions of the size in Part I face contemporaneous scrutiny.
 
 If something in the package is worth supporting, the support has to be public and specific. *I want this provision because of these reasons.* General endorsement is worth less than a particular sentence put in front of a particular MLA.
 
@@ -618,7 +628,7 @@ If you would like to ask your MLA about this directly and don't know where to st
 
 > Dear [MLA's name],
 >
-> I'm a constituent in [your riding]. Would you support legislation along the lines of the Government Accountability Act and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
+> I'm a constituent in [your riding]. Would you support legislation along the lines of the Public Integrity Act of Alberta and the Open Books Act — drafted by a private citizen, released under Creative Commons, designed to apply regardless of which party is in government? The package is at [URL].
 >
 > Three specific provisions I'd like your view on:
 >

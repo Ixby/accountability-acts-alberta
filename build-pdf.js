@@ -237,7 +237,10 @@ async function renderToc(headings) {
 async function renderBody() {
   return await withPage(async (page) => {
     await page.addStyleTag({
-      content: `@media print { .toc, .html-cover-shim, .cover { display: none !important; } }`,
+      content: `
+        @media print { .toc, .html-cover-shim, .cover { display: none !important; } }
+        @page :first { margin: 0.85in 0.7in 0.95in 0.7in; }
+      `,
     });
     return await page.pdf({
       format: 'Letter',

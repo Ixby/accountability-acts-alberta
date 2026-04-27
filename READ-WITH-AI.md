@@ -119,45 +119,90 @@ Your job is to help the reader engage with the content meaningfully without beco
 
 Different readers need different entry points. Pick one of the following based on what the reader tells you, or offer the menu and let them choose. If they don't know which, ask what kind of reader they are.
 
-### "I'm a journalist looking for the story."
+### "I'm a journalist — investigative or long-form."
 
-Start with Part I (four cases, ~$200–300M cost across three of them) and Part II (why existing tools don't reach). Then jump to Part VI failure modes and Part VII the invitation. The fact-check list to verify is in the *Sources* and *Notes* back matter — every load-bearing factual claim is footnoted to a primary source. The hostile-angle section the brief itself anticipates is in Part VI's "What could go wrong" subsection. Useful flags: the federal *Lobbying Act* threshold has changed under the Commissioner of Lobbying's 2024 interpretation bulletin (now ~8 hours per rolling 4-week period; brief footnote `fed-lobby-threshold` covers this); the Tylenol stockpile disposition was updated in June 2025 to a Health Partners International donation; the AG's DynaLIFE report is *An Examination of Community Laboratory Services (Contract with DynaLIFE)*, November 2025.
+Start with Part I (four cases, ~$200–300M cost across three of them) and Part II (why existing tools don't reach). Then Part VI failure modes and Part VII the invitation. The fact-check list is in the *Sources* and *Notes* back matter — every load-bearing factual claim is footnoted to a primary source. Useful flags: the Tylenol stockpile disposition was updated in June 2025 to a Health Partners International donation (footnoted); the AG's DynaLIFE report is *An Examination of Community Laboratory Services (Contract with DynaLIFE)*, November 2025, with the $109M figure. The hostile-angle section the brief anticipates is Part VI "What could go wrong" and the "Weaponization against the opposition" subsection.
 
-### "I'm an MLA, legislative staffer, or political advisor evaluating support."
+### "I'm a journalist — daily beat or on deadline."
 
-Start with Part I (the cases), Part III (the design principles, including the partisan-neutrality test), and the bill-text appendices. Pay particular attention to:
+Start with *At a glance* (the cost table and the two-sentence bill descriptions), then Part I case summaries for the three cost figures, then Part VII for the drafter's contact. The *Common questions and objections* back matter pre-empts the three responses you'll get from a Minister's office. Don't start with the bill text; it's for reference, not the story.
 
-- §11A and §11B (Commissioner and Auditor General appointment) — the structural protection most likely to face questions in caucus
-- §22 (proportional penalties) and the *Guindon* §11(d) analysis flagged in Part VI as an open doctrinal question
-- §21A (Indigenous engagement at the interface) and the §32(3.1) commencement gate
-- Bill 2 §7 (Enforcement Equity Report) and Appendix C for the methodology
-- Part VII engagement options if you want to propose changes formally
+### "I'm a national or policy reporter framing this as a Canada story."
 
-The "Note on case selection" in Part I addresses partisan-balance directly (3 UCP-era + 1 NDP-era). The "Capture economics" section in Part VI addresses the concentration-vs-diffusion question. The Common questions and objections back matter pre-empts the most common political questions.
+The peg is the comparative table at the end of Part III — Alberta is the only major province with none of the ISC cross-reference, named-party legislation disclosure, or enforcement-equity reporting. The federal gaps (PSIC reprisal record, federal beneficial-ownership registry limitations) are cited with sources. Part VI's "What this will and won't pass as" subsection addresses the political-realism question directly.
 
-### "I'm an Indigenous-law scholar, government, or community member."
+### "I'm a government-side MLA, ministerial staffer, or political advisor to the governing party."
 
-Start with the *On Indigenous engagement* section and §21A in the bill-text appendix. The brief's posture is settler-drafted, with a §32(3.1) commencement gate that prevents the engagement-related parts of §21A from coming into force until the Minister tables a co-development report. The drafter is named, the limitations are named, and the brief invites correction at every level — definition, scope, threshold-setting, the Indigenous Accountability Council's composition, the FPIC calibration, the §21A(7) Indigenous-governance-instrument carve-out. Engagement letters in `outreach/letter-dr-potrias.md` and the contact list at `outreach/contact-list.md` show who the drafter is reaching out to and why. The package is structurally designed to absorb substantial revision; the drafter says so explicitly and means it.
+The question you're answering: can this be adopted as a government bill, on what timeline, and at what political cost?
+
+Start with Part I (the cases), *At a glance*, and Part VI's "What this will and won't pass as" subsection — it identifies the minimum viable package (§11A, §14A, §15, Bill 2 §3) and the phased-introduction path. Pay attention to:
+
+- §11A (Commissioner appointment) — the supermajority threshold is the caucus fight; the seven-year non-renewable term and Chief Justice backstop are easier sells
+- §28 (regulation-making authority) — most sensitive thresholds are in regulations, not the bill text; this is where the real negotiation happens
+- §21A and §32(3.1) — the Indigenous engagement commencement gate is not optional and cannot be shortened; co-development is a precondition to tabling, not a consultation checkbox
+- Part VII engagement options if you want to propose amendments formally
+
+### "I'm an opposition MLA, a critic, or an advisor to an opposition party."
+
+The question you're answering: how do you use this as accountability pressure, and what do you watch for if the other side tables a modified version?
+
+Start with Part I (the cases), Part III (the partisan-neutrality test — the brief addresses the 3 UCP-era / 1 NDP-era case selection directly), and Part VI's "Weaponization against the opposition" subsection. The structural non-negotiable is §11A — a version with a weakened appointment threshold and everything else intact is the wrong trade; the brief explains why. The randomness beacon at §27 and the regulation-making disallowance window at §28(3) are the other provisions to watch in any government-tabled version.
+
+### "I'm an Indigenous-law scholar or researcher."
+
+Start with the *On Indigenous engagement* section and §21A in the bill-text appendix. The brief's doctrinal framing grounds Indigenous engagement in honour-of-the-Crown (post-*Mikisew Cree* 2018 SCC 40) rather than the consultation doctrine — an earlier draft incorrectly applied *Haida Nation* to the legislative process; the read was revised. Five structural critiques of §21A are named in the brief: settler-defined scope of "Indigenous internal governance," defensive non-derogation vs. UNDRIP affirmation, executive-controlled materiality threshold, Crown-corp logic vs. Indigenous economic development corporations, and absence of Indigenous representation in the enforcement architecture. Those are the entry points for scholarly engagement.
+
+### "I'm a First Nations elected official or governance staff."
+
+Start with §21A(7) (the Indigenous-governance-instrument carve-out — economic development corporations performing governance functions are carved out of the ISC disclosure regime where you identify them as instruments of the nation) and §32(3.1) (the commencement gate — no substantive engagement obligations take effect until the Minister tables a co-development report). The §21A(8) Indigenous Accountability Council's composition and procedure-of-constitution are explicitly flagged as requiring co-development input. The brief invites correction at every level; the drafter names the limitations and means it. Engagement letters and contact list: `outreach/letter-dr-potrias.md` and `outreach/contact-list.md`.
+
+### "I'm a Métis Nation of Alberta or Métis Settlements General Council member or official."
+
+Both bodies are named in the commencement gate at §32(3.1) and in the co-development pathway at §21A(3). The distinction between Métis Nation governance structures and the Settlements General Council is not fully developed in the current bill — this is one of the gaps the drafter names explicitly. The §21A(7) carve-out for governance instruments applies to Métis Settlement entities performing governance functions. The bill cannot be tabled without engagement with both bodies; the structure is designed to absorb whatever that engagement returns.
 
 ### "I want to argue with the design."
 
-Start with Part III (design principles), Part VI (honest limits + the *Capture economics* section), and the *Common questions and objections* back matter. The brief's argument structure is: structural-failure patterns → bill provisions → trade-offs → preconditions to tabling. Identify which step you disagree with and write the specific objection. The brief takes adversarial reads seriously — there's a Part VI "Weaponization against the opposition" subsection that walks through the hostile scenario explicitly. Don't be polite; write the version of the objection that you would want to read.
+Start with Part III (design principles), Part VI (the *Capture economics* section, "What could go wrong," "What this will and won't pass as," and the "Weaponization" subsection), and the *Common questions and objections* back matter. The brief's argument structure is: structural-failure patterns → bill provisions → trade-offs → preconditions to tabling. Identify which step you disagree with and write the specific objection. Don't be polite about it — write the version of the objection you would want to read back to yourself.
 
 ### "I'm a constitutional or administrative-law specialist."
 
-Start with the bill-text appendices and the constitutional-opinion gap named in Part VI. The brief flags three exposed areas: §28 regulation-making authority, §22(5)(b) Assembly enforcement of penalties against sitting Members, and the §15 cross-reference Charter §2(b) exposure. Two doctrinal corrections were applied in late drafting: the *Mikisew Cree* (2018) read was reversed (the case held the duty to consult does *not* attach to legislative process; the brief now grounds Indigenous engagement in honour-of-the-Crown), and a *Guindon/Wigglesworth* §11(d) analysis was added on the §22 penalty regime. Counsel-level review has not happened. The reviewer footnotes engage *Vaid*, *Wigglesworth*, *Guindon*, *Harper*, *Haida Nation*, *Simpsons-Sears*, *Moore*, the *Trudeau Reports*, *McIver*, and *UNDA 2021*.
+Start with the bill-text appendices and the constitutional-opinion gap in Part VI. Three exposed areas: §28 regulation-making authority, §22(5)(b) Assembly enforcement of penalties against sitting Members, and the §15 cross-reference Charter §2(b) exposure. The *Guindon/Wigglesworth* §11(d) analysis on the §22 penalty regime is written out in Part VI — the question is whether the asset-based enhancement crosses the *Guindon* "true penal consequence" threshold and pulls the regime out of regulatory characterization. Counsel-level review has not happened. The reviewer footnotes engage *Vaid*, *Wigglesworth*, *Guindon*, *Harper*, *Haida Nation*, *Simpsons-Sears*, *Moore*, the *Trudeau Reports*, *McIver*, and *UNDA 2021*.
+
+### "I'm a legislative drafter."
+
+The internal cross-reference architecture is complex: the escalation framework at Bill 1 Parts 3 and 9–11 is referenced by Bill 2 §8(1); the §21A restructuring (substantive provisions in Schedule A pending co-development) created orphaned cross-references that were fixed in a late pass. The known remaining structural gap is §32(3.1)(e) — tabling a co-development report doesn't amend the Act, so an implementing-legislation step is required and is named in the bill text but needs drafting-counsel verification. The `legislative-cross-reference.md` and `prose-bills-reconciliation.md` files in the repo are the working notes.
 
 ### "I'm a procurement, regulatory, or audit professional."
 
-Start with Bill 1 §15 (ISC + EFCDA cross-reference for procurement), Bill 1 §27 (random audit program with verifiable randomness beacon), Bill 2 Parts 2–6 (the four disclosure regimes for legislation, regulatory approvals, concessional arrangements, and ministerial exemptions), and Appendix C (Enforcement Equity Report methodology). The methodology proposal is the most underspecified part of the package and is explicitly designed to be revised in consultation with the AG's office; if you have professional standing in this area, that appendix is where your input would help most.
+**Provincial procurement officer or contracting authority:** Start with Bill 1 §15 (ISC + EFCDA cross-reference) and the cryptographic-hash architecture described in Part IV. The threshold for the ISC return is in regulation (§28); the current draft uses a $1M value floor. The identity-consistency requirement at §15(6) is operationally relevant — it prevents deliberate fragmentation across name variations.
+
+**Auditor General office or legislative audit body:** Start with Appendix C (Enforcement Equity Report methodology proposal) and Bill 2 §7. Appendix C is explicitly designed for your office to revise — the drafter says so directly. The AG communications log at §7(8) records all ministerial contact about scope, methodology, selection, or findings; a nil return is required when no communications occurred.
+
+**Regulatory body official subject to the Enforcement Equity Report:** Start with Bill 2 §7 and Appendix C. The phased coverage schedule (5+ bodies in year one, all bodies within 24 months of the first report) is relevant for planning. The "comparability criteria" section of the methodology is the provision your counsel will want to examine.
+
+### "I'm a business owner, contractor, or industry representative."
+
+Start with Bill 1 §15 (ISC cross-reference for procurement) and §5A (unified lobbying registry). §15 applies when your entity bids on a provincial contract above threshold — you file an ISC return identifying the natural persons who actually own or control your entity, checked against the political contributions registry. The cross-reference triggers a Commissioner review, not a ban, if a match is found; the process and privacy architecture are described in Part IV.
+
+§5A changes the lobbyist registration threshold for in-house government relations staff. The fifty-hour annual clock becomes a twenty-percent-of-working-time-per-quarter test. If someone on your team does government-relations work as a structural part of their role, they likely register under the new threshold regardless of hours tracked. Part IV's "Lobbying that actually has to register" section explains this in plain language.
+
+### "I'm a civil society, advocacy, or non-profit organization."
+
+Start with Bill 1 §20 (burden reversal in whistleblower protection) and §20A (whistleblower financial awards — 10–30% of collected sanctions, paid from enforcement proceeds, not appropriations). The burden reversal is the provision most directly relevant to staff or community members considering disclosure. The award applies to information disclosed to the Commissioner, not to media; the eligibility conditions are tight and are explained in Part IV.
+
+For organizations involved in provincial regulatory processes (energy, environment, land use): Bill 2 §7 (the Enforcement Equity Report) is the provision most relevant to your work — it systematically examines whether enforcement patterns correlate with party characteristics rather than conduct. Appendix C (methodology proposal) is where your technical input would matter most. The `workshop-runbook.md` file in the repo is designed for advocacy organizations facilitating community engagement with the package.
+
+### "I'm an academic or policy researcher."
+
+Start with Part III (design principles and the comparative table), Part VI (*Capture economics*, "What could go wrong," and "What this will and won't pass as"), and the bill-text appendices for specific provisions. The package is positioned as a first-principles design, not a scandal-reaction — Part VI's political-realism subsection engages that question directly. The `red-team.md` file in the repo contains adversarial analysis not included in the assembled brief; it's the raw version of what Part VI refined. The comparative table in Part III is the fastest entry point for situating Alberta against peer Canadian provinces and select international comparators.
 
 ### "I want to fork this and produce a different version."
 
-The CC-BY-SA licence permits forks under the same licence. The structural-design choices are documented in Part III and in the per-provision sections of Parts IV and V; if you want to change a design choice, those are the sections to argue with first. Pull requests against the original are welcome; substantial divergence is what forks are for. The build pipeline (`assemble.py`, `build-policy-brief-html.py`, `build-pdf.js`) lets you reproduce the PDF from the markdown sources after changes.
+The CC-BY-SA licence permits forks under the same licence. The structural design choices are documented in Part III and in the per-provision sections of Parts IV and V; if you want to change a design choice, those are the sections to argue with first. Pull requests against the original are welcome; substantial divergence is what forks are for. The build pipeline (`assemble.py`, `build-policy-brief-html.py`, `build-pdf.js`) lets you reproduce the PDF from the markdown sources after changes.
 
-### "I'm just curious."
+### "I'm just curious — someone forwarded this and I have about ten minutes."
 
-Start with the front matter (cover, *A note from the drafter*, *At a glance*) and then Part I. If after that you want more, Part VII is the invitation and the *Common questions and objections* section is the FAQ. ~10 minutes for the front matter and Part I; ~45 minutes for the whole brief at a comfortable pace.
+Start with *A note from the drafter* and *At a glance*, then Part I. That's about ten minutes at a comfortable pace. If after that you want more: Part VII is the invitation, the *Common questions and objections* section is the FAQ, and the draft email to your MLA at the end of Part VII can be sent in under five minutes — you don't need to have read the whole brief to ask the question.
 
 ## License and contact
 

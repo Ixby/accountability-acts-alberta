@@ -1428,6 +1428,90 @@ The defense under this subsection is available in addition to, not in lieu of, t
 
 **(3)** For greater certainty, where the writ is issued while a complaint is pending and no investigation has yet been formally commenced, the Commissioner shall hold the complaint and commence investigation after the return of the writ, unless the writ is returned without an election having been held, in which case investigation may commence immediately.
 
+### Limitation Periods
+
+**21C(1) Investigation commencement.** The Commissioner shall not commence a new investigation in respect of conduct that occurred more than five years before the date of commencement, unless:
+
+> (a) the conduct was actively concealed from the Commissioner or from the public through destruction of records, misrepresentation, or other deliberate measures — in which case the five-year period runs from the date the Commissioner knew or ought reasonably to have known of the conduct;
+>
+> (b) the conduct is of a continuing nature and the most recent act or omission within the pattern falls within the five-year period; or
+>
+> (c) a complaint was filed within five years and the Commissioner has reasonable cause to investigate related prior conduct that forms part of the same course of conduct.
+
+**(2) Penalty imposition.** The Commissioner shall not impose an administrative penalty under §25 in respect of an investigation commenced more than three years before the date the penalty is imposed, unless the delay is attributable in whole or in part to the respondent's own conduct, including failure to cooperate, procedural challenges, or judicial review.
+
+**(3) Continuing violations.** For the purposes of subsection (1), conduct of a continuing nature — including persistent failure to document under the *Access to Information Act* as amended, persistent non-disclosure under the *Open Books Act*, ongoing employment in breach of a cooling-off obligation, or ongoing non-compliance with a Compliance Order — is deemed to occur on each day the failure or non-compliance continues. The five-year period runs from the last day on which the conduct occurred or continued.
+
+**(4) Tolling.** The five-year period in subsection (1) is suspended during:
+
+> (a) any period in which the Commissioner is actively deceived as to the existence of the conduct;
+>
+> (b) any writ period under §21B;
+>
+> (c) any period during which the respondent has left Alberta in circumstances that the Commissioner has reasonable grounds to believe are for the purpose of evading these proceedings; and
+>
+> (d) any period during which the respondent has deliberately obstructed Commissioner access to information necessary to investigate the conduct.
+
+**(5) Limitations Act displaced.** For greater certainty, the limitation periods in this section govern proceedings under this Act in substitution for any limitation period under the *Limitations Act*, RSA 2000, c L-12, which does not apply to Commissioner investigations or administrative proceedings under this Act.
+
+---
+
+### Effect of Death of Respondent
+
+**21D(1) Public Report continues.** The death of a respondent does not abate an investigation or prevent the Commissioner from issuing and publishing a Public Report of Findings in respect of the respondent's conduct. Before issuing a Report following death, the Commissioner shall give the executor or administrator of the estate, or the Public Trustee of Alberta where no executor or administrator has been appointed, reasonable written notice and an opportunity to make submissions on behalf of the estate.
+
+**(2) Personal penalties.** An administrative penalty under §25 that has not been imposed by written determination before the respondent's death is not recoverable from the respondent's estate. A penalty imposed and registered as a judgment under §21F(3) before death may be enforced against the estate as a debt of the deceased.
+
+**(3) Disgorgement survives death.** A disgorgement order under §7, §8, or §9 may be made or continued against the respondent's estate to the extent the estate was enriched by the wrongful conduct. The death of a respondent does not extinguish an obligation to disgorge a benefit wrongfully received or retained.
+
+**(4) Certificate of Malfeasance.** Where a Certificate of Malfeasance has been issued against a sitting Member who subsequently dies before the Assembly has dealt with it, the Certificate shall be noted as resolved by death in the Assembly record. The underlying findings in the associated Public Report are not extinguished and remain on the public record.
+
+**(5) Ongoing Compliance Orders.** A Compliance Order requiring an affirmative personal act that the deceased could no longer perform is extinguished on death. A Compliance Order requiring return of a benefit or disgorgement of proceeds survives as an obligation of the estate under subsection (3).
+
+---
+
+### Concurrent Criminal Proceedings
+
+**21E(1) Parallel proceedings permitted.** The existence of a criminal investigation, charge, or proceeding in respect of conduct within the jurisdiction of this Act does not stay Commissioner proceedings unless a court of competent jurisdiction orders otherwise on grounds of demonstrable prejudice to the accused's right to a fair trial. The Commissioner and law enforcement may proceed concurrently.
+
+**(2) Stay on referral — Commissioner discretion.** Where the Commissioner refers a matter to law enforcement under §6(b), the Commissioner shall determine, in consultation with the referring law enforcement authority, whether to stay Commissioner proceedings pending resolution of the criminal matter. The Commissioner shall document the determination and its reasons in the next quarterly compliance report under §23.
+
+**(3) Incarcerated respondents.** Where a respondent is in custody during Commissioner proceedings, the Commissioner shall:
+
+> (a) give advance written notice of all hearings and deadlines to the respondent, to the institution where the respondent is held, and to the respondent's legal counsel if known;
+>
+> (b) provide reasonable accommodation for participation, including by videoconference, written submissions, or through legal counsel; and
+>
+> (c) extend Commissioner timelines by a period equal to any period during which the respondent's participation was materially constrained by custodial conditions, provided the respondent notifies the Commissioner of the constraint within 10 business days of it arising.
+
+**(4) Evidence from criminal proceedings.** Evidence obtained through criminal process is not automatically available to the Commissioner. The Commissioner may seek information through lawful means available under this Act independently of any criminal proceeding. Evidence received by an accused through Crown disclosure in criminal proceedings retains any applicable court-ordered restrictions on use; the Commissioner shall not use such evidence in a manner that violates a court order governing it.
+
+**(5) Criminal acquittal does not bar findings.** An acquittal in criminal proceedings does not preclude a finding under this Act in respect of the same conduct. The criminal standard of proof beyond reasonable doubt and the Commissioner's balance-of-probabilities standard are distinct; acquittal establishes only that criminal guilt has not been proven to the criminal standard.
+
+**(6) No double jeopardy in penalty.** An administrative penalty imposed under this Act does not bar criminal prosecution for the same conduct. In sentencing after criminal conviction, a court may take into account any administrative penalty already imposed under this Act as a factor in determining a fit sentence.
+
+---
+
+### Proceedings Against Absent Respondents
+
+**21F(1) In absentia proceedings.** The Commissioner may continue or commence an investigation and may issue a Public Report, Compliance Order, or Certificate of Malfeasance against a respondent who has left Alberta or cannot be located, provided:
+
+> (a) the Commissioner has made reasonable attempts to notify the respondent at their last known address and through any known legal representative;
+>
+> (b) at least 30 days have elapsed since the last notification attempt without response; and
+>
+> (c) the Commissioner records in the proceedings the attempts made, the means used, and the outcome.
+
+**(2) Notice by publication.** Where personal service or delivery to a known address is not possible, the Commissioner may give notice by publication in the *Alberta Gazette*, on the Commissioner's public website, and by any other means the Commissioner considers reasonably likely to bring proceedings to the respondent's attention. Publication satisfies the notice requirement in subsection (1)(a) from the date of first publication.
+
+**(3) Judgment registration.** An administrative penalty imposed under §25 of this Act may be registered by the Commissioner in the Court of King's Bench as a judgment, upon filing the Commissioner's written determination and proof of service or publication of notice. A registered judgment: (a) may be enforced in Alberta through all enforcement mechanisms available to registered judgments; and (b) may be registered for enforcement in other Canadian provinces and territories under the applicable reciprocal enforcement of judgments legislation of those jurisdictions.
+
+**(4) Certificate held open for absent Members.** Where a Certificate of Malfeasance has been issued against a sitting Member who has left the jurisdiction and has not returned, the Certificate shall be held open and shall not close under the 60-sitting-day rule. The Certificate shall be listed as open in each quarterly compliance report until the Member returns to Assembly jurisdiction, resigns their seat, or the seat is otherwise vacated.
+
+**(5) Criminal referral for flight.** Where the Commissioner has reasonable grounds to believe a respondent has left Alberta to evade proceedings under this Act and the conduct may also constitute a criminal offence, the Commissioner shall refer the matter to the appropriate law enforcement authority for consideration of applicable criminal process, including extradition where the respondent is outside Canada. The referral and its date shall be recorded in the quarterly compliance report.
+
+---
+
 ### Review and Appeal
 
 **22(1)** A person aggrieved by a determination may apply to the Commissioner for reconsideration within 30 days.
